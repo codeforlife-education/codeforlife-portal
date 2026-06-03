@@ -1,6 +1,14 @@
 # CHANGELOG
 
 
+## v8.14.2 (2026-06-03)
+
+### Bug Fixes
+
+- Get latest python package
+  ([`34d5ecf`](https://github.com/ocadotechnology/codeforlife-portal/commit/34d5ecf55e6157fd62806d5d7b217796bfcc5e69))
+
+
 ## v8.14.1 (2026-05-26)
 
 ### Bug Fixes
