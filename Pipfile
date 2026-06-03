@@ -4,7 +4,7 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-codeforlife = "==0.36.0"
+codeforlife = "==0.36.1"
 # codeforlife = {file = "../../backend/package", editable = true}
 # codeforlife = {ref = "BRANCH_NAME_OR_COMMIT_SHA", git = "https://github.com/ocadotechnology/codeforlife-package-python.git"}
 django-classy-tags = "==4.1.0"
