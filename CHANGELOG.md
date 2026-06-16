@@ -1,6 +1,14 @@
 # CHANGELOG
 
 
+## v8.14.4 (2026-06-16)
+
+### Bug Fixes
+
+- Improve checks ([#2508](https://github.com/ocadotechnology/codeforlife-portal/pull/2508),
+  [`e312542`](https://github.com/ocadotechnology/codeforlife-portal/commit/e312542551020d2fa5e66bdb402e78b29f0ada8d))
+
+
 ## v8.14.3 (2026-06-03)
 
 ### Bug Fixes
