@@ -1,6 +1,30 @@
 # CHANGELOG
 
 
+## v8.14.4 (2026-06-16)
+
+### Bug Fixes
+
+- Improve checks ([#2508](https://github.com/ocadotechnology/codeforlife-portal/pull/2508),
+  [`e312542`](https://github.com/ocadotechnology/codeforlife-portal/commit/e312542551020d2fa5e66bdb402e78b29f0ada8d))
+
+
+## v8.14.3 (2026-06-03)
+
+### Bug Fixes
+
+- Relock
+  ([`f7a1373`](https://github.com/ocadotechnology/codeforlife-portal/commit/f7a13739e1dcc3f91ea0cc574861b317a2186c2b))
+
+
+## v8.14.2 (2026-06-03)
+
+### Bug Fixes
+
+- Get latest python package
+  ([`34d5ecf`](https://github.com/ocadotechnology/codeforlife-portal/commit/34d5ecf55e6157fd62806d5d7b217796bfcc5e69))
+
+
 ## v8.14.1 (2026-05-26)
 
 ### Bug Fixes

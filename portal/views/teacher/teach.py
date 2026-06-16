@@ -905,9 +905,7 @@ def check_if_move_authorised(request, old_class, new_class):
 
     # check teacher has permission to edit old_class and that both classes
     # are in the same school
-    if (
-        not teacher.is_admin and teacher != old_class.teacher
-    ) or teacher.school != new_class.teacher.school:
+    if (not teacher.is_admin and teacher != old_class.teacher) or old_class.teacher.school != new_class.teacher.school:
         raise Http404
 
 
@@ -916,9 +914,6 @@ def is_right_move_form(request):
 
 
 def process_move_students_form(request, formset, old_class, new_class):
-    old_teacher = old_class.teacher
-    new_teacher = new_class.teacher
-
     for name_update in formset.cleaned_data:
         student = get_object_or_404(
             Student,
