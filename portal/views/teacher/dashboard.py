@@ -483,6 +483,11 @@ def organisation_kick(request, pk):
 @user_passes_test(logged_in_as_teacher, login_url=reverse_lazy("teacher_login"))
 def invite_toggle_admin(request, invite_id):
     invite = SchoolTeacherInvitation.objects.filter(id=invite_id)[0]
+    user = request.user.new_teacher
+
+    if invite.school != user.school or not user.is_admin:
+        raise Http404
+
     invite.invited_teacher_is_admin = not invite.invited_teacher_is_admin
     invite.save()
 
