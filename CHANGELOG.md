@@ -1,6 +1,14 @@
 # CHANGELOG
 
 
+## v8.15.0 (2026-06-19)
+
+### Features
+
+- Remove text fields ([#2503](https://github.com/ocadotechnology/codeforlife-portal/pull/2503),
+  [`08c6ae0`](https://github.com/ocadotechnology/codeforlife-portal/commit/08c6ae0257f48aca1acb4e38758229c241dd2fcc))
+
+
 ## v8.14.4 (2026-06-16)
 
 ### Bug Fixes
