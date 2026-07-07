@@ -19,7 +19,7 @@ jobs:
       CONFIG: pyproject.toml
     steps:
       - name: 🤖 Set up CFL bot
-        uses: ocadotechnology/codeforlife-workspace/.github/actions/bot/setup@main
+        uses: codeforlife-education/codeforlife-workspace/.github/actions/bot/setup@main
         id: setup-bot
         with:
           cfl-app-private-key: ${{ secrets.CFL_APP_PRIVATE_KEY }}
@@ -70,28 +70,28 @@ jobs:
     needs: [publish-pypi-packages]
     steps:
       - name: 🤖 Set up CFL bot
-        uses: ocadotechnology/codeforlife-workspace/.github/actions/bot/setup@main
+        uses: codeforlife-education/codeforlife-workspace/.github/actions/bot/setup@main
         id: setup-bot
         with:
           cfl-app-private-key: ${{ secrets.CFL_APP_PRIVATE_KEY }}
 
       - name: 🐍 Set up Python 3.12 Environment
-        uses: ocadotechnology/codeforlife-workspace/.github/actions/python/setup-environment@main
+        uses: codeforlife-education/codeforlife-workspace/.github/actions/python/setup-environment@main
         with:
           python-version: 3.12
 
       - name: 📥 Download Snyk CLI and Config File
-        uses: ocadotechnology/codeforlife-workspace/.github/actions/snyk/download-cli-and-config-file@main
+        uses: codeforlife-education/codeforlife-workspace/.github/actions/snyk/download-cli-and-config-file@main
         with:
           config-path: "backend/.snyk"
 
       - name: 🗂️ Get Repo's Name
         id: get-repo-name
-        uses: ocadotechnology/codeforlife-workspace/.github/actions/github/get-repo-name@main
+        uses: codeforlife-education/codeforlife-workspace/.github/actions/github/get-repo-name@main
 
       - name: 🗂️ Get Repo's Latest Release Tag
         id: get-latest-release-tag
-        uses: ocadotechnology/codeforlife-workspace/.github/actions/github/get-latest-release-tag@main
+        uses: codeforlife-education/codeforlife-workspace/.github/actions/github/get-latest-release-tag@main
         with:
           gh-token: ${{ steps.setup-bot.outputs.token }}
 
@@ -99,7 +99,7 @@ jobs:
         run: rm package.json yarn.lock
 
       - name: 🐕‍🦺 Monitor Open-Source Vulnerabilities and License Issues
-        uses: ocadotechnology/codeforlife-workspace/.github/actions/snyk/monitor-release@main
+        uses: codeforlife-education/codeforlife-workspace/.github/actions/snyk/monitor-release@main
         with:
           gh-token: ${{ steps.setup-bot.outputs.token }}
           snyk-token: ${{ secrets.SNYK_TOKEN }}

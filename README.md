@@ -1,7 +1,7 @@
 # Code for Life Portal
 
-[![Workflow Status](https://github.com/ocadotechnology/codeforlife-portal/actions/workflows/ci.yml/badge.svg)](https://github.com/ocadotechnology/codeforlife-portal/actions/workflows/ci.yml)
-[![codecov](https://codecov.io/gh/ocadotechnology/codeforlife-portal/branch/master/graph/badge.svg)](https://codecov.io/gh/ocadotechnology/codeforlife-portal)
+[![Workflow Status](https://github.com/codeforlife-education/codeforlife-portal/actions/workflows/ci.yml/badge.svg)](https://github.com/codeforlife-education/codeforlife-portal/actions/workflows/ci.yml)
+[![codecov](https://codecov.io/gh/codeforlife-education/codeforlife-portal/branch/master/graph/badge.svg)](https://codecov.io/gh/codeforlife-education/codeforlife-portal)
 
 ## LICENCE
 In accordance with the [Terms of Use](https://www.codeforlife.education/terms#terms)
@@ -15,7 +15,7 @@ time) are owned by Ocado Innovation Limited.
 
 The source code of the Code for Life portal, the Rapid Router application
 and the Kurono/aimmo application are [licensed under the GNU Affero General
-Public License](https://github.com/ocadotechnology/codeforlife-workspace/blob/main/LICENSE.md).
+Public License](https://github.com/codeforlife-education/codeforlife-workspace/blob/main/LICENSE.md).
 All other assets including images, logos, sounds etc., are not covered by
 this licence and no-one may copy, modify, distribute, show in public or
 create any derivative work from these assets.
@@ -32,7 +32,7 @@ We are open to contributors from anywhere around the world. Please read ahead if
 
 - [Developer Guide](https://docs.codeforlife.education/developer-guide)
 
-- [Good First Issues](https://github.com/ocadotechnology/codeforlife-portal/contribute)
+- [Good First Issues](https://github.com/codeforlife-education/codeforlife-portal/contribute)
 
 - [How to set up your work environment](https://docs.codeforlife.education/git/common-setup)
 
