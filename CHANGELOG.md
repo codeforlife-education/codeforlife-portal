@@ -1,20 +1,29 @@
 # CHANGELOG
 
 
+## v8.15.1 (2026-07-07)
+
+### Bug Fixes
+
+- New gh org
+  ([`66989d3`](https://github.com/codeforlife-education/codeforlife-portal/commit/66989d30938e637949a15f3c422f988ab0b22c39))
+
+
 ## v8.15.0 (2026-06-19)
 
 ### Features
 
-- Remove text fields ([#2503](https://github.com/ocadotechnology/codeforlife-portal/pull/2503),
-  [`08c6ae0`](https://github.com/ocadotechnology/codeforlife-portal/commit/08c6ae0257f48aca1acb4e38758229c241dd2fcc))
+- Remove text fields
+  ([#2503](https://github.com/codeforlife-education/codeforlife-portal/pull/2503),
+  [`08c6ae0`](https://github.com/codeforlife-education/codeforlife-portal/commit/08c6ae0257f48aca1acb4e38758229c241dd2fcc))
 
 
 ## v8.14.4 (2026-06-16)
 
 ### Bug Fixes
 
-- Improve checks ([#2508](https://github.com/ocadotechnology/codeforlife-portal/pull/2508),
-  [`e312542`](https://github.com/ocadotechnology/codeforlife-portal/commit/e312542551020d2fa5e66bdb402e78b29f0ada8d))
+- Improve checks ([#2508](https://github.com/codeforlife-education/codeforlife-portal/pull/2508),
+  [`e312542`](https://github.com/codeforlife-education/codeforlife-portal/commit/e312542551020d2fa5e66bdb402e78b29f0ada8d))
 
 
 ## v8.14.3 (2026-06-03)
@@ -22,7 +31,7 @@
 ### Bug Fixes
 
 - Relock
-  ([`f7a1373`](https://github.com/ocadotechnology/codeforlife-portal/commit/f7a13739e1dcc3f91ea0cc574861b317a2186c2b))
+  ([`f7a1373`](https://github.com/codeforlife-education/codeforlife-portal/commit/f7a13739e1dcc3f91ea0cc574861b317a2186c2b))
 
 
 ## v8.14.2 (2026-06-03)
@@ -30,31 +39,32 @@
 ### Bug Fixes
 
 - Get latest python package
-  ([`34d5ecf`](https://github.com/ocadotechnology/codeforlife-portal/commit/34d5ecf55e6157fd62806d5d7b217796bfcc5e69))
+  ([`34d5ecf`](https://github.com/codeforlife-education/codeforlife-portal/commit/34d5ecf55e6157fd62806d5d7b217796bfcc5e69))
 
 
 ## v8.14.1 (2026-05-26)
 
 ### Bug Fixes
 
-- School.name ([#2505](https://github.com/ocadotechnology/codeforlife-portal/pull/2505),
-  [`5073c79`](https://github.com/ocadotechnology/codeforlife-portal/commit/5073c7920aa178f160868f67d13fdbbaf10ee997))
+- School.name ([#2505](https://github.com/codeforlife-education/codeforlife-portal/pull/2505),
+  [`5073c79`](https://github.com/codeforlife-education/codeforlife-portal/commit/5073c7920aa178f160868f67d13fdbbaf10ee997))
 
 
 ## v8.14.0 (2026-05-21)
 
 ### Features
 
-- Workspace 1115 ([#2504](https://github.com/ocadotechnology/codeforlife-portal/pull/2504),
-  [`6159cda`](https://github.com/ocadotechnology/codeforlife-portal/commit/6159cda8dd8f60438a98bfb8bb2d63aa3c20b3bc))
+- Workspace 1115 ([#2504](https://github.com/codeforlife-education/codeforlife-portal/pull/2504),
+  [`6159cda`](https://github.com/codeforlife-education/codeforlife-portal/commit/6159cda8dd8f60438a98bfb8bb2d63aa3c20b3bc))
 
 
 ## v8.13.0 (2026-05-14)
 
 ### Features
 
-- Workspace 1057 part2 ([#2502](https://github.com/ocadotechnology/codeforlife-portal/pull/2502),
-  [`4bdf74c`](https://github.com/ocadotechnology/codeforlife-portal/commit/4bdf74c8833097da1fc5ea24b87383286c97d8fb))
+- Workspace 1057 part2
+  ([#2502](https://github.com/codeforlife-education/codeforlife-portal/pull/2502),
+  [`4bdf74c`](https://github.com/codeforlife-education/codeforlife-portal/commit/4bdf74c8833097da1fc5ea24b87383286c97d8fb))
 
 
 ## v8.12.1 (2026-05-12)
@@ -62,15 +72,15 @@
 ### Bug Fixes
 
 - Temporarily remove RR
-  ([`84f24f2`](https://github.com/ocadotechnology/codeforlife-portal/commit/84f24f2bd4d9cc8e330e77d00cfd80dcb1d56114))
+  ([`84f24f2`](https://github.com/codeforlife-education/codeforlife-portal/commit/84f24f2bd4d9cc8e330e77d00cfd80dcb1d56114))
 
 
 ## v8.12.0 (2026-05-12)
 
 ### Features
 
-- Workspace 1111 ([#2501](https://github.com/ocadotechnology/codeforlife-portal/pull/2501),
-  [`e357036`](https://github.com/ocadotechnology/codeforlife-portal/commit/e357036c5fb19930d7730dac8020dbbcc8c54bd2))
+- Workspace 1111 ([#2501](https://github.com/codeforlife-education/codeforlife-portal/pull/2501),
+  [`e357036`](https://github.com/codeforlife-education/codeforlife-portal/commit/e357036c5fb19930d7730dac8020dbbcc8c54bd2))
 
 
 ## v8.11.1 (2026-05-08)
@@ -78,15 +88,15 @@
 ### Bug Fixes
 
 - Temporarily remove rr
-  ([`71dd4e1`](https://github.com/ocadotechnology/codeforlife-portal/commit/71dd4e1841bfbaaff3c415421f0424cf31d30a62))
+  ([`71dd4e1`](https://github.com/codeforlife-education/codeforlife-portal/commit/71dd4e1841bfbaaff3c415421f0424cf31d30a62))
 
 
 ## v8.11.0 (2026-05-08)
 
 ### Features
 
-- Workspace 1074 ([#2496](https://github.com/ocadotechnology/codeforlife-portal/pull/2496),
-  [`da092a0`](https://github.com/ocadotechnology/codeforlife-portal/commit/da092a071204097d093aade8be5be112c5f33a18))
+- Workspace 1074 ([#2496](https://github.com/codeforlife-education/codeforlife-portal/pull/2496),
+  [`da092a0`](https://github.com/codeforlife-education/codeforlife-portal/commit/da092a071204097d093aade8be5be112c5f33a18))
 
 
 ## v8.10.0 (2026-04-10)
@@ -94,8 +104,8 @@
 ### Features
 
 - Show user ID and prefill Freshdesk widget
-  ([#2499](https://github.com/ocadotechnology/codeforlife-portal/pull/2499),
-  [`0e6cde8`](https://github.com/ocadotechnology/codeforlife-portal/commit/0e6cde82aab1e86ec60483f1c6b65d068b30864b))
+  ([#2499](https://github.com/codeforlife-education/codeforlife-portal/pull/2499),
+  [`0e6cde8`](https://github.com/codeforlife-education/codeforlife-portal/commit/0e6cde82aab1e86ec60483f1c6b65d068b30864b))
 
 
 ## v8.9.32 (2026-03-25)
@@ -103,7 +113,7 @@
 ### Bug Fixes
 
 - Install latest codeforlife
-  ([`94d61eb`](https://github.com/ocadotechnology/codeforlife-portal/commit/94d61eb0aff29883d97b0f1fe7ce8aa9c8edcaea))
+  ([`94d61eb`](https://github.com/codeforlife-education/codeforlife-portal/commit/94d61eb0aff29883d97b0f1fe7ce8aa9c8edcaea))
 
 
 ## v8.9.31 (2026-03-14)
@@ -111,15 +121,15 @@
 ### Bug Fixes
 
 - Install latest codeforlife
-  ([`773285f`](https://github.com/ocadotechnology/codeforlife-portal/commit/773285f535d113ce84d30ce850b5d69756efdb1e))
+  ([`773285f`](https://github.com/codeforlife-education/codeforlife-portal/commit/773285f535d113ce84d30ce850b5d69756efdb1e))
 
 
 ## v8.9.30 (2026-03-14)
 
 ### Bug Fixes
 
-- Simplify attempts ([#2449](https://github.com/ocadotechnology/codeforlife-portal/pull/2449),
-  [`f9b5c16`](https://github.com/ocadotechnology/codeforlife-portal/commit/f9b5c162ce07374b9ff3405b65b011dc1e6cf555))
+- Simplify attempts ([#2449](https://github.com/codeforlife-education/codeforlife-portal/pull/2449),
+  [`f9b5c16`](https://github.com/codeforlife-education/codeforlife-portal/commit/f9b5c162ce07374b9ff3405b65b011dc1e6cf555))
 
 * fix: Update how attempts are collected in student dashboard
 
@@ -213,7 +223,7 @@
 ### Bug Fixes
 
 - Relock
-  ([`9ba1e93`](https://github.com/ocadotechnology/codeforlife-portal/commit/9ba1e93aadc78ca422304ac5cc7ee747f78eacb2))
+  ([`9ba1e93`](https://github.com/codeforlife-education/codeforlife-portal/commit/9ba1e93aadc78ca422304ac5cc7ee747f78eacb2))
 
 
 ## v8.9.28 (2026-03-07)
@@ -221,15 +231,15 @@
 ### Bug Fixes
 
 - Cfl-common
-  ([`876be72`](https://github.com/ocadotechnology/codeforlife-portal/commit/876be72a5ee99bb190c2af48a3f05eb077029491))
+  ([`876be72`](https://github.com/codeforlife-education/codeforlife-portal/commit/876be72a5ee99bb190c2af48a3f05eb077029491))
 
 
 ## v8.9.27 (2026-03-07)
 
 ### Bug Fixes
 
-- Workspace 1054 ([#2486](https://github.com/ocadotechnology/codeforlife-portal/pull/2486),
-  [`fa9bd7c`](https://github.com/ocadotechnology/codeforlife-portal/commit/fa9bd7c264736d0cf963e5ecd467cf548a42964d))
+- Workspace 1054 ([#2486](https://github.com/codeforlife-education/codeforlife-portal/pull/2486),
+  [`fa9bd7c`](https://github.com/codeforlife-education/codeforlife-portal/commit/fa9bd7c264736d0cf963e5ecd467cf548a42964d))
 
 
 ## v8.9.26 (2026-03-05)
@@ -237,10 +247,10 @@
 ### Bug Fixes
 
 - Checkout ref
-  ([`30811ca`](https://github.com/ocadotechnology/codeforlife-portal/commit/30811ca3ae3a5b289fc2344f903de00af72d2c59))
+  ([`30811ca`](https://github.com/codeforlife-education/codeforlife-portal/commit/30811ca3ae3a5b289fc2344f903de00af72d2c59))
 
 - Undo version
-  ([`ff4c568`](https://github.com/ocadotechnology/codeforlife-portal/commit/ff4c568bfe1db105278c8fffb7b1dd81fced743d))
+  ([`ff4c568`](https://github.com/codeforlife-education/codeforlife-portal/commit/ff4c568bfe1db105278c8fffb7b1dd81fced743d))
 
 
 ## v8.9.25 (2026-03-05)
@@ -248,15 +258,15 @@
 ### Bug Fixes
 
 - Use cfl app
-  ([`7a98115`](https://github.com/ocadotechnology/codeforlife-portal/commit/7a98115372f088928e90bafb2665bdfb8fc58eb8))
+  ([`7a98115`](https://github.com/codeforlife-education/codeforlife-portal/commit/7a98115372f088928e90bafb2665bdfb8fc58eb8))
 
 
 ## v8.9.24 (2026-02-25)
 
 ### Bug Fixes
 
-- Workspace 1071 ([#2489](https://github.com/ocadotechnology/codeforlife-portal/pull/2489),
-  [`0ee3849`](https://github.com/ocadotechnology/codeforlife-portal/commit/0ee3849183a78d8ce8da263f20fe1f34d3661d33))
+- Workspace 1071 ([#2489](https://github.com/codeforlife-education/codeforlife-portal/pull/2489),
+  [`0ee3849`](https://github.com/codeforlife-education/codeforlife-portal/commit/0ee3849183a78d8ce8da263f20fe1f34d3661d33))
 
 * middleware
 
@@ -270,7 +280,7 @@
 ### Bug Fixes
 
 - Upgrade to cryptography 46.0.5
-  ([`04c19e1`](https://github.com/ocadotechnology/codeforlife-portal/commit/04c19e178c2ed17f1e75cf018d4ba792c74a71a4))
+  ([`04c19e1`](https://github.com/codeforlife-education/codeforlife-portal/commit/04c19e178c2ed17f1e75cf018d4ba792c74a71a4))
 
 
 ## v8.9.22 (2026-02-17)
@@ -278,7 +288,7 @@
 ### Bug Fixes
 
 - Relock pipfiles
-  ([`02af87a`](https://github.com/ocadotechnology/codeforlife-portal/commit/02af87ae6ad75be85c6940daee357feb59a7e427))
+  ([`02af87a`](https://github.com/codeforlife-education/codeforlife-portal/commit/02af87ae6ad75be85c6940daee357feb59a7e427))
 
 
 ## v8.9.21 (2026-02-04)
@@ -286,7 +296,7 @@
 ### Bug Fixes
 
 - Upgrade to Django 5.2
-  ([`fb25cc2`](https://github.com/ocadotechnology/codeforlife-portal/commit/fb25cc26e6578784182a5e192747bc6661a6216a))
+  ([`fb25cc2`](https://github.com/codeforlife-education/codeforlife-portal/commit/fb25cc26e6578784182a5e192747bc6661a6216a))
 
 
 ## v8.9.20 (2026-02-04)
@@ -294,7 +304,7 @@
 ### Bug Fixes
 
 - Move psycopg2-binary to common
-  ([`6435a9f`](https://github.com/ocadotechnology/codeforlife-portal/commit/6435a9fba72cc1426b5f44d8ed49cb310b480cd4))
+  ([`6435a9f`](https://github.com/codeforlife-education/codeforlife-portal/commit/6435a9fba72cc1426b5f44d8ed49cb310b480cd4))
 
 
 ## v8.9.19 (2026-01-28)
@@ -302,7 +312,7 @@
 ### Bug Fixes
 
 - Remove pytz everywhere
-  ([`fb34521`](https://github.com/ocadotechnology/codeforlife-portal/commit/fb34521b29402f005726440c51dc047d462d5b4a))
+  ([`fb34521`](https://github.com/codeforlife-education/codeforlife-portal/commit/fb34521b29402f005726440c51dc047d462d5b4a))
 
 
 ## v8.9.18 (2026-01-28)
@@ -310,12 +320,12 @@
 ### Bug Fixes
 
 - Update lockfiles (wheel 0.46.3) pt. 2
-  ([`70cb464`](https://github.com/ocadotechnology/codeforlife-portal/commit/70cb4647818b1aaeb2e7214c1bd6eac552fe062e))
+  ([`70cb464`](https://github.com/codeforlife-education/codeforlife-portal/commit/70cb4647818b1aaeb2e7214c1bd6eac552fe062e))
 
 ### Continuous Integration
 
 - Remove typo
-  ([`3614878`](https://github.com/ocadotechnology/codeforlife-portal/commit/3614878b0ceb56dc527c1d5e53ea9557dae9a147))
+  ([`3614878`](https://github.com/codeforlife-education/codeforlife-portal/commit/3614878b0ceb56dc527c1d5e53ea9557dae9a147))
 
 
 ## v8.9.17 (2026-01-28)
@@ -323,15 +333,16 @@
 ### Bug Fixes
 
 - Update lockfiles (wheel 0.46.3)
-  ([`ddec434`](https://github.com/ocadotechnology/codeforlife-portal/commit/ddec434cfe3a0e1fe0ce496238e05691e537915a))
+  ([`ddec434`](https://github.com/codeforlife-education/codeforlife-portal/commit/ddec434cfe3a0e1fe0ce496238e05691e537915a))
 
 
 ## v8.9.16 (2026-01-19)
 
 ### Bug Fixes
 
-- Impact report 2025 ([#2482](https://github.com/ocadotechnology/codeforlife-portal/pull/2482),
-  [`ba76f08`](https://github.com/ocadotechnology/codeforlife-portal/commit/ba76f0838987b14094e94463e8f26bdd7e291f71))
+- Impact report 2025
+  ([#2482](https://github.com/codeforlife-education/codeforlife-portal/pull/2482),
+  [`ba76f08`](https://github.com/codeforlife-education/codeforlife-portal/commit/ba76f0838987b14094e94463e8f26bdd7e291f71))
 
 * fix: Publish 2025 Impact Report and remove temp middleware
 
@@ -343,7 +354,7 @@
 ### Bug Fixes
 
 - Update lockfiles
-  ([`6c2fead`](https://github.com/ocadotechnology/codeforlife-portal/commit/6c2feadb58a195837fe0114453f5763b4292da7a))
+  ([`6c2fead`](https://github.com/codeforlife-education/codeforlife-portal/commit/6c2feadb58a195837fe0114453f5763b4292da7a))
 
 
 ## v8.9.14 (2026-01-14)
@@ -351,8 +362,8 @@
 ### Bug Fixes
 
 - **deps**: Bump urllib3 from 2.6.2 to 2.6.3 in /cfl_common
-  ([#2481](https://github.com/ocadotechnology/codeforlife-portal/pull/2481),
-  [`ceac545`](https://github.com/ocadotechnology/codeforlife-portal/commit/ceac5454ff76522421ee7111b65e0ed13645a91e))
+  ([#2481](https://github.com/codeforlife-education/codeforlife-portal/pull/2481),
+  [`ceac545`](https://github.com/codeforlife-education/codeforlife-portal/commit/ceac5454ff76522421ee7111b65e0ed13645a91e))
 
 * fix(deps): bump urllib3 from 2.6.2 to 2.6.3 in /cfl_common
 
@@ -377,8 +388,8 @@ Co-Authored-By: Florian Aucomte <f.aucomte@hotmail.co.uk>
 ### Bug Fixes
 
 - **deps**: Bump urllib3 from 2.6.2 to 2.6.3
-  ([#2480](https://github.com/ocadotechnology/codeforlife-portal/pull/2480),
-  [`afee24b`](https://github.com/ocadotechnology/codeforlife-portal/commit/afee24ba40adc63f1f4bfdd1b6141e63616ddbcf))
+  ([#2480](https://github.com/codeforlife-education/codeforlife-portal/pull/2480),
+  [`afee24b`](https://github.com/codeforlife-education/codeforlife-portal/commit/afee24ba40adc63f1f4bfdd1b6141e63616ddbcf))
 
 Bumps [urllib3](https://github.com/urllib3/urllib3) from 2.6.2 to 2.6.3. - [Release
   notes](https://github.com/urllib3/urllib3/releases) -
@@ -399,7 +410,7 @@ Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.c
 ### Bug Fixes
 
 - Relock Pipfiles
-  ([`9f3ac9c`](https://github.com/ocadotechnology/codeforlife-portal/commit/9f3ac9cb5e12baed61b58b176d98f65ad83e5024))
+  ([`9f3ac9c`](https://github.com/codeforlife-education/codeforlife-portal/commit/9f3ac9cb5e12baed61b58b176d98f65ad83e5024))
 
 
 ## v8.9.11 (2025-12-10)
@@ -407,8 +418,8 @@ Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.c
 ### Bug Fixes
 
 - **deps**: Bump urllib3 from 2.5.0 to 2.6.1
-  ([#2479](https://github.com/ocadotechnology/codeforlife-portal/pull/2479),
-  [`953b17b`](https://github.com/ocadotechnology/codeforlife-portal/commit/953b17b7593d70d9b92c5f98679bb8027bdbcf0e))
+  ([#2479](https://github.com/codeforlife-education/codeforlife-portal/pull/2479),
+  [`953b17b`](https://github.com/codeforlife-education/codeforlife-portal/commit/953b17b7593d70d9b92c5f98679bb8027bdbcf0e))
 
 * fix(deps): bump urllib3 from 2.5.0 to 2.6.1
 
@@ -440,8 +451,9 @@ Co-authored-by: faucomte97 <f.aucomte@hotmail.co.uk>
 
 ### Bug Fixes
 
-- Improve generated urls ([#2477](https://github.com/ocadotechnology/codeforlife-portal/pull/2477),
-  [`62ea860`](https://github.com/ocadotechnology/codeforlife-portal/commit/62ea86036022376eba0f3804e160a81efce75070))
+- Improve generated urls
+  ([#2477](https://github.com/codeforlife-education/codeforlife-portal/pull/2477),
+  [`62ea860`](https://github.com/codeforlife-education/codeforlife-portal/commit/62ea86036022376eba0f3804e160a81efce75070))
 
 * fix: Use custom domain setting instead of absolute URIs
 
@@ -455,7 +467,7 @@ Co-authored-by: faucomte97 <f.aucomte@hotmail.co.uk>
 ### Bug Fixes
 
 - Upgrade to Django 5.1.15
-  ([`8b6f767`](https://github.com/ocadotechnology/codeforlife-portal/commit/8b6f767650a1b14edf806511b3f303f37999c78f))
+  ([`8b6f767`](https://github.com/codeforlife-education/codeforlife-portal/commit/8b6f767650a1b14edf806511b3f303f37999c78f))
 
 
 ## v8.9.8 (2025-11-10)
@@ -463,8 +475,8 @@ Co-authored-by: faucomte97 <f.aucomte@hotmail.co.uk>
 ### Bug Fixes
 
 - **deps**: Bump django from 5.1.13 to 5.1.14
-  ([#2475](https://github.com/ocadotechnology/codeforlife-portal/pull/2475),
-  [`0b17d2e`](https://github.com/ocadotechnology/codeforlife-portal/commit/0b17d2e65477bd8e7353cff98e9c2829551922bd))
+  ([#2475](https://github.com/codeforlife-education/codeforlife-portal/pull/2475),
+  [`0b17d2e`](https://github.com/codeforlife-education/codeforlife-portal/commit/0b17d2e65477bd8e7353cff98e9c2829551922bd))
 
 * fix(deps): bump django from 5.1.13 to 5.1.14
 
@@ -488,8 +500,9 @@ Co-Authored-By: faucomte97 <f.aucomte@hotmail.co.uk>
 
 ### Bug Fixes
 
-- Get_original_queryset ([#2473](https://github.com/ocadotechnology/codeforlife-portal/pull/2473),
-  [`627f3f4`](https://github.com/ocadotechnology/codeforlife-portal/commit/627f3f43f373ff769fcb6c6aee0a16bb44a2f7d1))
+- Get_original_queryset
+  ([#2473](https://github.com/codeforlife-education/codeforlife-portal/pull/2473),
+  [`627f3f4`](https://github.com/codeforlife-education/codeforlife-portal/commit/627f3f43f373ff769fcb6c6aee0a16bb44a2f7d1))
 
 
 ## v8.9.6 (2025-10-09)
@@ -497,8 +510,8 @@ Co-Authored-By: faucomte97 <f.aucomte@hotmail.co.uk>
 ### Bug Fixes
 
 - **deps**: Bump django from 5.1.12 to 5.1.13 in /cfl_common
-  ([#2459](https://github.com/ocadotechnology/codeforlife-portal/pull/2459),
-  [`3f4cec4`](https://github.com/ocadotechnology/codeforlife-portal/commit/3f4cec4ce5fcc8c0e39206f382c941ee1685af26))
+  ([#2459](https://github.com/codeforlife-education/codeforlife-portal/pull/2459),
+  [`3f4cec4`](https://github.com/codeforlife-education/codeforlife-portal/commit/3f4cec4ce5fcc8c0e39206f382c941ee1685af26))
 
 * fix(deps): bump django from 5.1.12 to 5.1.13 in /cfl_common
 
@@ -521,7 +534,7 @@ Co-Authored-By: faucomte97 <f.aucomte@hotmail.co.uk>
 ### Bug Fixes
 
 - Upgrade to Django 5.1.12
-  ([`3ace6a1`](https://github.com/ocadotechnology/codeforlife-portal/commit/3ace6a1f3dfe14355ccf963f642bf012117270d7))
+  ([`3ace6a1`](https://github.com/codeforlife-education/codeforlife-portal/commit/3ace6a1f3dfe14355ccf963f642bf012117270d7))
 
 
 ## v8.9.4 (2025-08-18)
@@ -529,7 +542,7 @@ Co-Authored-By: faucomte97 <f.aucomte@hotmail.co.uk>
 ### Bug Fixes
 
 - Allow for trailing slash
-  ([`b706af1`](https://github.com/ocadotechnology/codeforlife-portal/commit/b706af14032daa6eeb186fa0a8e4815101d98e67))
+  ([`b706af1`](https://github.com/codeforlife-education/codeforlife-portal/commit/b706af14032daa6eeb186fa0a8e4815101d98e67))
 
 
 ## v8.9.3 (2025-08-18)
@@ -537,7 +550,7 @@ Co-Authored-By: faucomte97 <f.aucomte@hotmail.co.uk>
 ### Bug Fixes
 
 - Whitelist health check endpoint in auth middleware
-  ([`02bfe93`](https://github.com/ocadotechnology/codeforlife-portal/commit/02bfe93a11caa12e1ebe9c87c1d06d08b4623a5f))
+  ([`02bfe93`](https://github.com/codeforlife-education/codeforlife-portal/commit/02bfe93a11caa12e1ebe9c87c1d06d08b4623a5f))
 
 
 ## v8.9.2 (2025-08-18)
@@ -545,7 +558,7 @@ Co-Authored-By: faucomte97 <f.aucomte@hotmail.co.uk>
 ### Bug Fixes
 
 - Allow tmp basic auth on any domain
-  ([`5cc9bff`](https://github.com/ocadotechnology/codeforlife-portal/commit/5cc9bff73d86a153caa7e374f034a4c14c24b833))
+  ([`5cc9bff`](https://github.com/codeforlife-education/codeforlife-portal/commit/5cc9bff73d86a153caa7e374f034a4c14c24b833))
 
 
 ## v8.9.1 (2025-08-18)
@@ -553,8 +566,8 @@ Co-Authored-By: faucomte97 <f.aucomte@hotmail.co.uk>
 ### Bug Fixes
 
 - Fix header layout and sizing issues across browsers
-  ([#2456](https://github.com/ocadotechnology/codeforlife-portal/pull/2456),
-  [`33ff79d`](https://github.com/ocadotechnology/codeforlife-portal/commit/33ff79ddab8aef60d6017cb7557d4d7d583a29e2))
+  ([#2456](https://github.com/codeforlife-education/codeforlife-portal/pull/2456),
+  [`33ff79d`](https://github.com/codeforlife-education/codeforlife-portal/commit/33ff79ddab8aef60d6017cb7557d4d7d583a29e2))
 
 * fix: Specify width on brand section of header
 
@@ -578,8 +591,8 @@ Co-Authored-By: faucomte97 <f.aucomte@hotmail.co.uk>
 ### Features
 
 - Full access to Python club packs to teachers
-  ([#2455](https://github.com/ocadotechnology/codeforlife-portal/pull/2455),
-  [`bf903ae`](https://github.com/ocadotechnology/codeforlife-portal/commit/bf903ae5b413523e3f69bc22a94b10202bdc494e))
+  ([#2455](https://github.com/codeforlife-education/codeforlife-portal/pull/2455),
+  [`bf903ae`](https://github.com/codeforlife-education/codeforlife-portal/commit/bf903ae5b413523e3f69bc22a94b10202bdc494e))
 
 * fix: Remove download option for club packs
 
@@ -593,15 +606,15 @@ Co-Authored-By: faucomte97 <f.aucomte@hotmail.co.uk>
 ### Bug Fixes
 
 - Add encryption key to app settings
-  ([`8de7581`](https://github.com/ocadotechnology/codeforlife-portal/commit/8de7581d9d93bdcecbe03be384297ff723c30eab))
+  ([`8de7581`](https://github.com/codeforlife-education/codeforlife-portal/commit/8de7581d9d93bdcecbe03be384297ff723c30eab))
 
 
 ## v8.8.2 (2025-08-14)
 
 ### Bug Fixes
 
-- Add google fields ([#2454](https://github.com/ocadotechnology/codeforlife-portal/pull/2454),
-  [`48f3098`](https://github.com/ocadotechnology/codeforlife-portal/commit/48f30989da61d6047dc82ef4352750a77dfe28c1))
+- Add google fields ([#2454](https://github.com/codeforlife-education/codeforlife-portal/pull/2454),
+  [`48f3098`](https://github.com/codeforlife-education/codeforlife-portal/commit/48f30989da61d6047dc82ef4352750a77dfe28c1))
 
 
 ## v8.8.1 (2025-08-08)
@@ -609,7 +622,7 @@ Co-Authored-By: faucomte97 <f.aucomte@hotmail.co.uk>
 ### Bug Fixes
 
 - Remove unnecessary check in tmp auth middleware
-  ([`41dd00b`](https://github.com/ocadotechnology/codeforlife-portal/commit/41dd00b055a7fbaf65b62ad76b5496115c05bc6f))
+  ([`41dd00b`](https://github.com/codeforlife-education/codeforlife-portal/commit/41dd00b055a7fbaf65b62ad76b5496115c05bc6f))
 
 
 ## v8.8.0 (2025-08-08)
@@ -617,8 +630,8 @@ Co-Authored-By: faucomte97 <f.aucomte@hotmail.co.uk>
 ### Features
 
 - Temp basic auth for OTP app
-  ([#2453](https://github.com/ocadotechnology/codeforlife-portal/pull/2453),
-  [`522a657`](https://github.com/ocadotechnology/codeforlife-portal/commit/522a6570b2c6609b06c5daafad32f22ed607bce3))
+  ([#2453](https://github.com/codeforlife-education/codeforlife-portal/pull/2453),
+  [`522a657`](https://github.com/codeforlife-education/codeforlife-portal/commit/522a6570b2c6609b06c5daafad32f22ed607bce3))
 
 * feat: Temporary basic auth for OTP app
 
@@ -632,15 +645,15 @@ Co-Authored-By: faucomte97 <f.aucomte@hotmail.co.uk>
 ### Bug Fixes
 
 - Update reportlab and pillow
-  ([`c4ff60f`](https://github.com/ocadotechnology/codeforlife-portal/commit/c4ff60f4834ff034344f3309905139a356c49d32))
+  ([`c4ff60f`](https://github.com/codeforlife-education/codeforlife-portal/commit/c4ff60f4834ff034344f3309905139a356c49d32))
 
 
 ## v8.7.8 (2025-06-19)
 
 ### Bug Fixes
 
-- Remove mypy ([#2451](https://github.com/ocadotechnology/codeforlife-portal/pull/2451),
-  [`4b6071d`](https://github.com/ocadotechnology/codeforlife-portal/commit/4b6071d4426da1b9e5ada8a8a79634fc07ebe6f8))
+- Remove mypy ([#2451](https://github.com/codeforlife-education/codeforlife-portal/pull/2451),
+  [`4b6071d`](https://github.com/codeforlife-education/codeforlife-portal/commit/4b6071d4426da1b9e5ada8a8a79634fc07ebe6f8))
 
 
 ## v8.7.7 (2025-06-19)
@@ -648,8 +661,8 @@ Co-Authored-By: faucomte97 <f.aucomte@hotmail.co.uk>
 ### Bug Fixes
 
 - **deps**: Bump urllib3 from 2.4.0 to 2.5.0
-  ([#2450](https://github.com/ocadotechnology/codeforlife-portal/pull/2450),
-  [`0623fdb`](https://github.com/ocadotechnology/codeforlife-portal/commit/0623fdb59b7b0315822deb369dd42e40dc7cf720))
+  ([#2450](https://github.com/codeforlife-education/codeforlife-portal/pull/2450),
+  [`0623fdb`](https://github.com/codeforlife-education/codeforlife-portal/commit/0623fdb59b7b0315822deb369dd42e40dc7cf720))
 
 * fix(deps): bump urllib3 from 2.4.0 to 2.5.0
 
@@ -676,8 +689,8 @@ Co-Authored-By: faucomte97 <f.aucomte@hotmail.co.uk>
 ### Bug Fixes
 
 - Add ci/cd dependencies for Snyk scan
-  ([#2442](https://github.com/ocadotechnology/codeforlife-portal/pull/2442),
-  [`99ec7cc`](https://github.com/ocadotechnology/codeforlife-portal/commit/99ec7ccffa1801a136bb110f425065f00c2eefb5))
+  ([#2442](https://github.com/codeforlife-education/codeforlife-portal/pull/2442),
+  [`99ec7cc`](https://github.com/codeforlife-education/codeforlife-portal/commit/99ec7ccffa1801a136bb110f425065f00c2eefb5))
 
 
 ## v8.7.5 (2025-06-10)
@@ -685,15 +698,16 @@ Co-Authored-By: faucomte97 <f.aucomte@hotmail.co.uk>
 ### Bug Fixes
 
 - Update requests
-  ([`6052bbe`](https://github.com/ocadotechnology/codeforlife-portal/commit/6052bbe8f06ec2dd404495c3076a40281a761091))
+  ([`6052bbe`](https://github.com/codeforlife-education/codeforlife-portal/commit/6052bbe8f06ec2dd404495c3076a40281a761091))
 
 
 ## v8.7.4 (2025-06-10)
 
 ### Bug Fixes
 
-- Pt59628-1312-r4632 ([#2448](https://github.com/ocadotechnology/codeforlife-portal/pull/2448),
-  [`0c3d309`](https://github.com/ocadotechnology/codeforlife-portal/commit/0c3d309e66198a4365fc01bf12732acd2f998754))
+- Pt59628-1312-r4632
+  ([#2448](https://github.com/codeforlife-education/codeforlife-portal/pull/2448),
+  [`0c3d309`](https://github.com/codeforlife-education/codeforlife-portal/commit/0c3d309e66198a4365fc01bf12732acd2f998754))
 
 * fix: PT59628-1312-R4632
 
@@ -709,15 +723,15 @@ Co-Authored-By: faucomte97 <f.aucomte@hotmail.co.uk>
 ### Bug Fixes
 
 - Django 5.9.10
-  ([`13b4744`](https://github.com/ocadotechnology/codeforlife-portal/commit/13b474426602102093086f9ad3c6ed33f4314813))
+  ([`13b4744`](https://github.com/codeforlife-education/codeforlife-portal/commit/13b474426602102093086f9ad3c6ed33f4314813))
 
 
 ## v8.7.2 (2025-06-05)
 
 ### Bug Fixes
 
-- Django 5.9.10 ([#2443](https://github.com/ocadotechnology/codeforlife-portal/pull/2443),
-  [`5c94637`](https://github.com/ocadotechnology/codeforlife-portal/commit/5c946371706fa9f03495580a0988506cb891138c))
+- Django 5.9.10 ([#2443](https://github.com/codeforlife-education/codeforlife-portal/pull/2443),
+  [`5c94637`](https://github.com/codeforlife-education/codeforlife-portal/commit/5c946371706fa9f03495580a0988506cb891138c))
 
 
 ## v8.7.1 (2025-05-31)
@@ -725,7 +739,7 @@ Co-Authored-By: faucomte97 <f.aucomte@hotmail.co.uk>
 ### Bug Fixes
 
 - Invite teacher permissions
-  ([`e41462f`](https://github.com/ocadotechnology/codeforlife-portal/commit/e41462f4b046ee37c937d0f6190c0a0a041ffaa8))
+  ([`e41462f`](https://github.com/codeforlife-education/codeforlife-portal/commit/e41462f4b046ee37c937d0f6190c0a0a041ffaa8))
 
 
 ## v8.7.0 (2025-05-28)
@@ -733,8 +747,8 @@ Co-Authored-By: faucomte97 <f.aucomte@hotmail.co.uk>
 ### Features
 
 - Update contribute page and add link to footer
-  ([#2441](https://github.com/ocadotechnology/codeforlife-portal/pull/2441),
-  [`e28fc88`](https://github.com/ocadotechnology/codeforlife-portal/commit/e28fc88ee95936d51358a3bf984b511fbfd82b8f))
+  ([#2441](https://github.com/codeforlife-education/codeforlife-portal/pull/2441),
+  [`e28fc88`](https://github.com/codeforlife-education/codeforlife-portal/commit/e28fc88ee95936d51358a3bf984b511fbfd82b8f))
 
 * feat: Update contribute image and add link to footer
 
@@ -746,16 +760,16 @@ Co-Authored-By: faucomte97 <f.aucomte@hotmail.co.uk>
 ### Bug Fixes
 
 - Add new functional cookie
-  ([#2440](https://github.com/ocadotechnology/codeforlife-portal/pull/2440),
-  [`a639130`](https://github.com/ocadotechnology/codeforlife-portal/commit/a639130cdd9d466f6702685d9af6d474f98721b1))
+  ([#2440](https://github.com/codeforlife-education/codeforlife-portal/pull/2440),
+  [`a639130`](https://github.com/codeforlife-education/codeforlife-portal/commit/a639130cdd9d466f6702685d9af6d474f98721b1))
 
 
 ## v8.6.11 (2025-05-19)
 
 ### Bug Fixes
 
-- Sass compiler ([#2438](https://github.com/ocadotechnology/codeforlife-portal/pull/2438),
-  [`249390f`](https://github.com/ocadotechnology/codeforlife-portal/commit/249390f073bda177a30edbab752d4af784ce06cf))
+- Sass compiler ([#2438](https://github.com/codeforlife-education/codeforlife-portal/pull/2438),
+  [`249390f`](https://github.com/codeforlife-education/codeforlife-portal/commit/249390f073bda177a30edbab752d4af784ce06cf))
 
 
 ## v8.6.10 (2025-05-16)
@@ -763,8 +777,8 @@ Co-Authored-By: faucomte97 <f.aucomte@hotmail.co.uk>
 ### Bug Fixes
 
 - Use img tags instead of CSS content property
-  ([#2437](https://github.com/ocadotechnology/codeforlife-portal/pull/2437),
-  [`04cb4d2`](https://github.com/ocadotechnology/codeforlife-portal/commit/04cb4d220e62f349a298a74525e6a0afa7b681fa))
+  ([#2437](https://github.com/codeforlife-education/codeforlife-portal/pull/2437),
+  [`04cb4d2`](https://github.com/codeforlife-education/codeforlife-portal/commit/04cb4d220e62f349a298a74525e6a0afa7b681fa))
 
 * fix: Use img tags instead of CSS content property
 
@@ -776,7 +790,7 @@ Co-Authored-By: faucomte97 <f.aucomte@hotmail.co.uk>
 ### Bug Fixes
 
 - Relock again for setuptools upgrade
-  ([`f8bd586`](https://github.com/ocadotechnology/codeforlife-portal/commit/f8bd5869ee7318302e5b08cec7073c1c6364bb6f))
+  ([`f8bd586`](https://github.com/codeforlife-education/codeforlife-portal/commit/f8bd5869ee7318302e5b08cec7073c1c6364bb6f))
 
 
 ## v8.6.8 (2025-05-09)
@@ -784,7 +798,7 @@ Co-Authored-By: faucomte97 <f.aucomte@hotmail.co.uk>
 ### Bug Fixes
 
 - Also relock portal Pipfile
-  ([`aca4e62`](https://github.com/ocadotechnology/codeforlife-portal/commit/aca4e62b22d7e9bc8f7dfd35de2c8ce0348f36d9))
+  ([`aca4e62`](https://github.com/codeforlife-education/codeforlife-portal/commit/aca4e62b22d7e9bc8f7dfd35de2c8ce0348f36d9))
 
 
 ## v8.6.7 (2025-05-09)
@@ -792,8 +806,8 @@ Co-Authored-By: faucomte97 <f.aucomte@hotmail.co.uk>
 ### Bug Fixes
 
 - **deps**: Bump django from 5.1.8 to 5.1.9 in /cfl_common
-  ([#2436](https://github.com/ocadotechnology/codeforlife-portal/pull/2436),
-  [`ff385ef`](https://github.com/ocadotechnology/codeforlife-portal/commit/ff385effc6a7c7ddc4f77fce5fc6471994df48b5))
+  ([#2436](https://github.com/codeforlife-education/codeforlife-portal/pull/2436),
+  [`ff385ef`](https://github.com/codeforlife-education/codeforlife-portal/commit/ff385effc6a7c7ddc4f77fce5fc6471994df48b5))
 
 Bumps [django](https://github.com/django/django) from 5.1.8 to 5.1.9. -
   [Commits](https://github.com/django/django/compare/5.1.8...5.1.9)
@@ -809,15 +823,15 @@ Signed-off-by: dependabot[bot] <support@github.com>
 
 ### Bug Fixes
 
-- Fix for #2432 ([#2433](https://github.com/ocadotechnology/codeforlife-portal/pull/2433),
-  [`4c2ece8`](https://github.com/ocadotechnology/codeforlife-portal/commit/4c2ece8744745ec2b78d29f12227439d67987f66))
+- Fix for #2432 ([#2433](https://github.com/codeforlife-education/codeforlife-portal/pull/2433),
+  [`4c2ece8`](https://github.com/codeforlife-education/codeforlife-portal/commit/4c2ece8744745ec2b78d29f12227439d67987f66))
 
 * Update teach.html
 
 ### Build System
 
 - Relock to get latest RR
-  ([`f0c3312`](https://github.com/ocadotechnology/codeforlife-portal/commit/f0c3312944fe60aca78f30982104322481c70dba))
+  ([`f0c3312`](https://github.com/codeforlife-education/codeforlife-portal/commit/f0c3312944fe60aca78f30982104322481c70dba))
 
 
 ## v8.6.5 (2025-04-08)
@@ -825,8 +839,8 @@ Signed-off-by: dependabot[bot] <support@github.com>
 ### Bug Fixes
 
 - Fixes for #2383, #2422, and #2423
-  ([#2424](https://github.com/ocadotechnology/codeforlife-portal/pull/2424),
-  [`bf30d90`](https://github.com/ocadotechnology/codeforlife-portal/commit/bf30d905624aaa986db2d44b0b1759bb21f7136c))
+  ([#2424](https://github.com/codeforlife-education/codeforlife-portal/pull/2424),
+  [`bf30d90`](https://github.com/codeforlife-education/codeforlife-portal/commit/bf30d905624aaa986db2d44b0b1759bb21f7136c))
 
 * Fixes #2383 (Contribute page responsiveness), #2422 (Nav bar register button), and #2423 (Register
   page text ammendment)
@@ -836,15 +850,16 @@ Signed-off-by: dependabot[bot] <support@github.com>
 ### Build System
 
 - Relock to get latest RR
-  ([`d05e2d6`](https://github.com/ocadotechnology/codeforlife-portal/commit/d05e2d6e01f1f0e33b28fffb8b856e9728d79ec4))
+  ([`d05e2d6`](https://github.com/codeforlife-education/codeforlife-portal/commit/d05e2d6e01f1f0e33b28fffb8b856e9728d79ec4))
 
 
 ## v8.6.4 (2025-04-04)
 
 ### Bug Fixes
 
-- Remove logger instances ([#2426](https://github.com/ocadotechnology/codeforlife-portal/pull/2426),
-  [`bbc708c`](https://github.com/ocadotechnology/codeforlife-portal/commit/bbc708c594bec96b9b952a69f3fc5890a439e90e))
+- Remove logger instances
+  ([#2426](https://github.com/codeforlife-education/codeforlife-portal/pull/2426),
+  [`bbc708c`](https://github.com/codeforlife-education/codeforlife-portal/commit/bbc708c594bec96b9b952a69f3fc5890a439e90e))
 
 * fix: Remove logger instances
 
@@ -855,16 +870,16 @@ Signed-off-by: dependabot[bot] <support@github.com>
 
 ### Bug Fixes
 
-- Drf 3.16 ([#2430](https://github.com/ocadotechnology/codeforlife-portal/pull/2430),
-  [`d0c69b5`](https://github.com/ocadotechnology/codeforlife-portal/commit/d0c69b53219d9a4de1fba5d6e628328e8041fbb8))
+- Drf 3.16 ([#2430](https://github.com/codeforlife-education/codeforlife-portal/pull/2430),
+  [`d0c69b5`](https://github.com/codeforlife-education/codeforlife-portal/commit/d0c69b53219d9a4de1fba5d6e628328e8041fbb8))
 
 
 ## v8.6.2 (2025-04-04)
 
 ### Bug Fixes
 
-- Django-otp 1.6 ([#2429](https://github.com/ocadotechnology/codeforlife-portal/pull/2429),
-  [`947cca8`](https://github.com/ocadotechnology/codeforlife-portal/commit/947cca80ac0c0e75d8abf3e9675dd13be7533c21))
+- Django-otp 1.6 ([#2429](https://github.com/codeforlife-education/codeforlife-portal/pull/2429),
+  [`947cca8`](https://github.com/codeforlife-education/codeforlife-portal/commit/947cca80ac0c0e75d8abf3e9675dd13be7533c21))
 
 * fix: django-otp 1.6
 
@@ -889,8 +904,8 @@ Co-authored-by: faucomte97 <f.aucomte@hotmail.co.uk>
 
 ### Bug Fixes
 
-- Django 5.1 ([#2428](https://github.com/ocadotechnology/codeforlife-portal/pull/2428),
-  [`deee86c`](https://github.com/ocadotechnology/codeforlife-portal/commit/deee86c492556b687726dcf803331cbd6d394a1c))
+- Django 5.1 ([#2428](https://github.com/codeforlife-education/codeforlife-portal/pull/2428),
+  [`deee86c`](https://github.com/codeforlife-education/codeforlife-portal/commit/deee86c492556b687726dcf803331cbd6d394a1c))
 
 * fix: django 5.1
 
@@ -901,8 +916,8 @@ Co-authored-by: faucomte97 <f.aucomte@hotmail.co.uk>
 
 ### Features
 
-- Django 5.2 ([#2427](https://github.com/ocadotechnology/codeforlife-portal/pull/2427),
-  [`e82e74e`](https://github.com/ocadotechnology/codeforlife-portal/commit/e82e74eb224b8ec4450a26edbf4923f9d482efac))
+- Django 5.2 ([#2427](https://github.com/codeforlife-education/codeforlife-portal/pull/2427),
+  [`e82e74e`](https://github.com/codeforlife-education/codeforlife-portal/commit/e82e74eb224b8ec4450a26edbf4923f9d482efac))
 
 
 ## v8.5.1 (2025-03-26)
@@ -910,15 +925,15 @@ Co-authored-by: faucomte97 <f.aucomte@hotmail.co.uk>
 ### Bug Fixes
 
 - Align cookie table columns
-  ([`9acbcb1`](https://github.com/ocadotechnology/codeforlife-portal/commit/9acbcb109936927bf468d59945c1e8bde261d65e))
+  ([`9acbcb1`](https://github.com/codeforlife-education/codeforlife-portal/commit/9acbcb109936927bf468d59945c1e8bde261d65e))
 
 
 ## v8.5.0 (2025-03-20)
 
 ### Features
 
-- Add cookie list ([#2421](https://github.com/ocadotechnology/codeforlife-portal/pull/2421),
-  [`a1a6948`](https://github.com/ocadotechnology/codeforlife-portal/commit/a1a69487d30fd19b0db7d5c96694758faa84b327))
+- Add cookie list ([#2421](https://github.com/codeforlife-education/codeforlife-portal/pull/2421),
+  [`a1a6948`](https://github.com/codeforlife-education/codeforlife-portal/commit/a1a69487d30fd19b0db7d5c96694758faa84b327))
 
 * feat: Add cookie list
 
@@ -930,8 +945,8 @@ Co-authored-by: faucomte97 <f.aucomte@hotmail.co.uk>
 ### Bug Fixes
 
 - Add Gitbook video src to CSP
-  ([#2420](https://github.com/ocadotechnology/codeforlife-portal/pull/2420),
-  [`837d058`](https://github.com/ocadotechnology/codeforlife-portal/commit/837d05890d642611d813c193d64634baeb5c699a))
+  ([#2420](https://github.com/codeforlife-education/codeforlife-portal/pull/2420),
+  [`837d058`](https://github.com/codeforlife-education/codeforlife-portal/commit/837d05890d642611d813c193d64634baeb5c699a))
 
 * fix: Add video src to CSP
 
@@ -943,7 +958,7 @@ Co-authored-by: faucomte97 <f.aucomte@hotmail.co.uk>
 ### Bug Fixes
 
 - Add ==
-  ([`ba8fd58`](https://github.com/ocadotechnology/codeforlife-portal/commit/ba8fd58214fee920b11eef2d476f3b722b11f322))
+  ([`ba8fd58`](https://github.com/codeforlife-education/codeforlife-portal/commit/ba8fd58214fee920b11eef2d476f3b722b11f322))
 
 
 ## v8.4.8 (2025-03-18)
@@ -951,7 +966,7 @@ Co-authored-by: faucomte97 <f.aucomte@hotmail.co.uk>
 ### Bug Fixes
 
 - Set common version to portal version
-  ([`0ce2ab3`](https://github.com/ocadotechnology/codeforlife-portal/commit/0ce2ab386be4b5a6a28ad7c2c47d85402994c7fd))
+  ([`0ce2ab3`](https://github.com/codeforlife-education/codeforlife-portal/commit/0ce2ab386be4b5a6a28ad7c2c47d85402994c7fd))
 
 
 ## v8.4.7 (2025-03-18)
@@ -962,10 +977,10 @@ Co-authored-by: faucomte97 <f.aucomte@hotmail.co.uk>
 ### Bug Fixes
 
 - Install latest common
-  ([`223cf6a`](https://github.com/ocadotechnology/codeforlife-portal/commit/223cf6a464a1c3cc5cc85fd83d70739f27ec5e99))
+  ([`223cf6a`](https://github.com/codeforlife-education/codeforlife-portal/commit/223cf6a464a1c3cc5cc85fd83d70739f27ec5e99))
 
 - Set common version to portal version
-  ([`2a2f381`](https://github.com/ocadotechnology/codeforlife-portal/commit/2a2f3816ee93c1ab2ec75f7e6eb02c6d5b634ae5))
+  ([`2a2f381`](https://github.com/codeforlife-education/codeforlife-portal/commit/2a2f3816ee93c1ab2ec75f7e6eb02c6d5b634ae5))
 
 
 ## v8.4.5 (2025-03-18)
@@ -973,29 +988,30 @@ Co-authored-by: faucomte97 <f.aucomte@hotmail.co.uk>
 ### Bug Fixes
 
 - Bump version
-  ([`b178a60`](https://github.com/ocadotechnology/codeforlife-portal/commit/b178a60c64623c08cd21f0c4c580966bb581de7b))
+  ([`b178a60`](https://github.com/codeforlife-education/codeforlife-portal/commit/b178a60c64623c08cd21f0c4c580966bb581de7b))
 
 ### Build System
 
 - Remove requests from Pipfile
-  ([`17e56f8`](https://github.com/ocadotechnology/codeforlife-portal/commit/17e56f8e0ad69dcb5c45043f842586effb8be4cf))
+  ([`17e56f8`](https://github.com/codeforlife-education/codeforlife-portal/commit/17e56f8e0ad69dcb5c45043f842586effb8be4cf))
 
 ### Continuous Integration
 
 - Add missing steps
-  ([`fa8341b`](https://github.com/ocadotechnology/codeforlife-portal/commit/fa8341bfbe93ee9d0ebdb01a286d1a0cc1fec77c))
+  ([`fa8341b`](https://github.com/codeforlife-education/codeforlife-portal/commit/fa8341bfbe93ee9d0ebdb01a286d1a0cc1fec77c))
 
 - Checkout code
-  ([`b637eb1`](https://github.com/ocadotechnology/codeforlife-portal/commit/b637eb1928bb5138ee4075c1b33d214bce02a19e))
+  ([`b637eb1`](https://github.com/codeforlife-education/codeforlife-portal/commit/b637eb1928bb5138ee4075c1b33d214bce02a19e))
 
 - Remove other files again
-  ([`fabf5f3`](https://github.com/ocadotechnology/codeforlife-portal/commit/fabf5f3fb728a81896bfb7c36d975630dc576e4f))
+  ([`fabf5f3`](https://github.com/codeforlife-education/codeforlife-portal/commit/fabf5f3fb728a81896bfb7c36d975630dc576e4f))
 
 - Remove secrets key
-  ([`199e7bc`](https://github.com/ocadotechnology/codeforlife-portal/commit/199e7bc0a2d36306e3577756c9ac889d3b3e1d53))
+  ([`199e7bc`](https://github.com/codeforlife-education/codeforlife-portal/commit/199e7bc0a2d36306e3577756c9ac889d3b3e1d53))
 
-- Test new Snyk monitor ([#2418](https://github.com/ocadotechnology/codeforlife-portal/pull/2418),
-  [`11d72cc`](https://github.com/ocadotechnology/codeforlife-portal/commit/11d72cc46fd95eabfe219e1a618a5735d43dd467))
+- Test new Snyk monitor
+  ([#2418](https://github.com/codeforlife-education/codeforlife-portal/pull/2418),
+  [`11d72cc`](https://github.com/codeforlife-education/codeforlife-portal/commit/11d72cc46fd95eabfe219e1a618a5735d43dd467))
 
 * ci: Test new Snyk monitor
 
@@ -1076,16 +1092,16 @@ Co-authored-by: faucomte97 <f.aucomte@hotmail.co.uk>
 
 ### Bug Fixes
 
-- Django v4.2.20 ([#2417](https://github.com/ocadotechnology/codeforlife-portal/pull/2417),
-  [`5cd27f6`](https://github.com/ocadotechnology/codeforlife-portal/commit/5cd27f669dd2a8db198f282dab2867da41dd3691))
+- Django v4.2.20 ([#2417](https://github.com/codeforlife-education/codeforlife-portal/pull/2417),
+  [`5cd27f6`](https://github.com/codeforlife-education/codeforlife-portal/commit/5cd27f669dd2a8db198f282dab2867da41dd3691))
 
 
 ## v8.4.3 (2025-03-06)
 
 ### Bug Fixes
 
-- Episode indexing ([#2416](https://github.com/ocadotechnology/codeforlife-portal/pull/2416),
-  [`d3cc840`](https://github.com/ocadotechnology/codeforlife-portal/commit/d3cc840f66c63a8f9f7e913dc0904bd5eb8b122f))
+- Episode indexing ([#2416](https://github.com/codeforlife-education/codeforlife-portal/pull/2416),
+  [`d3cc840`](https://github.com/codeforlife-education/codeforlife-portal/commit/d3cc840f66c63a8f9f7e913dc0904bd5eb8b122f))
 
 * fix: episode indexing
 
@@ -1097,8 +1113,8 @@ Co-authored-by: faucomte97 <f.aucomte@hotmail.co.uk>
 ### Bug Fixes
 
 - Use Gitbook videos instead of YouTube links
-  ([#2415](https://github.com/ocadotechnology/codeforlife-portal/pull/2415),
-  [`8480c4f`](https://github.com/ocadotechnology/codeforlife-portal/commit/8480c4fc49857dca5bd4745e29fea77b90159713))
+  ([#2415](https://github.com/codeforlife-education/codeforlife-portal/pull/2415),
+  [`8480c4f`](https://github.com/codeforlife-education/codeforlife-portal/commit/8480c4fc49857dca5bd4745e29fea77b90159713))
 
 * fix: Use Gitbook videos instead of YouTube links
 
@@ -1111,8 +1127,8 @@ Co-authored-by: faucomte97 <f.aucomte@hotmail.co.uk>
 
 ### Bug Fixes
 
-- Ga collect ([#2414](https://github.com/ocadotechnology/codeforlife-portal/pull/2414),
-  [`42b6cb7`](https://github.com/ocadotechnology/codeforlife-portal/commit/42b6cb7fc53ebeb26d8cf2aae87e1c108f505882))
+- Ga collect ([#2414](https://github.com/codeforlife-education/codeforlife-portal/pull/2414),
+  [`42b6cb7`](https://github.com/codeforlife-education/codeforlife-portal/commit/42b6cb7fc53ebeb26d8cf2aae87e1c108f505882))
 
 
 ## v8.4.0 (2025-02-27)
@@ -1120,8 +1136,8 @@ Co-authored-by: faucomte97 <f.aucomte@hotmail.co.uk>
 ### Features
 
 - Opportunities with CFL doc
-  ([#2408](https://github.com/ocadotechnology/codeforlife-portal/pull/2408),
-  [`332e456`](https://github.com/ocadotechnology/codeforlife-portal/commit/332e4563c59bac9774bc75b6a0a3f3c390de120b))
+  ([#2408](https://github.com/codeforlife-education/codeforlife-portal/pull/2408),
+  [`332e456`](https://github.com/codeforlife-education/codeforlife-portal/commit/332e4563c59bac9774bc75b6a0a3f3c390de120b))
 
 * feat: Opportunities with CFL doc
 
@@ -1135,8 +1151,8 @@ Co-authored-by: faucomte97 <f.aucomte@hotmail.co.uk>
 ### Bug Fixes
 
 - Add try python den button to banner
-  ([#2412](https://github.com/ocadotechnology/codeforlife-portal/pull/2412),
-  [`e6c1bd2`](https://github.com/ocadotechnology/codeforlife-portal/commit/e6c1bd226c3169b2e6f0b956f7608f1d4c18b8b4))
+  ([#2412](https://github.com/codeforlife-education/codeforlife-portal/pull/2412),
+  [`e6c1bd2`](https://github.com/codeforlife-education/codeforlife-portal/commit/e6c1bd226c3169b2e6f0b956f7608f1d4c18b8b4))
 
 * fix: add try python den button to banner
 
@@ -1153,8 +1169,9 @@ Co-Authored-By: Florian Aucomte <f.aucomte@hotmail.co.uk>
 
 ### Bug Fixes
 
-- Remove Mouseflow code ([#2413](https://github.com/ocadotechnology/codeforlife-portal/pull/2413),
-  [`67bcc0d`](https://github.com/ocadotechnology/codeforlife-portal/commit/67bcc0de0e87a7812d4ab4d77f3190fd21fcc916))
+- Remove Mouseflow code
+  ([#2413](https://github.com/codeforlife-education/codeforlife-portal/pull/2413),
+  [`67bcc0d`](https://github.com/codeforlife-education/codeforlife-portal/commit/67bcc0de0e87a7812d4ab4d77f3190fd21fcc916))
 
 * fix: Remove Mouseflow code
 
@@ -1166,19 +1183,19 @@ Co-Authored-By: Florian Aucomte <f.aucomte@hotmail.co.uk>
 ### Bug Fixes
 
 - Detect semantic version
-  ([`865ae5f`](https://github.com/ocadotechnology/codeforlife-portal/commit/865ae5f8a11ded9471d88623e011a0745852c0f8))
+  ([`865ae5f`](https://github.com/codeforlife-education/codeforlife-portal/commit/865ae5f8a11ded9471d88623e011a0745852c0f8))
 
 - Remove verbose
-  ([`dab216f`](https://github.com/ocadotechnology/codeforlife-portal/commit/dab216f61d6f63f56fdf23b6e9ad865c79866471))
+  ([`dab216f`](https://github.com/codeforlife-education/codeforlife-portal/commit/dab216f61d6f63f56fdf23b6e9ad865c79866471))
 
 - Use cli
-  ([`4078567`](https://github.com/ocadotechnology/codeforlife-portal/commit/4078567a07dc43a168014ea01c24b1207480f972))
+  ([`4078567`](https://github.com/codeforlife-education/codeforlife-portal/commit/4078567a07dc43a168014ea01c24b1207480f972))
 
 - Verbose
-  ([`d202b94`](https://github.com/ocadotechnology/codeforlife-portal/commit/d202b9488314efa54c5a27bcd39cd3c2399d6744))
+  ([`d202b94`](https://github.com/codeforlife-education/codeforlife-portal/commit/d202b9488314efa54c5a27bcd39cd3c2399d6744))
 
 - Version variable and build wheel
-  ([`0e8b9f0`](https://github.com/ocadotechnology/codeforlife-portal/commit/0e8b9f0b70d86ef7f93c0045e3b8e0a8d4612d9c))
+  ([`0e8b9f0`](https://github.com/codeforlife-education/codeforlife-portal/commit/0e8b9f0b70d86ef7f93c0045e3b8e0a8d4612d9c))
 
 
 ## v8.3.5 (2025-02-26)
@@ -1186,7 +1203,7 @@ Co-Authored-By: Florian Aucomte <f.aucomte@hotmail.co.uk>
 ### Bug Fixes
 
 - Keep dist and trust publisher
-  ([`9a7bf82`](https://github.com/ocadotechnology/codeforlife-portal/commit/9a7bf82e7992a006936c96c15ce4e42e34ea39ec))
+  ([`9a7bf82`](https://github.com/codeforlife-education/codeforlife-portal/commit/9a7bf82e7992a006936c96c15ce4e42e34ea39ec))
 
 
 ## v8.3.4 (2025-02-26)
@@ -1194,7 +1211,7 @@ Co-Authored-By: Florian Aucomte <f.aucomte@hotmail.co.uk>
 ### Bug Fixes
 
 - Pypi token
-  ([`b696354`](https://github.com/ocadotechnology/codeforlife-portal/commit/b69635429060647c20f96fd53e5c78797ba452b8))
+  ([`b696354`](https://github.com/codeforlife-education/codeforlife-portal/commit/b69635429060647c20f96fd53e5c78797ba452b8))
 
 
 ## v8.3.3 (2025-02-26)
@@ -1202,7 +1219,7 @@ Co-Authored-By: Florian Aucomte <f.aucomte@hotmail.co.uk>
 ### Bug Fixes
 
 - Add permissions
-  ([`7be386f`](https://github.com/ocadotechnology/codeforlife-portal/commit/7be386f1b220b193d647df80f5bb8d0f470ae72c))
+  ([`7be386f`](https://github.com/codeforlife-education/codeforlife-portal/commit/7be386f1b220b193d647df80f5bb8d0f470ae72c))
 
 
 ## v8.3.2 (2025-02-26)
@@ -1210,7 +1227,7 @@ Co-Authored-By: Florian Aucomte <f.aucomte@hotmail.co.uk>
 ### Bug Fixes
 
 - Publish new version
-  ([`64b2898`](https://github.com/ocadotechnology/codeforlife-portal/commit/64b2898e4a43e04df49e62005216dcc5e54f91cb))
+  ([`64b2898`](https://github.com/codeforlife-education/codeforlife-portal/commit/64b2898e4a43e04df49e62005216dcc5e54f91cb))
 
 
 ## v8.3.1 (2025-02-26)
@@ -1218,7 +1235,7 @@ Co-Authored-By: Florian Aucomte <f.aucomte@hotmail.co.uk>
 ### Bug Fixes
 
 - Python semantic release v9
-  ([`ca20b3a`](https://github.com/ocadotechnology/codeforlife-portal/commit/ca20b3a6d313457682b21f2625c8716e8b7a9dd2))
+  ([`ca20b3a`](https://github.com/codeforlife-education/codeforlife-portal/commit/ca20b3a6d313457682b21f2625c8716e8b7a9dd2))
 
 
 ## v8.3.0 (2025-02-25)
@@ -1226,8 +1243,8 @@ Co-Authored-By: Florian Aucomte <f.aucomte@hotmail.co.uk>
 ### Features
 
 - Share levels with teachers and require moderation on join
-  ([#2410](https://github.com/ocadotechnology/codeforlife-portal/pull/2410),
-  [`42a8b32`](https://github.com/ocadotechnology/codeforlife-portal/commit/42a8b32064f8f443d0d175f8da51ac243a9b8eb4))
+  ([#2410](https://github.com/codeforlife-education/codeforlife-portal/pull/2410),
+  [`42a8b32`](https://github.com/codeforlife-education/codeforlife-portal/commit/42a8b32064f8f443d0d175f8da51ac243a9b8eb4))
 
 * feat: Share levels with teachers and require moderation on join
 
@@ -1241,8 +1258,8 @@ Co-Authored-By: Florian Aucomte <f.aucomte@hotmail.co.uk>
 ### Bug Fixes
 
 - Update text relating to GA4 in privacy notice
-  ([#2407](https://github.com/ocadotechnology/codeforlife-portal/pull/2407),
-  [`6d045a2`](https://github.com/ocadotechnology/codeforlife-portal/commit/6d045a281dd1108f9e4aa85e2c371b8171186480))
+  ([#2407](https://github.com/codeforlife-education/codeforlife-portal/pull/2407),
+  [`6d045a2`](https://github.com/codeforlife-education/codeforlife-portal/commit/6d045a281dd1108f9e4aa85e2c371b8171186480))
 
 * Update GA4 text in privacy notice
 
@@ -1256,8 +1273,8 @@ Co-Authored-By: Florian Aucomte <f.aucomte@hotmail.co.uk>
 ### Bug Fixes
 
 - Class name field characters
-  ([#2406](https://github.com/ocadotechnology/codeforlife-portal/pull/2406),
-  [`0657dbd`](https://github.com/ocadotechnology/codeforlife-portal/commit/0657dbd680dc955c74e2f206c95a3d40122fb971))
+  ([#2406](https://github.com/codeforlife-education/codeforlife-portal/pull/2406),
+  [`0657dbd`](https://github.com/codeforlife-education/codeforlife-portal/commit/0657dbd680dc955c74e2f206c95a3d40122fb971))
 
 
 ## v8.2.0 (2025-02-05)
@@ -1265,16 +1282,17 @@ Co-Authored-By: Florian Aucomte <f.aucomte@hotmail.co.uk>
 ### Features
 
 - Toggle for maintenance mode
-  ([#2402](https://github.com/ocadotechnology/codeforlife-portal/pull/2402),
-  [`ea29c57`](https://github.com/ocadotechnology/codeforlife-portal/commit/ea29c571beaf0d822650c691c63f22edcba1c049))
+  ([#2402](https://github.com/codeforlife-education/codeforlife-portal/pull/2402),
+  [`ea29c57`](https://github.com/codeforlife-education/codeforlife-portal/commit/ea29c571beaf0d822650c691c63f22edcba1c049))
 
 
 ## v8.1.3 (2025-01-28)
 
 ### Bug Fixes
 
-- Remove donate button ([#2400](https://github.com/ocadotechnology/codeforlife-portal/pull/2400),
-  [`2ff52a8`](https://github.com/ocadotechnology/codeforlife-portal/commit/2ff52a829c7671b340fc89c74507870ca1c4a626))
+- Remove donate button
+  ([#2400](https://github.com/codeforlife-education/codeforlife-portal/pull/2400),
+  [`2ff52a8`](https://github.com/codeforlife-education/codeforlife-portal/commit/2ff52a829c7671b340fc89c74507870ca1c4a626))
 
 
 ## v8.1.2 (2025-01-17)
@@ -1282,24 +1300,25 @@ Co-Authored-By: Florian Aucomte <f.aucomte@hotmail.co.uk>
 ### Bug Fixes
 
 - Remove in-code tracking of primary pack downloads
-  ([#2399](https://github.com/ocadotechnology/codeforlife-portal/pull/2399),
-  [`5a0aed4`](https://github.com/ocadotechnology/codeforlife-portal/commit/5a0aed4bac367500be2e39bba227d9d6fe086670))
+  ([#2399](https://github.com/codeforlife-education/codeforlife-portal/pull/2399),
+  [`5a0aed4`](https://github.com/codeforlife-education/codeforlife-portal/commit/5a0aed4bac367500be2e39bba227d9d6fe086670))
 
 
 ## v8.1.1 (2025-01-17)
 
 ### Bug Fixes
 
-- Worksheet index ([#2398](https://github.com/ocadotechnology/codeforlife-portal/pull/2398),
-  [`1d14abb`](https://github.com/ocadotechnology/codeforlife-portal/commit/1d14abbc0400de3122a1b61be26ba355f7b87b2c))
+- Worksheet index ([#2398](https://github.com/codeforlife-education/codeforlife-portal/pull/2398),
+  [`1d14abb`](https://github.com/codeforlife-education/codeforlife-portal/commit/1d14abbc0400de3122a1b61be26ba355f7b87b2c))
 
 
 ## v8.1.0 (2025-01-15)
 
 ### Features
 
-- Impact Report 2024 ([#2397](https://github.com/ocadotechnology/codeforlife-portal/pull/2397),
-  [`a3e7deb`](https://github.com/ocadotechnology/codeforlife-portal/commit/a3e7deb17f34a35ae67126eff6b1e7a56a4e5d71))
+- Impact Report 2024
+  ([#2397](https://github.com/codeforlife-education/codeforlife-portal/pull/2397),
+  [`a3e7deb`](https://github.com/codeforlife-education/codeforlife-portal/commit/a3e7deb17f34a35ae67126eff6b1e7a56a4e5d71))
 
 
 ## v8.0.7 (2025-01-15)
@@ -1307,8 +1326,8 @@ Co-Authored-By: Florian Aucomte <f.aucomte@hotmail.co.uk>
 ### Bug Fixes
 
 - Non school teachers cannot be admins
-  ([#2395](https://github.com/ocadotechnology/codeforlife-portal/pull/2395),
-  [`9fea03f`](https://github.com/ocadotechnology/codeforlife-portal/commit/9fea03fbcc56b6a4fc40add6f2307412afb5de09))
+  ([#2395](https://github.com/codeforlife-education/codeforlife-portal/pull/2395),
+  [`9fea03f`](https://github.com/codeforlife-education/codeforlife-portal/commit/9fea03fbcc56b6a4fc40add6f2307412afb5de09))
 
 * fix: non school teachers cannot be admins
 
@@ -1319,8 +1338,8 @@ Co-Authored-By: Florian Aucomte <f.aucomte@hotmail.co.uk>
 
 ### Bug Fixes
 
-- Worksheet counter ([#2393](https://github.com/ocadotechnology/codeforlife-portal/pull/2393),
-  [`397ef87`](https://github.com/ocadotechnology/codeforlife-portal/commit/397ef874d7bf968f9a1f9de1cf15b227fd62ada4))
+- Worksheet counter ([#2393](https://github.com/codeforlife-education/codeforlife-portal/pull/2393),
+  [`397ef87`](https://github.com/codeforlife-education/codeforlife-portal/commit/397ef874d7bf968f9a1f9de1cf15b227fd62ada4))
 
 * fix: worksheet counter
 
@@ -1333,7 +1352,7 @@ Co-authored-by: Florian Aucomte <f.aucomte@hotmail.co.uk>
 ### Continuous Integration
 
 - Fix Ubuntu version to 22.04
-  ([`3c442aa`](https://github.com/ocadotechnology/codeforlife-portal/commit/3c442aa00c69afe891d134d7f79fd43ee7711956))
+  ([`3c442aa`](https://github.com/codeforlife-education/codeforlife-portal/commit/3c442aa00c69afe891d134d7f79fd43ee7711956))
 
 
 ## v8.0.5 (2024-12-10)
@@ -1341,7 +1360,7 @@ Co-authored-by: Florian Aucomte <f.aucomte@hotmail.co.uk>
 ### Bug Fixes
 
 - Upgrade DRF, Cypress and switch to pypdf
-  ([`349c43e`](https://github.com/ocadotechnology/codeforlife-portal/commit/349c43e0079ff758e8092df83ce828c851a7bb46))
+  ([`349c43e`](https://github.com/codeforlife-education/codeforlife-portal/commit/349c43e0079ff758e8092df83ce828c851a7bb46))
 
 
 ## v8.0.4 (2024-12-10)
@@ -1349,8 +1368,8 @@ Co-authored-by: Florian Aucomte <f.aucomte@hotmail.co.uk>
 ### Bug Fixes
 
 - Upgrade Django to 4.2.17
-  ([#2391](https://github.com/ocadotechnology/codeforlife-portal/pull/2391),
-  [`cc5d749`](https://github.com/ocadotechnology/codeforlife-portal/commit/cc5d74924db6ab7e0ab426fb226723c87243d0fd))
+  ([#2391](https://github.com/codeforlife-education/codeforlife-portal/pull/2391),
+  [`cc5d749`](https://github.com/codeforlife-education/codeforlife-portal/commit/cc5d74924db6ab7e0ab426fb226723c87243d0fd))
 
 
 ## v8.0.3 (2024-12-04)
@@ -1358,8 +1377,8 @@ Co-authored-by: Florian Aucomte <f.aucomte@hotmail.co.uk>
 ### Bug Fixes
 
 - Untick locked worksheet ids
-  ([#2388](https://github.com/ocadotechnology/codeforlife-portal/pull/2388),
-  [`c07bd2e`](https://github.com/ocadotechnology/codeforlife-portal/commit/c07bd2e737300bb38f5bf39333603d3c654be822))
+  ([#2388](https://github.com/codeforlife-education/codeforlife-portal/pull/2388),
+  [`c07bd2e`](https://github.com/codeforlife-education/codeforlife-portal/commit/c07bd2e737300bb38f5bf39333603d3c654be822))
 
 
 ## v8.0.2 (2024-12-04)
@@ -1367,8 +1386,8 @@ Co-authored-by: Florian Aucomte <f.aucomte@hotmail.co.uk>
 ### Bug Fixes
 
 - Python dev level control
-  ([#2386](https://github.com/ocadotechnology/codeforlife-portal/pull/2386),
-  [`1fa9441`](https://github.com/ocadotechnology/codeforlife-portal/commit/1fa94410bab60c03b6f98968b47d9ded0f753179))
+  ([#2386](https://github.com/codeforlife-education/codeforlife-portal/pull/2386),
+  [`1fa9441`](https://github.com/codeforlife-education/codeforlife-portal/commit/1fa94410bab60c03b6f98968b47d9ded0f753179))
 
 * render additional episodes
 
@@ -1381,8 +1400,8 @@ Co-authored-by: Florian Aucomte <f.aucomte@hotmail.co.uk>
 ### Build System
 
 - **deps**: Bump cross-spawn from 7.0.3 to 7.0.6
-  ([#2382](https://github.com/ocadotechnology/codeforlife-portal/pull/2382),
-  [`7b512b5`](https://github.com/ocadotechnology/codeforlife-portal/commit/7b512b5d88604986a671a69a36057aab9c19e711))
+  ([#2382](https://github.com/codeforlife-education/codeforlife-portal/pull/2382),
+  [`7b512b5`](https://github.com/codeforlife-education/codeforlife-portal/commit/7b512b5d88604986a671a69a36057aab9c19e711))
 
 * build(deps): bump cross-spawn from 7.0.3 to 7.0.6
 
@@ -1404,15 +1423,15 @@ Co-Authored-By: Florian Aucomte <f.aucomte@hotmail.co.uk>
 ### Bug Fixes
 
 - Install latest RR
-  ([`2d58f2f`](https://github.com/ocadotechnology/codeforlife-portal/commit/2d58f2fdf47f1061c1bdb4c1aa0d124847f9f473))
+  ([`2d58f2f`](https://github.com/codeforlife-education/codeforlife-portal/commit/2d58f2fdf47f1061c1bdb4c1aa0d124847f9f473))
 
 
 ## v8.0.0 (2024-11-08)
 
 ### Features
 
-- Django 4 ([#2379](https://github.com/ocadotechnology/codeforlife-portal/pull/2379),
-  [`ed0467c`](https://github.com/ocadotechnology/codeforlife-portal/commit/ed0467c10a792049f0e6cbdac573fbbd12fbdd11))
+- Django 4 ([#2379](https://github.com/codeforlife-education/codeforlife-portal/pull/2379),
+  [`ed0467c`](https://github.com/codeforlife-education/codeforlife-portal/commit/ed0467c10a792049f0e6cbdac573fbbd12fbdd11))
 
 * feat!: Upgrade to Django 4.2
 
@@ -1447,8 +1466,8 @@ Co-Authored-By: Florian Aucomte <f.aucomte@hotmail.co.uk>
 
 ### Bug Fixes
 
-- Pwned check ([#2378](https://github.com/ocadotechnology/codeforlife-portal/pull/2378),
-  [`ba71e8d`](https://github.com/ocadotechnology/codeforlife-portal/commit/ba71e8d4bf86ef0a7f2b7ed67143349bf61713f7))
+- Pwned check ([#2378](https://github.com/codeforlife-education/codeforlife-portal/pull/2378),
+  [`ba71e8d`](https://github.com/codeforlife-education/codeforlife-portal/commit/ba71e8d4bf86ef0a7f2b7ed67143349bf61713f7))
 
 
 ## v7.4.8 (2024-11-02)
@@ -1456,8 +1475,8 @@ Co-Authored-By: Florian Aucomte <f.aucomte@hotmail.co.uk>
 ### Bug Fixes
 
 - Unshare custom levels when releasing students
-  ([#2376](https://github.com/ocadotechnology/codeforlife-portal/pull/2376),
-  [`b5773f6`](https://github.com/ocadotechnology/codeforlife-portal/commit/b5773f60afd809e6e0b7d85936134e519770856d))
+  ([#2376](https://github.com/codeforlife-education/codeforlife-portal/pull/2376),
+  [`b5773f6`](https://github.com/codeforlife-education/codeforlife-portal/commit/b5773f60afd809e6e0b7d85936134e519770856d))
 
 * fix: students levels are not shared with anybody when the student is dismissed
 
@@ -1475,8 +1494,8 @@ Co-authored-by: Florian Aucomte <f.aucomte@hotmail.co.uk>
 ### Bug Fixes
 
 - Change .menu .logo from 100% to 100px
-  ([#2375](https://github.com/ocadotechnology/codeforlife-portal/pull/2375),
-  [`49dcdc5`](https://github.com/ocadotechnology/codeforlife-portal/commit/49dcdc5f484cb067e0ae87bff241a6766443c5f6))
+  ([#2375](https://github.com/codeforlife-education/codeforlife-portal/pull/2375),
+  [`49dcdc5`](https://github.com/codeforlife-education/codeforlife-portal/commit/49dcdc5f484cb067e0ae87bff241a6766443c5f6))
 
 Co-authored-by: Seb Palmer <s.palmer1@ocado.com>
 
@@ -1488,7 +1507,7 @@ Co-authored-by: Florian Aucomte <f.aucomte@hotmail.co.uk>
 ### Bug Fixes
 
 - Revert "fix: Disable DB gateways (#2374)"
-  ([`1f7ec61`](https://github.com/ocadotechnology/codeforlife-portal/commit/1f7ec61bbbaebb0aba0d2a4a02637d3f5119019b))
+  ([`1f7ec61`](https://github.com/codeforlife-education/codeforlife-portal/commit/1f7ec61bbbaebb0aba0d2a4a02637d3f5119019b))
 
 This reverts commit e9212f6d131f59bf7b12599a1653ed9640863b2a.
 
@@ -1497,8 +1516,9 @@ This reverts commit e9212f6d131f59bf7b12599a1653ed9640863b2a.
 
 ### Bug Fixes
 
-- Disable DB gateways ([#2374](https://github.com/ocadotechnology/codeforlife-portal/pull/2374),
-  [`e9212f6`](https://github.com/ocadotechnology/codeforlife-portal/commit/e9212f6d131f59bf7b12599a1653ed9640863b2a))
+- Disable DB gateways
+  ([#2374](https://github.com/codeforlife-education/codeforlife-portal/pull/2374),
+  [`e9212f6`](https://github.com/codeforlife-education/codeforlife-portal/commit/e9212f6d131f59bf7b12599a1653ed9640863b2a))
 
 * fix: Disable logging in, verifying, resetting password and registering
 
@@ -1510,7 +1530,7 @@ This reverts commit e9212f6d131f59bf7b12599a1653ed9640863b2a.
 ### Bug Fixes
 
 - Clubs page links
-  ([`91e8209`](https://github.com/ocadotechnology/codeforlife-portal/commit/91e82092a8af254ab0f730be3347774f4506c0b5))
+  ([`91e8209`](https://github.com/codeforlife-education/codeforlife-portal/commit/91e82092a8af254ab0f730be3347774f4506c0b5))
 
 
 ## v7.4.3 (2024-10-25)
@@ -1518,8 +1538,8 @@ This reverts commit e9212f6d131f59bf7b12599a1653ed9640863b2a.
 ### Bug Fixes
 
 - Add password visibility toggle and strength checker to teacher invitation registration form
-  ([#2372](https://github.com/ocadotechnology/codeforlife-portal/pull/2372),
-  [`e3b10ab`](https://github.com/ocadotechnology/codeforlife-portal/commit/e3b10ab72f1b59640e7322f8ed92f40f9f14807d))
+  ([#2372](https://github.com/codeforlife-education/codeforlife-portal/pull/2372),
+  [`e3b10ab`](https://github.com/codeforlife-education/codeforlife-portal/commit/e3b10ab72f1b59640e7322f8ed92f40f9f14807d))
 
 * Fixed teacher invitation password visibility and strength checker
 
@@ -1541,8 +1561,8 @@ Co-Authored-By: Florian Aucomte <f.aucomte@hotmail.co.uk>
 
 ### Bug Fixes
 
-- Portal 2361 ([#2371](https://github.com/ocadotechnology/codeforlife-portal/pull/2371),
-  [`139f19e`](https://github.com/ocadotechnology/codeforlife-portal/commit/139f19e3354a2fcbdbb6a33282c7f1ed69e41b58))
+- Portal 2361 ([#2371](https://github.com/codeforlife-education/codeforlife-portal/pull/2371),
+  [`139f19e`](https://github.com/codeforlife-education/codeforlife-portal/commit/139f19e3354a2fcbdbb6a33282c7f1ed69e41b58))
 
 * add buttons
 
@@ -1558,16 +1578,16 @@ Co-Authored-By: Florian Aucomte <f.aucomte@hotmail.co.uk>
 ### Bug Fixes
 
 - Python Den in terms of use and use marketing video
-  ([#2370](https://github.com/ocadotechnology/codeforlife-portal/pull/2370),
-  [`d686814`](https://github.com/ocadotechnology/codeforlife-portal/commit/d6868146eb3b7924bab2b3fb6077dad3c4154ca1))
+  ([#2370](https://github.com/codeforlife-education/codeforlife-portal/pull/2370),
+  [`d686814`](https://github.com/codeforlife-education/codeforlife-portal/commit/d6868146eb3b7924bab2b3fb6077dad3c4154ca1))
 
 
 ## v7.4.0 (2024-10-11)
 
 ### Features
 
-- Donate button ([#2364](https://github.com/ocadotechnology/codeforlife-portal/pull/2364),
-  [`2770300`](https://github.com/ocadotechnology/codeforlife-portal/commit/277030038e20725aa5ef9cfbc3f67144ce2aed47))
+- Donate button ([#2364](https://github.com/codeforlife-education/codeforlife-portal/pull/2364),
+  [`2770300`](https://github.com/codeforlife-education/codeforlife-portal/commit/277030038e20725aa5ef9cfbc3f67144ce2aed47))
 
 * First instance of donate popup
 
@@ -1596,8 +1616,8 @@ Co-Authored-By: Florian Aucomte <f.aucomte@hotmail.co.uk>
 
 ### Bug Fixes
 
-- Home learning ([#2362](https://github.com/ocadotechnology/codeforlife-portal/pull/2362),
-  [`d26590e`](https://github.com/ocadotechnology/codeforlife-portal/commit/d26590eff0619e610bd6c2b317ceab5f7d1309ca))
+- Home learning ([#2362](https://github.com/codeforlife-education/codeforlife-portal/pull/2362),
+  [`d26590e`](https://github.com/codeforlife-education/codeforlife-portal/commit/d26590eff0619e610bd6c2b317ceab5f7d1309ca))
 
 * update home learning page
 
@@ -1609,7 +1629,7 @@ Co-Authored-By: Florian Aucomte <f.aucomte@hotmail.co.uk>
 ### Bug Fixes
 
 - Add missing bracket in about page
-  ([`6796833`](https://github.com/ocadotechnology/codeforlife-portal/commit/6796833a8b74a4be1fb86728326ef3f1ba0ca7f3))
+  ([`6796833`](https://github.com/codeforlife-education/codeforlife-portal/commit/6796833a8b74a4be1fb86728326ef3f1ba0ca7f3))
 
 
 ## v7.3.6 (2024-09-30)
@@ -1617,22 +1637,23 @@ Co-Authored-By: Florian Aucomte <f.aucomte@hotmail.co.uk>
 ### Bug Fixes
 
 - Update link to sustainability page
-  ([#2356](https://github.com/ocadotechnology/codeforlife-portal/pull/2356),
-  [`38bb17f`](https://github.com/ocadotechnology/codeforlife-portal/commit/38bb17f50138777231e3238eb5ce6a0f9e365523))
+  ([#2356](https://github.com/codeforlife-education/codeforlife-portal/pull/2356),
+  [`38bb17f`](https://github.com/codeforlife-education/codeforlife-portal/commit/38bb17f50138777231e3238eb5ce6a0f9e365523))
 
 
 ## v7.3.5 (2024-09-27)
 
 ### Bug Fixes
 
-- Trigger deployment ([#2360](https://github.com/ocadotechnology/codeforlife-portal/pull/2360),
-  [`bf37443`](https://github.com/ocadotechnology/codeforlife-portal/commit/bf374436b0bdffeaa32bc734d8154cba96f3c52a))
+- Trigger deployment
+  ([#2360](https://github.com/codeforlife-education/codeforlife-portal/pull/2360),
+  [`bf37443`](https://github.com/codeforlife-education/codeforlife-portal/commit/bf374436b0bdffeaa32bc734d8154cba96f3c52a))
 
 ### Documentation
 
 - Add section to issue templates for code guidance
-  ([#2353](https://github.com/ocadotechnology/codeforlife-portal/pull/2353),
-  [`8bbbf83`](https://github.com/ocadotechnology/codeforlife-portal/commit/8bbbf837811fabaedf8c029599b19f4e62f26b41))
+  ([#2353](https://github.com/codeforlife-education/codeforlife-portal/pull/2353),
+  [`8bbbf83`](https://github.com/codeforlife-education/codeforlife-portal/commit/8bbbf837811fabaedf8c029599b19f4e62f26b41))
 
 
 ## v7.3.4 (2024-09-26)
@@ -1640,8 +1661,8 @@ Co-Authored-By: Florian Aucomte <f.aucomte@hotmail.co.uk>
 ### Bug Fixes
 
 - Add personalisation values to reminder emails
-  ([#2357](https://github.com/ocadotechnology/codeforlife-portal/pull/2357),
-  [`2046004`](https://github.com/ocadotechnology/codeforlife-portal/commit/2046004598dc20ad4d30ded3c581eaf3fea8ad95))
+  ([#2357](https://github.com/codeforlife-education/codeforlife-portal/pull/2357),
+  [`2046004`](https://github.com/codeforlife-education/codeforlife-portal/commit/2046004598dc20ad4d30ded3c581eaf3fea8ad95))
 
 
 ## v7.3.3 (2024-09-11)
@@ -1649,8 +1670,8 @@ Co-Authored-By: Florian Aucomte <f.aucomte@hotmail.co.uk>
 ### Bug Fixes
 
 - Add data-nosnippet to login spans
-  ([#2349](https://github.com/ocadotechnology/codeforlife-portal/pull/2349),
-  [`70b415a`](https://github.com/ocadotechnology/codeforlife-portal/commit/70b415a76fa174e79e2bc2a5a0581a60e055e616))
+  ([#2349](https://github.com/codeforlife-education/codeforlife-portal/pull/2349),
+  [`70b415a`](https://github.com/codeforlife-education/codeforlife-portal/commit/70b415a76fa174e79e2bc2a5a0581a60e055e616))
 
 
 ## v7.3.2 (2024-09-10)
@@ -1658,8 +1679,8 @@ Co-Authored-By: Florian Aucomte <f.aucomte@hotmail.co.uk>
 ### Bug Fixes
 
 - Fix permissions check for moving students
-  ([#2347](https://github.com/ocadotechnology/codeforlife-portal/pull/2347),
-  [`00cb0c7`](https://github.com/ocadotechnology/codeforlife-portal/commit/00cb0c7737f66af6882b6cc41e650fe923da1358))
+  ([#2347](https://github.com/codeforlife-education/codeforlife-portal/pull/2347),
+  [`00cb0c7`](https://github.com/codeforlife-education/codeforlife-portal/commit/00cb0c7737f66af6882b6cc41e650fe923da1358))
 
 
 ## v7.3.1 (2024-09-05)
@@ -1667,8 +1688,8 @@ Co-Authored-By: Florian Aucomte <f.aucomte@hotmail.co.uk>
 ### Bug Fixes
 
 - Update broken blockly documentation link
-  ([#2346](https://github.com/ocadotechnology/codeforlife-portal/pull/2346),
-  [`43c285e`](https://github.com/ocadotechnology/codeforlife-portal/commit/43c285e785efe303e7db1e8ffdf337bc87afea28))
+  ([#2346](https://github.com/codeforlife-education/codeforlife-portal/pull/2346),
+  [`43c285e`](https://github.com/codeforlife-education/codeforlife-portal/commit/43c285e785efe303e7db1e8ffdf337bc87afea28))
 
 
 ## v7.3.0 (2024-09-05)
@@ -1676,8 +1697,8 @@ Co-Authored-By: Florian Aucomte <f.aucomte@hotmail.co.uk>
 ### Features
 
 - Python Den level control
-  ([#2345](https://github.com/ocadotechnology/codeforlife-portal/pull/2345),
-  [`1637d51`](https://github.com/ocadotechnology/codeforlife-portal/commit/1637d5138e41690a052293a36fe9d6fc1642e6ed))
+  ([#2345](https://github.com/codeforlife-education/codeforlife-portal/pull/2345),
+  [`1637d51`](https://github.com/codeforlife-education/codeforlife-portal/commit/1637d5138e41690a052293a36fe9d6fc1642e6ed))
 
 * feat: Python Den level control
 
@@ -1698,8 +1719,9 @@ Co-Authored-By: Florian Aucomte <f.aucomte@hotmail.co.uk>
 
 ### Bug Fixes
 
-- Upgrade to Python 3.12 ([#2344](https://github.com/ocadotechnology/codeforlife-portal/pull/2344),
-  [`06dfa2f`](https://github.com/ocadotechnology/codeforlife-portal/commit/06dfa2fc274254571dea38894d0be8d3a9d2ad8b))
+- Upgrade to Python 3.12
+  ([#2344](https://github.com/codeforlife-education/codeforlife-portal/pull/2344),
+  [`06dfa2f`](https://github.com/codeforlife-education/codeforlife-portal/commit/06dfa2fc274254571dea38894d0be8d3a9d2ad8b))
 
 * fix: Upgrade to Python 3.12
 
@@ -1712,8 +1734,9 @@ Co-Authored-By: Florian Aucomte <f.aucomte@hotmail.co.uk>
 
 ### Features
 
-- Add links to Python Den ([#2342](https://github.com/ocadotechnology/codeforlife-portal/pull/2342),
-  [`3ac054d`](https://github.com/ocadotechnology/codeforlife-portal/commit/3ac054d4b41543264567343975c2799aab2df831))
+- Add links to Python Den
+  ([#2342](https://github.com/codeforlife-education/codeforlife-portal/pull/2342),
+  [`3ac054d`](https://github.com/codeforlife-education/codeforlife-portal/commit/3ac054d4b41543264567343975c2799aab2df831))
 
 * feat: Add links to Python Den
 
@@ -1728,8 +1751,9 @@ Co-Authored-By: Florian Aucomte <f.aucomte@hotmail.co.uk>
 
 ### Bug Fixes
 
-- Updates for Python Den ([#2338](https://github.com/ocadotechnology/codeforlife-portal/pull/2338),
-  [`9f19fc3`](https://github.com/ocadotechnology/codeforlife-portal/commit/9f19fc39f592384b25d8d045a5562228444119ef))
+- Updates for Python Den
+  ([#2338](https://github.com/codeforlife-education/codeforlife-portal/pull/2338),
+  [`9f19fc3`](https://github.com/codeforlife-education/codeforlife-portal/commit/9f19fc39f592384b25d8d045a5562228444119ef))
 
 * Rename level name param in URL
 
@@ -1743,8 +1767,8 @@ Co-Authored-By: Florian Aucomte <f.aucomte@hotmail.co.uk>
 ### Bug Fixes
 
 - Re-include common fixtures in package
-  ([#2336](https://github.com/ocadotechnology/codeforlife-portal/pull/2336),
-  [`1c2c87e`](https://github.com/ocadotechnology/codeforlife-portal/commit/1c2c87e9c29d730d043e2bafb296b563cca5a51a))
+  ([#2336](https://github.com/codeforlife-education/codeforlife-portal/pull/2336),
+  [`1c2c87e`](https://github.com/codeforlife-education/codeforlife-portal/commit/1c2c87e9c29d730d043e2bafb296b563cca5a51a))
 
 
 ## v7.1.0 (2024-08-06)
@@ -1752,8 +1776,8 @@ Co-Authored-By: Florian Aucomte <f.aucomte@hotmail.co.uk>
 ### Features
 
 - Create cron job endpoints for incoming anonymisation warnings
-  ([#2333](https://github.com/ocadotechnology/codeforlife-portal/pull/2333),
-  [`97344d5`](https://github.com/ocadotechnology/codeforlife-portal/commit/97344d58547e55f8a9373b2be353e4fa997a75f6))
+  ([#2333](https://github.com/codeforlife-education/codeforlife-portal/pull/2333),
+  [`97344d5`](https://github.com/codeforlife-education/codeforlife-portal/commit/97344d58547e55f8a9373b2be353e4fa997a75f6))
 
 * feat: Create cron job endpoints for incoming anonymisation warnings
 
@@ -1773,8 +1797,8 @@ Co-Authored-By: Florian Aucomte <f.aucomte@hotmail.co.uk>
 ### Bug Fixes
 
 - Remove Kurono references, URLs and functionality
-  ([#2334](https://github.com/ocadotechnology/codeforlife-portal/pull/2334),
-  [`3a2315d`](https://github.com/ocadotechnology/codeforlife-portal/commit/3a2315d11746a3172a67257b7efde744d7cf7843))
+  ([#2334](https://github.com/codeforlife-education/codeforlife-portal/pull/2334),
+  [`3a2315d`](https://github.com/codeforlife-education/codeforlife-portal/commit/3a2315d11746a3172a67257b7efde744d7cf7843))
 
 * fix: Remove Kurono references, URLs and functionality
 
@@ -1790,8 +1814,8 @@ Co-Authored-By: Florian Aucomte <f.aucomte@hotmail.co.uk>
 ### Bug Fixes
 
 - Add migration to clean class data
-  ([#2332](https://github.com/ocadotechnology/codeforlife-portal/pull/2332),
-  [`2777025`](https://github.com/ocadotechnology/codeforlife-portal/commit/2777025f1089760529776262c0a3a2c447af04fa))
+  ([#2332](https://github.com/codeforlife-education/codeforlife-portal/pull/2332),
+  [`2777025`](https://github.com/codeforlife-education/codeforlife-portal/commit/2777025f1089760529776262c0a3a2c447af04fa))
 
 * add migration to clean class data
 
@@ -1814,8 +1838,9 @@ Co-Authored-By: Florian Aucomte <f.aucomte@hotmail.co.uk>
 
 ### Features
 
-- Add ten year map page ([#2317](https://github.com/ocadotechnology/codeforlife-portal/pull/2317),
-  [`9c7c69d`](https://github.com/ocadotechnology/codeforlife-portal/commit/9c7c69d0adcbdf40dcf62351fdce27f14c7d4a2e))
+- Add ten year map page
+  ([#2317](https://github.com/codeforlife-education/codeforlife-portal/pull/2317),
+  [`9c7c69d`](https://github.com/codeforlife-education/codeforlife-portal/commit/9c7c69d0adcbdf40dcf62351fdce27f14c7d4a2e))
 
 * start work
 
@@ -1855,8 +1880,8 @@ Co-Authored-By: faucomte97 <f.aucomte@hotmail.co.uk>
 ### Bug Fixes
 
 - **deps**: Bump setuptools from 65.5.1 to 70.3.0
-  ([#2323](https://github.com/ocadotechnology/codeforlife-portal/pull/2323),
-  [`e63b1f4`](https://github.com/ocadotechnology/codeforlife-portal/commit/e63b1f4c738625d4c9340b11f01d6ea587068bfc))
+  ([#2323](https://github.com/codeforlife-education/codeforlife-portal/pull/2323),
+  [`e63b1f4`](https://github.com/codeforlife-education/codeforlife-portal/commit/e63b1f4c738625d4c9340b11f01d6ea587068bfc))
 
 * fix(deps): bump setuptools from 65.5.1 to 70.0.0
 
@@ -1878,8 +1903,8 @@ Co-Authored-By: faucomte97 <f.aucomte@hotmail.co.uk>
 
 ### Bug Fixes
 
-- Update user stats ([#2322](https://github.com/ocadotechnology/codeforlife-portal/pull/2322),
-  [`2cad48a`](https://github.com/ocadotechnology/codeforlife-portal/commit/2cad48a839f97c0a2b73d255104cac8775c2f585))
+- Update user stats ([#2322](https://github.com/codeforlife-education/codeforlife-portal/pull/2322),
+  [`2cad48a`](https://github.com/codeforlife-education/codeforlife-portal/commit/2cad48a839f97c0a2b73d255104cac8775c2f585))
 
 
 ## v6.45.4 (2024-06-27)
@@ -1887,7 +1912,7 @@ Co-Authored-By: faucomte97 <f.aucomte@hotmail.co.uk>
 ### Bug Fixes
 
 - Revert "fix(deps): bump djangorestframework from 3.13.1 to 3.15.2 (#2318)"
-  ([`c47577f`](https://github.com/ocadotechnology/codeforlife-portal/commit/c47577f0f998e68927d7d233736da50c25bb9c2d))
+  ([`c47577f`](https://github.com/codeforlife-education/codeforlife-portal/commit/c47577f0f998e68927d7d233736da50c25bb9c2d))
 
 This reverts commit 3bff5bfa5563fb51a01aa4bfddeb324169a94462.
 
@@ -1897,13 +1922,13 @@ This reverts commit 3bff5bfa5563fb51a01aa4bfddeb324169a94462.
 ### Bug Fixes
 
 - Bring back old action as needed for PyPI deployments
-  ([`7213eff`](https://github.com/ocadotechnology/codeforlife-portal/commit/7213eff66850e5a38905494cb58cc93e56a77081))
+  ([`7213eff`](https://github.com/codeforlife-education/codeforlife-portal/commit/7213eff66850e5a38905494cb58cc93e56a77081))
 
 - Fix mismatching version
-  ([`3268580`](https://github.com/ocadotechnology/codeforlife-portal/commit/32685800c5011aab3ea9443f6f2a2bbfacf59e3d))
+  ([`3268580`](https://github.com/codeforlife-education/codeforlife-portal/commit/32685800c5011aab3ea9443f6f2a2bbfacf59e3d))
 
 - Upgrade actions versions (dummy commit)
-  ([`0930d28`](https://github.com/ocadotechnology/codeforlife-portal/commit/0930d287ae08205c5eea92c9a48c99763507d0d5))
+  ([`0930d28`](https://github.com/codeforlife-education/codeforlife-portal/commit/0930d287ae08205c5eea92c9a48c99763507d0d5))
 
 
 ## v6.45.2 (2024-06-27)
@@ -1911,14 +1936,14 @@ This reverts commit 3bff5bfa5563fb51a01aa4bfddeb324169a94462.
 ### Bug Fixes
 
 - Test removing setup step in publish job
-  ([`56681cb`](https://github.com/ocadotechnology/codeforlife-portal/commit/56681cb6f660000a3c304f8f6d51332aaefda7a2))
+  ([`56681cb`](https://github.com/codeforlife-education/codeforlife-portal/commit/56681cb6f660000a3c304f8f6d51332aaefda7a2))
 
 - Try scrapping old action and use official GA instead
-  ([`a007eb1`](https://github.com/ocadotechnology/codeforlife-portal/commit/a007eb1c5e867620da58f5227f3811ae63945f8d))
+  ([`a007eb1`](https://github.com/codeforlife-education/codeforlife-portal/commit/a007eb1c5e867620da58f5227f3811ae63945f8d))
 
 - **deps**: Bump djangorestframework from 3.13.1 to 3.15.2
-  ([#2318](https://github.com/ocadotechnology/codeforlife-portal/pull/2318),
-  [`3bff5bf`](https://github.com/ocadotechnology/codeforlife-portal/commit/3bff5bfa5563fb51a01aa4bfddeb324169a94462))
+  ([#2318](https://github.com/codeforlife-education/codeforlife-portal/pull/2318),
+  [`3bff5bf`](https://github.com/codeforlife-education/codeforlife-portal/commit/3bff5bfa5563fb51a01aa4bfddeb324169a94462))
 
 * fix(deps): bump djangorestframework from 3.13.1 to 3.15.2
 
@@ -1941,8 +1966,8 @@ Co-Authored-By: faucomte97 <f.aucomte@hotmail.co.uk>
 ### Bug Fixes
 
 - [bugfix/2306] Changed the domain in redirect button for Gmail to new domain
-  ([#2311](https://github.com/ocadotechnology/codeforlife-portal/pull/2311),
-  [`67a1dac`](https://github.com/ocadotechnology/codeforlife-portal/commit/67a1dacc1c1cd4d0fe754240a8edd2c6b007b60b))
+  ([#2311](https://github.com/codeforlife-education/codeforlife-portal/pull/2311),
+  [`67a1dac`](https://github.com/codeforlife-education/codeforlife-portal/commit/67a1dacc1c1cd4d0fe754240a8edd2c6b007b60b))
 
 * [bugfix/2306] Changed the domain in redirect button for Gmail to refer the new domain
 
@@ -1962,8 +1987,8 @@ Co-Authored-By: Florian Aucomte <f.aucomte@hotmail.co.uk>
 ### Features
 
 - Deverify released students, send new verify email and update join request error message
-  ([#2313](https://github.com/ocadotechnology/codeforlife-portal/pull/2313),
-  [`d726720`](https://github.com/ocadotechnology/codeforlife-portal/commit/d726720ac8a53c57c77319a0f725997ddeaf607b))
+  ([#2313](https://github.com/codeforlife-education/codeforlife-portal/pull/2313),
+  [`d726720`](https://github.com/codeforlife-education/codeforlife-portal/commit/d726720ac8a53c57c77319a0f725997ddeaf607b))
 
 * feat: Deverify released students, send new verify email and update join request error message
 
@@ -1980,8 +2005,8 @@ Co-Authored-By: Florian Aucomte <f.aucomte@hotmail.co.uk>
 ### Bug Fixes
 
 - Create necessary fields for CSE
-  ([#2310](https://github.com/ocadotechnology/codeforlife-portal/pull/2310),
-  [`3ce7025`](https://github.com/ocadotechnology/codeforlife-portal/commit/3ce702519607e0e0e4296971eb198279d1d3462e))
+  ([#2310](https://github.com/codeforlife-education/codeforlife-portal/pull/2310),
+  [`3ce7025`](https://github.com/codeforlife-education/codeforlife-portal/commit/3ce702519607e0e0e4296971eb198279d1d3462e))
 
 * fix: Create necessary fields for CSE
 
@@ -1996,16 +2021,16 @@ Co-Authored-By: Florian Aucomte <f.aucomte@hotmail.co.uk>
 ### Bug Fixes
 
 - Revert to semantic-release deployment and update action versions
-  ([`c23c35c`](https://github.com/ocadotechnology/codeforlife-portal/commit/c23c35c7a288c44138924fa33ac258e9ad094565))
+  ([`c23c35c`](https://github.com/codeforlife-education/codeforlife-portal/commit/c23c35c7a288c44138924fa33ac258e9ad094565))
 
 - Try publishing to PyPI directly (not semantic-release)
-  ([`112e0a6`](https://github.com/ocadotechnology/codeforlife-portal/commit/112e0a6e34f329ce76dfa7d16213dc9e912f7b30))
+  ([`112e0a6`](https://github.com/codeforlife-education/codeforlife-portal/commit/112e0a6e34f329ce76dfa7d16213dc9e912f7b30))
 
 - Try publishing to PyPI directly, add long_description
-  ([`43e4bdb`](https://github.com/ocadotechnology/codeforlife-portal/commit/43e4bdb9ae6087bce40eb8f7bcc87d80bce42dd0))
+  ([`43e4bdb`](https://github.com/codeforlife-education/codeforlife-portal/commit/43e4bdb9ae6087bce40eb8f7bcc87d80bce42dd0))
 
 - Upgrade requests to 2.32.2
-  ([`1723529`](https://github.com/ocadotechnology/codeforlife-portal/commit/17235297cb58cd0072eb09ea44c967296f7636f7))
+  ([`1723529`](https://github.com/codeforlife-education/codeforlife-portal/commit/17235297cb58cd0072eb09ea44c967296f7636f7))
 
 
 ## v6.44.7 (2024-05-22)
@@ -2013,8 +2038,8 @@ Co-Authored-By: Florian Aucomte <f.aucomte@hotmail.co.uk>
 ### Bug Fixes
 
 - **deps**: Bump requests from 2.31.0 to 2.32.0
-  ([#2309](https://github.com/ocadotechnology/codeforlife-portal/pull/2309),
-  [`80a1f6e`](https://github.com/ocadotechnology/codeforlife-portal/commit/80a1f6e2e07dbc38491b7f06169110b1556b7467))
+  ([#2309](https://github.com/codeforlife-education/codeforlife-portal/pull/2309),
+  [`80a1f6e`](https://github.com/codeforlife-education/codeforlife-portal/commit/80a1f6e2e07dbc38491b7f06169110b1556b7467))
 
 * --- updated-dependencies: - dependency-name: requests dependency-type: direct:production ...
 
@@ -2030,8 +2055,8 @@ Co-Authored-By: Florian Aucomte <f.aucomte@hotmail.co.uk>
 ### Bug Fixes
 
 - Remove legacy weekly stats email
-  ([#2307](https://github.com/ocadotechnology/codeforlife-portal/pull/2307),
-  [`f23610c`](https://github.com/ocadotechnology/codeforlife-portal/commit/f23610c2ac6d4f7e2457cc583d5a83f479e4f6e9))
+  ([#2307](https://github.com/codeforlife-education/codeforlife-portal/pull/2307),
+  [`f23610c`](https://github.com/codeforlife-education/codeforlife-portal/commit/f23610c2ac6d4f7e2457cc583d5a83f479e4f6e9))
 
 * fix: Remove legacy weekly stats email
 
@@ -2042,8 +2067,9 @@ Co-Authored-By: Florian Aucomte <f.aucomte@hotmail.co.uk>
 
 ### Bug Fixes
 
-- Update contribute page ([#2302](https://github.com/ocadotechnology/codeforlife-portal/pull/2302),
-  [`bd69d47`](https://github.com/ocadotechnology/codeforlife-portal/commit/bd69d4767e8d25a927e935a48f704d7ffaf3d463))
+- Update contribute page
+  ([#2302](https://github.com/codeforlife-education/codeforlife-portal/pull/2302),
+  [`bd69d47`](https://github.com/codeforlife-education/codeforlife-portal/commit/bd69d4767e8d25a927e935a48f704d7ffaf3d463))
 
 
 ## v6.44.4 (2024-05-13)
@@ -2051,7 +2077,7 @@ Co-Authored-By: Florian Aucomte <f.aucomte@hotmail.co.uk>
 ### Bug Fixes
 
 - Add gmail and outlook buttons
-  ([`8ae60b9`](https://github.com/ocadotechnology/codeforlife-portal/commit/8ae60b9be21f9a851f99a602ea3a58b5f4a1a3ab))
+  ([`8ae60b9`](https://github.com/codeforlife-education/codeforlife-portal/commit/8ae60b9be21f9a851f99a602ea3a58b5f4a1a3ab))
 
 
 ## v6.44.3 (2024-05-09)
@@ -2059,7 +2085,7 @@ Co-Authored-By: Florian Aucomte <f.aucomte@hotmail.co.uk>
 ### Bug Fixes
 
 - Use update in migration 0051
-  ([`c639f95`](https://github.com/ocadotechnology/codeforlife-portal/commit/c639f95f0ed6a61bffba64777f613c83d28fd258))
+  ([`c639f95`](https://github.com/codeforlife-education/codeforlife-portal/commit/c639f95f0ed6a61bffba64777f613c83d28fd258))
 
 
 ## v6.44.2 (2024-05-08)
@@ -2067,7 +2093,7 @@ Co-Authored-By: Florian Aucomte <f.aucomte@hotmail.co.uk>
 ### Bug Fixes
 
 - Add iterator to migration 0051
-  ([`c2f7fa0`](https://github.com/ocadotechnology/codeforlife-portal/commit/c2f7fa0de628e89c7426132452364c49cf485c21))
+  ([`c2f7fa0`](https://github.com/codeforlife-education/codeforlife-portal/commit/c2f7fa0de628e89c7426132452364c49cf485c21))
 
 
 ## v6.44.1 (2024-05-08)
@@ -2075,8 +2101,8 @@ Co-Authored-By: Florian Aucomte <f.aucomte@hotmail.co.uk>
 ### Bug Fixes
 
 - Improve Django admin pages
-  ([#2296](https://github.com/ocadotechnology/codeforlife-portal/pull/2296),
-  [`c129884`](https://github.com/ocadotechnology/codeforlife-portal/commit/c129884ed792f52dda56e23800b971e50074be5b))
+  ([#2296](https://github.com/codeforlife-education/codeforlife-portal/pull/2296),
+  [`c129884`](https://github.com/codeforlife-education/codeforlife-portal/commit/c129884ed792f52dda56e23800b971e50074be5b))
 
 
 ## v6.44.0 (2024-05-07)
@@ -2084,8 +2110,8 @@ Co-Authored-By: Florian Aucomte <f.aucomte@hotmail.co.uk>
 ### Features
 
 - Update footer with new social media icons
-  ([#2293](https://github.com/ocadotechnology/codeforlife-portal/pull/2293),
-  [`8a16646`](https://github.com/ocadotechnology/codeforlife-portal/commit/8a16646aa6a0493fb02c71337e1ff27d2e8f7eca))
+  ([#2293](https://github.com/codeforlife-education/codeforlife-portal/pull/2293),
+  [`8a16646`](https://github.com/codeforlife-education/codeforlife-portal/commit/8a16646aa6a0493fb02c71337e1ff27d2e8f7eca))
 
 * feat: Update footer with new social media icons
 
@@ -2097,8 +2123,8 @@ Co-Authored-By: Florian Aucomte <f.aucomte@hotmail.co.uk>
 ### Bug Fixes
 
 - Move remaining emails to dotdigital
-  ([#2295](https://github.com/ocadotechnology/codeforlife-portal/pull/2295),
-  [`3abb334`](https://github.com/ocadotechnology/codeforlife-portal/commit/3abb3341029c09913519644eee870b32b3cbc550))
+  ([#2295](https://github.com/codeforlife-education/codeforlife-portal/pull/2295),
+  [`3abb334`](https://github.com/codeforlife-education/codeforlife-portal/commit/3abb3341029c09913519644eee870b32b3cbc550))
 
 * move remaining emails to dotdigital
 
@@ -2144,8 +2170,8 @@ Co-Authored-By: Florian Aucomte <f.aucomte@hotmail.co.uk>
 ### Bug Fixes
 
 - Move account deletion email to dotdigital
-  ([#2289](https://github.com/ocadotechnology/codeforlife-portal/pull/2289),
-  [`40ddfde`](https://github.com/ocadotechnology/codeforlife-portal/commit/40ddfde7f8d61e45dc0cb904ca3a4d7358155c46))
+  ([#2289](https://github.com/codeforlife-education/codeforlife-portal/pull/2289),
+  [`40ddfde`](https://github.com/codeforlife-education/codeforlife-portal/commit/40ddfde7f8d61e45dc0cb904ca3a4d7358155c46))
 
 * move account deletion email to dotdigital
 
@@ -2181,8 +2207,8 @@ Co-Authored-By: Florian Aucomte <f.aucomte@hotmail.co.uk>
 ### Bug Fixes
 
 - Move admin given/revoked emails to dotdigital
-  ([#2292](https://github.com/ocadotechnology/codeforlife-portal/pull/2292),
-  [`c9fddfb`](https://github.com/ocadotechnology/codeforlife-portal/commit/c9fddfb3b7037434c8c77090c365393441629737))
+  ([#2292](https://github.com/codeforlife-education/codeforlife-portal/pull/2292),
+  [`c9fddfb`](https://github.com/codeforlife-education/codeforlife-portal/commit/c9fddfb3b7037434c8c77090c365393441629737))
 
 * move admin given/revoked emails to dotdigital
 
@@ -2207,8 +2233,9 @@ Co-Authored-By: faucomte97 <f.aucomte@hotmail.co.uk>
 
 ### Features
 
-- Clean illogical data ([#2290](https://github.com/ocadotechnology/codeforlife-portal/pull/2290),
-  [`831200f`](https://github.com/ocadotechnology/codeforlife-portal/commit/831200fb60836ca12db9ad3cff4605a62b7c9baa))
+- Clean illogical data
+  ([#2290](https://github.com/codeforlife-education/codeforlife-portal/pull/2290),
+  [`831200f`](https://github.com/codeforlife-education/codeforlife-portal/commit/831200fb60836ca12db9ad3cff4605a62b7c9baa))
 
 
 ## v6.42.0 (2024-04-29)
@@ -2216,8 +2243,8 @@ Co-Authored-By: faucomte97 <f.aucomte@hotmail.co.uk>
 ### Features
 
 - Enable atomic transactions
-  ([#2288](https://github.com/ocadotechnology/codeforlife-portal/pull/2288),
-  [`00fe5cd`](https://github.com/ocadotechnology/codeforlife-portal/commit/00fe5cd19e761086798dae0f9a83cd318764f9f1))
+  ([#2288](https://github.com/codeforlife-education/codeforlife-portal/pull/2288),
+  [`00fe5cd`](https://github.com/codeforlife-education/codeforlife-portal/commit/00fe5cd19e761086798dae0f9a83cd318764f9f1))
 
 
 ## v6.41.12 (2024-04-23)
@@ -2225,13 +2252,13 @@ Co-Authored-By: faucomte97 <f.aucomte@hotmail.co.uk>
 ### Bug Fixes
 
 - Move jQuery load earlier
-  ([#2287](https://github.com/ocadotechnology/codeforlife-portal/pull/2287),
-  [`5fed9b2`](https://github.com/ocadotechnology/codeforlife-portal/commit/5fed9b21c3b359ff0aac4d53c56f85a3ed20e13f))
+  ([#2287](https://github.com/codeforlife-education/codeforlife-portal/pull/2287),
+  [`5fed9b2`](https://github.com/codeforlife-education/codeforlife-portal/commit/5fed9b21c3b359ff0aac4d53c56f85a3ed20e13f))
 
 ### Build System
 
 - Relock Pipfile
-  ([`07da96d`](https://github.com/ocadotechnology/codeforlife-portal/commit/07da96d5b5b2140aad6b771962d0740af60a4620))
+  ([`07da96d`](https://github.com/codeforlife-education/codeforlife-portal/commit/07da96d5b5b2140aad6b771962d0740af60a4620))
 
 
 ## v6.41.11 (2024-04-16)
@@ -2239,8 +2266,8 @@ Co-Authored-By: faucomte97 <f.aucomte@hotmail.co.uk>
 ### Bug Fixes
 
 - **deps**: Bump sqlparse from 0.4.4 to 0.5.0
-  ([#2284](https://github.com/ocadotechnology/codeforlife-portal/pull/2284),
-  [`3620a68`](https://github.com/ocadotechnology/codeforlife-portal/commit/3620a6889d7aebfb400cce4f7ca5630bb91c9d44))
+  ([#2284](https://github.com/codeforlife-education/codeforlife-portal/pull/2284),
+  [`3620a68`](https://github.com/codeforlife-education/codeforlife-portal/commit/3620a6889d7aebfb400cce4f7ca5630bb91c9d44))
 
 * fix(deps): bump sqlparse from 0.4.4 to 0.5.0
 
@@ -2262,8 +2289,8 @@ Co-Authored-By: faucomte97 <f.aucomte@hotmail.co.uk>
 ### Bug Fixes
 
 - Update from email address in Gmail button filter
-  ([#2283](https://github.com/ocadotechnology/codeforlife-portal/pull/2283),
-  [`4ab1add`](https://github.com/ocadotechnology/codeforlife-portal/commit/4ab1add30b0d0fe31bd037571bf5ba17ec3580ee))
+  ([#2283](https://github.com/codeforlife-education/codeforlife-portal/pull/2283),
+  [`4ab1add`](https://github.com/codeforlife-education/codeforlife-portal/commit/4ab1add30b0d0fe31bd037571bf5ba17ec3580ee))
 
 * fix: Update from email address in Gmail button filter
 
@@ -2275,8 +2302,8 @@ Co-Authored-By: faucomte97 <f.aucomte@hotmail.co.uk>
 ### Bug Fixes
 
 - Move reset password email
-  ([#2281](https://github.com/ocadotechnology/codeforlife-portal/pull/2281),
-  [`e00604f`](https://github.com/ocadotechnology/codeforlife-portal/commit/e00604f4db531b7b45d2eff5b0e0bb0b43e1c947))
+  ([#2281](https://github.com/codeforlife-education/codeforlife-portal/pull/2281),
+  [`e00604f`](https://github.com/codeforlife-education/codeforlife-portal/commit/e00604f4db531b7b45d2eff5b0e0bb0b43e1c947))
 
 * fix: move verification emails to Dotdigital
 
@@ -2352,7 +2379,7 @@ Co-Authored-By: Florian Aucomte <f.aucomte@hotmail.co.uk>
 ### Bug Fixes
 
 - Youtube text to main policy and update last updated
-  ([`91657e6`](https://github.com/ocadotechnology/codeforlife-portal/commit/91657e60d09d3b9bb14209e72d1b59df3d118156))
+  ([`91657e6`](https://github.com/codeforlife-education/codeforlife-portal/commit/91657e60d09d3b9bb14209e72d1b59df3d118156))
 
 
 ## v6.41.7 (2024-04-11)
@@ -2360,8 +2387,8 @@ Co-Authored-By: Florian Aucomte <f.aucomte@hotmail.co.uk>
 ### Bug Fixes
 
 - Fix broken Mouseflow cookie
-  ([#2276](https://github.com/ocadotechnology/codeforlife-portal/pull/2276),
-  [`bbe09e5`](https://github.com/ocadotechnology/codeforlife-portal/commit/bbe09e514500ba96616d99dabee16b3a19670caa))
+  ([#2276](https://github.com/codeforlife-education/codeforlife-portal/pull/2276),
+  [`bbe09e5`](https://github.com/codeforlife-education/codeforlife-portal/commit/bbe09e514500ba96616d99dabee16b3a19670caa))
 
 * fix: Fix broken Mouseflow cookie
 
@@ -2375,8 +2402,8 @@ Co-Authored-By: Florian Aucomte <f.aucomte@hotmail.co.uk>
 ### Bug Fixes
 
 - Move verification emails to Dotdigital
-  ([#2277](https://github.com/ocadotechnology/codeforlife-portal/pull/2277),
-  [`19b96d6`](https://github.com/ocadotechnology/codeforlife-portal/commit/19b96d6a6824d2d14f174c2c497ccf75628d6004))
+  ([#2277](https://github.com/codeforlife-education/codeforlife-portal/pull/2277),
+  [`19b96d6`](https://github.com/codeforlife-education/codeforlife-portal/commit/19b96d6a6824d2d14f174c2c497ccf75628d6004))
 
 * fix: move verification emails to Dotdigital
 
@@ -2447,8 +2474,8 @@ Co-Authored-By: Florian Aucomte <f.aucomte@hotmail.co.uk>
 ### Build System
 
 - **deps-dev**: Bump black from 24.2.0 to 24.3.0
-  ([#2274](https://github.com/ocadotechnology/codeforlife-portal/pull/2274),
-  [`cd5d67b`](https://github.com/ocadotechnology/codeforlife-portal/commit/cd5d67bb1dc8a74b0178662949689cb6ad0ec821))
+  ([#2274](https://github.com/codeforlife-education/codeforlife-portal/pull/2274),
+  [`cd5d67b`](https://github.com/codeforlife-education/codeforlife-portal/commit/cd5d67bb1dc8a74b0178662949689cb6ad0ec821))
 
 Bumps [black](https://github.com/psf/black) from 24.2.0 to 24.3.0. - [Release
   notes](https://github.com/psf/black/releases) -
@@ -2461,8 +2488,8 @@ Signed-off-by: dependabot[bot] <support@github.com>
 
 ### Continuous Integration
 
-- Test discovery ([#2278](https://github.com/ocadotechnology/codeforlife-portal/pull/2278),
-  [`afdced8`](https://github.com/ocadotechnology/codeforlife-portal/commit/afdced88ce855ba70aeb9b0a28117cacf24d9e7e))
+- Test discovery ([#2278](https://github.com/codeforlife-education/codeforlife-portal/pull/2278),
+  [`afdced8`](https://github.com/codeforlife-education/codeforlife-portal/commit/afdced88ce855ba70aeb9b0a28117cacf24d9e7e))
 
 
 ## v6.41.5 (2024-03-20)
@@ -2473,8 +2500,8 @@ Signed-off-by: dependabot[bot] <support@github.com>
 ### Bug Fixes
 
 - **deps**: Bump django from 3.2.24 to 3.2.25
-  ([#2272](https://github.com/ocadotechnology/codeforlife-portal/pull/2272),
-  [`dde6774`](https://github.com/ocadotechnology/codeforlife-portal/commit/dde6774782f6303b880a44473be9c23677929a28))
+  ([#2272](https://github.com/codeforlife-education/codeforlife-portal/pull/2272),
+  [`dde6774`](https://github.com/codeforlife-education/codeforlife-portal/commit/dde6774782f6303b880a44473be9c23677929a28))
 
 * fix(deps): bump django from 3.2.24 to 3.2.25
 
@@ -2499,14 +2526,14 @@ Co-authored-by: faucomte97 <f.aucomte@hotmail.co.uk>
 ### Bug Fixes
 
 - Change website logos to trademarked versions
-  ([`7b603ec`](https://github.com/ocadotechnology/codeforlife-portal/commit/7b603eca2d2ec9f820bf591aa6bfffff558914e5))
+  ([`7b603ec`](https://github.com/codeforlife-education/codeforlife-portal/commit/7b603eca2d2ec9f820bf591aa6bfffff558914e5))
 
 - Correct logo colors
-  ([`741c224`](https://github.com/ocadotechnology/codeforlife-portal/commit/741c2243b54330143d1b07d41b3e746e11a03db3))
+  ([`741c224`](https://github.com/codeforlife-education/codeforlife-portal/commit/741c2243b54330143d1b07d41b3e746e11a03db3))
 
 - Make email spam warning more prominent
-  ([#2268](https://github.com/ocadotechnology/codeforlife-portal/pull/2268),
-  [`e3aa963`](https://github.com/ocadotechnology/codeforlife-portal/commit/e3aa96320422f2d019bf867a3d559bedece0a7eb))
+  ([#2268](https://github.com/codeforlife-education/codeforlife-portal/pull/2268),
+  [`e3aa963`](https://github.com/codeforlife-education/codeforlife-portal/commit/e3aa96320422f2d019bf867a3d559bedece0a7eb))
 
 * fix: Make message to check spam more prominent
 
@@ -2515,12 +2542,12 @@ Co-authored-by: faucomte97 <f.aucomte@hotmail.co.uk>
 * Make back button consistent
 
 - Rename variable for clarity
-  ([`de55cd4`](https://github.com/ocadotechnology/codeforlife-portal/commit/de55cd49feb5386380bb82ce626059655cefa87e))
+  ([`de55cd4`](https://github.com/codeforlife-education/codeforlife-portal/commit/de55cd49feb5386380bb82ce626059655cefa87e))
 
 ### Continuous Integration
 
-- Add dev container ([#2266](https://github.com/ocadotechnology/codeforlife-portal/pull/2266),
-  [`a535404`](https://github.com/ocadotechnology/codeforlife-portal/commit/a535404d1231a7fbc9890f371c6c0b07c1fa8644))
+- Add dev container ([#2266](https://github.com/codeforlife-education/codeforlife-portal/pull/2266),
+  [`a535404`](https://github.com/codeforlife-education/codeforlife-portal/commit/a535404d1231a7fbc9890f371c6c0b07c1fa8644))
 
 * add dev container
 
@@ -2538,8 +2565,8 @@ Co-Authored-By: Florian Aucomte <f.aucomte@hotmail.co.uk>
 ### Bug Fixes
 
 - Fix scoring data in student dashboard
-  ([#2265](https://github.com/ocadotechnology/codeforlife-portal/pull/2265),
-  [`529e99c`](https://github.com/ocadotechnology/codeforlife-portal/commit/529e99c6c7ae979a542c34edca9cfa4c77b612ed))
+  ([#2265](https://github.com/codeforlife-education/codeforlife-portal/pull/2265),
+  [`529e99c`](https://github.com/codeforlife-education/codeforlife-portal/commit/529e99c6c7ae979a542c34edca9cfa4c77b612ed))
 
 * fix: Fix scoring data in student dashboard
 
@@ -2552,8 +2579,8 @@ Co-Authored-By: Florian Aucomte <f.aucomte@hotmail.co.uk>
 ### Documentation
 
 - Add licence info to Readme
-  ([#2264](https://github.com/ocadotechnology/codeforlife-portal/pull/2264),
-  [`4539dd5`](https://github.com/ocadotechnology/codeforlife-portal/commit/4539dd593a6e520e65af465e82bcce7bbf8f8460))
+  ([#2264](https://github.com/codeforlife-education/codeforlife-portal/pull/2264),
+  [`4539dd5`](https://github.com/codeforlife-education/codeforlife-portal/commit/4539dd593a6e520e65af465e82bcce7bbf8f8460))
 
 
 ## v6.41.1 (2024-02-14)
@@ -2561,8 +2588,8 @@ Co-Authored-By: Florian Aucomte <f.aucomte@hotmail.co.uk>
 ### Bug Fixes
 
 - Insert badge into footer
-  ([#2263](https://github.com/ocadotechnology/codeforlife-portal/pull/2263),
-  [`aa0a3b5`](https://github.com/ocadotechnology/codeforlife-portal/commit/aa0a3b5a8f4e9c81642dbcac2630e64bc8b454a3))
+  ([#2263](https://github.com/codeforlife-education/codeforlife-portal/pull/2263),
+  [`aa0a3b5`](https://github.com/codeforlife-education/codeforlife-portal/commit/aa0a3b5a8f4e9c81642dbcac2630e64bc8b454a3))
 
 * fix: insert badge into footer
 
@@ -2583,8 +2610,8 @@ Co-Authored-By: Florian Aucomte <f.aucomte@hotmail.co.uk>
 ### Features
 
 - Outlook button on verify email
-  ([#2262](https://github.com/ocadotechnology/codeforlife-portal/pull/2262),
-  [`9b3baf7`](https://github.com/ocadotechnology/codeforlife-portal/commit/9b3baf78b33e66e86f62e19674ca2e1c6a546414))
+  ([#2262](https://github.com/codeforlife-education/codeforlife-portal/pull/2262),
+  [`9b3baf7`](https://github.com/codeforlife-education/codeforlife-portal/commit/9b3baf78b33e66e86f62e19674ca2e1c6a546414))
 
 
 ## v6.40.1 (2024-02-08)
@@ -2592,8 +2619,8 @@ Co-Authored-By: Florian Aucomte <f.aucomte@hotmail.co.uk>
 ### Bug Fixes
 
 - **deps**: Bump django from 3.2.23 to 3.2.24
-  ([#2259](https://github.com/ocadotechnology/codeforlife-portal/pull/2259),
-  [`e635b2d`](https://github.com/ocadotechnology/codeforlife-portal/commit/e635b2d59d46e79e2b8119a00de83c6b6fab1aac))
+  ([#2259](https://github.com/codeforlife-education/codeforlife-portal/pull/2259),
+  [`e635b2d`](https://github.com/codeforlife-education/codeforlife-portal/commit/e635b2d59d46e79e2b8119a00de83c6b6fab1aac))
 
 * fix(deps): bump django from 3.2.23 to 3.2.24
 
@@ -2614,8 +2641,8 @@ Co-Authored-By: faucomte97 <f.aucomte@hotmail.co.uk>
 ### Build System
 
 - **deps-dev**: Bump aiohttp from 3.9.1 to 3.9.2
-  ([#2256](https://github.com/ocadotechnology/codeforlife-portal/pull/2256),
-  [`72ec343`](https://github.com/ocadotechnology/codeforlife-portal/commit/72ec343af1a32c312148f8db46e53d5a448de5db))
+  ([#2256](https://github.com/codeforlife-education/codeforlife-portal/pull/2256),
+  [`72ec343`](https://github.com/codeforlife-education/codeforlife-portal/commit/72ec343af1a32c312148f8db46e53d5a448de5db))
 
 * build(deps-dev): bump aiohttp from 3.9.1 to 3.9.2
 
@@ -2637,20 +2664,20 @@ Co-Authored-By: faucomte97 <f.aucomte@hotmail.co.uk>
 ### Continuous Integration
 
 - Add .venv folder
-  ([`96c07d1`](https://github.com/ocadotechnology/codeforlife-portal/commit/96c07d119a92c18df2523bddf2d39039005a405a))
+  ([`96c07d1`](https://github.com/codeforlife-education/codeforlife-portal/commit/96c07d119a92c18df2523bddf2d39039005a405a))
 
 - Re-ignore .venv folder
-  ([`410e348`](https://github.com/ocadotechnology/codeforlife-portal/commit/410e3480486d719e871e24f1fe8c46bec1651dcb))
+  ([`410e348`](https://github.com/codeforlife-education/codeforlife-portal/commit/410e3480486d719e871e24f1fe8c46bec1651dcb))
 
 - Validate existing contributor
-  ([#2253](https://github.com/ocadotechnology/codeforlife-portal/pull/2253),
-  [`ade8718`](https://github.com/ocadotechnology/codeforlife-portal/commit/ade8718b24cd7f80e6182e1b04bb57bde7fcaf23))
+  ([#2253](https://github.com/codeforlife-education/codeforlife-portal/pull/2253),
+  [`ade8718`](https://github.com/codeforlife-education/codeforlife-portal/commit/ade8718b24cd7f80e6182e1b04bb57bde7fcaf23))
 
 ### Features
 
 - Add link to 2023 Impact Report
-  ([#2257](https://github.com/ocadotechnology/codeforlife-portal/pull/2257),
-  [`94208fb`](https://github.com/ocadotechnology/codeforlife-portal/commit/94208fb6b7df27bd90270caabddbfb68eafefa12))
+  ([#2257](https://github.com/codeforlife-education/codeforlife-portal/pull/2257),
+  [`94208fb`](https://github.com/codeforlife-education/codeforlife-portal/commit/94208fb6b7df27bd90270caabddbfb68eafefa12))
 
 
 ## v6.39.10 (2024-01-10)
@@ -2658,8 +2685,8 @@ Co-Authored-By: faucomte97 <f.aucomte@hotmail.co.uk>
 ### Bug Fixes
 
 - Update HTTP headers and CSRF sessions usage
-  ([#2252](https://github.com/ocadotechnology/codeforlife-portal/pull/2252),
-  [`95000ca`](https://github.com/ocadotechnology/codeforlife-portal/commit/95000cafb8acaa53809f1c3f24c1c22ae78d32fb))
+  ([#2252](https://github.com/codeforlife-education/codeforlife-portal/pull/2252),
+  [`95000ca`](https://github.com/codeforlife-education/codeforlife-portal/commit/95000cafb8acaa53809f1c3f24c1c22ae78d32fb))
 
 * fix: Update HTTP headers and CSRF sessions usage
 
@@ -2670,20 +2697,21 @@ Co-Authored-By: faucomte97 <f.aucomte@hotmail.co.uk>
 
 ### Bug Fixes
 
-- Git user to cfl-bot ([#2247](https://github.com/ocadotechnology/codeforlife-portal/pull/2247),
-  [`704caac`](https://github.com/ocadotechnology/codeforlife-portal/commit/704caacd1febf19e965186fdd1185041524cd375))
+- Git user to cfl-bot
+  ([#2247](https://github.com/codeforlife-education/codeforlife-portal/pull/2247),
+  [`704caac`](https://github.com/codeforlife-education/codeforlife-portal/commit/704caacd1febf19e965186fdd1185041524cd375))
 
 - Try adding long desc to common setup
-  ([#2246](https://github.com/ocadotechnology/codeforlife-portal/pull/2246),
-  [`2ab58f4`](https://github.com/ocadotechnology/codeforlife-portal/commit/2ab58f48e2aa5c8f1972976587b84c06b6011c94))
+  ([#2246](https://github.com/codeforlife-education/codeforlife-portal/pull/2246),
+  [`2ab58f4`](https://github.com/codeforlife-education/codeforlife-portal/commit/2ab58f48e2aa5c8f1972976587b84c06b6011c94))
 
 * fix: Try adding long desc to common setup
 
 * Just use text
 
 - Try upgrading setuptools again and remove old react frontend
-  ([#2245](https://github.com/ocadotechnology/codeforlife-portal/pull/2245),
-  [`5e1c186`](https://github.com/ocadotechnology/codeforlife-portal/commit/5e1c186626318bac341de214fcb1b9f515500630))
+  ([#2245](https://github.com/codeforlife-education/codeforlife-portal/pull/2245),
+  [`5e1c186`](https://github.com/codeforlife-education/codeforlife-portal/commit/5e1c186626318bac341de214fcb1b9f515500630))
 
 * fix: Try upgrading setuptools again and remove old react frontend
 
@@ -2694,8 +2722,8 @@ Co-Authored-By: faucomte97 <f.aucomte@hotmail.co.uk>
 ### Continuous Integration
 
 - Replace Razbot with CFLbot
-  ([#2244](https://github.com/ocadotechnology/codeforlife-portal/pull/2244),
-  [`4922e37`](https://github.com/ocadotechnology/codeforlife-portal/commit/4922e3700f086848a4e91d36c33d0a0450702a15))
+  ([#2244](https://github.com/codeforlife-education/codeforlife-portal/pull/2244),
+  [`4922e37`](https://github.com/codeforlife-education/codeforlife-portal/commit/4922e3700f086848a4e91d36c33d0a0450702a15))
 
 * ci: Replace Razbot with CFLbot
 
@@ -2707,14 +2735,14 @@ Co-Authored-By: faucomte97 <f.aucomte@hotmail.co.uk>
 ### Bug Fixes
 
 - Upgrade Django to 3.2.23 again (CI/CD measuring)
-  ([#2238](https://github.com/ocadotechnology/codeforlife-portal/pull/2238),
-  [`d7b60f6`](https://github.com/ocadotechnology/codeforlife-portal/commit/d7b60f64da05944cae3b10cc0e94a38ee1bf596a))
+  ([#2238](https://github.com/codeforlife-education/codeforlife-portal/pull/2238),
+  [`d7b60f6`](https://github.com/codeforlife-education/codeforlife-portal/commit/d7b60f64da05944cae3b10cc0e94a38ee1bf596a))
 
 ### Build System
 
 - Downgrade Django (CI/CD measuring)
-  ([#2237](https://github.com/ocadotechnology/codeforlife-portal/pull/2237),
-  [`2cbf423`](https://github.com/ocadotechnology/codeforlife-portal/commit/2cbf4232570e6523db534b8fb746b67276593307))
+  ([#2237](https://github.com/codeforlife-education/codeforlife-portal/pull/2237),
+  [`2cbf423`](https://github.com/codeforlife-education/codeforlife-portal/commit/2cbf4232570e6523db534b8fb746b67276593307))
 
 
 ## v6.39.7 (2023-11-21)
@@ -2722,8 +2750,8 @@ Co-Authored-By: faucomte97 <f.aucomte@hotmail.co.uk>
 ### Bug Fixes
 
 - Upgrade Django to 3.2.23 (CI/CD measuring)
-  ([#2235](https://github.com/ocadotechnology/codeforlife-portal/pull/2235),
-  [`6fecc39`](https://github.com/ocadotechnology/codeforlife-portal/commit/6fecc3985f63766509c4f53bfa9b16ba7e63fb4d))
+  ([#2235](https://github.com/codeforlife-education/codeforlife-portal/pull/2235),
+  [`6fecc39`](https://github.com/codeforlife-education/codeforlife-portal/commit/6fecc3985f63766509c4f53bfa9b16ba7e63fb4d))
 
 
 ## v6.39.6 (2023-11-21)
@@ -2731,16 +2759,16 @@ Co-Authored-By: faucomte97 <f.aucomte@hotmail.co.uk>
 ### Bug Fixes
 
 - Revert Django 3.2.23 (CI/CD measuring)
-  ([#2234](https://github.com/ocadotechnology/codeforlife-portal/pull/2234),
-  [`03ee00b`](https://github.com/ocadotechnology/codeforlife-portal/commit/03ee00b77622661970281fdfb8d0ed2d278fb7dc))
+  ([#2234](https://github.com/codeforlife-education/codeforlife-portal/pull/2234),
+  [`03ee00b`](https://github.com/codeforlife-education/codeforlife-portal/commit/03ee00b77622661970281fdfb8d0ed2d278fb7dc))
 
 
 ## v6.39.5 (2023-11-16)
 
 ### Bug Fixes
 
-- Migration 48 ([#2232](https://github.com/ocadotechnology/codeforlife-portal/pull/2232),
-  [`bcb8214`](https://github.com/ocadotechnology/codeforlife-portal/commit/bcb8214927ff9799f223657bbe150339e932b3dc))
+- Migration 48 ([#2232](https://github.com/codeforlife-education/codeforlife-portal/pull/2232),
+  [`bcb8214`](https://github.com/codeforlife-education/codeforlife-portal/commit/bcb8214927ff9799f223657bbe150339e932b3dc))
 
 
 ## v6.39.4 (2023-11-16)
@@ -2748,7 +2776,7 @@ Co-Authored-By: faucomte97 <f.aucomte@hotmail.co.uk>
 ### Bug Fixes
 
 - Remove postcode mention in school form
-  ([`3a38e6e`](https://github.com/ocadotechnology/codeforlife-portal/commit/3a38e6ec5cc53d7ab1bc7bfee0502ea1bc3ad363))
+  ([`3a38e6e`](https://github.com/codeforlife-education/codeforlife-portal/commit/3a38e6ec5cc53d7ab1bc7bfee0502ea1bc3ad363))
 
 
 ## v6.39.3 (2023-11-16)
@@ -2756,7 +2784,7 @@ Co-Authored-By: faucomte97 <f.aucomte@hotmail.co.uk>
 ### Bug Fixes
 
 - Make unique school names migration
-  ([`bb5b2b2`](https://github.com/ocadotechnology/codeforlife-portal/commit/bb5b2b29994e48f0c0a792283814d974006df105))
+  ([`bb5b2b2`](https://github.com/codeforlife-education/codeforlife-portal/commit/bb5b2b29994e48f0c0a792283814d974006df105))
 
 
 ## v6.39.2 (2023-11-15)
@@ -2764,7 +2792,7 @@ Co-Authored-By: faucomte97 <f.aucomte@hotmail.co.uk>
 ### Bug Fixes
 
 - Temporarily remove mig 0048
-  ([`d06629e`](https://github.com/ocadotechnology/codeforlife-portal/commit/d06629e88305bb24a2980a558a3d0aa7f1f296f1))
+  ([`d06629e`](https://github.com/codeforlife-education/codeforlife-portal/commit/d06629e88305bb24a2980a558a3d0aa7f1f296f1))
 
 
 ## v6.39.1 (2023-11-15)
@@ -2772,10 +2800,10 @@ Co-Authored-By: faucomte97 <f.aucomte@hotmail.co.uk>
 ### Bug Fixes
 
 - Make migration 0047 reversible
-  ([`4161be3`](https://github.com/ocadotechnology/codeforlife-portal/commit/4161be34a0a9e47a700ab586f58bb5e762da5abf))
+  ([`4161be3`](https://github.com/codeforlife-education/codeforlife-portal/commit/4161be34a0a9e47a700ab586f58bb5e762da5abf))
 
 - Split up school location migrations
-  ([`647415c`](https://github.com/ocadotechnology/codeforlife-portal/commit/647415c17a584d668ceca9907292bf502c417699))
+  ([`647415c`](https://github.com/codeforlife-education/codeforlife-portal/commit/647415c17a584d668ceca9907292bf502c417699))
 
 
 ## v6.39.0 (2023-11-14)
@@ -2783,8 +2811,8 @@ Co-Authored-By: faucomte97 <f.aucomte@hotmail.co.uk>
 ### Features
 
 - Add a button to link to Gmail on email verification
-  ([#2230](https://github.com/ocadotechnology/codeforlife-portal/pull/2230),
-  [`326676d`](https://github.com/ocadotechnology/codeforlife-portal/commit/326676df973145898a9947f765cb774e2a3ab6a1))
+  ([#2230](https://github.com/codeforlife-education/codeforlife-portal/pull/2230),
+  [`326676d`](https://github.com/codeforlife-education/codeforlife-portal/commit/326676df973145898a9947f765cb774e2a3ab6a1))
 
 * feat: Add open in Gmail button to verify email page
 
@@ -2799,8 +2827,8 @@ Co-Authored-By: faucomte97 <f.aucomte@hotmail.co.uk>
 
 ### Bug Fixes
 
-- County field ([#2229](https://github.com/ocadotechnology/codeforlife-portal/pull/2229),
-  [`669ce8a`](https://github.com/ocadotechnology/codeforlife-portal/commit/669ce8af440633c5474fb54fa00a1762520942e5))
+- County field ([#2229](https://github.com/codeforlife-education/codeforlife-portal/pull/2229),
+  [`669ce8a`](https://github.com/codeforlife-education/codeforlife-portal/commit/669ce8af440633c5474fb54fa00a1762520942e5))
 
 * fix: school.country is optional
 
@@ -2840,8 +2868,8 @@ Co-Authored-By: faucomte97 <f.aucomte@hotmail.co.uk>
 ### Bug Fixes
 
 - Send email to the right address
-  ([#2231](https://github.com/ocadotechnology/codeforlife-portal/pull/2231),
-  [`7fdbb90`](https://github.com/ocadotechnology/codeforlife-portal/commit/7fdbb905f614ece20f15271519b14930e4ba0192))
+  ([#2231](https://github.com/codeforlife-education/codeforlife-portal/pull/2231),
+  [`7fdbb90`](https://github.com/codeforlife-education/codeforlife-portal/commit/7fdbb905f614ece20f15271519b14930e4ba0192))
 
 * Revert "Revert "fix: Send verification email to new email on email change request""
 
@@ -2850,7 +2878,7 @@ This reverts commit b51fd428b9086aff42d651f87bb2e3e460317890.
 * Lockfile
 
 - Send verification email to new email on email change request
-  ([`f22fb21`](https://github.com/ocadotechnology/codeforlife-portal/commit/f22fb2159af59f69a32639e02f8c446b806e3b49))
+  ([`f22fb21`](https://github.com/codeforlife-education/codeforlife-portal/commit/f22fb2159af59f69a32639e02f8c446b806e3b49))
 
 
 ## v6.38.2 (2023-11-06)
@@ -2858,8 +2886,8 @@ This reverts commit b51fd428b9086aff42d651f87bb2e3e460317890.
 ### Bug Fixes
 
 - School.country is optional
-  ([#2228](https://github.com/ocadotechnology/codeforlife-portal/pull/2228),
-  [`8cdec46`](https://github.com/ocadotechnology/codeforlife-portal/commit/8cdec466f11c06b8f09668435b7f9b0ef061c06e))
+  ([#2228](https://github.com/codeforlife-education/codeforlife-portal/pull/2228),
+  [`8cdec46`](https://github.com/codeforlife-education/codeforlife-portal/commit/8cdec466f11c06b8f09668435b7f9b0ef061c06e))
 
 
 ## v6.38.1 (2023-11-03)
@@ -2867,16 +2895,16 @@ This reverts commit b51fd428b9086aff42d651f87bb2e3e460317890.
 ### Bug Fixes
 
 - Disable autocomplete in some forms
-  ([#2216](https://github.com/ocadotechnology/codeforlife-portal/pull/2216),
-  [`925b5c2`](https://github.com/ocadotechnology/codeforlife-portal/commit/925b5c238c0aa953f87cd28f10128b5f77b29bc0))
+  ([#2216](https://github.com/codeforlife-education/codeforlife-portal/pull/2216),
+  [`925b5c2`](https://github.com/codeforlife-education/codeforlife-portal/commit/925b5c238c0aa953f87cd28f10128b5f77b29bc0))
 
 
 ## v6.38.0 (2023-11-03)
 
 ### Documentation
 
-- Contributing ([#2219](https://github.com/ocadotechnology/codeforlife-portal/pull/2219),
-  [`40f4e06`](https://github.com/ocadotechnology/codeforlife-portal/commit/40f4e06b4e6aa6bbf060f80798008f06b262c6f1))
+- Contributing ([#2219](https://github.com/codeforlife-education/codeforlife-portal/pull/2219),
+  [`40f4e06`](https://github.com/codeforlife-education/codeforlife-portal/commit/40f4e06b4e6aa6bbf060f80798008f06b262c6f1))
 
 * remove contributing section
 
@@ -2890,8 +2918,9 @@ Co-Authored-By: Florian Aucomte <33633200+faucomte97@users.noreply.github.com>
 
 ### Features
 
-- Reveal password button ([#2218](https://github.com/ocadotechnology/codeforlife-portal/pull/2218),
-  [`0310edb`](https://github.com/ocadotechnology/codeforlife-portal/commit/0310edb2dadfec71f8b6f0136b0f3c50c8542b22))
+- Reveal password button
+  ([#2218](https://github.com/codeforlife-education/codeforlife-portal/pull/2218),
+  [`0310edb`](https://github.com/codeforlife-education/codeforlife-portal/commit/0310edb2dadfec71f8b6f0136b0f3c50c8542b22))
 
 * register forms
 
@@ -2923,8 +2952,8 @@ Co-Authored-By: Florian Aucomte <33633200+faucomte97@users.noreply.github.com>
 ### Bug Fixes
 
 - **deps**: Bump django from 3.2.20 to 3.2.23
-  ([#2220](https://github.com/ocadotechnology/codeforlife-portal/pull/2220),
-  [`cf4575c`](https://github.com/ocadotechnology/codeforlife-portal/commit/cf4575c00044f26074f141e7d35349eb87e8c242))
+  ([#2220](https://github.com/codeforlife-education/codeforlife-portal/pull/2220),
+  [`cf4575c`](https://github.com/codeforlife-education/codeforlife-portal/commit/cf4575c00044f26074f141e7d35349eb87e8c242))
 
 * fix(deps): Bump django from 3.2.20 to 3.2.23
 
@@ -2949,8 +2978,8 @@ Co-authored-by: faucomte97 <f.aucomte@hotmail.co.uk>
 ### Bug Fixes
 
 - Update level control form
-  ([#2190](https://github.com/ocadotechnology/codeforlife-portal/pull/2190),
-  [`cd1e2ed`](https://github.com/ocadotechnology/codeforlife-portal/commit/cd1e2edcdb44ae5f42474fc1aa81d3600bdae25f))
+  ([#2190](https://github.com/codeforlife-education/codeforlife-portal/pull/2190),
+  [`cd1e2ed`](https://github.com/codeforlife-education/codeforlife-portal/commit/cd1e2edcdb44ae5f42474fc1aa81d3600bdae25f))
 
 * fix: update level control form
 
@@ -2963,8 +2992,8 @@ Co-authored-by: faucomte97 <f.aucomte@hotmail.co.uk>
 
 ### Bug Fixes
 
-- Update Selenium ([#2183](https://github.com/ocadotechnology/codeforlife-portal/pull/2183),
-  [`8f2b9a0`](https://github.com/ocadotechnology/codeforlife-portal/commit/8f2b9a0ddf53bbe135dbe97a8c3e907c438e4f10))
+- Update Selenium ([#2183](https://github.com/codeforlife-education/codeforlife-portal/pull/2183),
+  [`8f2b9a0`](https://github.com/codeforlife-education/codeforlife-portal/commit/8f2b9a0ddf53bbe135dbe97a8c3e907c438e4f10))
 
 * fix: Update Selenium
 
@@ -2973,8 +3002,8 @@ Co-authored-by: faucomte97 <f.aucomte@hotmail.co.uk>
 ### Build System
 
 - **deps**: Bump @babel/traverse in /portal_frontend
-  ([#2184](https://github.com/ocadotechnology/codeforlife-portal/pull/2184),
-  [`e0c4af7`](https://github.com/ocadotechnology/codeforlife-portal/commit/e0c4af70c0a0f6ed85654e73b179d4c6b1fda735))
+  ([#2184](https://github.com/codeforlife-education/codeforlife-portal/pull/2184),
+  [`e0c4af7`](https://github.com/codeforlife-education/codeforlife-portal/commit/e0c4af70c0a0f6ed85654e73b179d4c6b1fda735))
 
 Bumps [@babel/traverse](https://github.com/babel/babel/tree/HEAD/packages/babel-traverse) from
   7.17.10 to 7.23.2. - [Release notes](https://github.com/babel/babel/releases) -
@@ -2991,8 +3020,8 @@ Signed-off-by: dependabot[bot] <support@github.com>
 ### Bug Fixes
 
 - Save enabled auth factors as csv
-  ([#2180](https://github.com/ocadotechnology/codeforlife-portal/pull/2180),
-  [`3a8993a`](https://github.com/ocadotechnology/codeforlife-portal/commit/3a8993a41a6e22599e4796391ab8b46677ebcff3))
+  ([#2180](https://github.com/codeforlife-education/codeforlife-portal/pull/2180),
+  [`3a8993a`](https://github.com/codeforlife-education/codeforlife-portal/commit/3a8993a41a6e22599e4796391ab8b46677ebcff3))
 
 * fix: save enabled auth factors as csv
 
@@ -3006,8 +3035,8 @@ Signed-off-by: dependabot[bot] <support@github.com>
 ### Features
 
 - Keep track of deleted unverified users
-  ([#2174](https://github.com/ocadotechnology/codeforlife-portal/pull/2174),
-  [`15de190`](https://github.com/ocadotechnology/codeforlife-portal/commit/15de19044e8e9d76eccac918306e947e31e9e530))
+  ([#2174](https://github.com/codeforlife-education/codeforlife-portal/pull/2174),
+  [`15de190`](https://github.com/codeforlife-education/codeforlife-portal/commit/15de19044e8e9d76eccac918306e947e31e9e530))
 
 * feat: Keep track of deleted unverified users
 
@@ -3027,8 +3056,8 @@ Signed-off-by: dependabot[bot] <support@github.com>
 ### Bug Fixes
 
 - Move postcode helper to common
-  ([#2176](https://github.com/ocadotechnology/codeforlife-portal/pull/2176),
-  [`015d902`](https://github.com/ocadotechnology/codeforlife-portal/commit/015d9025897cf68d8090676cc53abb25a3db59f3))
+  ([#2176](https://github.com/codeforlife-education/codeforlife-portal/pull/2176),
+  [`015d902`](https://github.com/codeforlife-education/codeforlife-portal/commit/015d9025897cf68d8090676cc53abb25a3db59f3))
 
 
 ## v6.36.1 (2023-09-18)
@@ -3036,8 +3065,8 @@ Signed-off-by: dependabot[bot] <support@github.com>
 ### Bug Fixes
 
 - Disable ratelimit when value is empty
-  ([#2178](https://github.com/ocadotechnology/codeforlife-portal/pull/2178),
-  [`ac08f00`](https://github.com/ocadotechnology/codeforlife-portal/commit/ac08f000dc74511608b989ce79ae72ee7c03229b))
+  ([#2178](https://github.com/codeforlife-education/codeforlife-portal/pull/2178),
+  [`ac08f00`](https://github.com/codeforlife-education/codeforlife-portal/commit/ac08f000dc74511608b989ce79ae72ee7c03229b))
 
 * fix: Don't run ratelimit on empty key
 
@@ -3048,8 +3077,9 @@ Signed-off-by: dependabot[bot] <support@github.com>
 
 ### Features
 
-- Total activity table ([#2168](https://github.com/ocadotechnology/codeforlife-portal/pull/2168),
-  [`e5153aa`](https://github.com/ocadotechnology/codeforlife-portal/commit/e5153aa8093c6ce587238ca9badd473702774c7f))
+- Total activity table
+  ([#2168](https://github.com/codeforlife-education/codeforlife-portal/pull/2168),
+  [`e5153aa`](https://github.com/codeforlife-education/codeforlife-portal/commit/e5153aa8093c6ce587238ca9badd473702774c7f))
 
 * feat: Total activity table
 
@@ -3062,8 +3092,9 @@ Signed-off-by: dependabot[bot] <support@github.com>
 
 ### Bug Fixes
 
-- Iterate over queryset ([#2167](https://github.com/ocadotechnology/codeforlife-portal/pull/2167),
-  [`71a4a48`](https://github.com/ocadotechnology/codeforlife-portal/commit/71a4a4838171b53b82ec270fa4f43f20c0e7db3a))
+- Iterate over queryset
+  ([#2167](https://github.com/codeforlife-education/codeforlife-portal/pull/2167),
+  [`71a4a48`](https://github.com/codeforlife-education/codeforlife-portal/commit/71a4a4838171b53b82ec270fa4f43f20c0e7db3a))
 
 
 ## v6.35.2 (2023-09-01)
@@ -3071,8 +3102,8 @@ Signed-off-by: dependabot[bot] <support@github.com>
 ### Bug Fixes
 
 - Shorten verify email link
-  ([#2166](https://github.com/ocadotechnology/codeforlife-portal/pull/2166),
-  [`4884fbd`](https://github.com/ocadotechnology/codeforlife-portal/commit/4884fbd8eec2ae88e1d3a8474f95952fb64a0b01))
+  ([#2166](https://github.com/codeforlife-education/codeforlife-portal/pull/2166),
+  [`4884fbd`](https://github.com/codeforlife-education/codeforlife-portal/commit/4884fbd8eec2ae88e1d3a8474f95952fb64a0b01))
 
 * fix: Shorten verification email links
 
@@ -3085,8 +3116,9 @@ Signed-off-by: dependabot[bot] <support@github.com>
 
 ### Bug Fixes
 
-- Fix verify email link ([#2165](https://github.com/ocadotechnology/codeforlife-portal/pull/2165),
-  [`587e879`](https://github.com/ocadotechnology/codeforlife-portal/commit/587e879d3cf721ad87e979353c6bcbabe0cfebfc))
+- Fix verify email link
+  ([#2165](https://github.com/codeforlife-education/codeforlife-portal/pull/2165),
+  [`587e879`](https://github.com/codeforlife-education/codeforlife-portal/commit/587e879d3cf721ad87e979353c6bcbabe0cfebfc))
 
 * fix: Update URLs in cron job emails
 
@@ -3100,8 +3132,8 @@ Signed-off-by: dependabot[bot] <support@github.com>
 ### Features
 
 - Add cron urls for user verification
-  ([#2160](https://github.com/ocadotechnology/codeforlife-portal/pull/2160),
-  [`b730dda`](https://github.com/ocadotechnology/codeforlife-portal/commit/b730dda237e2da4c7d7d82ed2ec056d1b8eab59c))
+  ([#2160](https://github.com/codeforlife-education/codeforlife-portal/pull/2160),
+  [`b730dda`](https://github.com/codeforlife-education/codeforlife-portal/commit/b730dda237e2da4c7d7d82ed2ec056d1b8eab59c))
 
 * feat: add cron urls for user verification
 
@@ -3155,8 +3187,8 @@ Co-Authored-By: faucomte97 <f.aucomte@hotmail.co.uk>
 ### Bug Fixes
 
 - Handle empty postcode edge case
-  ([#2161](https://github.com/ocadotechnology/codeforlife-portal/pull/2161),
-  [`213b467`](https://github.com/ocadotechnology/codeforlife-portal/commit/213b4679bc801473d488e222eb39fd4ee38de0c6))
+  ([#2161](https://github.com/codeforlife-education/codeforlife-portal/pull/2161),
+  [`213b467`](https://github.com/codeforlife-education/codeforlife-portal/commit/213b4679bc801473d488e222eb39fd4ee38de0c6))
 
 * fix: Handle empty postcode edge case
 
@@ -3169,8 +3201,9 @@ Co-Authored-By: faucomte97 <f.aucomte@hotmail.co.uk>
 
 ### Features
 
-- Gather UK counties ([#2158](https://github.com/ocadotechnology/codeforlife-portal/pull/2158),
-  [`6bd2c29`](https://github.com/ocadotechnology/codeforlife-portal/commit/6bd2c298077d9dd54b2c4912fa3da3b4d8b9dd0b))
+- Gather UK counties
+  ([#2158](https://github.com/codeforlife-education/codeforlife-portal/pull/2158),
+  [`6bd2c29`](https://github.com/codeforlife-education/codeforlife-portal/commit/6bd2c298077d9dd54b2c4912fa3da3b4d8b9dd0b))
 
 * feat: Gather UK counties
 
@@ -3186,8 +3219,8 @@ Co-Authored-By: faucomte97 <f.aucomte@hotmail.co.uk>
 ### Bug Fixes
 
 - Update how Kurono games are created
-  ([#2153](https://github.com/ocadotechnology/codeforlife-portal/pull/2153),
-  [`7596342`](https://github.com/ocadotechnology/codeforlife-portal/commit/75963426472694402daa32322c2e5fa173893528))
+  ([#2153](https://github.com/codeforlife-education/codeforlife-portal/pull/2153),
+  [`7596342`](https://github.com/codeforlife-education/codeforlife-portal/commit/75963426472694402daa32322c2e5fa173893528))
 
 * fix: Update how Kurono games are created
 
@@ -3200,8 +3233,8 @@ Co-Authored-By: faucomte97 <f.aucomte@hotmail.co.uk>
 ### Build System
 
 - **deps**: Bump certifi from 2023.5.7 to 2023.7.22
-  ([#2152](https://github.com/ocadotechnology/codeforlife-portal/pull/2152),
-  [`8b59dbc`](https://github.com/ocadotechnology/codeforlife-portal/commit/8b59dbc4606c79d72530b861c65e593feb39bd8b))
+  ([#2152](https://github.com/codeforlife-education/codeforlife-portal/pull/2152),
+  [`8b59dbc`](https://github.com/codeforlife-education/codeforlife-portal/commit/8b59dbc4606c79d72530b861c65e593feb39bd8b))
 
 Bumps [certifi](https://github.com/certifi/python-certifi) from 2023.5.7 to 2023.7.22. -
   [Commits](https://github.com/certifi/python-certifi/compare/2023.05.07...2023.07.22)
@@ -3216,11 +3249,11 @@ Signed-off-by: dependabot[bot] <support@github.com>
 ### Bug Fixes
 
 - Fix desynced versions
-  ([`80ee922`](https://github.com/ocadotechnology/codeforlife-portal/commit/80ee9229e3941e74ca7a6f5306aa5826c4bc2dea))
+  ([`80ee922`](https://github.com/codeforlife-education/codeforlife-portal/commit/80ee9229e3941e74ca7a6f5306aa5826c4bc2dea))
 
 - Fix semantic release to < 8
-  ([#2150](https://github.com/ocadotechnology/codeforlife-portal/pull/2150),
-  [`8be4b50`](https://github.com/ocadotechnology/codeforlife-portal/commit/8be4b50f3549a106498fc3b77b67a3adab58d5af))
+  ([#2150](https://github.com/codeforlife-education/codeforlife-portal/pull/2150),
+  [`8be4b50`](https://github.com/codeforlife-education/codeforlife-portal/commit/8be4b50f3549a106498fc3b77b67a3adab58d5af))
 
 
 ## v6.33.5 (2023-07-20)
@@ -3228,14 +3261,14 @@ Signed-off-by: dependabot[bot] <support@github.com>
 ### Bug Fixes
 
 - Get fields depending on page
-  ([#2149](https://github.com/ocadotechnology/codeforlife-portal/pull/2149),
-  [`942fc93`](https://github.com/ocadotechnology/codeforlife-portal/commit/942fc93284ce85b22d083d557a8e60974b77a7bb))
+  ([#2149](https://github.com/codeforlife-education/codeforlife-portal/pull/2149),
+  [`942fc93`](https://github.com/codeforlife-education/codeforlife-portal/commit/942fc93284ce85b22d083d557a8e60974b77a7bb))
 
 ### Build System
 
 - **deps**: Bump word-wrap from 1.2.3 to 1.2.4 in /portal_frontend
-  ([#2148](https://github.com/ocadotechnology/codeforlife-portal/pull/2148),
-  [`039c855`](https://github.com/ocadotechnology/codeforlife-portal/commit/039c855179a8997e30c1aa88f18f69c3e5c2b4df))
+  ([#2148](https://github.com/codeforlife-education/codeforlife-portal/pull/2148),
+  [`039c855`](https://github.com/codeforlife-education/codeforlife-portal/commit/039c855179a8997e30c1aa88f18f69c3e5c2b4df))
 
 Bumps [word-wrap](https://github.com/jonschlinkert/word-wrap) from 1.2.3 to 1.2.4. - [Release
   notes](https://github.com/jonschlinkert/word-wrap/releases) -
@@ -3251,12 +3284,12 @@ Signed-off-by: dependabot[bot] <support@github.com>
 ### Bug Fixes
 
 - Build(deps): Bump semver from 6.3.0 to 6.3.1 in /portal_frontend
-  ([`c9e625e`](https://github.com/ocadotechnology/codeforlife-portal/commit/c9e625e995c9f9319f67c1d1ee2f1d66b3d46912))
+  ([`c9e625e`](https://github.com/codeforlife-education/codeforlife-portal/commit/c9e625e995c9f9319f67c1d1ee2f1d66b3d46912))
 
 ### Build System
 
 - **deps**: Bump semver from 6.3.0 to 6.3.1 in /portal_frontend
-  ([`cbb114f`](https://github.com/ocadotechnology/codeforlife-portal/commit/cbb114f439350b909fc4a58de92b1221575b40ce))
+  ([`cbb114f`](https://github.com/codeforlife-education/codeforlife-portal/commit/cbb114f439350b909fc4a58de92b1221575b40ce))
 
 Bumps [semver](https://github.com/npm/node-semver) from 6.3.0 to 6.3.1. - [Release
   notes](https://github.com/npm/node-semver/releases) -
@@ -3268,8 +3301,8 @@ Bumps [semver](https://github.com/npm/node-semver) from 6.3.0 to 6.3.1. - [Relea
 Signed-off-by: dependabot[bot] <support@github.com>
 
 - **deps**: Bump tough-cookie from 4.0.0 to 4.1.3 in /portal_frontend
-  ([#2119](https://github.com/ocadotechnology/codeforlife-portal/pull/2119),
-  [`c0d4219`](https://github.com/ocadotechnology/codeforlife-portal/commit/c0d421995c1c7398a1013163b1aec1f8bccdf59d))
+  ([#2119](https://github.com/codeforlife-education/codeforlife-portal/pull/2119),
+  [`c0d4219`](https://github.com/codeforlife-education/codeforlife-portal/commit/c0d421995c1c7398a1013163b1aec1f8bccdf59d))
 
 Bumps [tough-cookie](https://github.com/salesforce/tough-cookie) from 4.0.0 to 4.1.3. - [Release
   notes](https://github.com/salesforce/tough-cookie/releases) -
@@ -3286,8 +3319,8 @@ Signed-off-by: dependabot[bot] <support@github.com>
 ### Bug Fixes
 
 - Fix logic of frontend password strength check
-  ([#2117](https://github.com/ocadotechnology/codeforlife-portal/pull/2117),
-  [`031d6de`](https://github.com/ocadotechnology/codeforlife-portal/commit/031d6de507e4f4a81f7d0f7f5d70144fae3f63da))
+  ([#2117](https://github.com/codeforlife-education/codeforlife-portal/pull/2117),
+  [`031d6de`](https://github.com/codeforlife-education/codeforlife-portal/commit/031d6de507e4f4a81f7d0f7f5d70144fae3f63da))
 
 * fix: Fix logic of frontend password strength check
 
@@ -3301,13 +3334,13 @@ Signed-off-by: dependabot[bot] <support@github.com>
 ### Bug Fixes
 
 - Dummy commit to bump version
-  ([`255f457`](https://github.com/ocadotechnology/codeforlife-portal/commit/255f457e63f38c9c505d0ee3b3879c4496636fb1))
+  ([`255f457`](https://github.com/codeforlife-education/codeforlife-portal/commit/255f457e63f38c9c505d0ee3b3879c4496636fb1))
 
 ### Build System
 
 - **deps**: Bump django from 3.2.19 to 3.2.20
-  ([#2115](https://github.com/ocadotechnology/codeforlife-portal/pull/2115),
-  [`7c3f377`](https://github.com/ocadotechnology/codeforlife-portal/commit/7c3f37719f3fd007ba928d57dbb84b6d56e1bd7f))
+  ([#2115](https://github.com/codeforlife-education/codeforlife-portal/pull/2115),
+  [`7c3f377`](https://github.com/codeforlife-education/codeforlife-portal/commit/7c3f37719f3fd007ba928d57dbb84b6d56e1bd7f))
 
 * build(deps): Bump django from 3.2.19 to 3.2.20
 
@@ -3328,7 +3361,7 @@ Co-Authored-By: faucomte97 <f.aucomte@hotmail.co.uk>
 ### Bug Fixes
 
 - Self hosted images
-  ([`8769345`](https://github.com/ocadotechnology/codeforlife-portal/commit/87693451607a08fc10111e24b59fb84ab78f49b8))
+  ([`8769345`](https://github.com/codeforlife-education/codeforlife-portal/commit/87693451607a08fc10111e24b59fb84ab78f49b8))
 
 
 ## v6.33.0 (2023-06-27)
@@ -3336,8 +3369,8 @@ Co-Authored-By: faucomte97 <f.aucomte@hotmail.co.uk>
 ### Build System
 
 - **deps**: Bump semver from 7.3.8 to 7.5.3
-  ([#2105](https://github.com/ocadotechnology/codeforlife-portal/pull/2105),
-  [`234b51f`](https://github.com/ocadotechnology/codeforlife-portal/commit/234b51f6cfeb60d1f899862d97288f1e75be1496))
+  ([#2105](https://github.com/codeforlife-education/codeforlife-portal/pull/2105),
+  [`234b51f`](https://github.com/codeforlife-education/codeforlife-portal/commit/234b51f6cfeb60d1f899862d97288f1e75be1496))
 
 Bumps [semver](https://github.com/npm/node-semver) from 7.3.8 to 7.5.3. - [Release
   notes](https://github.com/npm/node-semver/releases) -
@@ -3351,8 +3384,8 @@ Signed-off-by: dependabot[bot] <support@github.com>
 ### Features
 
 - Added the backend feature of pwned passwords
-  ([#2106](https://github.com/ocadotechnology/codeforlife-portal/pull/2106),
-  [`d09d0c0`](https://github.com/ocadotechnology/codeforlife-portal/commit/d09d0c05057677207fe93f51a567b28564806fe3))
+  ([#2106](https://github.com/codeforlife-education/codeforlife-portal/pull/2106),
+  [`d09d0c0`](https://github.com/codeforlife-education/codeforlife-portal/commit/d09d0c05057677207fe93f51a567b28564806fe3))
 
 * feat: added the backend feature of pwned passwords
 
@@ -3393,8 +3426,9 @@ Signed-off-by: dependabot[bot] <support@github.com>
 
 ### Features
 
-- Upgrade Python to 3.8 ([#2104](https://github.com/ocadotechnology/codeforlife-portal/pull/2104),
-  [`41fe95b`](https://github.com/ocadotechnology/codeforlife-portal/commit/41fe95b6fba639076ae262717ed179e9bf17c204))
+- Upgrade Python to 3.8
+  ([#2104](https://github.com/codeforlife-education/codeforlife-portal/pull/2104),
+  [`41fe95b`](https://github.com/codeforlife-education/codeforlife-portal/commit/41fe95b6fba639076ae262717ed179e9bf17c204))
 
 * update Pipfile
 
@@ -3410,8 +3444,8 @@ Signed-off-by: dependabot[bot] <support@github.com>
 ### Bug Fixes
 
 - Allow more scripts from GTM in CSP
-  ([#2103](https://github.com/ocadotechnology/codeforlife-portal/pull/2103),
-  [`eb074d5`](https://github.com/ocadotechnology/codeforlife-portal/commit/eb074d521f03470aaa28293790302e2559884763))
+  ([#2103](https://github.com/codeforlife-education/codeforlife-portal/pull/2103),
+  [`eb074d5`](https://github.com/codeforlife-education/codeforlife-portal/commit/eb074d521f03470aaa28293790302e2559884763))
 
 
 ## v6.31.1 (2023-06-16)
@@ -3419,8 +3453,8 @@ Signed-off-by: dependabot[bot] <support@github.com>
 ### Bug Fixes
 
 - 1454 shorten url in aws emails
-  ([#2101](https://github.com/ocadotechnology/codeforlife-portal/pull/2101),
-  [`5f4d68c`](https://github.com/ocadotechnology/codeforlife-portal/commit/5f4d68c0604611cb271fcadc9d2a173bc9db1496))
+  ([#2101](https://github.com/codeforlife-education/codeforlife-portal/pull/2101),
+  [`5f4d68c`](https://github.com/codeforlife-education/codeforlife-portal/commit/5f4d68c0604611cb271fcadc9d2a173bc9db1496))
 
 * make url shorter
 
@@ -3431,14 +3465,14 @@ Signed-off-by: dependabot[bot] <support@github.com>
 * Merge branch 'master' into 1454-shorten-url-in-aws-emails
 
 - Correct repo name
-  ([`a85994d`](https://github.com/ocadotechnology/codeforlife-portal/commit/a85994dbd8a30bd18df76523f381ac3a8290e19a))
+  ([`a85994d`](https://github.com/codeforlife-education/codeforlife-portal/commit/a85994dbd8a30bd18df76523f381ac3a8290e19a))
 
 - Go back to actual semantic release repo
-  ([`c12eb7e`](https://github.com/ocadotechnology/codeforlife-portal/commit/c12eb7ec47328f401407a2116b0e349632bfabba))
+  ([`c12eb7e`](https://github.com/codeforlife-education/codeforlife-portal/commit/c12eb7ec47328f401407a2116b0e349632bfabba))
 
 - Update Gtag reference to new GA4
-  ([#2099](https://github.com/ocadotechnology/codeforlife-portal/pull/2099),
-  [`ee50987`](https://github.com/ocadotechnology/codeforlife-portal/commit/ee50987efb571d2e9bc721e89da17e7be5213963))
+  ([#2099](https://github.com/codeforlife-education/codeforlife-portal/pull/2099),
+  [`ee50987`](https://github.com/codeforlife-education/codeforlife-portal/commit/ee50987efb571d2e9bc721e89da17e7be5213963))
 
 * fix: Update Gtag reference to new GA4
 
@@ -3450,14 +3484,14 @@ Signed-off-by: dependabot[bot] <support@github.com>
 ### Build System
 
 - Update reportlab and requests
-  ([#2097](https://github.com/ocadotechnology/codeforlife-portal/pull/2097),
-  [`1e302d4`](https://github.com/ocadotechnology/codeforlife-portal/commit/1e302d469d0c7e1c7d32209278cc11323379bd32))
+  ([#2097](https://github.com/codeforlife-education/codeforlife-portal/pull/2097),
+  [`1e302d4`](https://github.com/codeforlife-education/codeforlife-portal/commit/1e302d469d0c7e1c7d32209278cc11323379bd32))
 
 ### Features
 
 - Remove intermediate pages and go direct to gitbook resources
-  ([#2098](https://github.com/ocadotechnology/codeforlife-portal/pull/2098),
-  [`2c6cb61`](https://github.com/ocadotechnology/codeforlife-portal/commit/2c6cb61b9753ecaa610e0d3d479ac5cf3eaf7210))
+  ([#2098](https://github.com/codeforlife-education/codeforlife-portal/pull/2098),
+  [`2c6cb61`](https://github.com/codeforlife-education/codeforlife-portal/commit/2c6cb61b9753ecaa610e0d3d479ac5cf3eaf7210))
 
 * feat: remove intermediate pages and go direct to gitbook resources
 
@@ -3474,16 +3508,18 @@ Co-Authored-By: Seb Palmer <s.palmer1@ocado.com>
 
 ### Bug Fixes
 
-- Bring back Riveted ([#2096](https://github.com/ocadotechnology/codeforlife-portal/pull/2096),
-  [`44724af`](https://github.com/ocadotechnology/codeforlife-portal/commit/44724af961b7493bef73a428d6f2f12943fe8e36))
+- Bring back Riveted
+  ([#2096](https://github.com/codeforlife-education/codeforlife-portal/pull/2096),
+  [`44724af`](https://github.com/codeforlife-education/codeforlife-portal/commit/44724af961b7493bef73a428d6f2f12943fe8e36))
 
 
 ## v6.30.10 (2023-05-23)
 
 ### Bug Fixes
 
-- Upgrade JS libraries ([#2090](https://github.com/ocadotechnology/codeforlife-portal/pull/2090),
-  [`96551bb`](https://github.com/ocadotechnology/codeforlife-portal/commit/96551bbef8777bc185203a7de2547c711ca8b0bc))
+- Upgrade JS libraries
+  ([#2090](https://github.com/codeforlife-education/codeforlife-portal/pull/2090),
+  [`96551bb`](https://github.com/codeforlife-education/codeforlife-portal/commit/96551bbef8777bc185203a7de2547c711ca8b0bc))
 
 * fix: Upgrade JS libraries
 
@@ -3495,13 +3531,13 @@ Co-Authored-By: Seb Palmer <s.palmer1@ocado.com>
 ### Bug Fixes
 
 - Bump up version
-  ([`87b1646`](https://github.com/ocadotechnology/codeforlife-portal/commit/87b1646512acd1e2442f67e40d9eb62c17e6eb62))
+  ([`87b1646`](https://github.com/codeforlife-education/codeforlife-portal/commit/87b1646512acd1e2442f67e40d9eb62c17e6eb62))
 
 ### Build System
 
 - **deps**: Bump requests from 2.25.0 to 2.31.0
-  ([#2095](https://github.com/ocadotechnology/codeforlife-portal/pull/2095),
-  [`92b4122`](https://github.com/ocadotechnology/codeforlife-portal/commit/92b41226a1b30a5548fc4fc64b248a73cc0f0d01))
+  ([#2095](https://github.com/codeforlife-education/codeforlife-portal/pull/2095),
+  [`92b4122`](https://github.com/codeforlife-education/codeforlife-portal/commit/92b41226a1b30a5548fc4fc64b248a73cc0f0d01))
 
 Bumps [requests](https://github.com/psf/requests) from 2.25.0 to 2.31.0. - [Release
   notes](https://github.com/psf/requests/releases) -
@@ -3518,8 +3554,8 @@ Signed-off-by: dependabot[bot] <support@github.com>
 ### Bug Fixes
 
 - Handle cases where School has no classes
-  ([#2088](https://github.com/ocadotechnology/codeforlife-portal/pull/2088),
-  [`7832b2d`](https://github.com/ocadotechnology/codeforlife-portal/commit/7832b2d8443b5766be239c3d881ac91b2fa5f6ad))
+  ([#2088](https://github.com/codeforlife-education/codeforlife-portal/pull/2088),
+  [`7832b2d`](https://github.com/codeforlife-education/codeforlife-portal/commit/7832b2d8443b5766be239c3d881ac91b2fa5f6ad))
 
 * fix: Handle cases where School has no classes
 
@@ -3530,8 +3566,8 @@ Signed-off-by: dependabot[bot] <support@github.com>
 
 ### Bug Fixes
 
-- Script loading ([#2089](https://github.com/ocadotechnology/codeforlife-portal/pull/2089),
-  [`a3bb0e8`](https://github.com/ocadotechnology/codeforlife-portal/commit/a3bb0e81e48dd24ef69ed6977222e7264ff1d41b))
+- Script loading ([#2089](https://github.com/codeforlife-education/codeforlife-portal/pull/2089),
+  [`a3bb0e8`](https://github.com/codeforlife-education/codeforlife-portal/commit/a3bb0e81e48dd24ef69ed6977222e7264ff1d41b))
 
 
 ## v6.30.6 (2023-05-15)
@@ -3539,8 +3575,8 @@ Signed-off-by: dependabot[bot] <support@github.com>
 ### Bug Fixes
 
 - Remove old arg from School admin
-  ([#2087](https://github.com/ocadotechnology/codeforlife-portal/pull/2087),
-  [`a75ab10`](https://github.com/ocadotechnology/codeforlife-portal/commit/a75ab103854de4221d00badd00aabbe2c3708d04))
+  ([#2087](https://github.com/codeforlife-education/codeforlife-portal/pull/2087),
+  [`a75ab10`](https://github.com/codeforlife-education/codeforlife-portal/commit/a75ab103854de4221d00badd00aabbe2c3708d04))
 
 
 ## v6.30.5 (2023-05-10)
@@ -3548,13 +3584,13 @@ Signed-off-by: dependabot[bot] <support@github.com>
 ### Bug Fixes
 
 - Bump up version commit
-  ([`1f762ef`](https://github.com/ocadotechnology/codeforlife-portal/commit/1f762eff66890a9d0ca4967d6daec395f9d0935b))
+  ([`1f762ef`](https://github.com/codeforlife-education/codeforlife-portal/commit/1f762eff66890a9d0ca4967d6daec395f9d0935b))
 
 ### Build System
 
 - **deps**: Bump django from 3.2.18 to 3.2.19
-  ([#2084](https://github.com/ocadotechnology/codeforlife-portal/pull/2084),
-  [`47a3baf`](https://github.com/ocadotechnology/codeforlife-portal/commit/47a3bafc0b34b6ce405c87245687b8eadcaa6091))
+  ([#2084](https://github.com/codeforlife-education/codeforlife-portal/pull/2084),
+  [`47a3baf`](https://github.com/codeforlife-education/codeforlife-portal/commit/47a3bafc0b34b6ce405c87245687b8eadcaa6091))
 
 * build(deps): Bump django from 3.2.18 to 3.2.19
 
@@ -3575,8 +3611,8 @@ Co-Authored-By: faucomte97 <f.aucomte@hotmail.co.uk>
 ### Bug Fixes
 
 - Add details about admin features in Terms of Use
-  ([#2078](https://github.com/ocadotechnology/codeforlife-portal/pull/2078),
-  [`2dbd369`](https://github.com/ocadotechnology/codeforlife-portal/commit/2dbd3692b09f3c10e1ce51a367801e75fcf7e43f))
+  ([#2078](https://github.com/codeforlife-education/codeforlife-portal/pull/2078),
+  [`2dbd369`](https://github.com/codeforlife-education/codeforlife-portal/commit/2dbd3692b09f3c10e1ce51a367801e75fcf7e43f))
 
 
 ## v6.30.3 (2023-04-26)
@@ -3584,8 +3620,8 @@ Co-Authored-By: faucomte97 <f.aucomte@hotmail.co.uk>
 ### Bug Fixes
 
 - Copy email over to username field
-  ([#2082](https://github.com/ocadotechnology/codeforlife-portal/pull/2082),
-  [`6ab0dcc`](https://github.com/ocadotechnology/codeforlife-portal/commit/6ab0dcc6d268852c95ad5052d8bf0a39000e29d5))
+  ([#2082](https://github.com/codeforlife-education/codeforlife-portal/pull/2082),
+  [`6ab0dcc`](https://github.com/codeforlife-education/codeforlife-portal/commit/6ab0dcc6d268852c95ad5052d8bf0a39000e29d5))
 
 * fix: Copy email over to username field
 
@@ -3597,8 +3633,8 @@ Co-Authored-By: faucomte97 <f.aucomte@hotmail.co.uk>
 ### Bug Fixes
 
 - Reimplement JWTs and add reverse code to migration 0037
-  ([#2081](https://github.com/ocadotechnology/codeforlife-portal/pull/2081),
-  [`44dcf3a`](https://github.com/ocadotechnology/codeforlife-portal/commit/44dcf3a1a038a840e068af9194ce647bb2293138))
+  ([#2081](https://github.com/codeforlife-education/codeforlife-portal/pull/2081),
+  [`44dcf3a`](https://github.com/codeforlife-education/codeforlife-portal/commit/44dcf3a1a038a840e068af9194ce647bb2293138))
 
 * Revert "fix: Revert JWT tokens (#2079)"
 
@@ -3613,8 +3649,8 @@ This reverts commit b069472e9886cce73fa26cfeba06151d60906c64.
 
 ### Bug Fixes
 
-- Revert JWT tokens ([#2079](https://github.com/ocadotechnology/codeforlife-portal/pull/2079),
-  [`b069472`](https://github.com/ocadotechnology/codeforlife-portal/commit/b069472e9886cce73fa26cfeba06151d60906c64))
+- Revert JWT tokens ([#2079](https://github.com/codeforlife-education/codeforlife-portal/pull/2079),
+  [`b069472`](https://github.com/codeforlife-education/codeforlife-portal/commit/b069472e9886cce73fa26cfeba06151d60906c64))
 
 * fix: Add details about admin features in Terms of Use
 
@@ -3623,8 +3659,8 @@ This reverts commit b069472e9886cce73fa26cfeba06151d60906c64.
 ### Build System
 
 - **deps**: Bump sqlparse from 0.4.2 to 0.4.4
-  ([#2077](https://github.com/ocadotechnology/codeforlife-portal/pull/2077),
-  [`bb40308`](https://github.com/ocadotechnology/codeforlife-portal/commit/bb4030845dc9005d1bee176960a4dfd658a6bb7e))
+  ([#2077](https://github.com/codeforlife-education/codeforlife-portal/pull/2077),
+  [`bb40308`](https://github.com/codeforlife-education/codeforlife-portal/commit/bb4030845dc9005d1bee176960a4dfd658a6bb7e))
 
 * build(deps): Bump sqlparse from 0.4.2 to 0.4.4
 
@@ -3649,8 +3685,8 @@ Co-Authored-By: faucomte97 <f.aucomte@hotmail.co.uk>
 ### Features
 
 - Implemented jwt as an email authentication
-  ([#2073](https://github.com/ocadotechnology/codeforlife-portal/pull/2073),
-  [`623e50d`](https://github.com/ocadotechnology/codeforlife-portal/commit/623e50d9510088d6787f273c66b8dea77e815780))
+  ([#2073](https://github.com/codeforlife-education/codeforlife-portal/pull/2073),
+  [`623e50d`](https://github.com/codeforlife-education/codeforlife-portal/commit/623e50d9510088d6787f273c66b8dea77e815780))
 
 * feat: implemented jwt as an email authentication
 
@@ -3688,8 +3724,8 @@ Co-Authored-By: faucomte97 <f.aucomte@hotmail.co.uk>
 ### Bug Fixes
 
 - Improve verification logic + send verification before newsletter email
-  ([#2070](https://github.com/ocadotechnology/codeforlife-portal/pull/2070),
-  [`cb93011`](https://github.com/ocadotechnology/codeforlife-portal/commit/cb93011f4e07f1aeaea13091582bb1bc44644d1a))
+  ([#2070](https://github.com/codeforlife-education/codeforlife-portal/pull/2070),
+  [`cb93011`](https://github.com/codeforlife-education/codeforlife-portal/commit/cb93011f4e07f1aeaea13091582bb1bc44644d1a))
 
 * fix: Improve verification logic + send verification before newsletter email
 
@@ -3701,8 +3737,8 @@ Co-Authored-By: faucomte97 <f.aucomte@hotmail.co.uk>
 ### Bug Fixes
 
 - 2067 link to account page
-  ([#2071](https://github.com/ocadotechnology/codeforlife-portal/pull/2071),
-  [`9adab9b`](https://github.com/ocadotechnology/codeforlife-portal/commit/9adab9b9c1bba7e66f7936bb8c7614a89d8c9dde))
+  ([#2071](https://github.com/codeforlife-education/codeforlife-portal/pull/2071),
+  [`9adab9b`](https://github.com/codeforlife-education/codeforlife-portal/commit/9adab9b9c1bba7e66f7936bb8c7614a89d8c9dde))
 
 * add dashboard_account page
 
@@ -3717,8 +3753,8 @@ Co-Authored-By: faucomte97 <f.aucomte@hotmail.co.uk>
 ### Build System
 
 - **deps**: Bump webpack from 5.72.0 to 5.76.1 in /portal_frontend
-  ([#2036](https://github.com/ocadotechnology/codeforlife-portal/pull/2036),
-  [`316b151`](https://github.com/ocadotechnology/codeforlife-portal/commit/316b15143f224e4e72b9ba1b2a87f3d1d57e6a7b))
+  ([#2036](https://github.com/codeforlife-education/codeforlife-portal/pull/2036),
+  [`316b151`](https://github.com/codeforlife-education/codeforlife-portal/commit/316b15143f224e4e72b9ba1b2a87f3d1d57e6a7b))
 
 Bumps [webpack](https://github.com/webpack/webpack) from 5.72.0 to 5.76.1. - [Release
   notes](https://github.com/webpack/webpack/releases) -
@@ -3734,8 +3770,8 @@ Signed-off-by: dependabot[bot] <support@github.com>
 ### Bug Fixes
 
 - Update Get Involved cards
-  ([#2012](https://github.com/ocadotechnology/codeforlife-portal/pull/2012),
-  [`20ca0fc`](https://github.com/ocadotechnology/codeforlife-portal/commit/20ca0fce9a9438cb41deaf00d15dc9eee214089e))
+  ([#2012](https://github.com/codeforlife-education/codeforlife-portal/pull/2012),
+  [`20ca0fc`](https://github.com/codeforlife-education/codeforlife-portal/commit/20ca0fce9a9438cb41deaf00d15dc9eee214089e))
 
 * Issue #1971 Changed text for get involved card
 
@@ -3756,8 +3792,8 @@ Co-Authored-By: faucomte97 <f.aucomte@hotmail.co.uk>
 ### Build System
 
 - **deps**: Bump django from 3.2.17 to 3.2.18
-  ([#2032](https://github.com/ocadotechnology/codeforlife-portal/pull/2032),
-  [`e79fb79`](https://github.com/ocadotechnology/codeforlife-portal/commit/e79fb79da7d5547e7777faf89e6a60cbed7fb675))
+  ([#2032](https://github.com/codeforlife-education/codeforlife-portal/pull/2032),
+  [`e79fb79`](https://github.com/codeforlife-education/codeforlife-portal/commit/e79fb79da7d5547e7777faf89e6a60cbed7fb675))
 
 * build(deps): bump django from 3.2.17 to 3.2.18
 
@@ -3781,8 +3817,8 @@ Signed-off-by: dependabot[bot] <support@github.com>
 Co-Authored-By: faucomte97 <f.aucomte@hotmail.co.uk>
 
 - **deps**: Bump dns-packet from 5.3.1 to 5.4.0 in /portal_frontend
-  ([#2034](https://github.com/ocadotechnology/codeforlife-portal/pull/2034),
-  [`f1a9347`](https://github.com/ocadotechnology/codeforlife-portal/commit/f1a9347db3c42847a99538db008d55a027aff944))
+  ([#2034](https://github.com/codeforlife-education/codeforlife-portal/pull/2034),
+  [`f1a9347`](https://github.com/codeforlife-education/codeforlife-portal/commit/f1a9347db3c42847a99538db008d55a027aff944))
 
 Bumps [dns-packet](https://github.com/mafintosh/dns-packet) from 5.3.1 to 5.4.0. - [Release
   notes](https://github.com/mafintosh/dns-packet/releases) -
@@ -3799,8 +3835,8 @@ Signed-off-by: dependabot[bot] <support@github.com>
 ### Bug Fixes
 
 - **deps**: Bump django from 3.2.17 to 3.2.18
-  ([#2030](https://github.com/ocadotechnology/codeforlife-portal/pull/2030),
-  [`72b1285`](https://github.com/ocadotechnology/codeforlife-portal/commit/72b1285facf80573ff3e518f09b33d4856462a27))
+  ([#2030](https://github.com/codeforlife-education/codeforlife-portal/pull/2030),
+  [`72b1285`](https://github.com/codeforlife-education/codeforlife-portal/commit/72b1285facf80573ff3e518f09b33d4856462a27))
 
 * fix(deps): bump django from 3.2.17 to 3.2.18
 
@@ -3818,8 +3854,8 @@ Co-Authored-By: faucomte97 <f.aucomte@hotmail.co.uk>
 
 ### Build System
 
-- Update lockfile ([#2029](https://github.com/ocadotechnology/codeforlife-portal/pull/2029),
-  [`b768aa0`](https://github.com/ocadotechnology/codeforlife-portal/commit/b768aa0c0e4e44d1cfdb83c67fc6177554e7bbe3))
+- Update lockfile ([#2029](https://github.com/codeforlife-education/codeforlife-portal/pull/2029),
+  [`b768aa0`](https://github.com/codeforlife-education/codeforlife-portal/commit/b768aa0c0e4e44d1cfdb83c67fc6177554e7bbe3))
 
 
 ## v6.29.2 (2023-02-10)
@@ -3827,14 +3863,14 @@ Co-Authored-By: faucomte97 <f.aucomte@hotmail.co.uk>
 ### Bug Fixes
 
 - Update lockfile properly
-  ([#2028](https://github.com/ocadotechnology/codeforlife-portal/pull/2028),
-  [`f3d9272`](https://github.com/ocadotechnology/codeforlife-portal/commit/f3d9272472900126b0c89cb7a19eef2878455c2d))
+  ([#2028](https://github.com/codeforlife-education/codeforlife-portal/pull/2028),
+  [`f3d9272`](https://github.com/codeforlife-education/codeforlife-portal/commit/f3d9272472900126b0c89cb7a19eef2878455c2d))
 
 ### Build System
 
 - **deps**: Bump django from 3.2.16 to 3.2.17
-  ([#2024](https://github.com/ocadotechnology/codeforlife-portal/pull/2024),
-  [`df867ad`](https://github.com/ocadotechnology/codeforlife-portal/commit/df867adde6a2d03f943a820daa1832d2f6cb7f5b))
+  ([#2024](https://github.com/codeforlife-education/codeforlife-portal/pull/2024),
+  [`df867ad`](https://github.com/codeforlife-education/codeforlife-portal/commit/df867adde6a2d03f943a820daa1832d2f6cb7f5b))
 
 * build(deps): bump django from 3.2.16 to 3.2.17
 
@@ -3860,14 +3896,14 @@ Co-authored-by: faucomte97 <f.aucomte@hotmail.co.uk>
 ### Bug Fixes
 
 - Version bump
-  ([`183100c`](https://github.com/ocadotechnology/codeforlife-portal/commit/183100c734082b791852e9a9e1b7022ea069e45c))
+  ([`183100c`](https://github.com/codeforlife-education/codeforlife-portal/commit/183100c734082b791852e9a9e1b7022ea069e45c))
 
 - Version bump with new semantic-release
-  ([`8f5c00b`](https://github.com/ocadotechnology/codeforlife-portal/commit/8f5c00b459a51cfa055b1660423bc40bbb982eae))
+  ([`8f5c00b`](https://github.com/codeforlife-education/codeforlife-portal/commit/8f5c00b459a51cfa055b1660423bc40bbb982eae))
 
 - **deps**: Bump django from 3.2.16 to 3.2.17
-  ([#2022](https://github.com/ocadotechnology/codeforlife-portal/pull/2022),
-  [`c4071be`](https://github.com/ocadotechnology/codeforlife-portal/commit/c4071bebb7147f1d0150535c3c46a0bfda511706))
+  ([#2022](https://github.com/codeforlife-education/codeforlife-portal/pull/2022),
+  [`c4071be`](https://github.com/codeforlife-education/codeforlife-portal/commit/c4071bebb7147f1d0150535c3c46a0bfda511706))
 
 * build(deps): bump django from 3.2.16 to 3.2.17
 
@@ -3889,8 +3925,8 @@ Co-Authored-By: faucomte97 <f.aucomte@hotmail.co.uk>
 ### Features
 
 - Student rate limit in progress
-  ([#2019](https://github.com/ocadotechnology/codeforlife-portal/pull/2019),
-  [`845028b`](https://github.com/ocadotechnology/codeforlife-portal/commit/845028b717ef7cad20bef7b512673473c951d63e))
+  ([#2019](https://github.com/codeforlife-education/codeforlife-portal/pull/2019),
+  [`845028b`](https://github.com/codeforlife-education/codeforlife-portal/commit/845028b717ef7cad20bef7b512673473c951d63e))
 
 * trying to fix the ratelimit
 
@@ -3912,8 +3948,8 @@ Co-Authored-By: faucomte97 <f.aucomte@hotmail.co.uk>
 ### Bug Fixes
 
 - Rename daily lockout fields
-  ([#2017](https://github.com/ocadotechnology/codeforlife-portal/pull/2017),
-  [`eada5ee`](https://github.com/ocadotechnology/codeforlife-portal/commit/eada5eead62f5055c3b8b2c06ffc55738d3ce477))
+  ([#2017](https://github.com/codeforlife-education/codeforlife-portal/pull/2017),
+  [`eada5ee`](https://github.com/codeforlife-education/codeforlife-portal/commit/eada5eead62f5055c3b8b2c06ffc55738d3ce477))
 
 
 ## v6.28.4 (2023-01-26)
@@ -3921,8 +3957,8 @@ Co-Authored-By: faucomte97 <f.aucomte@hotmail.co.uk>
 ### Bug Fixes
 
 - Add ratelimit to student login
-  ([#2013](https://github.com/ocadotechnology/codeforlife-portal/pull/2013),
-  [`e9f355c`](https://github.com/ocadotechnology/codeforlife-portal/commit/e9f355ce2770c4c4cc1e3e4fc78d344910dac4b2))
+  ([#2013](https://github.com/codeforlife-education/codeforlife-portal/pull/2013),
+  [`e9f355c`](https://github.com/codeforlife-education/codeforlife-portal/commit/e9f355ce2770c4c4cc1e3e4fc78d344910dac4b2))
 
 * fix: adding tests
 
@@ -3948,16 +3984,16 @@ Co-Authored-By: faucomte97 <f.aucomte@hotmail.co.uk>
 ### Bug Fixes
 
 - Update PN section on personal data
-  ([#2016](https://github.com/ocadotechnology/codeforlife-portal/pull/2016),
-  [`08f8496`](https://github.com/ocadotechnology/codeforlife-portal/commit/08f8496c4227dc8d265223c26a5c9165e90c0fad))
+  ([#2016](https://github.com/codeforlife-education/codeforlife-portal/pull/2016),
+  [`08f8496`](https://github.com/codeforlife-education/codeforlife-portal/commit/08f8496c4227dc8d265223c26a5c9165e90c0fad))
 
 
 ## v6.28.2 (2023-01-24)
 
 ### Bug Fixes
 
-- Update old divs ([#2015](https://github.com/ocadotechnology/codeforlife-portal/pull/2015),
-  [`68b862b`](https://github.com/ocadotechnology/codeforlife-portal/commit/68b862bb121ff1927e7ee934f5f2819b0b6e3e8e))
+- Update old divs ([#2015](https://github.com/codeforlife-education/codeforlife-portal/pull/2015),
+  [`68b862b`](https://github.com/codeforlife-education/codeforlife-portal/commit/68b862bb121ff1927e7ee934f5f2819b0b6e3e8e))
 
 * fix: Update old divs
 
@@ -3969,8 +4005,8 @@ Co-Authored-By: faucomte97 <f.aucomte@hotmail.co.uk>
 ### Bug Fixes
 
 - Update privacy notice and fix styling issues
-  ([#2011](https://github.com/ocadotechnology/codeforlife-portal/pull/2011),
-  [`493a4d3`](https://github.com/ocadotechnology/codeforlife-portal/commit/493a4d3b21f65bb245c86f933de0b64764790b3e))
+  ([#2011](https://github.com/codeforlife-education/codeforlife-portal/pull/2011),
+  [`493a4d3`](https://github.com/codeforlife-education/codeforlife-portal/commit/493a4d3b21f65bb245c86f933de0b64764790b3e))
 
 * fix: Update privacy notice and fix styling issues
 
@@ -3982,8 +4018,8 @@ Co-Authored-By: faucomte97 <f.aucomte@hotmail.co.uk>
 ### Build System
 
 - **deps**: Remove future from dependencies
-  ([#2010](https://github.com/ocadotechnology/codeforlife-portal/pull/2010),
-  [`1626ff9`](https://github.com/ocadotechnology/codeforlife-portal/commit/1626ff91dfb473fd8c4dafab1b1279a03ed940c5))
+  ([#2010](https://github.com/codeforlife-education/codeforlife-portal/pull/2010),
+  [`1626ff9`](https://github.com/codeforlife-education/codeforlife-portal/commit/1626ff91dfb473fd8c4dafab1b1279a03ed940c5))
 
 * build(deps): bump future from 0.18.2 to 0.18.3
 
@@ -4008,8 +4044,8 @@ Co-Authored-By: faucomte97 <florian.aucomt1@ocado.com>
 ### Features
 
 - Added tracking reset passwords
-  ([#2008](https://github.com/ocadotechnology/codeforlife-portal/pull/2008),
-  [`aeefbc8`](https://github.com/ocadotechnology/codeforlife-portal/commit/aeefbc80574cacdbedf8174a633ec35774f4e190))
+  ([#2008](https://github.com/codeforlife-education/codeforlife-portal/pull/2008),
+  [`aeefbc8`](https://github.com/codeforlife-education/codeforlife-portal/commit/aeefbc80574cacdbedf8174a633ec35774f4e190))
 
 * feat: added tracking reset passwords
 
@@ -4033,8 +4069,8 @@ Co-Authored-By: faucomte97 <florian.aucomt1@ocado.com>
 ### Bug Fixes
 
 - Reverting setuptools back to 62.1.0
-  ([#2009](https://github.com/ocadotechnology/codeforlife-portal/pull/2009),
-  [`1425a2d`](https://github.com/ocadotechnology/codeforlife-portal/commit/1425a2d6a1ea50d5f8507df6264639faa9354add))
+  ([#2009](https://github.com/codeforlife-education/codeforlife-portal/pull/2009),
+  [`1425a2d`](https://github.com/codeforlife-education/codeforlife-portal/commit/1425a2d6a1ea50d5f8507df6264639faa9354add))
 
 * fix: reverting setuptools back to 62.1.0
 
@@ -4046,18 +4082,18 @@ Co-Authored-By: faucomte97 <florian.aucomt1@ocado.com>
 ### Bug Fixes
 
 - Updates to privacy policy
-  ([#1997](https://github.com/ocadotechnology/codeforlife-portal/pull/1997),
-  [`f818a75`](https://github.com/ocadotechnology/codeforlife-portal/commit/f818a7563a4ce4c896dd8bfc778f6c881f31814e))
+  ([#1997](https://github.com/codeforlife-education/codeforlife-portal/pull/1997),
+  [`f818a75`](https://github.com/codeforlife-education/codeforlife-portal/commit/f818a7563a4ce4c896dd8bfc778f6c881f31814e))
 
 ### Build System
 
 - **deps**: Bump json5 from 1.0.1 to 1.0.2 in /portal_frontend
-  ([#1995](https://github.com/ocadotechnology/codeforlife-portal/pull/1995),
-  [`24da0e7`](https://github.com/ocadotechnology/codeforlife-portal/commit/24da0e7c84c074cdeab63d727625721690149f3b))
+  ([#1995](https://github.com/codeforlife-education/codeforlife-portal/pull/1995),
+  [`24da0e7`](https://github.com/codeforlife-education/codeforlife-portal/commit/24da0e7c84c074cdeab63d727625721690149f3b))
 
 - **deps**: Bump setuptools from 62.1.0 to 65.5.1
-  ([#1991](https://github.com/ocadotechnology/codeforlife-portal/pull/1991),
-  [`cbf07f4`](https://github.com/ocadotechnology/codeforlife-portal/commit/cbf07f4245e543cb2a1c41b7f77eedcfc210f5fd))
+  ([#1991](https://github.com/codeforlife-education/codeforlife-portal/pull/1991),
+  [`cbf07f4`](https://github.com/codeforlife-education/codeforlife-portal/commit/cbf07f4245e543cb2a1c41b7f77eedcfc210f5fd))
 
 * build(deps): bump setuptools from 62.1.0 to 65.5.1
 
@@ -4082,24 +4118,26 @@ Co-Authored-By: Florian Aucomte <33633200+faucomte97@users.noreply.github.com>
 ### Bug Fixes
 
 - Made the the page open in the same window
-  ([#1993](https://github.com/ocadotechnology/codeforlife-portal/pull/1993),
-  [`ad4c035`](https://github.com/ocadotechnology/codeforlife-portal/commit/ad4c0357d369e94d4b6b15914f05d05d98a2a2a1))
+  ([#1993](https://github.com/codeforlife-education/codeforlife-portal/pull/1993),
+  [`ad4c035`](https://github.com/codeforlife-education/codeforlife-portal/commit/ad4c0357d369e94d4b6b15914f05d05d98a2a2a1))
 
 ### Build System
 
-- Update Github actions ([#1987](https://github.com/ocadotechnology/codeforlife-portal/pull/1987),
-  [`b06ec27`](https://github.com/ocadotechnology/codeforlife-portal/commit/b06ec27ba1b658926210ccafa247e7365dbb2519))
+- Update Github actions
+  ([#1987](https://github.com/codeforlife-education/codeforlife-portal/pull/1987),
+  [`b06ec27`](https://github.com/codeforlife-education/codeforlife-portal/commit/b06ec27ba1b658926210ccafa247e7365dbb2519))
 
-- Update github script ([#1988](https://github.com/ocadotechnology/codeforlife-portal/pull/1988),
-  [`ec3ea10`](https://github.com/ocadotechnology/codeforlife-portal/commit/ec3ea10cd3d528ad65fb55ea5ce331ee5c22520f))
+- Update github script
+  ([#1988](https://github.com/codeforlife-education/codeforlife-portal/pull/1988),
+  [`ec3ea10`](https://github.com/codeforlife-education/codeforlife-portal/commit/ec3ea10cd3d528ad65fb55ea5ce331ee5c22520f))
 
 
 ## v6.27.7 (2022-12-14)
 
 ### Bug Fixes
 
-- Fixed the typo ([#1986](https://github.com/ocadotechnology/codeforlife-portal/pull/1986),
-  [`0a3b566`](https://github.com/ocadotechnology/codeforlife-portal/commit/0a3b5669565b0204f84de12dd4365184095156f0))
+- Fixed the typo ([#1986](https://github.com/codeforlife-education/codeforlife-portal/pull/1986),
+  [`0a3b566`](https://github.com/codeforlife-education/codeforlife-portal/commit/0a3b5669565b0204f84de12dd4365184095156f0))
 
 
 ## v6.27.6 (2022-12-14)
@@ -4107,8 +4145,8 @@ Co-Authored-By: Florian Aucomte <33633200+faucomte97@users.noreply.github.com>
 ### Bug Fixes
 
 - Added a coding clubs link to learning/teaching resources
-  ([#1985](https://github.com/ocadotechnology/codeforlife-portal/pull/1985),
-  [`637ef60`](https://github.com/ocadotechnology/codeforlife-portal/commit/637ef6003a20fd56612577cc1cfeb2ed0e288a20))
+  ([#1985](https://github.com/codeforlife-education/codeforlife-portal/pull/1985),
+  [`637ef60`](https://github.com/codeforlife-education/codeforlife-portal/commit/637ef6003a20fd56612577cc1cfeb2ed0e288a20))
 
 * fix: added a coding clubs link to learning/teaching resources
 
@@ -4120,8 +4158,8 @@ Co-Authored-By: Florian Aucomte <33633200+faucomte97@users.noreply.github.com>
 ### Bug Fixes
 
 - Broken newsletter for indy students
-  ([#1984](https://github.com/ocadotechnology/codeforlife-portal/pull/1984),
-  [`4aa55fb`](https://github.com/ocadotechnology/codeforlife-portal/commit/4aa55fbff0116a257f0303f2d3833b681bc8a761))
+  ([#1984](https://github.com/codeforlife-education/codeforlife-portal/pull/1984),
+  [`4aa55fb`](https://github.com/codeforlife-education/codeforlife-portal/commit/4aa55fbff0116a257f0303f2d3833b681bc8a761))
 
 * fix: fix indy student newsletter bug
 
@@ -4137,8 +4175,8 @@ Co-Authored-By: Florian Aucomte <33633200+faucomte97@users.noreply.github.com>
 ### Bug Fixes
 
 - Added a edit class anaytic
-  ([#1981](https://github.com/ocadotechnology/codeforlife-portal/pull/1981),
-  [`5f19f6a`](https://github.com/ocadotechnology/codeforlife-portal/commit/5f19f6a1356a8eff333ef6919b72585ec53b6f1d))
+  ([#1981](https://github.com/codeforlife-education/codeforlife-portal/pull/1981),
+  [`5f19f6a`](https://github.com/codeforlife-education/codeforlife-portal/commit/5f19f6a1356a8eff333ef6919b72585ec53b6f1d))
 
 * fix: added a edit class anaytic
 
@@ -4159,8 +4197,8 @@ Co-Authored-By: Florian Aucomte <33633200+faucomte97@users.noreply.github.com>
 ### Build System
 
 - Adding snyk to github actions
-  ([#1979](https://github.com/ocadotechnology/codeforlife-portal/pull/1979),
-  [`fecd27a`](https://github.com/ocadotechnology/codeforlife-portal/commit/fecd27a8f3635363b61df30227d348719253120e))
+  ([#1979](https://github.com/codeforlife-education/codeforlife-portal/pull/1979),
+  [`fecd27a`](https://github.com/codeforlife-education/codeforlife-portal/commit/fecd27a8f3635363b61df30227d348719253120e))
 
 * feat: adding snyk to github actions
 
@@ -4202,12 +4240,12 @@ Co-Authored-By: Florian Aucomte <33633200+faucomte97@users.noreply.github.com>
 
 * update cypress github actions
 
-- Upgrade certifi ([#1982](https://github.com/ocadotechnology/codeforlife-portal/pull/1982),
-  [`c5d92b2`](https://github.com/ocadotechnology/codeforlife-portal/commit/c5d92b2c924eb3f3950d267137bb658e0ccde916))
+- Upgrade certifi ([#1982](https://github.com/codeforlife-education/codeforlife-portal/pull/1982),
+  [`c5d92b2`](https://github.com/codeforlife-education/codeforlife-portal/commit/c5d92b2c924eb3f3950d267137bb658e0ccde916))
 
 - **deps**: Bump decode-uri-component in /portal_frontend
-  ([#1978](https://github.com/ocadotechnology/codeforlife-portal/pull/1978),
-  [`6860df8`](https://github.com/ocadotechnology/codeforlife-portal/commit/6860df85865fb4a4553275f652e153a0a6d4cafe))
+  ([#1978](https://github.com/codeforlife-education/codeforlife-portal/pull/1978),
+  [`6860df8`](https://github.com/codeforlife-education/codeforlife-portal/commit/6860df85865fb4a4553275f652e153a0a6d4cafe))
 
 
 ## v6.27.3 (2022-12-02)
@@ -4215,7 +4253,7 @@ Co-Authored-By: Florian Aucomte <33633200+faucomte97@users.noreply.github.com>
 ### Bug Fixes
 
 - Dummy formatting commit to bump version
-  ([`cbdb329`](https://github.com/ocadotechnology/codeforlife-portal/commit/cbdb3299f25fb0df5979f6226aeee0e69a02ca2e))
+  ([`cbdb329`](https://github.com/codeforlife-education/codeforlife-portal/commit/cbdb3299f25fb0df5979f6226aeee0e69a02ca2e))
 
 
 ## v6.27.2 (2022-11-23)
@@ -4223,8 +4261,8 @@ Co-Authored-By: Florian Aucomte <33633200+faucomte97@users.noreply.github.com>
 ### Bug Fixes
 
 - Improve admin panel usability
-  ([#1973](https://github.com/ocadotechnology/codeforlife-portal/pull/1973),
-  [`0076abb`](https://github.com/ocadotechnology/codeforlife-portal/commit/0076abb66c2f35097d93048e4e8536e09da027b6))
+  ([#1973](https://github.com/codeforlife-education/codeforlife-portal/pull/1973),
+  [`0076abb`](https://github.com/codeforlife-education/codeforlife-portal/commit/0076abb66c2f35097d93048e4e8536e09da027b6))
 
 
 ## v6.27.1 (2022-11-16)
@@ -4232,22 +4270,23 @@ Co-Authored-By: Florian Aucomte <33633200+faucomte97@users.noreply.github.com>
 ### Bug Fixes
 
 - Fix level control checkbox logic
-  ([#1969](https://github.com/ocadotechnology/codeforlife-portal/pull/1969),
-  [`ca53bb8`](https://github.com/ocadotechnology/codeforlife-portal/commit/ca53bb8de70355b672153d8e855c08973ad5364f))
+  ([#1969](https://github.com/codeforlife-education/codeforlife-portal/pull/1969),
+  [`ca53bb8`](https://github.com/codeforlife-education/codeforlife-portal/commit/ca53bb8de70355b672153d8e855c08973ad5364f))
 
 ### Build System
 
 - **deps**: Bump loader-utils from 2.0.3 to 2.0.4 in /portal_frontend
-  ([#1968](https://github.com/ocadotechnology/codeforlife-portal/pull/1968),
-  [`49f3cdb`](https://github.com/ocadotechnology/codeforlife-portal/commit/49f3cdb1cc520c088513322de6ac74926ec8e75e))
+  ([#1968](https://github.com/codeforlife-education/codeforlife-portal/pull/1968),
+  [`49f3cdb`](https://github.com/codeforlife-education/codeforlife-portal/commit/49f3cdb1cc520c088513322de6ac74926ec8e75e))
 
 
 ## v6.27.0 (2022-11-15)
 
 ### Features
 
-- Remove fake accounts ([#1966](https://github.com/ocadotechnology/codeforlife-portal/pull/1966),
-  [`e279909`](https://github.com/ocadotechnology/codeforlife-portal/commit/e2799096687dab3ef88bc3d1f70ccbf99a20c5d9))
+- Remove fake accounts
+  ([#1966](https://github.com/codeforlife-education/codeforlife-portal/pull/1966),
+  [`e279909`](https://github.com/codeforlife-education/codeforlife-portal/commit/e2799096687dab3ef88bc3d1f70ccbf99a20c5d9))
 
 * new begining
 
@@ -4265,8 +4304,8 @@ Co-Authored-By: Florian Aucomte <33633200+faucomte97@users.noreply.github.com>
 ### Features
 
 - Level access control form
-  ([#1965](https://github.com/ocadotechnology/codeforlife-portal/pull/1965),
-  [`1e98cf4`](https://github.com/ocadotechnology/codeforlife-portal/commit/1e98cf4b11adbee8c1346361bc6593ca8b92a874))
+  ([#1965](https://github.com/codeforlife-education/codeforlife-portal/pull/1965),
+  [`1e98cf4`](https://github.com/codeforlife-education/codeforlife-portal/commit/1e98cf4b11adbee8c1346361bc6593ca8b92a874))
 
 * feat: Level control feature
 
@@ -4284,17 +4323,17 @@ Co-Authored-By: Florian Aucomte <33633200+faucomte97@users.noreply.github.com>
 ### Build System
 
 - Update lockfile for Django 3.2.16
-  ([#1963](https://github.com/ocadotechnology/codeforlife-portal/pull/1963),
-  [`e9104ae`](https://github.com/ocadotechnology/codeforlife-portal/commit/e9104ae52c0ca61a4ea1ef3cf8e893ccf37a371f))
+  ([#1963](https://github.com/codeforlife-education/codeforlife-portal/pull/1963),
+  [`e9104ae`](https://github.com/codeforlife-education/codeforlife-portal/commit/e9104ae52c0ca61a4ea1ef3cf8e893ccf37a371f))
 
 - **deps**: Bump loader-utils from 2.0.2 to 2.0.3 in /portal_frontend
-  ([#1964](https://github.com/ocadotechnology/codeforlife-portal/pull/1964),
-  [`9d94a86`](https://github.com/ocadotechnology/codeforlife-portal/commit/9d94a86b9559ec6da0d6444808c260da0f503a9b))
+  ([#1964](https://github.com/codeforlife-education/codeforlife-portal/pull/1964),
+  [`9d94a86`](https://github.com/codeforlife-education/codeforlife-portal/commit/9d94a86b9559ec6da0d6444808c260da0f503a9b))
 
 ### Features
 
-- Export user data ([#1957](https://github.com/ocadotechnology/codeforlife-portal/pull/1957),
-  [`8961d74`](https://github.com/ocadotechnology/codeforlife-portal/commit/8961d748faa23cc50224d6264fb56c5297c8ee7b))
+- Export user data ([#1957](https://github.com/codeforlife-education/codeforlife-portal/pull/1957),
+  [`8961d74`](https://github.com/codeforlife-education/codeforlife-portal/commit/8961d748faa23cc50224d6264fb56c5297c8ee7b))
 
 * feat:initial working function of extracting data
 
@@ -4314,8 +4353,8 @@ Co-Authored-By: Florian Aucomte <33633200+faucomte97@users.noreply.github.com>
 ### Bug Fixes
 
 - **deps**: Bump django from 3.2.15 to 3.2.16
-  ([#1962](https://github.com/ocadotechnology/codeforlife-portal/pull/1962),
-  [`322310f`](https://github.com/ocadotechnology/codeforlife-portal/commit/322310fcd4e29092f7370ab77124d337b1ebe8c9))
+  ([#1962](https://github.com/codeforlife-education/codeforlife-portal/pull/1962),
+  [`322310f`](https://github.com/codeforlife-education/codeforlife-portal/commit/322310fcd4e29092f7370ab77124d337b1ebe8c9))
 
 * fix(deps): bump django from 3.2.15 to 3.2.16
 
@@ -4339,8 +4378,8 @@ Co-authored-by: faucomte97 <florian.aucomt1@ocado.com>
 ### Bug Fixes
 
 - Fix most common flaky tests #1
-  ([#1958](https://github.com/ocadotechnology/codeforlife-portal/pull/1958),
-  [`c6de9d6`](https://github.com/ocadotechnology/codeforlife-portal/commit/c6de9d67728767b5df7f03ba5aef6d62e5b96ed6))
+  ([#1958](https://github.com/codeforlife-education/codeforlife-portal/pull/1958),
+  [`c6de9d6`](https://github.com/codeforlife-education/codeforlife-portal/commit/c6de9d67728767b5df7f03ba5aef6d62e5b96ed6))
 
 * fix: fix most common flaky tests #1
 
@@ -4352,8 +4391,8 @@ Co-authored-by: faucomte97 <florian.aucomt1@ocado.com>
 ### Bug Fixes
 
 - Added autocompelte='off'
-  ([#1956](https://github.com/ocadotechnology/codeforlife-portal/pull/1956),
-  [`9676cc4`](https://github.com/ocadotechnology/codeforlife-portal/commit/9676cc4a8cb3ab8aeb1bbcd3b50896b506d9c2d4))
+  ([#1956](https://github.com/codeforlife-education/codeforlife-portal/pull/1956),
+  [`9676cc4`](https://github.com/codeforlife-education/codeforlife-portal/commit/9676cc4a8cb3ab8aeb1bbcd3b50896b506d9c2d4))
 
 * fix: added autocompelte='off'
 
@@ -4365,8 +4404,8 @@ Co-authored-by: faucomte97 <florian.aucomt1@ocado.com>
 ### Features
 
 - Reset password must be different to the current password
-  ([#1955](https://github.com/ocadotechnology/codeforlife-portal/pull/1955),
-  [`3cd8129`](https://github.com/ocadotechnology/codeforlife-portal/commit/3cd812950e8b1d427d9887350e56304f9a8cef69))
+  ([#1955](https://github.com/codeforlife-education/codeforlife-portal/pull/1955),
+  [`3cd8129`](https://github.com/codeforlife-education/codeforlife-portal/commit/3cd812950e8b1d427d9887350e56304f9a8cef69))
 
 * fixin
 
@@ -4378,8 +4417,8 @@ Co-authored-by: faucomte97 <florian.aucomt1@ocado.com>
 ### Bug Fixes
 
 - Added a bug fix for class deletion and game still being up
-  ([#1953](https://github.com/ocadotechnology/codeforlife-portal/pull/1953),
-  [`a35652f`](https://github.com/ocadotechnology/codeforlife-portal/commit/a35652fd043db6a9f1466714ba03b3d7d59ba226))
+  ([#1953](https://github.com/codeforlife-education/codeforlife-portal/pull/1953),
+  [`a35652f`](https://github.com/codeforlife-education/codeforlife-portal/commit/a35652fd043db6a9f1466714ba03b3d7d59ba226))
 
 * fix: added a bug fix for class deletion and game still being up
 
@@ -4391,8 +4430,8 @@ Co-authored-by: faucomte97 <florian.aucomt1@ocado.com>
 ### Features
 
 - Admin aimmo power portal feature
-  ([#1952](https://github.com/ocadotechnology/codeforlife-portal/pull/1952),
-  [`2e723f5`](https://github.com/ocadotechnology/codeforlife-portal/commit/2e723f53daf7e17ace1d318cba643e06057ebd9d))
+  ([#1952](https://github.com/codeforlife-education/codeforlife-portal/pull/1952),
+  [`2e723f5`](https://github.com/codeforlife-education/codeforlife-portal/commit/2e723f53daf7e17ace1d318cba643e06057ebd9d))
 
 * fix: sorting in django is complicated
 
@@ -4419,8 +4458,9 @@ Co-authored-by: faucomte97 <florian.aucomt1@ocado.com>
 
 ### Bug Fixes
 
-- Add maintenance banner ([#1951](https://github.com/ocadotechnology/codeforlife-portal/pull/1951),
-  [`0de6e06`](https://github.com/ocadotechnology/codeforlife-portal/commit/0de6e06708c21405e74ccabfbc4a9d0186fb7e43))
+- Add maintenance banner
+  ([#1951](https://github.com/codeforlife-education/codeforlife-portal/pull/1951),
+  [`0de6e06`](https://github.com/codeforlife-education/codeforlife-portal/commit/0de6e06708c21405e74ccabfbc4a9d0186fb7e43))
 
 
 ## v6.22.0 (2022-10-12)
@@ -4428,8 +4468,8 @@ Co-authored-by: faucomte97 <florian.aucomt1@ocado.com>
 ### Features
 
 - Create dynamic elements from Django admin
-  ([#1950](https://github.com/ocadotechnology/codeforlife-portal/pull/1950),
-  [`e1f7548`](https://github.com/ocadotechnology/codeforlife-portal/commit/e1f75484f779b22fe810f1bb6481af4bae468407))
+  ([#1950](https://github.com/codeforlife-education/codeforlife-portal/pull/1950),
+  [`e1f7548`](https://github.com/codeforlife-education/codeforlife-portal/commit/e1f75484f779b22fe810f1bb6481af4bae468407))
 
 * feat: Create dynamic elements from Django admin
 
@@ -4445,8 +4485,8 @@ Co-authored-by: faucomte97 <florian.aucomt1@ocado.com>
 ### Features
 
 - Functionality for admin custom level sharing
-  ([#1945](https://github.com/ocadotechnology/codeforlife-portal/pull/1945),
-  [`54eb35c`](https://github.com/ocadotechnology/codeforlife-portal/commit/54eb35c22a06fcc8539e820ef83c8ea450cc7640))
+  ([#1945](https://github.com/codeforlife-education/codeforlife-portal/pull/1945),
+  [`54eb35c`](https://github.com/codeforlife-education/codeforlife-portal/commit/54eb35c22a06fcc8539e820ef83c8ea450cc7640))
 
 * fix: Functionality for admin level sharing
 
@@ -4458,8 +4498,8 @@ Co-authored-by: faucomte97 <florian.aucomt1@ocado.com>
 ### Bug Fixes
 
 - Update contact email in Privacy Policy
-  ([#1943](https://github.com/ocadotechnology/codeforlife-portal/pull/1943),
-  [`6a4663c`](https://github.com/ocadotechnology/codeforlife-portal/commit/6a4663cc5eb2ed9a1b5eb8f5f3ece151a3339a0c))
+  ([#1943](https://github.com/codeforlife-education/codeforlife-portal/pull/1943),
+  [`6a4663c`](https://github.com/codeforlife-education/codeforlife-portal/commit/6a4663cc5eb2ed9a1b5eb8f5f3ece151a3339a0c))
 
 
 ## v6.20.2 (2022-09-21)
@@ -4467,8 +4507,8 @@ Co-authored-by: faucomte97 <florian.aucomt1@ocado.com>
 ### Bug Fixes
 
 - Make kurono maintenance banner show depending on flag
-  ([#1941](https://github.com/ocadotechnology/codeforlife-portal/pull/1941),
-  [`5b6be58`](https://github.com/ocadotechnology/codeforlife-portal/commit/5b6be58c351b92c6b72dc32fe749e12701d5ace0))
+  ([#1941](https://github.com/codeforlife-education/codeforlife-portal/pull/1941),
+  [`5b6be58`](https://github.com/codeforlife-education/codeforlife-portal/commit/5b6be58c351b92c6b72dc32fe749e12701d5ace0))
 
 * fix: Make kurono maintenance banner show depending on flag
 
@@ -4479,8 +4519,8 @@ Co-authored-by: faucomte97 <florian.aucomt1@ocado.com>
 
 ### Bug Fixes
 
-- Timer fix ([#1938](https://github.com/ocadotechnology/codeforlife-portal/pull/1938),
-  [`b9216e9`](https://github.com/ocadotechnology/codeforlife-portal/commit/b9216e94aa32bafbe1de62ddc3782a7307c7e6c1))
+- Timer fix ([#1938](https://github.com/codeforlife-education/codeforlife-portal/pull/1938),
+  [`b9216e9`](https://github.com/codeforlife-education/codeforlife-portal/commit/b9216e94aa32bafbe1de62ddc3782a7307c7e6c1))
 
 * :)
 
@@ -4501,8 +4541,9 @@ Co-authored-by: faucomte97 <florian.aucomt1@ocado.com>
 
 ### Features
 
-- Increase speed of tests ([#1937](https://github.com/ocadotechnology/codeforlife-portal/pull/1937),
-  [`b9499f9`](https://github.com/ocadotechnology/codeforlife-portal/commit/b9499f9a77ccc11451069d346f27d165339929b0))
+- Increase speed of tests
+  ([#1937](https://github.com/codeforlife-education/codeforlife-portal/pull/1937),
+  [`b9499f9`](https://github.com/codeforlife-education/codeforlife-portal/commit/b9499f9a77ccc11451069d346f27d165339929b0))
 
 
 ## v6.19.1 (2022-09-09)
@@ -4510,8 +4551,8 @@ Co-authored-by: faucomte97 <florian.aucomt1@ocado.com>
 ### Bug Fixes
 
 - Python download texts and update buttons with zip downloads
-  ([#1936](https://github.com/ocadotechnology/codeforlife-portal/pull/1936),
-  [`4343d42`](https://github.com/ocadotechnology/codeforlife-portal/commit/4343d42769bd6810ed0ed6e4c237cdbd03df6118))
+  ([#1936](https://github.com/codeforlife-education/codeforlife-portal/pull/1936),
+  [`4343d42`](https://github.com/codeforlife-education/codeforlife-portal/commit/4343d42769bd6810ed0ed6e4c237cdbd03df6118))
 
 * fix python download texts and update buttons with zip downloads
 
@@ -4522,8 +4563,8 @@ Co-authored-by: faucomte97 <florian.aucomt1@ocado.com>
 
 ### Features
 
-- Coding club page ([#1935](https://github.com/ocadotechnology/codeforlife-portal/pull/1935),
-  [`b8e0499`](https://github.com/ocadotechnology/codeforlife-portal/commit/b8e0499ac64a4487a2caf85178135d2a4a5ce754))
+- Coding club page ([#1935](https://github.com/codeforlife-education/codeforlife-portal/pull/1935),
+  [`b8e0499`](https://github.com/codeforlife-education/codeforlife-portal/commit/b8e0499ac64a4487a2caf85178135d2a4a5ce754))
 
 * coding club page
 
@@ -4545,8 +4586,8 @@ Co-authored-by: faucomte97 <florian.aucomt1@ocado.com>
 ### Bug Fixes
 
 - Update text in registration forms
-  ([#1934](https://github.com/ocadotechnology/codeforlife-portal/pull/1934),
-  [`b351013`](https://github.com/ocadotechnology/codeforlife-portal/commit/b351013707e66c457870a242730b0c6051a13611))
+  ([#1934](https://github.com/codeforlife-education/codeforlife-portal/pull/1934),
+  [`b351013`](https://github.com/codeforlife-education/codeforlife-portal/commit/b351013707e66c457870a242730b0c6051a13611))
 
 * fix: Update text in registration forms
 
@@ -4556,8 +4597,8 @@ Co-authored-by: faucomte97 <florian.aucomt1@ocado.com>
 ### Bug Fixes
 
 - Clean autoconfig remains and move CSP config to common
-  ([#1932](https://github.com/ocadotechnology/codeforlife-portal/pull/1932),
-  [`b8f9d14`](https://github.com/ocadotechnology/codeforlife-portal/commit/b8f9d143d302b866d539cc3effd50ed6442ed60d))
+  ([#1932](https://github.com/codeforlife-education/codeforlife-portal/pull/1932),
+  [`b8f9d14`](https://github.com/codeforlife-education/codeforlife-portal/commit/b8f9d143d302b866d539cc3effd50ed6442ed60d))
 
 * fix: Clean autoconfig remains and move CSP config to common
 
@@ -4573,15 +4614,15 @@ Co-authored-by: faucomte97 <florian.aucomt1@ocado.com>
 ### Bug Fixes
 
 - Bump up version
-  ([`49257aa`](https://github.com/ocadotechnology/codeforlife-portal/commit/49257aaea82beac9d5e12f83d906fc3ef5f82892))
+  ([`49257aa`](https://github.com/codeforlife-education/codeforlife-portal/commit/49257aaea82beac9d5e12f83d906fc3ef5f82892))
 
 
 ## v6.18.1 (2022-08-26)
 
 ### Bug Fixes
 
-- Kurono banner ([#1929](https://github.com/ocadotechnology/codeforlife-portal/pull/1929),
-  [`b0824a7`](https://github.com/ocadotechnology/codeforlife-portal/commit/b0824a72deb9a743e1f26fbe87a13641fd97d452))
+- Kurono banner ([#1929](https://github.com/codeforlife-education/codeforlife-portal/pull/1929),
+  [`b0824a7`](https://github.com/codeforlife-education/codeforlife-portal/commit/b0824a72deb9a743e1f26fbe87a13641fd97d452))
 
 * attempt at banner working
 
@@ -4605,8 +4646,8 @@ Co-authored-by: faucomte97 <florian.aucomt1@ocado.com>
 ### Features
 
 - Remove django-autoconfig
-  ([#1924](https://github.com/ocadotechnology/codeforlife-portal/pull/1924),
-  [`3d4385e`](https://github.com/ocadotechnology/codeforlife-portal/commit/3d4385e5d8fbc777f67379eb7343a71fd3471a5a))
+  ([#1924](https://github.com/codeforlife-education/codeforlife-portal/pull/1924),
+  [`3d4385e`](https://github.com/codeforlife-education/codeforlife-portal/commit/3d4385e5d8fbc777f67379eb7343a71fd3471a5a))
 
 * fix: Try ls again + verbose install
 
@@ -4646,8 +4687,8 @@ Co-authored-by: Mykhaylo Marfeychuk <Mika412@users.noreply.github.com>
 ### Bug Fixes
 
 - Add countdown stop to session expiry popup
-  ([#1919](https://github.com/ocadotechnology/codeforlife-portal/pull/1919),
-  [`3c21c90`](https://github.com/ocadotechnology/codeforlife-portal/commit/3c21c909297f956857173740790499ff40fd19d2))
+  ([#1919](https://github.com/codeforlife-education/codeforlife-portal/pull/1919),
+  [`3c21c90`](https://github.com/codeforlife-education/codeforlife-portal/commit/3c21c909297f956857173740790499ff40fd19d2))
 
 * fix: Add countdown stop
 
@@ -4678,8 +4719,8 @@ Co-authored-by: Mykhaylo Marfeychuk <Mika412@users.noreply.github.com>
 ### Build System
 
 - Upgrade lockfile for Django 3.2.15
-  ([#1922](https://github.com/ocadotechnology/codeforlife-portal/pull/1922),
-  [`34aff14`](https://github.com/ocadotechnology/codeforlife-portal/commit/34aff147c60e232c7a86ef1a8f4171676a93e40c))
+  ([#1922](https://github.com/codeforlife-education/codeforlife-portal/pull/1922),
+  [`34aff14`](https://github.com/codeforlife-education/codeforlife-portal/commit/34aff147c60e232c7a86ef1a8f4171676a93e40c))
 
 
 ## v6.17.1 (2022-08-12)
@@ -4687,8 +4728,8 @@ Co-authored-by: Mykhaylo Marfeychuk <Mika412@users.noreply.github.com>
 ### Bug Fixes
 
 - **deps**: Bump django from 3.2.14 to 3.2.15
-  ([#1920](https://github.com/ocadotechnology/codeforlife-portal/pull/1920),
-  [`621b526`](https://github.com/ocadotechnology/codeforlife-portal/commit/621b5261e61d05b81aa4400406b03807a292fdf1))
+  ([#1920](https://github.com/codeforlife-education/codeforlife-portal/pull/1920),
+  [`621b526`](https://github.com/codeforlife-education/codeforlife-portal/commit/621b5261e61d05b81aa4400406b03807a292fdf1))
 
 * build(deps): bump django from 3.2.14 to 3.2.15
 
@@ -4708,8 +4749,8 @@ Signed-off-by: dependabot[bot] <support@github.com>
 ### Features
 
 - Add session timeout warning popup
-  ([#1918](https://github.com/ocadotechnology/codeforlife-portal/pull/1918),
-  [`cce2b64`](https://github.com/ocadotechnology/codeforlife-portal/commit/cce2b6438464805c49d607abd272e1225303df4b))
+  ([#1918](https://github.com/codeforlife-education/codeforlife-portal/pull/1918),
+  [`cce2b64`](https://github.com/codeforlife-education/codeforlife-portal/commit/cce2b6438464805c49d607abd272e1225303df4b))
 
 * feat: Add session timeout warning popup
 
@@ -4719,8 +4760,8 @@ Signed-off-by: dependabot[bot] <support@github.com>
 ### Features
 
 - Show all external requests in school to admins
-  ([#1914](https://github.com/ocadotechnology/codeforlife-portal/pull/1914),
-  [`9cc9dec`](https://github.com/ocadotechnology/codeforlife-portal/commit/9cc9dec50b6edd621b7a6d242317acc24a66ad3c))
+  ([#1914](https://github.com/codeforlife-education/codeforlife-portal/pull/1914),
+  [`9cc9dec`](https://github.com/codeforlife-education/codeforlife-portal/commit/9cc9dec50b6edd621b7a6d242317acc24a66ad3c))
 
 * feat: Show all external requests in school to admins
 
@@ -4734,8 +4775,8 @@ Signed-off-by: dependabot[bot] <support@github.com>
 ### Bug Fixes
 
 - **deps**: Bump terser from 5.13.1 to 5.14.2 in /portal_frontend
-  ([#1912](https://github.com/ocadotechnology/codeforlife-portal/pull/1912),
-  [`460cebc`](https://github.com/ocadotechnology/codeforlife-portal/commit/460cebc29a10cc98eb74bd22515732efa960b39d))
+  ([#1912](https://github.com/codeforlife-education/codeforlife-portal/pull/1912),
+  [`460cebc`](https://github.com/codeforlife-education/codeforlife-portal/commit/460cebc29a10cc98eb74bd22515732efa960b39d))
 
 * build(deps): bump terser from 5.13.1 to 5.14.2 in /portal_frontend
 
@@ -4754,8 +4795,8 @@ Signed-off-by: dependabot[bot] <support@github.com>
 ### Bug Fixes
 
 - Add common static images to frame src in CSP
-  ([#1908](https://github.com/ocadotechnology/codeforlife-portal/pull/1908),
-  [`ea3a12a`](https://github.com/ocadotechnology/codeforlife-portal/commit/ea3a12a1749d3f1e0aafdc48514e27a72ddd5120))
+  ([#1908](https://github.com/codeforlife-education/codeforlife-portal/pull/1908),
+  [`ea3a12a`](https://github.com/codeforlife-education/codeforlife-portal/commit/ea3a12a1749d3f1e0aafdc48514e27a72ddd5120))
 
 
 ## v6.15.2 (2022-07-14)
@@ -4763,8 +4804,8 @@ Signed-off-by: dependabot[bot] <support@github.com>
 ### Bug Fixes
 
 - Class teacher col hidden
-  ([#1907](https://github.com/ocadotechnology/codeforlife-portal/pull/1907),
-  [`2b649e3`](https://github.com/ocadotechnology/codeforlife-portal/commit/2b649e35dd054113ad4331d151b64c309e54131c))
+  ([#1907](https://github.com/codeforlife-education/codeforlife-portal/pull/1907),
+  [`2b649e3`](https://github.com/codeforlife-education/codeforlife-portal/commit/2b649e35dd054113ad4331d151b64c309e54131c))
 
 * remove teacher col if not admin
 
@@ -4780,16 +4821,17 @@ Co-authored-by: KamilPawel <kamil.sosinski@ocado.com>
 ### Bug Fixes
 
 - Add common static to object src in CSP
-  ([#1906](https://github.com/ocadotechnology/codeforlife-portal/pull/1906),
-  [`a1450dc`](https://github.com/ocadotechnology/codeforlife-portal/commit/a1450dc32f6d1063472294ab5f5f7167bdac7f72))
+  ([#1906](https://github.com/codeforlife-education/codeforlife-portal/pull/1906),
+  [`a1450dc`](https://github.com/codeforlife-education/codeforlife-portal/commit/a1450dc32f6d1063472294ab5f5f7167bdac7f72))
 
 
 ## v6.15.0 (2022-07-13)
 
 ### Features
 
-- Admin create class ([#1905](https://github.com/ocadotechnology/codeforlife-portal/pull/1905),
-  [`1ddfb1b`](https://github.com/ocadotechnology/codeforlife-portal/commit/1ddfb1bbe8844de8ac94972b7bcf854bad708011))
+- Admin create class
+  ([#1905](https://github.com/codeforlife-education/codeforlife-portal/pull/1905),
+  [`1ddfb1b`](https://github.com/codeforlife-education/codeforlife-portal/commit/1ddfb1bbe8844de8ac94972b7bcf854bad708011))
 
 * feat: add create class
 
@@ -4813,8 +4855,8 @@ Co-authored-by: KamilPawel <kamil.sosinski@ocado.com>
 ### Features
 
 - Independent registration update
-  ([#1891](https://github.com/ocadotechnology/codeforlife-portal/pull/1891),
-  [`a6d408e`](https://github.com/ocadotechnology/codeforlife-portal/commit/a6d408e96296bdac14cd514d5ec16c45ee731597))
+  ([#1891](https://github.com/codeforlife-education/codeforlife-portal/pull/1891),
+  [`a6d408e`](https://github.com/codeforlife-education/codeforlife-portal/commit/a6d408e96296bdac14cd514d5ec16c45ee731597))
 
 * feat: Update independent registration process
 
@@ -4828,8 +4870,8 @@ Co-authored-by: KamilPawel <kamil.sosinski@ocado.com>
 ### Bug Fixes
 
 - Move brain SVG to common
-  ([#1904](https://github.com/ocadotechnology/codeforlife-portal/pull/1904),
-  [`fceecb5`](https://github.com/ocadotechnology/codeforlife-portal/commit/fceecb5344f44e0907e5614e746ac9f044b28a90))
+  ([#1904](https://github.com/codeforlife-education/codeforlife-portal/pull/1904),
+  [`fceecb5`](https://github.com/codeforlife-education/codeforlife-portal/commit/fceecb5344f44e0907e5614e746ac9f044b28a90))
 
 * fix: Move brain SVG to common
 
@@ -4840,8 +4882,8 @@ Co-authored-by: KamilPawel <kamil.sosinski@ocado.com>
 
 ### Bug Fixes
 
-- Admin power table ([#1901](https://github.com/ocadotechnology/codeforlife-portal/pull/1901),
-  [`3076c96`](https://github.com/ocadotechnology/codeforlife-portal/commit/3076c9621cbdbe4ba822da16ac741506e02d0d2f))
+- Admin power table ([#1901](https://github.com/codeforlife-education/codeforlife-portal/pull/1901),
+  [`3076c96`](https://github.com/codeforlife-education/codeforlife-portal/commit/3076c9621cbdbe4ba822da16ac741506e02d0d2f))
 
 * 3 / 7
 
@@ -4895,8 +4937,8 @@ Co-authored-by: KamilPawel <kamil.sosinski@ocado.com>
 ### Bug Fixes
 
 - Use our fork of sematic release
-  ([#1903](https://github.com/ocadotechnology/codeforlife-portal/pull/1903),
-  [`16aad05`](https://github.com/ocadotechnology/codeforlife-portal/commit/16aad054b168324af627dbf9bc6567aa8d8f7eaf))
+  ([#1903](https://github.com/codeforlife-education/codeforlife-portal/pull/1903),
+  [`16aad05`](https://github.com/codeforlife-education/codeforlife-portal/commit/16aad054b168324af627dbf9bc6567aa8d8f7eaf))
 
 
 ## v6.13.2 (2022-07-12)
@@ -4904,8 +4946,8 @@ Co-authored-by: KamilPawel <kamil.sosinski@ocado.com>
 ### Bug Fixes
 
 - Try the latest python-semantic-release version
-  ([#1902](https://github.com/ocadotechnology/codeforlife-portal/pull/1902),
-  [`2889139`](https://github.com/ocadotechnology/codeforlife-portal/commit/2889139f560ae872cec40f291f158555cdd5f56d))
+  ([#1902](https://github.com/codeforlife-education/codeforlife-portal/pull/1902),
+  [`2889139`](https://github.com/codeforlife-education/codeforlife-portal/commit/2889139f560ae872cec40f291f158555cdd5f56d))
 
 * fix: try the latest python-semantic-release version
 
@@ -4917,7 +4959,7 @@ Co-authored-by: KamilPawel <kamil.sosinski@ocado.com>
 ### Bug Fixes
 
 - Run black in test_settings.py (dummy version)
-  ([`78f11a5`](https://github.com/ocadotechnology/codeforlife-portal/commit/78f11a58b6453c0d45bbdd75531ff5dacb0a1a86))
+  ([`78f11a5`](https://github.com/codeforlife-education/codeforlife-portal/commit/78f11a58b6453c0d45bbdd75531ff5dacb0a1a86))
 
 
 ## v6.13.0 (2022-07-11)
@@ -4925,8 +4967,8 @@ Co-authored-by: KamilPawel <kamil.sosinski@ocado.com>
 ### Features
 
 - Add child-friendly legal documents
-  ([#1889](https://github.com/ocadotechnology/codeforlife-portal/pull/1889),
-  [`1440144`](https://github.com/ocadotechnology/codeforlife-portal/commit/144014400712ca23e1427d4aba9363edb21c6b0c))
+  ([#1889](https://github.com/codeforlife-education/codeforlife-portal/pull/1889),
+  [`1440144`](https://github.com/codeforlife-education/codeforlife-portal/commit/144014400712ca23e1427d4aba9363edb21c6b0c))
 
 * feat: Add child-friendly legal documents
 
@@ -4944,8 +4986,8 @@ Co-authored-by: KamilPawel <kamil.sosinski@ocado.com>
 ### Bug Fixes
 
 - Bump django from 3.2.13 to 3.2.14
-  ([#1899](https://github.com/ocadotechnology/codeforlife-portal/pull/1899),
-  [`14abcf3`](https://github.com/ocadotechnology/codeforlife-portal/commit/14abcf3f02a1d6d6821f5986d735db49ed4856f8))
+  ([#1899](https://github.com/codeforlife-education/codeforlife-portal/pull/1899),
+  [`14abcf3`](https://github.com/codeforlife-education/codeforlife-portal/commit/14abcf3f02a1d6d6821f5986d735db49ed4856f8))
 
 * fix: bump django from 3.2.13 to 3.2.14
 
@@ -4968,8 +5010,8 @@ Co-authored-by: faucomte97 <florian.aucomt1@ocado.com>
 
 ### Bug Fixes
 
-- Invite teacher ([#1898](https://github.com/ocadotechnology/codeforlife-portal/pull/1898),
-  [`dd0398e`](https://github.com/ocadotechnology/codeforlife-portal/commit/dd0398e56f23f7fc1ec91103d5256669c10fadaf))
+- Invite teacher ([#1898](https://github.com/codeforlife-education/codeforlife-portal/pull/1898),
+  [`dd0398e`](https://github.com/codeforlife-education/codeforlife-portal/commit/dd0398e56f23f7fc1ec91103d5256669c10fadaf))
 
 
 ## v6.12.3 (2022-06-30)
@@ -4977,8 +5019,8 @@ Co-authored-by: faucomte97 <florian.aucomt1@ocado.com>
 ### Bug Fixes
 
 - Teacher registration text fixes
-  ([#1897](https://github.com/ocadotechnology/codeforlife-portal/pull/1897),
-  [`edaf957`](https://github.com/ocadotechnology/codeforlife-portal/commit/edaf957190f422baa605ed93436a391f5036f39e))
+  ([#1897](https://github.com/codeforlife-education/codeforlife-portal/pull/1897),
+  [`edaf957`](https://github.com/codeforlife-education/codeforlife-portal/commit/edaf957190f422baa605ed93436a391f5036f39e))
 
 
 ## v6.12.2 (2022-06-30)
@@ -4986,16 +5028,16 @@ Co-authored-by: faucomte97 <florian.aucomt1@ocado.com>
 ### Bug Fixes
 
 - Add name of teacher to popup
-  ([#1893](https://github.com/ocadotechnology/codeforlife-portal/pull/1893),
-  [`a726df3`](https://github.com/ocadotechnology/codeforlife-portal/commit/a726df39c76084c0615c3472f6dbdc807e7d9592))
+  ([#1893](https://github.com/codeforlife-education/codeforlife-portal/pull/1893),
+  [`a726df3`](https://github.com/codeforlife-education/codeforlife-portal/commit/a726df39c76084c0615c3472f6dbdc807e7d9592))
 
 
 ## v6.12.1 (2022-06-30)
 
 ### Bug Fixes
 
-- Email below text ([#1892](https://github.com/ocadotechnology/codeforlife-portal/pull/1892),
-  [`5abef26`](https://github.com/ocadotechnology/codeforlife-portal/commit/5abef269cec7506800eb35a7f8b4c5f638671ea6))
+- Email below text ([#1892](https://github.com/codeforlife-education/codeforlife-portal/pull/1892),
+  [`5abef26`](https://github.com/codeforlife-education/codeforlife-portal/commit/5abef269cec7506800eb35a7f8b4c5f638671ea6))
 
 * fix email below text
 
@@ -5013,8 +5055,8 @@ Co-authored-by: faucomte97 <florian.aucomt1@ocado.com>
 
 ### Bug Fixes
 
-- Admin power ([#1883](https://github.com/ocadotechnology/codeforlife-portal/pull/1883),
-  [`1ecc00a`](https://github.com/ocadotechnology/codeforlife-portal/commit/1ecc00a8670ac47407238c5d7b46278c766e02e3))
+- Admin power ([#1883](https://github.com/codeforlife-education/codeforlife-portal/pull/1883),
+  [`1ecc00a`](https://github.com/codeforlife-education/codeforlife-portal/commit/1ecc00a8670ac47407238c5d7b46278c766e02e3))
 
 * add teacher form
 
@@ -5106,16 +5148,17 @@ Co-authored-by: faucomte97 <florian.aucomt1@ocado.com>
 ### Features
 
 - Add consent checkbox to teacher registration form
-  ([#1890](https://github.com/ocadotechnology/codeforlife-portal/pull/1890),
-  [`96b215c`](https://github.com/ocadotechnology/codeforlife-portal/commit/96b215ce3dfeb65e0b74daa6d5c74358b182c0b3))
+  ([#1890](https://github.com/codeforlife-education/codeforlife-portal/pull/1890),
+  [`96b215c`](https://github.com/codeforlife-education/codeforlife-portal/commit/96b215ce3dfeb65e0b74daa6d5c74358b182c0b3))
 
 
 ## v6.10.0 (2022-06-28)
 
 ### Features
 
-- Screentime warning ([#1888](https://github.com/ocadotechnology/codeforlife-portal/pull/1888),
-  [`532198e`](https://github.com/ocadotechnology/codeforlife-portal/commit/532198e2311f03e63c52d9df3bffd8b8dc34fff6))
+- Screentime warning
+  ([#1888](https://github.com/codeforlife-education/codeforlife-portal/pull/1888),
+  [`532198e`](https://github.com/codeforlife-education/codeforlife-portal/commit/532198e2311f03e63c52d9df3bffd8b8dc34fff6))
 
 * wip: add screentime popup
 
@@ -5138,8 +5181,8 @@ Co-authored-by: faucomte97 <florian.aucomt1@ocado.com>
 
 ### Features
 
-- Delete indy popup ([#1879](https://github.com/ocadotechnology/codeforlife-portal/pull/1879),
-  [`ad7c0b4`](https://github.com/ocadotechnology/codeforlife-portal/commit/ad7c0b4364a61dcadb43b3fac5a94f147758d87d))
+- Delete indy popup ([#1879](https://github.com/codeforlife-education/codeforlife-portal/pull/1879),
+  [`ad7c0b4`](https://github.com/codeforlife-education/codeforlife-portal/commit/ad7c0b4364a61dcadb43b3fac5a94f147758d87d))
 
 * feat: add remove account for independent student
 
@@ -5184,8 +5227,8 @@ Co-authored-by: faucomte97 <florian.aucomt1@ocado.com>
 * push
 
 - Remove join school functionality
-  ([#1885](https://github.com/ocadotechnology/codeforlife-portal/pull/1885),
-  [`04fec71`](https://github.com/ocadotechnology/codeforlife-portal/commit/04fec71ae5c27863bc941d4a7b6711eb1c99423f))
+  ([#1885](https://github.com/codeforlife-education/codeforlife-portal/pull/1885),
+  [`04fec71`](https://github.com/codeforlife-education/codeforlife-portal/commit/04fec71ae5c27863bc941d4a7b6711eb1c99423f))
 
 * feat: Remove join school functionality
 
@@ -5197,13 +5240,14 @@ Co-authored-by: faucomte97 <florian.aucomt1@ocado.com>
 ### Bug Fixes
 
 - Update registration page
-  ([#1882](https://github.com/ocadotechnology/codeforlife-portal/pull/1882),
-  [`3b2e4dc`](https://github.com/ocadotechnology/codeforlife-portal/commit/3b2e4dcc4d3db8e6e7f0136f8990996b4c72bfa7))
+  ([#1882](https://github.com/codeforlife-education/codeforlife-portal/pull/1882),
+  [`3b2e4dc`](https://github.com/codeforlife-education/codeforlife-portal/commit/3b2e4dcc4d3db8e6e7f0136f8990996b4c72bfa7))
 
 ### Features
 
-- Admin invite teacher ([#1878](https://github.com/ocadotechnology/codeforlife-portal/pull/1878),
-  [`3b3f916`](https://github.com/ocadotechnology/codeforlife-portal/commit/3b3f9161c30c59ebaf4f3f8b8253a312044d6af1))
+- Admin invite teacher
+  ([#1878](https://github.com/codeforlife-education/codeforlife-portal/pull/1878),
+  [`3b3f916`](https://github.com/codeforlife-education/codeforlife-portal/commit/3b3f9161c30c59ebaf4f3f8b8253a312044d6af1))
 
 * add teacher form
 
@@ -5240,8 +5284,9 @@ Co-authored-by: faucomte97 <florian.aucomt1@ocado.com>
 
 ### Bug Fixes
 
-- Indy delete account ([#1872](https://github.com/ocadotechnology/codeforlife-portal/pull/1872),
-  [`46e088c`](https://github.com/ocadotechnology/codeforlife-portal/commit/46e088c8c7a52ac4f1676bbd04db5ec176839866))
+- Indy delete account
+  ([#1872](https://github.com/codeforlife-education/codeforlife-portal/pull/1872),
+  [`46e088c`](https://github.com/codeforlife-education/codeforlife-portal/commit/46e088c8c7a52ac4f1676bbd04db5ec176839866))
 
 * feat: add remove account for independent student
 
@@ -5273,8 +5318,8 @@ Co-authored-by: faucomte97 <florian.aucomt1@ocado.com>
 ### Bug Fixes
 
 - Add age verification checkbox to newsletter form
-  ([#1876](https://github.com/ocadotechnology/codeforlife-portal/pull/1876),
-  [`8663a79`](https://github.com/ocadotechnology/codeforlife-portal/commit/8663a79a81743950c0fd9a8ab713f55510d5bda6))
+  ([#1876](https://github.com/codeforlife-education/codeforlife-portal/pull/1876),
+  [`8663a79`](https://github.com/codeforlife-education/codeforlife-portal/commit/8663a79a81743950c0fd9a8ab713f55510d5bda6))
 
 * fix: Add age verification checkbox to newsletter form
 
@@ -5288,8 +5333,8 @@ Co-authored-by: faucomte97 <florian.aucomt1@ocado.com>
 ### Bug Fixes
 
 - Set referrer policy to preferred value
-  ([#1877](https://github.com/ocadotechnology/codeforlife-portal/pull/1877),
-  [`23869a2`](https://github.com/ocadotechnology/codeforlife-portal/commit/23869a2d990fc614c1091758e71584ca60456834))
+  ([#1877](https://github.com/codeforlife-education/codeforlife-portal/pull/1877),
+  [`23869a2`](https://github.com/codeforlife-education/codeforlife-portal/commit/23869a2d990fc614c1091758e71584ca60456834))
 
 * fix: Set referrer policy to strict-origin-when-cross-origin
 
@@ -5302,8 +5347,8 @@ Co-authored-by: faucomte97 <florian.aucomt1@ocado.com>
 
 ### Bug Fixes
 
-- Remove JQueryUI ([#1874](https://github.com/ocadotechnology/codeforlife-portal/pull/1874),
-  [`4b323fa`](https://github.com/ocadotechnology/codeforlife-portal/commit/4b323fa20c0c970d1fe302a29b02fa51ce42ca5c))
+- Remove JQueryUI ([#1874](https://github.com/codeforlife-education/codeforlife-portal/pull/1874),
+  [`4b323fa`](https://github.com/codeforlife-education/codeforlife-portal/commit/4b323fa20c0c970d1fe302a29b02fa51ce42ca5c))
 
 * fix: Remove unused library (JQueryUI)
 
@@ -5314,8 +5359,8 @@ Co-authored-by: faucomte97 <florian.aucomt1@ocado.com>
 ### Build System
 
 - Make CodeCov requirement 90%
-  ([#1875](https://github.com/ocadotechnology/codeforlife-portal/pull/1875),
-  [`6de4191`](https://github.com/ocadotechnology/codeforlife-portal/commit/6de41919e8dd2fbbc06d44587dc1734694bf7a91))
+  ([#1875](https://github.com/codeforlife-education/codeforlife-portal/pull/1875),
+  [`6de4191`](https://github.com/codeforlife-education/codeforlife-portal/commit/6de41919e8dd2fbbc06d44587dc1734694bf7a91))
 
 * build: Make CodeCov requirement 90%
 
@@ -5323,8 +5368,8 @@ Co-authored-by: faucomte97 <florian.aucomt1@ocado.com>
 
 ### Documentation
 
-- Refine templates ([#1871](https://github.com/ocadotechnology/codeforlife-portal/pull/1871),
-  [`5281956`](https://github.com/ocadotechnology/codeforlife-portal/commit/5281956bf2ec4774c3ead30a66a0339c81d6d1a4))
+- Refine templates ([#1871](https://github.com/codeforlife-education/codeforlife-portal/pull/1871),
+  [`5281956`](https://github.com/codeforlife-education/codeforlife-portal/commit/5281956bf2ec4774c3ead30a66a0339c81d6d1a4))
 
 
 ## v6.8.4 (2022-05-27)
@@ -5332,8 +5377,8 @@ Co-authored-by: faucomte97 <florian.aucomt1@ocado.com>
 ### Bug Fixes
 
 - Updated mui compatible colours
-  ([#1870](https://github.com/ocadotechnology/codeforlife-portal/pull/1870),
-  [`8366b33`](https://github.com/ocadotechnology/codeforlife-portal/commit/8366b33c82f53863dd10fc1575bd2a88b21d9272))
+  ([#1870](https://github.com/codeforlife-education/codeforlife-portal/pull/1870),
+  [`8366b33`](https://github.com/codeforlife-education/codeforlife-portal/commit/8366b33c82f53863dd10fc1575bd2a88b21d9272))
 
 
 ## v6.8.3 (2022-05-27)
@@ -5341,8 +5386,8 @@ Co-authored-by: faucomte97 <florian.aucomt1@ocado.com>
 ### Bug Fixes
 
 - Edit the deployment for react test space
-  ([#1859](https://github.com/ocadotechnology/codeforlife-portal/pull/1859),
-  [`a0d22b2`](https://github.com/ocadotechnology/codeforlife-portal/commit/a0d22b231378f140e49d01fde138c1dc06d86766))
+  ([#1859](https://github.com/codeforlife-education/codeforlife-portal/pull/1859),
+  [`a0d22b2`](https://github.com/codeforlife-education/codeforlife-portal/commit/a0d22b231378f140e49d01fde138c1dc06d86766))
 
 * edit the deployment for react test space
 
@@ -5358,7 +5403,7 @@ Co-authored-by: faucomte97 <florian.aucomt1@ocado.com>
 ### Bug Fixes
 
 - Remove CI steps that broke deployment
-  ([`69cf0f7`](https://github.com/ocadotechnology/codeforlife-portal/commit/69cf0f7fc41e8860ca48b498f3af9932f83667b0))
+  ([`69cf0f7`](https://github.com/codeforlife-education/codeforlife-portal/commit/69cf0f7fc41e8860ca48b498f3af9932f83667b0))
 
 
 ## v6.8.1 (2022-05-18)
@@ -5366,8 +5411,8 @@ Co-authored-by: faucomte97 <florian.aucomt1@ocado.com>
 ### Bug Fixes
 
 - Bump async from 3.2.0 to 3.2.3
-  ([#1857](https://github.com/ocadotechnology/codeforlife-portal/pull/1857),
-  [`9f42aa7`](https://github.com/ocadotechnology/codeforlife-portal/commit/9f42aa79f779f2ccf10006dd692df8d866a9872a))
+  ([#1857](https://github.com/codeforlife-education/codeforlife-portal/pull/1857),
+  [`9f42aa7`](https://github.com/codeforlife-education/codeforlife-portal/commit/9f42aa79f779f2ccf10006dd692df8d866a9872a))
 
 * fix: bump async from 3.2.0 to 3.2.3
 
@@ -5397,8 +5442,9 @@ Co-authored-by: Florian Aucomte <33633200+faucomte97@users.noreply.github.com>
 
 ### Features
 
-- Add react test space ([#1825](https://github.com/ocadotechnology/codeforlife-portal/pull/1825),
-  [`e0fef80`](https://github.com/ocadotechnology/codeforlife-portal/commit/e0fef80ea5b8b03ce42636e9944391ae7110e682))
+- Add react test space
+  ([#1825](https://github.com/codeforlife-education/codeforlife-portal/pull/1825),
+  [`e0fef80`](https://github.com/codeforlife-education/codeforlife-portal/commit/e0fef80ea5b8b03ce42636e9944391ae7110e682))
 
 * feat: add test env for react
 
@@ -5478,8 +5524,8 @@ Co-authored-by: Razvan Mahu <67904187+razvan-pro@users.noreply.github.com>
 ### Features
 
 - Add aimmo badges to UserProfile
-  ([#1852](https://github.com/ocadotechnology/codeforlife-portal/pull/1852),
-  [`2c9075c`](https://github.com/ocadotechnology/codeforlife-portal/commit/2c9075c5f94de74e5a8b2bc6b499005580366224))
+  ([#1852](https://github.com/codeforlife-education/codeforlife-portal/pull/1852),
+  [`2c9075c`](https://github.com/codeforlife-education/codeforlife-portal/commit/2c9075c5f94de74e5a8b2bc6b499005580366224))
 
 * feat: add badges data to UserProfile
 
@@ -5503,8 +5549,8 @@ Co-authored-by: Razvan Mahu <67904187+razvan-pro@users.noreply.github.com>
 ### Features
 
 - Anonymise orphan schools
-  ([#1851](https://github.com/ocadotechnology/codeforlife-portal/pull/1851),
-  [`53165c9`](https://github.com/ocadotechnology/codeforlife-portal/commit/53165c994f81fbf4b4abc2ea373879ca0bcc16ad))
+  ([#1851](https://github.com/codeforlife-education/codeforlife-portal/pull/1851),
+  [`53165c9`](https://github.com/codeforlife-education/codeforlife-portal/commit/53165c994f81fbf4b4abc2ea373879ca0bcc16ad))
 
 * wip: saving work so far
 
@@ -5521,8 +5567,8 @@ Co-authored-by: Razvan Mahu <67904187+razvan-pro@users.noreply.github.com>
 
 ### Bug Fixes
 
-- Fix email tuples ([#1846](https://github.com/ocadotechnology/codeforlife-portal/pull/1846),
-  [`a39aa47`](https://github.com/ocadotechnology/codeforlife-portal/commit/a39aa4768e46df7e46e22bcf16c885ca7d37fe1e))
+- Fix email tuples ([#1846](https://github.com/codeforlife-education/codeforlife-portal/pull/1846),
+  [`a39aa47`](https://github.com/codeforlife-education/codeforlife-portal/commit/a39aa4768e46df7e46e22bcf16c885ca7d37fe1e))
 
 * fix: fix email tuples
 
@@ -5532,8 +5578,8 @@ Co-authored-by: Razvan Mahu <67904187+razvan-pro@users.noreply.github.com>
 ### Bug Fixes
 
 - Remove lat, long, town, agg data, map
-  ([#1845](https://github.com/ocadotechnology/codeforlife-portal/pull/1845),
-  [`caf5e96`](https://github.com/ocadotechnology/codeforlife-portal/commit/caf5e96c3bc8c619f2cda16ab266332d87262ba1))
+  ([#1845](https://github.com/codeforlife-education/codeforlife-portal/pull/1845),
+  [`caf5e96`](https://github.com/codeforlife-education/codeforlife-portal/commit/caf5e96c3bc8c619f2cda16ab266332d87262ba1))
 
 * fix: remove lat, long, town, agg data, map
 
@@ -5546,8 +5592,8 @@ Co-authored-by: Razvan Mahu <67904187+razvan-pro@users.noreply.github.com>
 
 ### Features
 
-- Anonymise school ([#1844](https://github.com/ocadotechnology/codeforlife-portal/pull/1844),
-  [`0e5eaf5`](https://github.com/ocadotechnology/codeforlife-portal/commit/0e5eaf553999131095d9df4b1b29a8a848ccc687))
+- Anonymise school ([#1844](https://github.com/codeforlife-education/codeforlife-portal/pull/1844),
+  [`0e5eaf5`](https://github.com/codeforlife-education/codeforlife-portal/commit/0e5eaf553999131095d9df4b1b29a8a848ccc687))
 
 * feat: anonymise school
 
@@ -5562,8 +5608,8 @@ Co-authored-by: Razvan Mahu <67904187+razvan-pro@users.noreply.github.com>
 
 ### Bug Fixes
 
-- Email error ([#1842](https://github.com/ocadotechnology/codeforlife-portal/pull/1842),
-  [`9fe37d7`](https://github.com/ocadotechnology/codeforlife-portal/commit/9fe37d7bd5cd81903f57127d0abe7568c885b3b7))
+- Email error ([#1842](https://github.com/codeforlife-education/codeforlife-portal/pull/1842),
+  [`9fe37d7`](https://github.com/codeforlife-education/codeforlife-portal/commit/9fe37d7bd5cd81903f57127d0abe7568c885b3b7))
 
 * merge
 
@@ -5579,8 +5625,8 @@ Co-authored-by: Razvan Mahu <67904187+razvan-pro@users.noreply.github.com>
 ### Bug Fixes
 
 - Bump ejs from 3.1.6 to 3.1.7 in /portal_frontend
-  ([#1841](https://github.com/ocadotechnology/codeforlife-portal/pull/1841),
-  [`ca8a9a2`](https://github.com/ocadotechnology/codeforlife-portal/commit/ca8a9a21ba9dd6c2a46fe74880a0c2cbe6cc2d42))
+  ([#1841](https://github.com/codeforlife-education/codeforlife-portal/pull/1841),
+  [`ca8a9a2`](https://github.com/codeforlife-education/codeforlife-portal/commit/ca8a9a21ba9dd6c2a46fe74880a0c2cbe6cc2d42))
 
 Bumps [ejs](https://github.com/mde/ejs) from 3.1.6 to 3.1.7. - [Release
   notes](https://github.com/mde/ejs/releases) -
@@ -5598,8 +5644,8 @@ Co-authored-by: Florian Aucomte <33633200+faucomte97@users.noreply.github.com>
 ### Build System
 
 - **deps**: Bump django from 3.2.12 to 3.2.13
-  ([#1836](https://github.com/ocadotechnology/codeforlife-portal/pull/1836),
-  [`c58552c`](https://github.com/ocadotechnology/codeforlife-portal/commit/c58552c86cf4dc93a0a9dfb36fd90ff7a3b98b34))
+  ([#1836](https://github.com/codeforlife-education/codeforlife-portal/pull/1836),
+  [`c58552c`](https://github.com/codeforlife-education/codeforlife-portal/commit/c58552c86cf4dc93a0a9dfb36fd90ff7a3b98b34))
 
 * build(deps): bump django from 3.2.12 to 3.2.13
 
@@ -5623,8 +5669,8 @@ Co-authored-by: faucomte97 <florian.aucomt1@ocado.com>
 ### Bug Fixes
 
 - Bump pypdf2 to 1.27.9 and django to 3.2.13
-  ([#1834](https://github.com/ocadotechnology/codeforlife-portal/pull/1834),
-  [`36e59d7`](https://github.com/ocadotechnology/codeforlife-portal/commit/36e59d7e2aa3a5f338d1fabec9632f24d0cbdc4b))
+  ([#1834](https://github.com/codeforlife-education/codeforlife-portal/pull/1834),
+  [`36e59d7`](https://github.com/codeforlife-education/codeforlife-portal/commit/36e59d7e2aa3a5f338d1fabec9632f24d0cbdc4b))
 
 * build(deps-dev): bump pypdf2 from 1.26.0 to 1.27.5
 
@@ -5650,8 +5696,8 @@ Co-authored-by: faucomte97 <florian.aucomt1@ocado.com>
 ### Build System
 
 - Add semantic PR check as action
-  ([#1839](https://github.com/ocadotechnology/codeforlife-portal/pull/1839),
-  [`5aa1b92`](https://github.com/ocadotechnology/codeforlife-portal/commit/5aa1b92059781327159de7146dabe967a73514dd))
+  ([#1839](https://github.com/codeforlife-education/codeforlife-portal/pull/1839),
+  [`5aa1b92`](https://github.com/codeforlife-education/codeforlife-portal/commit/5aa1b92059781327159de7146dabe967a73514dd))
 
 * feat: Add semantic PR check as action
 
@@ -5662,8 +5708,8 @@ Co-authored-by: faucomte97 <florian.aucomt1@ocado.com>
 * Fix ubuntu version
 
 - **deps**: Bump async from 3.2.0 to 3.2.3
-  ([#1824](https://github.com/ocadotechnology/codeforlife-portal/pull/1824),
-  [`1cf9fcc`](https://github.com/ocadotechnology/codeforlife-portal/commit/1cf9fccf3de33ea7781856f48142f4e447eb77a5))
+  ([#1824](https://github.com/codeforlife-education/codeforlife-portal/pull/1824),
+  [`1cf9fcc`](https://github.com/codeforlife-education/codeforlife-portal/commit/1cf9fccf3de33ea7781856f48142f4e447eb77a5))
 
 * build(deps): bump async from 3.2.0 to 3.2.3
 
@@ -5683,8 +5729,9 @@ Signed-off-by: dependabot[bot] <support@github.com>
 
 ### Bug Fixes
 
-- Added styling to emails ([#1801](https://github.com/ocadotechnology/codeforlife-portal/pull/1801),
-  [`0726319`](https://github.com/ocadotechnology/codeforlife-portal/commit/0726319142a376a18bfc4b25d67801d8136b182e))
+- Added styling to emails
+  ([#1801](https://github.com/codeforlife-education/codeforlife-portal/pull/1801),
+  [`0726319`](https://github.com/codeforlife-education/codeforlife-portal/commit/0726319142a376a18bfc4b25d67801d8136b182e))
 
 * feat: added header and footer to emails
 
@@ -5779,8 +5826,8 @@ Signed-off-by: dependabot[bot] <support@github.com>
 
 ### Features
 
-- Anonymise classes ([#1821](https://github.com/ocadotechnology/codeforlife-portal/pull/1821),
-  [`50cda04`](https://github.com/ocadotechnology/codeforlife-portal/commit/50cda0432c471510b66cbc1ab5253fbfa48e0bfd))
+- Anonymise classes ([#1821](https://github.com/codeforlife-education/codeforlife-portal/pull/1821),
+  [`50cda04`](https://github.com/codeforlife-education/codeforlife-portal/commit/50cda0432c471510b66cbc1ab5253fbfa48e0bfd))
 
 * feat: anonymise classes rather than deleting
 
@@ -5800,8 +5847,8 @@ Signed-off-by: dependabot[bot] <support@github.com>
 ### Bug Fixes
 
 - Delete class and students on account deletion
-  ([#1822](https://github.com/ocadotechnology/codeforlife-portal/pull/1822),
-  [`3120051`](https://github.com/ocadotechnology/codeforlife-portal/commit/312005167b8df2385c440a62c1a7eaa5d889320c))
+  ([#1822](https://github.com/codeforlife-education/codeforlife-portal/pull/1822),
+  [`3120051`](https://github.com/codeforlife-education/codeforlife-portal/commit/312005167b8df2385c440a62c1a7eaa5d889320c))
 
 * fix: delete class and students on account deletion
 
@@ -5811,8 +5858,8 @@ Signed-off-by: dependabot[bot] <support@github.com>
 ### Features
 
 - Pass admin role on acc deletion
-  ([#1820](https://github.com/ocadotechnology/codeforlife-portal/pull/1820),
-  [`1ecfddb`](https://github.com/ocadotechnology/codeforlife-portal/commit/1ecfddbe8e7075aebceddb9eb866381d2b13bf73))
+  ([#1820](https://github.com/codeforlife-education/codeforlife-portal/pull/1820),
+  [`1ecfddb`](https://github.com/codeforlife-education/codeforlife-portal/commit/1ecfddbe8e7075aebceddb9eb866381d2b13bf73))
 
 * feat: pass admin role on acc deletion
 
@@ -5834,8 +5881,8 @@ Signed-off-by: dependabot[bot] <support@github.com>
 ### Bug Fixes
 
 - Added alt texts to all images from the spreadsheet
-  ([#1810](https://github.com/ocadotechnology/codeforlife-portal/pull/1810),
-  [`034f27a`](https://github.com/ocadotechnology/codeforlife-portal/commit/034f27a1174da8e9688b46bf7301531d60e39c8b))
+  ([#1810](https://github.com/codeforlife-education/codeforlife-portal/pull/1810),
+  [`034f27a`](https://github.com/codeforlife-education/codeforlife-portal/commit/034f27a1174da8e9688b46bf7301531d60e39c8b))
 
 * first few images
 
@@ -5867,8 +5914,8 @@ Signed-off-by: dependabot[bot] <support@github.com>
 ### Bug Fixes
 
 - Deletion email minor updates
-  ([#1819](https://github.com/ocadotechnology/codeforlife-portal/pull/1819),
-  [`4a8680d`](https://github.com/ocadotechnology/codeforlife-portal/commit/4a8680d8839bdf481ca2583e2806bb53f3a2cad0))
+  ([#1819](https://github.com/codeforlife-education/codeforlife-portal/pull/1819),
+  [`4a8680d`](https://github.com/codeforlife-education/codeforlife-portal/commit/4a8680d8839bdf481ca2583e2806bb53f3a2cad0))
 
 * fix: deletion email minor updates
 
@@ -5878,16 +5925,16 @@ Signed-off-by: dependabot[bot] <support@github.com>
 ### Bug Fixes
 
 - Fix sending email on account deletion
-  ([#1818](https://github.com/ocadotechnology/codeforlife-portal/pull/1818),
-  [`467b10a`](https://github.com/ocadotechnology/codeforlife-portal/commit/467b10aa665e883210fd856088323bb80cb74ad7))
+  ([#1818](https://github.com/codeforlife-education/codeforlife-portal/pull/1818),
+  [`467b10a`](https://github.com/codeforlife-education/codeforlife-portal/commit/467b10aa665e883210fd856088323bb80cb74ad7))
 
 * fix: fix sending email on account deletion
 
 ### Build System
 
 - **deps**: Bump minimist from 1.2.5 to 1.2.6
-  ([#1817](https://github.com/ocadotechnology/codeforlife-portal/pull/1817),
-  [`6724b79`](https://github.com/ocadotechnology/codeforlife-portal/commit/6724b793cd44c45fd594d51b65e34a5c3b64e41b))
+  ([#1817](https://github.com/codeforlife-education/codeforlife-portal/pull/1817),
+  [`6724b79`](https://github.com/codeforlife-education/codeforlife-portal/commit/6724b793cd44c45fd594d51b65e34a5c3b64e41b))
 
 * build(deps): bump minimist from 1.2.5 to 1.2.6
 
@@ -5907,8 +5954,8 @@ Signed-off-by: dependabot[bot] <support@github.com>
 ### Features
 
 - Delete account function for teacher
-  ([#1812](https://github.com/ocadotechnology/codeforlife-portal/pull/1812),
-  [`0301952`](https://github.com/ocadotechnology/codeforlife-portal/commit/0301952cbf324a6267347f0b6c6d9a96b3ef62ff))
+  ([#1812](https://github.com/codeforlife-education/codeforlife-portal/pull/1812),
+  [`0301952`](https://github.com/codeforlife-education/codeforlife-portal/commit/0301952cbf324a6267347f0b6c6d9a96b3ef62ff))
 
 * feat: delete account function for teacher
 
@@ -5954,8 +6001,8 @@ Signed-off-by: dependabot[bot] <support@github.com>
 ### Bug Fixes
 
 - Hide anonymised teachers from dashboard
-  ([#1816](https://github.com/ocadotechnology/codeforlife-portal/pull/1816),
-  [`82b2dc3`](https://github.com/ocadotechnology/codeforlife-portal/commit/82b2dc33114c350abeeb2f1dea927152478872f2))
+  ([#1816](https://github.com/codeforlife-education/codeforlife-portal/pull/1816),
+  [`82b2dc3`](https://github.com/codeforlife-education/codeforlife-portal/commit/82b2dc33114c350abeeb2f1dea927152478872f2))
 
 * fix: hide anonymised teachers from dashboard
 
@@ -5966,8 +6013,8 @@ Signed-off-by: dependabot[bot] <support@github.com>
 
 ### Features
 
-- React subnav ([#1811](https://github.com/ocadotechnology/codeforlife-portal/pull/1811),
-  [`79f214c`](https://github.com/ocadotechnology/codeforlife-portal/commit/79f214c26f8f538ec929a8afd5d5a8bc50ca895a))
+- React subnav ([#1811](https://github.com/codeforlife-education/codeforlife-portal/pull/1811),
+  [`79f214c`](https://github.com/codeforlife-education/codeforlife-portal/commit/79f214c26f8f538ec929a8afd5d5a8bc50ca895a))
 
 * wip: subnav
 
@@ -5988,8 +6035,9 @@ Signed-off-by: dependabot[bot] <support@github.com>
 
 ### Bug Fixes
 
-- Remove missing script ([#1815](https://github.com/ocadotechnology/codeforlife-portal/pull/1815),
-  [`fdea770`](https://github.com/ocadotechnology/codeforlife-portal/commit/fdea770278cc4be0f5d962b924f8cddcae0153b1))
+- Remove missing script
+  ([#1815](https://github.com/codeforlife-education/codeforlife-portal/pull/1815),
+  [`fdea770`](https://github.com/codeforlife-education/codeforlife-portal/commit/fdea770278cc4be0f5d962b924f8cddcae0153b1))
 
 * fix: remove missing script
 
@@ -5998,8 +6046,8 @@ Signed-off-by: dependabot[bot] <support@github.com>
 ### Build System
 
 - **deps**: Bump minimist from 1.2.5 to 1.2.6 in /portal_frontend
-  ([#1814](https://github.com/ocadotechnology/codeforlife-portal/pull/1814),
-  [`91d8316`](https://github.com/ocadotechnology/codeforlife-portal/commit/91d83166113c8641c22826e309489ff3e7466930))
+  ([#1814](https://github.com/codeforlife-education/codeforlife-portal/pull/1814),
+  [`91d8316`](https://github.com/codeforlife-education/codeforlife-portal/commit/91d83166113c8641c22826e309489ff3e7466930))
 
 * build(deps): bump minimist from 1.2.5 to 1.2.6 in /portal_frontend
 
@@ -6012,8 +6060,8 @@ Bumps [minimist](https://github.com/substack/minimist) from 1.2.5 to 1.2.6. - [R
 Signed-off-by: dependabot[bot] <support@github.com>
 
 - **deps**: Bump node-forge from 1.2.1 to 1.3.0 in /portal_frontend
-  ([#1813](https://github.com/ocadotechnology/codeforlife-portal/pull/1813),
-  [`fae5908`](https://github.com/ocadotechnology/codeforlife-portal/commit/fae5908396c7bcf2ada015588bee96760221d34a))
+  ([#1813](https://github.com/codeforlife-education/codeforlife-portal/pull/1813),
+  [`fae5908`](https://github.com/codeforlife-education/codeforlife-portal/commit/fae5908396c7bcf2ada015588bee96760221d34a))
 
 * build(deps): bump node-forge from 1.2.1 to 1.3.0 in /portal_frontend
 
@@ -6032,8 +6080,8 @@ Signed-off-by: dependabot[bot] <support@github.com>
 ### Bug Fixes
 
 - Cleanup ci and update pipfile
-  ([#1800](https://github.com/ocadotechnology/codeforlife-portal/pull/1800),
-  [`bff3df8`](https://github.com/ocadotechnology/codeforlife-portal/commit/bff3df8e7db4ac6f89eba0637228b5fc94d33cc7))
+  ([#1800](https://github.com/codeforlife-education/codeforlife-portal/pull/1800),
+  [`bff3df8`](https://github.com/codeforlife-education/codeforlife-portal/commit/bff3df8e7db4ac6f89eba0637228b5fc94d33cc7))
 
 * fix: cleanup ci and update pipfile
 
@@ -6043,8 +6091,8 @@ Signed-off-by: dependabot[bot] <support@github.com>
 ### Features
 
 - Upgrade from Django 2.2 to 3.2
-  ([#1791](https://github.com/ocadotechnology/codeforlife-portal/pull/1791),
-  [`8006307`](https://github.com/ocadotechnology/codeforlife-portal/commit/80063073a0a8359dc468b4694444c54f8b94b5f8))
+  ([#1791](https://github.com/codeforlife-education/codeforlife-portal/pull/1791),
+  [`8006307`](https://github.com/codeforlife-education/codeforlife-portal/commit/80063073a0a8359dc468b4694444c54f8b94b5f8))
 
 * wip: upgrade dependencies versions
 
@@ -6082,8 +6130,8 @@ Signed-off-by: dependabot[bot] <support@github.com>
 ### Features
 
 - Currently fixing the mobile navbar
-  ([#1778](https://github.com/ocadotechnology/codeforlife-portal/pull/1778),
-  [`2a56fff`](https://github.com/ocadotechnology/codeforlife-portal/commit/2a56fff1e2346aee1f340140fda5b2cef08108d7))
+  ([#1778](https://github.com/codeforlife-education/codeforlife-portal/pull/1778),
+  [`2a56fff`](https://github.com/codeforlife-education/codeforlife-portal/commit/2a56fff1e2346aee1f340140fda5b2cef08108d7))
 
 * feat: added react example for independent student
 
@@ -6163,8 +6211,8 @@ Co-authored-by: Dioni Zhong <dioni.zhong@ocado.com>
 ### Features
 
 - Add videos for play and educate pages
-  ([#1798](https://github.com/ocadotechnology/codeforlife-portal/pull/1798),
-  [`b656360`](https://github.com/ocadotechnology/codeforlife-portal/commit/b6563600f7cdc332f9a4c3f82205df6fbafda818))
+  ([#1798](https://github.com/codeforlife-education/codeforlife-portal/pull/1798),
+  [`b656360`](https://github.com/codeforlife-education/codeforlife-portal/commit/b6563600f7cdc332f9a4c3f82205df6fbafda818))
 
 * feat: add videos for play and educate pages
 
@@ -6176,8 +6224,8 @@ Co-authored-by: Dioni Zhong <dioni.zhong@ocado.com>
 ### Bug Fixes
 
 - Login forms inconsistencies
-  ([#1797](https://github.com/ocadotechnology/codeforlife-portal/pull/1797),
-  [`da46d29`](https://github.com/ocadotechnology/codeforlife-portal/commit/da46d29bd3b03d9adbb3884acd30c07534f57755))
+  ([#1797](https://github.com/codeforlife-education/codeforlife-portal/pull/1797),
+  [`da46d29`](https://github.com/codeforlife-education/codeforlife-portal/commit/da46d29bd3b03d9adbb3884acd30c07534f57755))
 
 * fix: Login form inconsistencies
 
@@ -6190,8 +6238,8 @@ Co-authored-by: Dioni Zhong <dioni.zhong@ocado.com>
 
 ### Features
 
-- Remove username ([#1796](https://github.com/ocadotechnology/codeforlife-portal/pull/1796),
-  [`611fe0c`](https://github.com/ocadotechnology/codeforlife-portal/commit/611fe0c1cf8fd48e66906c9ceb77441a2417bcc1))
+- Remove username ([#1796](https://github.com/codeforlife-education/codeforlife-portal/pull/1796),
+  [`611fe0c`](https://github.com/codeforlife-education/codeforlife-portal/commit/611fe0c1cf8fd48e66906c9ceb77441a2417bcc1))
 
 * feat: added videos
 
@@ -6278,8 +6326,8 @@ This reverts commit 48438fc0852bff086f248831cf2a8e10e3f2b20d.
 ### Bug Fixes
 
 - Indy cleanup - priorities last login
-  ([#1795](https://github.com/ocadotechnology/codeforlife-portal/pull/1795),
-  [`469f87b`](https://github.com/ocadotechnology/codeforlife-portal/commit/469f87b1e8efd35135368729997c3f8ae89564aa))
+  ([#1795](https://github.com/codeforlife-education/codeforlife-portal/pull/1795),
+  [`469f87b`](https://github.com/codeforlife-education/codeforlife-portal/commit/469f87b1e8efd35135368729997c3f8ae89564aa))
 
 * fix: indy cleanup - priorities last login
 
@@ -6291,8 +6339,8 @@ This reverts commit 48438fc0852bff086f248831cf2a8e10e3f2b20d.
 ### Bug Fixes
 
 - Continue publishing after pypi error
-  ([#1794](https://github.com/ocadotechnology/codeforlife-portal/pull/1794),
-  [`0ae38ff`](https://github.com/ocadotechnology/codeforlife-portal/commit/0ae38ff5987688cd7d5302f51e8d8d228871b693))
+  ([#1794](https://github.com/codeforlife-education/codeforlife-portal/pull/1794),
+  [`0ae38ff`](https://github.com/codeforlife-education/codeforlife-portal/commit/0ae38ff5987688cd7d5302f51e8d8d228871b693))
 
 
 ## v5.40.3 (2022-03-10)
@@ -6300,7 +6348,7 @@ This reverts commit 48438fc0852bff086f248831cf2a8e10e3f2b20d.
 ### Bug Fixes
 
 - Re-versioning 2
-  ([`9178eff`](https://github.com/ocadotechnology/codeforlife-portal/commit/9178effe8db877156fdd68d0e0956e1c6260dfab))
+  ([`9178eff`](https://github.com/codeforlife-education/codeforlife-portal/commit/9178effe8db877156fdd68d0e0956e1c6260dfab))
 
 
 ## v5.40.2 (2022-03-10)
@@ -6308,7 +6356,7 @@ This reverts commit 48438fc0852bff086f248831cf2a8e10e3f2b20d.
 ### Bug Fixes
 
 - Re-versioning
-  ([`50ee56c`](https://github.com/ocadotechnology/codeforlife-portal/commit/50ee56c5db7af83dee8a3717a255ef93f1380c73))
+  ([`50ee56c`](https://github.com/codeforlife-education/codeforlife-portal/commit/50ee56c5db7af83dee8a3717a255ef93f1380c73))
 
 
 ## v5.40.1 (2022-03-10)
@@ -6316,8 +6364,8 @@ This reverts commit 48438fc0852bff086f248831cf2a8e10e3f2b20d.
 ### Bug Fixes
 
 - The last indy/teacher clean up
-  ([#1793](https://github.com/ocadotechnology/codeforlife-portal/pull/1793),
-  [`7f56383`](https://github.com/ocadotechnology/codeforlife-portal/commit/7f563839fe438b196d447ba06463cc82f733ce7e))
+  ([#1793](https://github.com/codeforlife-education/codeforlife-portal/pull/1793),
+  [`7f56383`](https://github.com/codeforlife-education/codeforlife-portal/commit/7f563839fe438b196d447ba06463cc82f733ce7e))
 
 * fix: the last indy/teacher clean up
 
@@ -6327,8 +6375,8 @@ This reverts commit 48438fc0852bff086f248831cf2a8e10e3f2b20d.
 ### Features
 
 - Add users to specific address books based on user type
-  ([#1790](https://github.com/ocadotechnology/codeforlife-portal/pull/1790),
-  [`06b9ed3`](https://github.com/ocadotechnology/codeforlife-portal/commit/06b9ed311a5124b00816fec05a04a66b430ee5e4))
+  ([#1790](https://github.com/codeforlife-education/codeforlife-portal/pull/1790),
+  [`06b9ed3`](https://github.com/codeforlife-education/codeforlife-portal/commit/06b9ed311a5124b00816fec05a04a66b430ee5e4))
 
 * feat: Add users to specific address books based on user type
 
@@ -6342,8 +6390,8 @@ This reverts commit 48438fc0852bff086f248831cf2a8e10e3f2b20d.
 ### Bug Fixes
 
 - Upgrade semantic-release version
-  ([#1789](https://github.com/ocadotechnology/codeforlife-portal/pull/1789),
-  [`ae2911a`](https://github.com/ocadotechnology/codeforlife-portal/commit/ae2911ae2d7fbe6842fca41bccd388851d967764))
+  ([#1789](https://github.com/codeforlife-education/codeforlife-portal/pull/1789),
+  [`ae2911a`](https://github.com/codeforlife-education/codeforlife-portal/commit/ae2911ae2d7fbe6842fca41bccd388851d967764))
 
 * fix: Upgrade semantic-release version
 
@@ -6352,8 +6400,9 @@ This reverts commit 48438fc0852bff086f248831cf2a8e10e3f2b20d.
 
 ### Features
 
-- Student aimmo dashboard ([#1786](https://github.com/ocadotechnology/codeforlife-portal/pull/1786),
-  [`9c1771c`](https://github.com/ocadotechnology/codeforlife-portal/commit/9c1771cafa4fd790e51bf69d0d315db64b5a75c1))
+- Student aimmo dashboard
+  ([#1786](https://github.com/codeforlife-education/codeforlife-portal/pull/1786),
+  [`9c1771c`](https://github.com/codeforlife-education/codeforlife-portal/commit/9c1771cafa4fd790e51bf69d0d315db64b5a75c1))
 
 * wip: student aimmo dashboard
 
@@ -6378,8 +6427,8 @@ This reverts commit 48438fc0852bff086f248831cf2a8e10e3f2b20d.
 
 ### Features
 
-- Add React banner ([#1780](https://github.com/ocadotechnology/codeforlife-portal/pull/1780),
-  [`bdc5e32`](https://github.com/ocadotechnology/codeforlife-portal/commit/bdc5e32267da6e437f9a1efd052fdfb102a5951f))
+- Add React banner ([#1780](https://github.com/codeforlife-education/codeforlife-portal/pull/1780),
+  [`bdc5e32`](https://github.com/codeforlife-education/codeforlife-portal/commit/bdc5e32267da6e437f9a1efd052fdfb102a5951f))
 
 * feat: add react welcome banner and tertiary color
 
@@ -6397,8 +6446,8 @@ This reverts commit 48438fc0852bff086f248831cf2a8e10e3f2b20d.
 ### Bug Fixes
 
 - Remove padding in dropdown options
-  ([#1781](https://github.com/ocadotechnology/codeforlife-portal/pull/1781),
-  [`cc0ee7f`](https://github.com/ocadotechnology/codeforlife-portal/commit/cc0ee7fd10461ff966b0b803c01c9c1ea4d49980))
+  ([#1781](https://github.com/codeforlife-education/codeforlife-portal/pull/1781),
+  [`cc0ee7f`](https://github.com/codeforlife-education/codeforlife-portal/commit/cc0ee7fd10461ff966b0b803c01c9c1ea4d49980))
 
 * fix: Remove padding in dropdown options
 
@@ -6410,7 +6459,7 @@ This reverts commit 48438fc0852bff086f248831cf2a8e10e3f2b20d.
 ### Bug Fixes
 
 - Run Black formatter
-  ([`b938fce`](https://github.com/ocadotechnology/codeforlife-portal/commit/b938fce07eefb7abfe4404ea4cc2f40b00de38ed))
+  ([`b938fce`](https://github.com/codeforlife-education/codeforlife-portal/commit/b938fce07eefb7abfe4404ea4cc2f40b00de38ed))
 
 
 ## v5.37.0 (2022-02-23)
@@ -6418,8 +6467,8 @@ This reverts commit 48438fc0852bff086f248831cf2a8e10e3f2b20d.
 ### Features
 
 - Kick / leave teacher page update
-  ([#1779](https://github.com/ocadotechnology/codeforlife-portal/pull/1779),
-  [`c4f2918`](https://github.com/ocadotechnology/codeforlife-portal/commit/c4f29188a7ad42a699ee1c65fe74382d0d89e9aa))
+  ([#1779](https://github.com/codeforlife-education/codeforlife-portal/pull/1779),
+  [`c4f2918`](https://github.com/codeforlife-education/codeforlife-portal/commit/c4f29188a7ad42a699ee1c65fe74382d0d89e9aa))
 
 * feat: Redesign teacher leave page
 
@@ -6430,8 +6479,9 @@ This reverts commit 48438fc0852bff086f248831cf2a8e10e3f2b20d.
 
 ### Bug Fixes
 
-- Remove assertEqual/s ([#1777](https://github.com/ocadotechnology/codeforlife-portal/pull/1777),
-  [`d727634`](https://github.com/ocadotechnology/codeforlife-portal/commit/d727634d4433e32a53a5357d7c3a52880b219cbd))
+- Remove assertEqual/s
+  ([#1777](https://github.com/codeforlife-education/codeforlife-portal/pull/1777),
+  [`d727634`](https://github.com/codeforlife-education/codeforlife-portal/commit/d727634d4433e32a53a5357d7c3a52880b219cbd))
 
 * fix: remove assertEqual/s
 
@@ -6441,8 +6491,8 @@ This reverts commit 48438fc0852bff086f248831cf2a8e10e3f2b20d.
 ### Features
 
 - Registration improvement
-  ([#1774](https://github.com/ocadotechnology/codeforlife-portal/pull/1774),
-  [`eed5e2c`](https://github.com/ocadotechnology/codeforlife-portal/commit/eed5e2c5db2182ecd3a5dcce17c80da7ee3a21fe))
+  ([#1774](https://github.com/codeforlife-education/codeforlife-portal/pull/1774),
+  [`eed5e2c`](https://github.com/codeforlife-education/codeforlife-portal/commit/eed5e2c5db2182ecd3a5dcce17c80da7ee3a21fe))
 
 * feat: registration improvement
 
@@ -6457,8 +6507,9 @@ This reverts commit 48438fc0852bff086f248831cf2a8e10e3f2b20d.
 
 ### Bug Fixes
 
-- Duplicate postcode test ([#1775](https://github.com/ocadotechnology/codeforlife-portal/pull/1775),
-  [`ee57c9c`](https://github.com/ocadotechnology/codeforlife-portal/commit/ee57c9cf2e0ecdaf9d76777e47918ffe4d74663e))
+- Duplicate postcode test
+  ([#1775](https://github.com/codeforlife-education/codeforlife-portal/pull/1775),
+  [`ee57c9c`](https://github.com/codeforlife-education/codeforlife-portal/commit/ee57c9cf2e0ecdaf9d76777e47918ffe4d74663e))
 
 * fix: duplicate postcode test
 
@@ -6468,14 +6519,14 @@ This reverts commit 48438fc0852bff086f248831cf2a8e10e3f2b20d.
 ### Bug Fixes
 
 - Remove now unnecessary workspace clearing
-  ([#1771](https://github.com/ocadotechnology/codeforlife-portal/pull/1771),
-  [`4138df7`](https://github.com/ocadotechnology/codeforlife-portal/commit/4138df760a3d818b4bc1ce3780a75116dffe9fdd))
+  ([#1771](https://github.com/codeforlife-education/codeforlife-portal/pull/1771),
+  [`4138df7`](https://github.com/codeforlife-education/codeforlife-portal/commit/4138df760a3d818b4bc1ce3780a75116dffe9fdd))
 
 ### Build System
 
 - **deps**: Bump follow-redirects in /portal_frontend
-  ([#1770](https://github.com/ocadotechnology/codeforlife-portal/pull/1770),
-  [`e6da47e`](https://github.com/ocadotechnology/codeforlife-portal/commit/e6da47ef360fadde2df19ff900dd7df5b0a52152))
+  ([#1770](https://github.com/codeforlife-education/codeforlife-portal/pull/1770),
+  [`e6da47e`](https://github.com/codeforlife-education/codeforlife-portal/commit/e6da47ef360fadde2df19ff900dd7df5b0a52152))
 
 Bumps [follow-redirects](https://github.com/follow-redirects/follow-redirects) from 1.14.7 to
   1.14.8. - [Release notes](https://github.com/follow-redirects/follow-redirects/releases) -
@@ -6495,8 +6546,8 @@ Co-authored-by: Florian Aucomte <f.aucomte@hotmail.co.uk>
 ### Bug Fixes
 
 - Add anonymise action in Django admin
-  ([#1769](https://github.com/ocadotechnology/codeforlife-portal/pull/1769),
-  [`14e5396`](https://github.com/ocadotechnology/codeforlife-portal/commit/14e5396c2666856eadf38f6625ace6be82c84b90))
+  ([#1769](https://github.com/codeforlife-education/codeforlife-portal/pull/1769),
+  [`14e5396`](https://github.com/codeforlife-education/codeforlife-portal/commit/14e5396c2666856eadf38f6625ace6be82c84b90))
 
 * fix: Add anonymise action in Django admin
 
@@ -6508,8 +6559,8 @@ Co-authored-by: Florian Aucomte <f.aucomte@hotmail.co.uk>
 ### Features
 
 - Added react example for independent student
-  ([#1731](https://github.com/ocadotechnology/codeforlife-portal/pull/1731),
-  [`685b694`](https://github.com/ocadotechnology/codeforlife-portal/commit/685b6949bb707439d8c529be8d1dad7c34cb8f3f))
+  ([#1731](https://github.com/codeforlife-education/codeforlife-portal/pull/1731),
+  [`685b694`](https://github.com/codeforlife-education/codeforlife-portal/commit/685b6949bb707439d8c529be8d1dad7c34cb8f3f))
 
 * feat: added react example for independent student
 
@@ -6525,8 +6576,8 @@ Co-authored-by: Florian Aucomte <f.aucomte@hotmail.co.uk>
 ### Bug Fixes
 
 - No duplicate email on student release
-  ([#1766](https://github.com/ocadotechnology/codeforlife-portal/pull/1766),
-  [`2b85f48`](https://github.com/ocadotechnology/codeforlife-portal/commit/2b85f4816a6172e815d6ecfd254b444a002d4a81))
+  ([#1766](https://github.com/codeforlife-education/codeforlife-portal/pull/1766),
+  [`2b85f48`](https://github.com/codeforlife-education/codeforlife-portal/commit/2b85f4816a6172e815d6ecfd254b444a002d4a81))
 
 * fix: no duplicate email on student release
 
@@ -6537,8 +6588,8 @@ Co-authored-by: Florian Aucomte <f.aucomte@hotmail.co.uk>
 
 ### Bug Fixes
 
-- Trim ci flow ([#1764](https://github.com/ocadotechnology/codeforlife-portal/pull/1764),
-  [`37adc09`](https://github.com/ocadotechnology/codeforlife-portal/commit/37adc09b5998e4ed1817c975b4dba83548effee3))
+- Trim ci flow ([#1764](https://github.com/codeforlife-education/codeforlife-portal/pull/1764),
+  [`37adc09`](https://github.com/codeforlife-education/codeforlife-portal/commit/37adc09b5998e4ed1817c975b4dba83548effee3))
 
 * fix: trim ci flow
 
@@ -6548,8 +6599,8 @@ Co-authored-by: Florian Aucomte <f.aucomte@hotmail.co.uk>
 ### Bug Fixes
 
 - Update cookies categories
-  ([#1753](https://github.com/ocadotechnology/codeforlife-portal/pull/1753),
-  [`63a06e7`](https://github.com/ocadotechnology/codeforlife-portal/commit/63a06e72792bbb779065a36fab0795b2f815894f))
+  ([#1753](https://github.com/codeforlife-education/codeforlife-portal/pull/1753),
+  [`63a06e7`](https://github.com/codeforlife-education/codeforlife-portal/commit/63a06e72792bbb779065a36fab0795b2f815894f))
 
 * fix: update cookies categories
 
@@ -6563,16 +6614,16 @@ Co-authored-by: Florian Aucomte <f.aucomte@hotmail.co.uk>
 ### Build System
 
 - Update lockfile for Django 2.2.27
-  ([#1762](https://github.com/ocadotechnology/codeforlife-portal/pull/1762),
-  [`fdbd4be`](https://github.com/ocadotechnology/codeforlife-portal/commit/fdbd4be20910de98a0df4d40838700e0fd5146d6))
+  ([#1762](https://github.com/codeforlife-education/codeforlife-portal/pull/1762),
+  [`fdbd4be`](https://github.com/codeforlife-education/codeforlife-portal/commit/fdbd4be20910de98a0df4d40838700e0fd5146d6))
 
 * build: Update lockfile for Django 2.2.27
 
 ### Features
 
 - Student join release data tracking
-  ([#1760](https://github.com/ocadotechnology/codeforlife-portal/pull/1760),
-  [`5b74f64`](https://github.com/ocadotechnology/codeforlife-portal/commit/5b74f64a1a0a3fb1b1c5325abac529b3a4555c66))
+  ([#1760](https://github.com/codeforlife-education/codeforlife-portal/pull/1760),
+  [`5b74f64`](https://github.com/codeforlife-education/codeforlife-portal/commit/5b74f64a1a0a3fb1b1c5325abac529b3a4555c66))
 
 * feat: student join release data tracking
 
@@ -6585,8 +6636,9 @@ Co-authored-by: Florian Aucomte <f.aucomte@hotmail.co.uk>
 
 ### Bug Fixes
 
-- Update pyyaml to 5.4.1 ([#1761](https://github.com/ocadotechnology/codeforlife-portal/pull/1761),
-  [`02b12ef`](https://github.com/ocadotechnology/codeforlife-portal/commit/02b12ef5980aeaf1bcdc995406edd1641dbb4f0f))
+- Update pyyaml to 5.4.1
+  ([#1761](https://github.com/codeforlife-education/codeforlife-portal/pull/1761),
+  [`02b12ef`](https://github.com/codeforlife-education/codeforlife-portal/commit/02b12ef5980aeaf1bcdc995406edd1641dbb4f0f))
 
 
 ## v5.33.4 (2022-02-10)
@@ -6594,8 +6646,8 @@ Co-authored-by: Florian Aucomte <f.aucomte@hotmail.co.uk>
 ### Bug Fixes
 
 - **deps**: Bump django from 2.2.26 to 2.2.27
-  ([#1758](https://github.com/ocadotechnology/codeforlife-portal/pull/1758),
-  [`22e64e8`](https://github.com/ocadotechnology/codeforlife-portal/commit/22e64e894679473bafc6e734a0ff7510abf0f14a))
+  ([#1758](https://github.com/codeforlife-education/codeforlife-portal/pull/1758),
+  [`22e64e8`](https://github.com/codeforlife-education/codeforlife-portal/commit/22e64e894679473bafc6e734a0ff7510abf0f14a))
 
 * build(deps): bump django from 2.2.26 to 2.2.27
 
@@ -6619,7 +6671,7 @@ Co-authored-by: Florian Aucomte <f.aucomte@hotmail.co.uk>
 ### Bug Fixes
 
 - Indy teacher cleanup in batches
-  ([`200c6ae`](https://github.com/ocadotechnology/codeforlife-portal/commit/200c6ae560919b65eb9fbb7e270927aa27b7e417))
+  ([`200c6ae`](https://github.com/codeforlife-education/codeforlife-portal/commit/200c6ae560919b65eb9fbb7e270927aa27b7e417))
 
 
 ## v5.33.2 (2022-02-08)
@@ -6627,8 +6679,8 @@ Co-authored-by: Florian Aucomte <f.aucomte@hotmail.co.uk>
 ### Bug Fixes
 
 - Revert "fix: update test cookies consent script (#1752)"
-  ([#1756](https://github.com/ocadotechnology/codeforlife-portal/pull/1756),
-  [`d63bdf5`](https://github.com/ocadotechnology/codeforlife-portal/commit/d63bdf5aa5d79b51e40f4fb227008fb36e1e1565))
+  ([#1756](https://github.com/codeforlife-education/codeforlife-portal/pull/1756),
+  [`d63bdf5`](https://github.com/codeforlife-education/codeforlife-portal/commit/d63bdf5aa5d79b51e40f4fb227008fb36e1e1565))
 
 * Revert "fix: update test cookies consent script (#1752)"
 
@@ -6645,8 +6697,8 @@ This reverts commit cfaa2ec828d20398754b34e152273a3388776b59.
 ### Features
 
 - Implement session timeout middleware
-  ([#1749](https://github.com/ocadotechnology/codeforlife-portal/pull/1749),
-  [`cf5373e`](https://github.com/ocadotechnology/codeforlife-portal/commit/cf5373e849d06700ce9328356862510797108db9))
+  ([#1749](https://github.com/codeforlife-education/codeforlife-portal/pull/1749),
+  [`cf5373e`](https://github.com/codeforlife-education/codeforlife-portal/commit/cf5373e849d06700ce9328356862510797108db9))
 
 * feat: Implement session timeout middleware
 
@@ -6662,8 +6714,8 @@ This reverts commit cfaa2ec828d20398754b34e152273a3388776b59.
 ### Bug Fixes
 
 - Update test cookies consent script
-  ([#1752](https://github.com/ocadotechnology/codeforlife-portal/pull/1752),
-  [`cfaa2ec`](https://github.com/ocadotechnology/codeforlife-portal/commit/cfaa2ec828d20398754b34e152273a3388776b59))
+  ([#1752](https://github.com/codeforlife-education/codeforlife-portal/pull/1752),
+  [`cfaa2ec`](https://github.com/codeforlife-education/codeforlife-portal/commit/cfaa2ec828d20398754b34e152273a3388776b59))
 
 * fix: update test cookies consent script
 
@@ -6673,8 +6725,8 @@ This reverts commit cfaa2ec828d20398754b34e152273a3388776b59.
 ### Bug Fixes
 
 - Make two_factor a module to fix deployment (and move to /views/)
-  ([#1751](https://github.com/ocadotechnology/codeforlife-portal/pull/1751),
-  [`b162c30`](https://github.com/ocadotechnology/codeforlife-portal/commit/b162c309ac6df2dfd1b4ebf2f9497251aea32ad6))
+  ([#1751](https://github.com/codeforlife-education/codeforlife-portal/pull/1751),
+  [`b162c30`](https://github.com/codeforlife-education/codeforlife-portal/commit/b162c309ac6df2dfd1b4ebf2f9497251aea32ad6))
 
 * fix: Make two_factor a module to fix deployment (and move to /views/)
 
@@ -6686,15 +6738,15 @@ This reverts commit cfaa2ec828d20398754b34e152273a3388776b59.
 ### Bug Fixes
 
 - Cleanup duplicate teacher + indy
-  ([`b73f545`](https://github.com/ocadotechnology/codeforlife-portal/commit/b73f5451e7c30b7b45053711d99d5bb9eaca1e78))
+  ([`b73f545`](https://github.com/codeforlife-education/codeforlife-portal/commit/b73f5451e7c30b7b45053711d99d5bb9eaca1e78))
 
 
 ## v5.32.1 (2022-02-02)
 
 ### Bug Fixes
 
-- 2fa pages updated ([#1736](https://github.com/ocadotechnology/codeforlife-portal/pull/1736),
-  [`8c8f1ae`](https://github.com/ocadotechnology/codeforlife-portal/commit/8c8f1ae1f0c5976be3b09664ed28bb323475d01c))
+- 2fa pages updated ([#1736](https://github.com/codeforlife-education/codeforlife-portal/pull/1736),
+  [`8c8f1ae`](https://github.com/codeforlife-education/codeforlife-portal/commit/8c8f1ae1f0c5976be3b09664ed28bb323475d01c))
 
 * fix: updated the 2FA pages to the designs
 
@@ -6729,7 +6781,7 @@ This reverts commit cfaa2ec828d20398754b34e152273a3388776b59.
 * fix: design corrections #3
 
 - Unique email for teacher and indy student
-  ([`43927a4`](https://github.com/ocadotechnology/codeforlife-portal/commit/43927a4dda86a8af806023e5d12e1ecab264b17a))
+  ([`43927a4`](https://github.com/codeforlife-education/codeforlife-portal/commit/43927a4dda86a8af806023e5d12e1ecab264b17a))
 
 
 ## v5.32.0 (2022-01-26)
@@ -6740,11 +6792,11 @@ This reverts commit cfaa2ec828d20398754b34e152273a3388776b59.
 ### Features
 
 - Indy student cleanup
-  ([`7f2b64f`](https://github.com/ocadotechnology/codeforlife-portal/commit/7f2b64ff33b2d99f66d9215aae58b6118bc2855f))
+  ([`7f2b64f`](https://github.com/codeforlife-education/codeforlife-portal/commit/7f2b64ff33b2d99f66d9215aae58b6118bc2855f))
 
 - Reset password and email verification pages redesign
-  ([#1733](https://github.com/ocadotechnology/codeforlife-portal/pull/1733),
-  [`25423b4`](https://github.com/ocadotechnology/codeforlife-portal/commit/25423b4045e5482141bed7cec7f28fc3a688b96a))
+  ([#1733](https://github.com/codeforlife-education/codeforlife-portal/pull/1733),
+  [`25423b4`](https://github.com/codeforlife-education/codeforlife-portal/commit/25423b4045e5482141bed7cec7f28fc3a688b96a))
 
 * feat: Reset password and email verification pages redesign
 
@@ -6763,11 +6815,11 @@ This reverts commit cfaa2ec828d20398754b34e152273a3388776b59.
 ### Bug Fixes
 
 - Fix various things on archiving game
-  ([`2f43209`](https://github.com/ocadotechnology/codeforlife-portal/commit/2f43209119fd6ae5266ac0ef1ffc4eb566c7947e))
+  ([`2f43209`](https://github.com/codeforlife-education/codeforlife-portal/commit/2f43209119fd6ae5266ac0ef1ffc4eb566c7947e))
 
 - Replace randomly failing Selenium tests with Unit and Cypress tests
-  ([#1720](https://github.com/ocadotechnology/codeforlife-portal/pull/1720),
-  [`a477955`](https://github.com/ocadotechnology/codeforlife-portal/commit/a47795541e176ae468e0d25eeaee72c8ea9c3ab1))
+  ([#1720](https://github.com/codeforlife-education/codeforlife-portal/pull/1720),
+  [`a477955`](https://github.com/codeforlife-education/codeforlife-portal/commit/a47795541e176ae468e0d25eeaee72c8ea9c3ab1))
 
 * fix: Increase sleeps for commonly failing tests and update headless settings
 
@@ -6791,8 +6843,8 @@ This reverts commit cfaa2ec828d20398754b34e152273a3388776b59.
 ### Bug Fixes
 
 - Add common static to manifest
-  ([#1730](https://github.com/ocadotechnology/codeforlife-portal/pull/1730),
-  [`3e81557`](https://github.com/ocadotechnology/codeforlife-portal/commit/3e81557fdc790ded4d16e937b85f761ba034edb6))
+  ([#1730](https://github.com/codeforlife-education/codeforlife-portal/pull/1730),
+  [`3e81557`](https://github.com/codeforlife-education/codeforlife-portal/commit/3e81557fdc790ded4d16e937b85f761ba034edb6))
 
 
 ## v5.30.0 (2022-01-18)
@@ -6800,8 +6852,8 @@ This reverts commit cfaa2ec828d20398754b34e152273a3388776b59.
 ### Features
 
 - Move rapid-router banner width to portal
-  ([#1723](https://github.com/ocadotechnology/codeforlife-portal/pull/1723),
-  [`ee0011c`](https://github.com/ocadotechnology/codeforlife-portal/commit/ee0011c877a3b5ed1f556548a38778d2088be65c))
+  ([#1723](https://github.com/codeforlife-education/codeforlife-portal/pull/1723),
+  [`ee0011c`](https://github.com/codeforlife-education/codeforlife-portal/commit/ee0011c877a3b5ed1f556548a38778d2088be65c))
 
 * feat: move rapid-router banner width to portal
 
@@ -6817,14 +6869,14 @@ This reverts commit cfaa2ec828d20398754b34e152273a3388776b59.
 ### Bug Fixes
 
 - Reference button correctly in games table
-  ([#1729](https://github.com/ocadotechnology/codeforlife-portal/pull/1729),
-  [`8dd3de5`](https://github.com/ocadotechnology/codeforlife-portal/commit/8dd3de58762d924a4d992e086ae4aeef7c8e6d7f))
+  ([#1729](https://github.com/codeforlife-education/codeforlife-portal/pull/1729),
+  [`8dd3de5`](https://github.com/codeforlife-education/codeforlife-portal/commit/8dd3de58762d924a4d992e086ae4aeef7c8e6d7f))
 
 ### Build System
 
 - **deps**: Bump ansi-regex from 5.0.0 to 5.0.1
-  ([#1728](https://github.com/ocadotechnology/codeforlife-portal/pull/1728),
-  [`5033366`](https://github.com/ocadotechnology/codeforlife-portal/commit/50333662d76a5eda2b56d16ee12b64468843401b))
+  ([#1728](https://github.com/codeforlife-education/codeforlife-portal/pull/1728),
+  [`5033366`](https://github.com/codeforlife-education/codeforlife-portal/commit/50333662d76a5eda2b56d16ee12b64468843401b))
 
 Bumps [ansi-regex](https://github.com/chalk/ansi-regex) from 5.0.0 to 5.0.1. - [Release
   notes](https://github.com/chalk/ansi-regex/releases) -
@@ -6837,8 +6889,8 @@ Signed-off-by: dependabot[bot] <support@github.com>
 Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
 
 - **deps**: Bump Django from 2.2.25 to 2.2.26
-  ([#1727](https://github.com/ocadotechnology/codeforlife-portal/pull/1727),
-  [`ac84476`](https://github.com/ocadotechnology/codeforlife-portal/commit/ac844763633573049b8d09b1a511310936936b8f))
+  ([#1727](https://github.com/codeforlife-education/codeforlife-portal/pull/1727),
+  [`ac84476`](https://github.com/codeforlife-education/codeforlife-portal/commit/ac844763633573049b8d09b1a511310936936b8f))
 
 * build(deps): bump Django from 2.2.25 to 2.2.26
 
@@ -6848,8 +6900,8 @@ Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.c
 ### Bug Fixes
 
 - **deps**: Bump django from 2.2.25 to 2.2.26
-  ([#1724](https://github.com/ocadotechnology/codeforlife-portal/pull/1724),
-  [`d8ecedb`](https://github.com/ocadotechnology/codeforlife-portal/commit/d8ecedb36578c5903bd0103ab552ba2de123c20b))
+  ([#1724](https://github.com/codeforlife-education/codeforlife-portal/pull/1724),
+  [`d8ecedb`](https://github.com/codeforlife-education/codeforlife-portal/commit/d8ecedb36578c5903bd0103ab552ba2de123c20b))
 
 * build(deps): bump django from 2.2.25 to 2.2.26
 
@@ -6871,8 +6923,8 @@ Signed-off-by: dependabot[bot] <support@github.com>
 ### Bug Fixes
 
 - Update cookies test script
-  ([#1726](https://github.com/ocadotechnology/codeforlife-portal/pull/1726),
-  [`7d2eadd`](https://github.com/ocadotechnology/codeforlife-portal/commit/7d2eadd3b01b5eaa7992b70c0aabc1df29b977a6))
+  ([#1726](https://github.com/codeforlife-education/codeforlife-portal/pull/1726),
+  [`7d2eadd`](https://github.com/codeforlife-education/codeforlife-portal/commit/7d2eadd3b01b5eaa7992b70c0aabc1df29b977a6))
 
 * fix: update cookies test script
 
@@ -6882,8 +6934,8 @@ Signed-off-by: dependabot[bot] <support@github.com>
 ### Features
 
 - Redesign teacher Kurono dashboard
-  ([#1713](https://github.com/ocadotechnology/codeforlife-portal/pull/1713),
-  [`51af956`](https://github.com/ocadotechnology/codeforlife-portal/commit/51af956cb2c87151bb60242443c83f939af785c8))
+  ([#1713](https://github.com/codeforlife-education/codeforlife-portal/pull/1713),
+  [`51af956`](https://github.com/codeforlife-education/codeforlife-portal/commit/51af956cb2c87151bb60242443c83f939af785c8))
 
 * feat: Redesign teacher Kurono dashboard
 
@@ -6903,8 +6955,8 @@ Signed-off-by: dependabot[bot] <support@github.com>
 ### Bug Fixes
 
 - Additional account details updates
-  ([#1719](https://github.com/ocadotechnology/codeforlife-portal/pull/1719),
-  [`073e74d`](https://github.com/ocadotechnology/codeforlife-portal/commit/073e74d7589b213a2f1c9788a69b97883ba6061e))
+  ([#1719](https://github.com/codeforlife-education/codeforlife-portal/pull/1719),
+  [`073e74d`](https://github.com/codeforlife-education/codeforlife-portal/commit/073e74d7589b213a2f1c9788a69b97883ba6061e))
 
 * fix: additional account details updates
 
@@ -6914,8 +6966,8 @@ Signed-off-by: dependabot[bot] <support@github.com>
 ### Features
 
 - Update student account details pages
-  ([#1715](https://github.com/ocadotechnology/codeforlife-portal/pull/1715),
-  [`b293c68`](https://github.com/ocadotechnology/codeforlife-portal/commit/b293c689a7c4448497ec3d603c63382e51d2f296))
+  ([#1715](https://github.com/codeforlife-education/codeforlife-portal/pull/1715),
+  [`b293c68`](https://github.com/codeforlife-education/codeforlife-portal/commit/b293c689a7c4448497ec3d603c63382e51d2f296))
 
 * feat: update student account details pages
 
@@ -6933,8 +6985,8 @@ Signed-off-by: dependabot[bot] <support@github.com>
 ### Bug Fixes
 
 - Implemented the new design for the registration form
-  ([#1714](https://github.com/ocadotechnology/codeforlife-portal/pull/1714),
-  [`c536ae4`](https://github.com/ocadotechnology/codeforlife-portal/commit/c536ae4a08aea02e6ea7d3aca2e999f4c4ca43ad))
+  ([#1714](https://github.com/codeforlife-education/codeforlife-portal/pull/1714),
+  [`c536ae4`](https://github.com/codeforlife-education/codeforlife-portal/commit/c536ae4a08aea02e6ea7d3aca2e999f4c4ca43ad))
 
 * fix: currently stuck at the button alignment
 
@@ -6957,8 +7009,9 @@ Signed-off-by: dependabot[bot] <support@github.com>
 
 ### Bug Fixes
 
-- Rename RR banner class ([#1712](https://github.com/ocadotechnology/codeforlife-portal/pull/1712),
-  [`206385d`](https://github.com/ocadotechnology/codeforlife-portal/commit/206385d57c9a4f84eb81d6ae0e57e8ef9e804348))
+- Rename RR banner class
+  ([#1712](https://github.com/codeforlife-education/codeforlife-portal/pull/1712),
+  [`206385d`](https://github.com/codeforlife-education/codeforlife-portal/commit/206385d57c9a4f84eb81d6ae0e57e8ef9e804348))
 
 * fix: Rename RR banner class
 
@@ -6970,8 +7023,8 @@ Signed-off-by: dependabot[bot] <support@github.com>
 ### Bug Fixes
 
 - Missing text under readonly input
-  ([#1710](https://github.com/ocadotechnology/codeforlife-portal/pull/1710),
-  [`fbb660d`](https://github.com/ocadotechnology/codeforlife-portal/commit/fbb660dee50ac856749a00405b41bae9f1c1410d))
+  ([#1710](https://github.com/codeforlife-education/codeforlife-portal/pull/1710),
+  [`fbb660d`](https://github.com/codeforlife-education/codeforlife-portal/commit/fbb660dee50ac856749a00405b41bae9f1c1410d))
 
 
 ## v5.27.7 (2022-01-04)
@@ -6979,8 +7032,8 @@ Signed-off-by: dependabot[bot] <support@github.com>
 ### Bug Fixes
 
 - Allow any login view after logging in
-  ([#1711](https://github.com/ocadotechnology/codeforlife-portal/pull/1711),
-  [`845294f`](https://github.com/ocadotechnology/codeforlife-portal/commit/845294f28db53c1df4cac32d854ac3e91805ce27))
+  ([#1711](https://github.com/codeforlife-education/codeforlife-portal/pull/1711),
+  [`845294f`](https://github.com/codeforlife-education/codeforlife-portal/commit/845294f28db53c1df4cac32d854ac3e91805ce27))
 
 * fix: allow any login view after logging in
 
@@ -6992,8 +7045,8 @@ Signed-off-by: dependabot[bot] <support@github.com>
 ### Bug Fixes
 
 - Updated text to class details
-  ([#1697](https://github.com/ocadotechnology/codeforlife-portal/pull/1697),
-  [`4ede413`](https://github.com/ocadotechnology/codeforlife-portal/commit/4ede413412b986fbe7e219baef287fe82d62c77a))
+  ([#1697](https://github.com/codeforlife-education/codeforlife-portal/pull/1697),
+  [`4ede413`](https://github.com/codeforlife-education/codeforlife-portal/commit/4ede413412b986fbe7e219baef287fe82d62c77a))
 
 * fix: updated text to class details
 
@@ -7011,8 +7064,8 @@ Co-authored-by: Dioni Zhong <4784791+dionizh@users.noreply.github.com>
 ### Bug Fixes
 
 - Align filter and search on scoreboard
-  ([#1701](https://github.com/ocadotechnology/codeforlife-portal/pull/1701),
-  [`61e9dc2`](https://github.com/ocadotechnology/codeforlife-portal/commit/61e9dc27dec5b28de9c75dc379f219429f9a623f))
+  ([#1701](https://github.com/codeforlife-education/codeforlife-portal/pull/1701),
+  [`61e9dc2`](https://github.com/codeforlife-education/codeforlife-portal/commit/61e9dc27dec5b28de9c75dc379f219429f9a623f))
 
 * fix: align filter and search on scoreboard
 
@@ -7022,12 +7075,12 @@ Co-authored-by: Dioni Zhong <4784791+dionizh@users.noreply.github.com>
 ### Bug Fixes
 
 - Fixed class edit disabled buttons when cookies are enabled
-  ([#1699](https://github.com/ocadotechnology/codeforlife-portal/pull/1699),
-  [`318ad78`](https://github.com/ocadotechnology/codeforlife-portal/commit/318ad78c4c7355a20ed9ff9a5b535951ff3ad58e))
+  ([#1699](https://github.com/codeforlife-education/codeforlife-portal/pull/1699),
+  [`318ad78`](https://github.com/codeforlife-education/codeforlife-portal/commit/318ad78c4c7355a20ed9ff9a5b535951ff3ad58e))
 
 - Indep student banner use black text
-  ([#1700](https://github.com/ocadotechnology/codeforlife-portal/pull/1700),
-  [`be258a8`](https://github.com/ocadotechnology/codeforlife-portal/commit/be258a8b5d4c6bcf08685e634c29bbc50ceabed4))
+  ([#1700](https://github.com/codeforlife-education/codeforlife-portal/pull/1700),
+  [`be258a8`](https://github.com/codeforlife-education/codeforlife-portal/commit/be258a8b5d4c6bcf08685e634c29bbc50ceabed4))
 
 * fix: indep student banner use black text
 
@@ -7039,15 +7092,16 @@ Co-authored-by: Dioni Zhong <4784791+dionizh@users.noreply.github.com>
 ### Bug Fixes
 
 - Fix indep student subnav
-  ([`ff8c956`](https://github.com/ocadotechnology/codeforlife-portal/commit/ff8c956667d6984242cbab3946209bb99bb3c47d))
+  ([`ff8c956`](https://github.com/codeforlife-education/codeforlife-portal/commit/ff8c956667d6984242cbab3946209bb99bb3c47d))
 
 
 ## v5.27.2 (2021-12-30)
 
 ### Bug Fixes
 
-- Student class page ([#1692](https://github.com/ocadotechnology/codeforlife-portal/pull/1692),
-  [`38daef7`](https://github.com/ocadotechnology/codeforlife-portal/commit/38daef72821246651a3093073ee1747b1d50e225))
+- Student class page
+  ([#1692](https://github.com/codeforlife-education/codeforlife-portal/pull/1692),
+  [`38daef7`](https://github.com/codeforlife-education/codeforlife-portal/commit/38daef72821246651a3093073ee1747b1d50e225))
 
 * fix: rearanging the edit class page
 
@@ -7103,8 +7157,8 @@ Co-authored-by: Razvan Mahu <razvan.mahu@ocado.com>
 ### Bug Fixes
 
 - Fix filter dropdown sizes etc
-  ([#1695](https://github.com/ocadotechnology/codeforlife-portal/pull/1695),
-  [`4cbaaa1`](https://github.com/ocadotechnology/codeforlife-portal/commit/4cbaaa1abe9960b5a938efc9bcb5287b0757c9a1))
+  ([#1695](https://github.com/codeforlife-education/codeforlife-portal/pull/1695),
+  [`4cbaaa1`](https://github.com/codeforlife-education/codeforlife-portal/commit/4cbaaa1abe9960b5a938efc9bcb5287b0757c9a1))
 
 * feat: add subnav styles and fix login check
 
@@ -7118,8 +7172,8 @@ Co-authored-by: Razvan Mahu <razvan.mahu@ocado.com>
 ### Features
 
 - Add subnav styles and fix login check
-  ([#1694](https://github.com/ocadotechnology/codeforlife-portal/pull/1694),
-  [`ca12ac7`](https://github.com/ocadotechnology/codeforlife-portal/commit/ca12ac72bf3f899431d69024aa6244c813cb80dc))
+  ([#1694](https://github.com/codeforlife-education/codeforlife-portal/pull/1694),
+  [`ca12ac7`](https://github.com/codeforlife-education/codeforlife-portal/commit/ca12ac72bf3f899431d69024aa6244c813cb80dc))
 
 * feat: add subnav styles and fix login check
 
@@ -7129,8 +7183,8 @@ Co-authored-by: Razvan Mahu <razvan.mahu@ocado.com>
 ### Bug Fixes
 
 - Independent student check
-  ([#1693](https://github.com/ocadotechnology/codeforlife-portal/pull/1693),
-  [`2108652`](https://github.com/ocadotechnology/codeforlife-portal/commit/2108652aff7e711cdb4c9cf62d2d61952571b397))
+  ([#1693](https://github.com/codeforlife-education/codeforlife-portal/pull/1693),
+  [`2108652`](https://github.com/codeforlife-education/codeforlife-portal/commit/2108652aff7e711cdb4c9cf62d2d61952571b397))
 
 * fix: independent student check
 
@@ -7140,16 +7194,17 @@ Co-authored-by: Razvan Mahu <razvan.mahu@ocado.com>
 ### Bug Fixes
 
 - Keep dropdown open while scrolling
-  ([#1691](https://github.com/ocadotechnology/codeforlife-portal/pull/1691),
-  [`bc5cd2a`](https://github.com/ocadotechnology/codeforlife-portal/commit/bc5cd2a58489dcbca8006fa7ebba44d619e07cbb))
+  ([#1691](https://github.com/codeforlife-education/codeforlife-portal/pull/1691),
+  [`bc5cd2a`](https://github.com/codeforlife-education/codeforlife-portal/commit/bc5cd2a58489dcbca8006fa7ebba44d619e07cbb))
 
 
 ## v5.26.14 (2021-12-17)
 
 ### Bug Fixes
 
-- Add sleep to tests ([#1688](https://github.com/ocadotechnology/codeforlife-portal/pull/1688),
-  [`b4876fc`](https://github.com/ocadotechnology/codeforlife-portal/commit/b4876fc367c7e732817ad834c1975ab12ad4017f))
+- Add sleep to tests
+  ([#1688](https://github.com/codeforlife-education/codeforlife-portal/pull/1688),
+  [`b4876fc`](https://github.com/codeforlife-education/codeforlife-portal/commit/b4876fc367c7e732817ad834c1975ab12ad4017f))
 
 * fix: add sleep to tests
 
@@ -7160,16 +7215,18 @@ Co-authored-by: Razvan Mahu <razvan.mahu@ocado.com>
 
 ### Bug Fixes
 
-- Fix Play page headers ([#1687](https://github.com/ocadotechnology/codeforlife-portal/pull/1687),
-  [`8c7ec6b`](https://github.com/ocadotechnology/codeforlife-portal/commit/8c7ec6b34aa20a6f7c1f076e542d2a6126ebd32d))
+- Fix Play page headers
+  ([#1687](https://github.com/codeforlife-education/codeforlife-portal/pull/1687),
+  [`8c7ec6b`](https://github.com/codeforlife-education/codeforlife-portal/commit/8c7ec6b34aa20a6f7c1f076e542d2a6126ebd32d))
 
 
 ## v5.26.12 (2021-12-17)
 
 ### Bug Fixes
 
-- Update curriculum links ([#1681](https://github.com/ocadotechnology/codeforlife-portal/pull/1681),
-  [`5256d86`](https://github.com/ocadotechnology/codeforlife-portal/commit/5256d86474d8c5023d3bf422ba3c172fa4654557))
+- Update curriculum links
+  ([#1681](https://github.com/codeforlife-education/codeforlife-portal/pull/1681),
+  [`5256d86`](https://github.com/codeforlife-education/codeforlife-portal/commit/5256d86474d8c5023d3bf422ba3c172fa4654557))
 
 * fix: Update curriculum links and fix dashboard indentation
 
@@ -7181,8 +7238,8 @@ Co-authored-by: Razvan Mahu <razvan.mahu@ocado.com>
 ### Bug Fixes
 
 - Alignment on the non logged in play page
-  ([#1680](https://github.com/ocadotechnology/codeforlife-portal/pull/1680),
-  [`80a4072`](https://github.com/ocadotechnology/codeforlife-portal/commit/80a4072ea137db9f83f1f516a87298c82ee69a7d))
+  ([#1680](https://github.com/codeforlife-education/codeforlife-portal/pull/1680),
+  [`80a4072`](https://github.com/codeforlife-education/codeforlife-portal/commit/80a4072ea137db9f83f1f516a87298c82ee69a7d))
 
 * fix: primary text fix
 
@@ -7241,8 +7298,9 @@ Co-authored-by: KamilPawel <kamil.sosinski@ocado.com>
 
 ### Bug Fixes
 
-- No gap under footer ([#1679](https://github.com/ocadotechnology/codeforlife-portal/pull/1679),
-  [`53ed359`](https://github.com/ocadotechnology/codeforlife-portal/commit/53ed359d4d5f77af20547a5347ab472b388935ff))
+- No gap under footer
+  ([#1679](https://github.com/codeforlife-education/codeforlife-portal/pull/1679),
+  [`53ed359`](https://github.com/codeforlife-education/codeforlife-portal/commit/53ed359d4d5f77af20547a5347ab472b388935ff))
 
 * fix: no gap under footer
 
@@ -7260,8 +7318,8 @@ Co-authored-by: KamilPawel <kamil.sosinski@ocado.com>
 ### Bug Fixes
 
 - Fixed 2FA tag displaying regardless of if user has it enabled
-  ([#1678](https://github.com/ocadotechnology/codeforlife-portal/pull/1678),
-  [`959717e`](https://github.com/ocadotechnology/codeforlife-portal/commit/959717e3d5b1fa64e5bce177418eb74956f1903c))
+  ([#1678](https://github.com/codeforlife-education/codeforlife-portal/pull/1678),
+  [`959717e`](https://github.com/codeforlife-education/codeforlife-portal/commit/959717e3d5b1fa64e5bce177418eb74956f1903c))
 
 * fix: fixed 2FA tag displaying regardless of if user has it enabled
 
@@ -7276,8 +7334,8 @@ Co-authored-by: KamilPawel <kamil.sosinski@ocado.com>
 
 ### Bug Fixes
 
-- Remove wagtail ([#1677](https://github.com/ocadotechnology/codeforlife-portal/pull/1677),
-  [`d028f09`](https://github.com/ocadotechnology/codeforlife-portal/commit/d028f097d593e70e7010f4a06ce9799b0fd0e339))
+- Remove wagtail ([#1677](https://github.com/codeforlife-education/codeforlife-portal/pull/1677),
+  [`d028f09`](https://github.com/codeforlife-education/codeforlife-portal/commit/d028f097d593e70e7010f4a06ce9799b0fd0e339))
 
 * fix: remove wagtail
 
@@ -7289,8 +7347,8 @@ Co-authored-by: KamilPawel <kamil.sosinski@ocado.com>
 ### Bug Fixes
 
 - Add QR code pic to CSP config
-  ([#1676](https://github.com/ocadotechnology/codeforlife-portal/pull/1676),
-  [`5e3e405`](https://github.com/ocadotechnology/codeforlife-portal/commit/5e3e40537b392a5ff4883ffd80b0bcb8d93fa804))
+  ([#1676](https://github.com/codeforlife-education/codeforlife-portal/pull/1676),
+  [`5e3e405`](https://github.com/codeforlife-education/codeforlife-portal/commit/5e3e40537b392a5ff4883ffd80b0bcb8d93fa804))
 
 * fix: Add QR code pic to CSP config
 
@@ -7302,8 +7360,8 @@ Co-authored-by: KamilPawel <kamil.sosinski@ocado.com>
 ### Bug Fixes
 
 - Ensuring everything is contained inside a container
-  ([#1671](https://github.com/ocadotechnology/codeforlife-portal/pull/1671),
-  [`72356ea`](https://github.com/ocadotechnology/codeforlife-portal/commit/72356eabece47ccca7769d33860aac97bbaac3dd))
+  ([#1671](https://github.com/codeforlife-education/codeforlife-portal/pull/1671),
+  [`72356ea`](https://github.com/codeforlife-education/codeforlife-portal/commit/72356eabece47ccca7769d33860aac97bbaac3dd))
 
 * fix: primary text fix
 
@@ -7355,8 +7413,8 @@ Co-authored-by: KamilPawel <kamil.sosinski@ocado.com>
 
 ### Build System
 
-- Update lockfile ([#1674](https://github.com/ocadotechnology/codeforlife-portal/pull/1674),
-  [`d64213e`](https://github.com/ocadotechnology/codeforlife-portal/commit/d64213ef9c3fba9bc0e36f6a882b7542d752a8b0))
+- Update lockfile ([#1674](https://github.com/codeforlife-education/codeforlife-portal/pull/1674),
+  [`d64213e`](https://github.com/codeforlife-education/codeforlife-portal/commit/d64213ef9c3fba9bc0e36f6a882b7542d752a8b0))
 
 * build: Update lockfile
 
@@ -7366,8 +7424,8 @@ Co-authored-by: KamilPawel <kamil.sosinski@ocado.com>
 ### Bug Fixes
 
 - Bump django from 2.2.24 to 2.2.25
-  ([#1672](https://github.com/ocadotechnology/codeforlife-portal/pull/1672),
-  [`4836154`](https://github.com/ocadotechnology/codeforlife-portal/commit/4836154f5323d92bf2c86d71632fd039769dff8b))
+  ([#1672](https://github.com/codeforlife-education/codeforlife-portal/pull/1672),
+  [`4836154`](https://github.com/codeforlife-education/codeforlife-portal/commit/4836154f5323d92bf2c86d71632fd039769dff8b))
 
 * build(deps): bump django from 2.2.24 to 2.2.25
 
@@ -7389,8 +7447,8 @@ Signed-off-by: dependabot[bot] <support@github.com>
 ### Bug Fixes
 
 - Remove Rapid Router Resources
-  ([#1669](https://github.com/ocadotechnology/codeforlife-portal/pull/1669),
-  [`4edcc1b`](https://github.com/ocadotechnology/codeforlife-portal/commit/4edcc1b798671816aabfd1f7d9bc888fa085b8b0))
+  ([#1669](https://github.com/codeforlife-education/codeforlife-portal/pull/1669),
+  [`4edcc1b`](https://github.com/codeforlife-education/codeforlife-portal/commit/4edcc1b798671816aabfd1f7d9bc888fa085b8b0))
 
 * fix: Remove RR resources and all related files
 
@@ -7413,8 +7471,9 @@ Signed-off-by: dependabot[bot] <support@github.com>
 
 ### Bug Fixes
 
-- Add class link to csv ([#1670](https://github.com/ocadotechnology/codeforlife-portal/pull/1670),
-  [`fa9d257`](https://github.com/ocadotechnology/codeforlife-portal/commit/fa9d257a5d7a74db85ec7306f8da571f72e0e3c9))
+- Add class link to csv
+  ([#1670](https://github.com/codeforlife-education/codeforlife-portal/pull/1670),
+  [`fa9d257`](https://github.com/codeforlife-education/codeforlife-portal/commit/fa9d257a5d7a74db85ec7306f8da571f72e0e3c9))
 
 * fix: add class link into csv
 
@@ -7429,8 +7488,8 @@ Signed-off-by: dependabot[bot] <support@github.com>
 ### Bug Fixes
 
 - Empty class code and error pages fix
-  ([#1668](https://github.com/ocadotechnology/codeforlife-portal/pull/1668),
-  [`04799bd`](https://github.com/ocadotechnology/codeforlife-portal/commit/04799bd9fc8f6938c9c0130dae6243fc12deee0e))
+  ([#1668](https://github.com/codeforlife-education/codeforlife-portal/pull/1668),
+  [`04799bd`](https://github.com/codeforlife-education/codeforlife-portal/commit/04799bd9fc8f6938c9c0130dae6243fc12deee0e))
 
 * Fix empty class code bug
 
@@ -7448,13 +7507,13 @@ Signed-off-by: dependabot[bot] <support@github.com>
 ### Bug Fixes
 
 - Add check and log for student not found
-  ([`84477de`](https://github.com/ocadotechnology/codeforlife-portal/commit/84477de7dcc14533620807ac2285a87eba0bb31b))
+  ([`84477de`](https://github.com/codeforlife-education/codeforlife-portal/commit/84477de7dcc14533620807ac2285a87eba0bb31b))
 
 ### Features
 
 - Gather daily counts of student details downloads (CSV and login cards)
-  ([#1665](https://github.com/ocadotechnology/codeforlife-portal/pull/1665),
-  [`d4b855f`](https://github.com/ocadotechnology/codeforlife-portal/commit/d4b855f7183f19481611fec62a57906c75c3ef5a))
+  ([#1665](https://github.com/codeforlife-education/codeforlife-portal/pull/1665),
+  [`d4b855f`](https://github.com/codeforlife-education/codeforlife-portal/commit/d4b855f7183f19481611fec62a57906c75c3ef5a))
 
 * feat: Gather daily counts of student details downloads (CSV and login cards)
 
@@ -7465,8 +7524,9 @@ Signed-off-by: dependabot[bot] <support@github.com>
 
 ### Features
 
-- Add password to csv ([#1663](https://github.com/ocadotechnology/codeforlife-portal/pull/1663),
-  [`b5e1460`](https://github.com/ocadotechnology/codeforlife-portal/commit/b5e14606ce8bf97459448880493e2e2644dad65e))
+- Add password to csv
+  ([#1663](https://github.com/codeforlife-education/codeforlife-portal/pull/1663),
+  [`b5e1460`](https://github.com/codeforlife-education/codeforlife-portal/commit/b5e14606ce8bf97459448880493e2e2644dad65e))
 
 * feat: add password to csv
 
@@ -7476,8 +7536,8 @@ Signed-off-by: dependabot[bot] <support@github.com>
 ### Bug Fixes
 
 - Fix Add class Kurono button
-  ([#1660](https://github.com/ocadotechnology/codeforlife-portal/pull/1660),
-  [`0ffc264`](https://github.com/ocadotechnology/codeforlife-portal/commit/0ffc264eaf4b8c164a28cee7a376ca817e81d1ec))
+  ([#1660](https://github.com/codeforlife-education/codeforlife-portal/pull/1660),
+  [`0ffc264`](https://github.com/codeforlife-education/codeforlife-portal/commit/0ffc264eaf4b8c164a28cee7a376ca817e81d1ec))
 
 * fix: fix Add class Kurono button
 
@@ -7491,8 +7551,8 @@ Signed-off-by: dependabot[bot] <support@github.com>
 ### Bug Fixes
 
 - Kurono dashboard characters spacing
-  ([#1661](https://github.com/ocadotechnology/codeforlife-portal/pull/1661),
-  [`c0170dc`](https://github.com/ocadotechnology/codeforlife-portal/commit/c0170dc27ef35b1357ea07b9d174856d3e726f4f))
+  ([#1661](https://github.com/codeforlife-education/codeforlife-portal/pull/1661),
+  [`c0170dc`](https://github.com/codeforlife-education/codeforlife-portal/commit/c0170dc27ef35b1357ea07b9d174856d3e726f4f))
 
 * fix: primary text fix
 
@@ -7515,8 +7575,8 @@ Co-authored-by: KamilPawel <70412950+KamilPawel@users.noreply.github.com>
 
 ### Features
 
-- Update play page ([#1659](https://github.com/ocadotechnology/codeforlife-portal/pull/1659),
-  [`1dd8adb`](https://github.com/ocadotechnology/codeforlife-portal/commit/1dd8adb802fd533c1c4f9580fecb8acbc7e0ed42))
+- Update play page ([#1659](https://github.com/codeforlife-education/codeforlife-portal/pull/1659),
+  [`1dd8adb`](https://github.com/codeforlife-education/codeforlife-portal/commit/1dd8adb802fd533c1c4f9580fecb8acbc7e0ed42))
 
 * First redesign iteration
 
@@ -7547,8 +7607,9 @@ Co-authored-by: KamilPawel <70412950+KamilPawel@users.noreply.github.com>
 
 ### Bug Fixes
 
-- Align header and footer ([#1654](https://github.com/ocadotechnology/codeforlife-portal/pull/1654),
-  [`c7c5782`](https://github.com/ocadotechnology/codeforlife-portal/commit/c7c5782f0bad4ae68addaa88786c962ba8fec69e))
+- Align header and footer
+  ([#1654](https://github.com/codeforlife-education/codeforlife-portal/pull/1654),
+  [`c7c5782`](https://github.com/codeforlife-education/codeforlife-portal/commit/c7c5782f0bad4ae68addaa88786c962ba8fec69e))
 
 * fix: align header and footer
 
@@ -7564,8 +7625,8 @@ Co-authored-by: KamilPawel <70412950+KamilPawel@users.noreply.github.com>
 ### Bug Fixes
 
 - Student kurono page - centring
-  ([#1657](https://github.com/ocadotechnology/codeforlife-portal/pull/1657),
-  [`2c44e58`](https://github.com/ocadotechnology/codeforlife-portal/commit/2c44e588b0157b9051e812e3d50feafca1ab7b51))
+  ([#1657](https://github.com/codeforlife-education/codeforlife-portal/pull/1657),
+  [`2c44e58`](https://github.com/codeforlife-education/codeforlife-portal/commit/2c44e588b0157b9051e812e3d50feafca1ab7b51))
 
 * fix: primary text fix
 
@@ -7580,8 +7641,8 @@ Co-authored-by: KamilPawel <kamil.sosinski@ocado.com>
 
 ### Bug Fixes
 
-- Primary text fix ([#1656](https://github.com/ocadotechnology/codeforlife-portal/pull/1656),
-  [`283f281`](https://github.com/ocadotechnology/codeforlife-portal/commit/283f281c2d2baaa9d8dcc281be1fffd9d918070c))
+- Primary text fix ([#1656](https://github.com/codeforlife-education/codeforlife-portal/pull/1656),
+  [`283f281`](https://github.com/codeforlife-education/codeforlife-portal/commit/283f281c2d2baaa9d8dcc281be1fffd9d918070c))
 
 * fix: primary text fix
 
@@ -7591,8 +7652,8 @@ Co-authored-by: KamilPawel <kamil.sosinski@ocado.com>
 
 ### Features
 
-- Educate page ([#1651](https://github.com/ocadotechnology/codeforlife-portal/pull/1651),
-  [`b0dfa8a`](https://github.com/ocadotechnology/codeforlife-portal/commit/b0dfa8ac017f574beb1b5ac9300fc58966f393e8))
+- Educate page ([#1651](https://github.com/codeforlife-education/codeforlife-portal/pull/1651),
+  [`b0dfa8a`](https://github.com/codeforlife-education/codeforlife-portal/commit/b0dfa8ac017f574beb1b5ac9300fc58966f393e8))
 
 * wip: educate page
 
@@ -7622,8 +7683,8 @@ Co-authored-by: KamilPawel <kamil.sosinski@ocado.com>
 ### Bug Fixes
 
 - Adjusted buttons in tables to a height of 35px
-  ([#1655](https://github.com/ocadotechnology/codeforlife-portal/pull/1655),
-  [`dc0a7b0`](https://github.com/ocadotechnology/codeforlife-portal/commit/dc0a7b0e4de63e35d1d36354836dc61143c54bb1))
+  ([#1655](https://github.com/codeforlife-education/codeforlife-portal/pull/1655),
+  [`dc0a7b0`](https://github.com/codeforlife-education/codeforlife-portal/commit/dc0a7b0e4de63e35d1d36354836dc61143c54bb1))
 
 * fix: adjusted buttons in tables to a height of 35px
 
@@ -7639,8 +7700,8 @@ Co-authored-by: KamilPawel <kamil.sosinski@ocado.com>
 ### Bug Fixes
 
 - Teacher dashboard bug fix
-  ([#1653](https://github.com/ocadotechnology/codeforlife-portal/pull/1653),
-  [`91cf385`](https://github.com/ocadotechnology/codeforlife-portal/commit/91cf38555a30f63ab10ae9302dbb81350fd57488))
+  ([#1653](https://github.com/codeforlife-education/codeforlife-portal/pull/1653),
+  [`91cf385`](https://github.com/codeforlife-education/codeforlife-portal/commit/91cf38555a30f63ab10ae9302dbb81350fd57488))
 
 * fix: adjusted the button text to centre
 
@@ -7662,8 +7723,8 @@ Co-authored-by: KamilPawel <kamil.sosinski@ocado.com>
 ### Bug Fixes
 
 - Dashboard and buttons fix
-  ([#1648](https://github.com/ocadotechnology/codeforlife-portal/pull/1648),
-  [`85cff35`](https://github.com/ocadotechnology/codeforlife-portal/commit/85cff359f7e3c78ef84f7455078b365348d24ad9))
+  ([#1648](https://github.com/codeforlife-education/codeforlife-portal/pull/1648),
+  [`85cff35`](https://github.com/codeforlife-education/codeforlife-portal/commit/85cff359f7e3c78ef84f7455078b365348d24ad9))
 
 * fix: adjusted the button text to centre
 
@@ -7681,8 +7742,8 @@ Co-authored-by: KamilPawel <kamil.sosinski@ocado.com>
 ### Features
 
 - Navbar updates for indep and teacher
-  ([#1649](https://github.com/ocadotechnology/codeforlife-portal/pull/1649),
-  [`70fe806`](https://github.com/ocadotechnology/codeforlife-portal/commit/70fe8062ac061e6dbdb41288d11bb94bf5170fd6))
+  ([#1649](https://github.com/codeforlife-education/codeforlife-portal/pull/1649),
+  [`70fe806`](https://github.com/codeforlife-education/codeforlife-portal/commit/70fe8062ac061e6dbdb41288d11bb94bf5170fd6))
 
 * feat: navbar updates for indep and teacher
 
@@ -7696,16 +7757,16 @@ Co-authored-by: KamilPawel <kamil.sosinski@ocado.com>
 ### Bug Fixes
 
 - Add GA connection to CSP policy
-  ([#1646](https://github.com/ocadotechnology/codeforlife-portal/pull/1646),
-  [`368e11d`](https://github.com/ocadotechnology/codeforlife-portal/commit/368e11d2482c3786aed151de165c3c2b86923a6c))
+  ([#1646](https://github.com/codeforlife-education/codeforlife-portal/pull/1646),
+  [`368e11d`](https://github.com/codeforlife-education/codeforlife-portal/commit/368e11d2482c3786aed151de165c3c2b86923a6c))
 
 
 ## v5.21.2 (2021-11-25)
 
 ### Bug Fixes
 
-- Fix links ([#1642](https://github.com/ocadotechnology/codeforlife-portal/pull/1642),
-  [`3f55d9f`](https://github.com/ocadotechnology/codeforlife-portal/commit/3f55d9fd194c3d803ab86968d3517dab461951bb))
+- Fix links ([#1642](https://github.com/codeforlife-education/codeforlife-portal/pull/1642),
+  [`3f55d9f`](https://github.com/codeforlife-education/codeforlife-portal/commit/3f55d9fd194c3d803ab86968d3517dab461951bb))
 
 * fix: fix links
 
@@ -7717,16 +7778,17 @@ Co-authored-by: KamilPawel <kamil.sosinski@ocado.com>
 ### Bug Fixes
 
 - Add GCP bucket to CSP list
-  ([#1641](https://github.com/ocadotechnology/codeforlife-portal/pull/1641),
-  [`d1987dc`](https://github.com/ocadotechnology/codeforlife-portal/commit/d1987dcc33c038fec36bb62e2400d094238cbc77))
+  ([#1641](https://github.com/codeforlife-education/codeforlife-portal/pull/1641),
+  [`d1987dc`](https://github.com/codeforlife-education/codeforlife-portal/commit/d1987dcc33c038fec36bb62e2400d094238cbc77))
 
 
 ## v5.21.0 (2021-11-23)
 
 ### Features
 
-- Implement CSP header ([#1570](https://github.com/ocadotechnology/codeforlife-portal/pull/1570),
-  [`4eaaf6f`](https://github.com/ocadotechnology/codeforlife-portal/commit/4eaaf6f6befdefdf8718ed34cc7ff5a9fae5c972))
+- Implement CSP header
+  ([#1570](https://github.com/codeforlife-education/codeforlife-portal/pull/1570),
+  [`4eaaf6f`](https://github.com/codeforlife-education/codeforlife-portal/commit/4eaaf6f6befdefdf8718ed34cc7ff5a9fae5c972))
 
 * Install django-csp and setup CSP header
 
@@ -7807,8 +7869,9 @@ Co-authored-by: KamilPawel <kamil.sosinski@ocado.com>
 
 ### Features
 
-- Remove worksheet model ([#1628](https://github.com/ocadotechnology/codeforlife-portal/pull/1628),
-  [`2556285`](https://github.com/ocadotechnology/codeforlife-portal/commit/25562857f53b72e373f42b4d9be331ae39059d23))
+- Remove worksheet model
+  ([#1628](https://github.com/codeforlife-education/codeforlife-portal/pull/1628),
+  [`2556285`](https://github.com/codeforlife-education/codeforlife-portal/commit/25562857f53b72e373f42b4d9be331ae39059d23))
 
 * wip: replace worksheet model usages
 
@@ -7824,8 +7887,8 @@ Co-authored-by: KamilPawel <kamil.sosinski@ocado.com>
 ### Bug Fixes
 
 - Make class code case-insensitive and fully check Regex
-  ([#1639](https://github.com/ocadotechnology/codeforlife-portal/pull/1639),
-  [`27b731e`](https://github.com/ocadotechnology/codeforlife-portal/commit/27b731e7ed56f21b1abaac6cda30a6606333d29d))
+  ([#1639](https://github.com/codeforlife-education/codeforlife-portal/pull/1639),
+  [`27b731e`](https://github.com/codeforlife-education/codeforlife-portal/commit/27b731e7ed56f21b1abaac6cda30a6606333d29d))
 
 * fix: Make class code case-insensitive and fully check Regex
 
@@ -7839,8 +7902,8 @@ Co-authored-by: KamilPawel <kamil.sosinski@ocado.com>
 ### Features
 
 - Update terms & private policy pages designs
-  ([#1629](https://github.com/ocadotechnology/codeforlife-portal/pull/1629),
-  [`3cb34a5`](https://github.com/ocadotechnology/codeforlife-portal/commit/3cb34a520066cf4d9a7a1285f966431d4fea77e4))
+  ([#1629](https://github.com/codeforlife-education/codeforlife-portal/pull/1629),
+  [`3cb34a5`](https://github.com/codeforlife-education/codeforlife-portal/commit/3cb34a520066cf4d9a7a1285f966431d4fea77e4))
 
 * feat: Update terms & private policy pages designs
 
@@ -7851,8 +7914,9 @@ Co-authored-by: KamilPawel <kamil.sosinski@ocado.com>
 
 ### Features
 
-- Home learning updates ([#1640](https://github.com/ocadotechnology/codeforlife-portal/pull/1640),
-  [`b3d95e6`](https://github.com/ocadotechnology/codeforlife-portal/commit/b3d95e6d67072568131a468522a4fd0541c20aff))
+- Home learning updates
+  ([#1640](https://github.com/codeforlife-education/codeforlife-portal/pull/1640),
+  [`b3d95e6`](https://github.com/codeforlife-education/codeforlife-portal/commit/b3d95e6d67072568131a468522a4fd0541c20aff))
 
 * feat: home learning updates
 
@@ -7872,8 +7936,9 @@ Co-authored-by: KamilPawel <kamil.sosinski@ocado.com>
 
 ### Bug Fixes
 
-- Remove django-hijack ([#1625](https://github.com/ocadotechnology/codeforlife-portal/pull/1625),
-  [`8b8bc94`](https://github.com/ocadotechnology/codeforlife-portal/commit/8b8bc94e6a3b60ebde31f5b96b8c69ccf9062bae))
+- Remove django-hijack
+  ([#1625](https://github.com/codeforlife-education/codeforlife-portal/pull/1625),
+  [`8b8bc94`](https://github.com/codeforlife-education/codeforlife-portal/commit/8b8bc94e6a3b60ebde31f5b96b8c69ccf9062bae))
 
 * Fix: Remove hijack
 
@@ -7885,8 +7950,8 @@ Co-authored-by: KamilPawel <kamil.sosinski@ocado.com>
 ### Features
 
 - Add login type to user session data
-  ([#1622](https://github.com/ocadotechnology/codeforlife-portal/pull/1622),
-  [`84afb5b`](https://github.com/ocadotechnology/codeforlife-portal/commit/84afb5be1373fde7493375fad208863c3d9af895))
+  ([#1622](https://github.com/codeforlife-education/codeforlife-portal/pull/1622),
+  [`84afb5b`](https://github.com/codeforlife-education/codeforlife-portal/commit/84afb5be1373fde7493375fad208863c3d9af895))
 
 * feat: add login type to user session data
 
@@ -7905,11 +7970,11 @@ Co-authored-by: KamilPawel <kamil.sosinski@ocado.com>
 
 ### Bug Fixes
 
-- About us image ([#1620](https://github.com/ocadotechnology/codeforlife-portal/pull/1620),
-  [`324ec08`](https://github.com/ocadotechnology/codeforlife-portal/commit/324ec089a2f693301bcdd777bc0b23bb3314f11a))
+- About us image ([#1620](https://github.com/codeforlife-education/codeforlife-portal/pull/1620),
+  [`324ec08`](https://github.com/codeforlife-education/codeforlife-portal/commit/324ec089a2f693301bcdd777bc0b23bb3314f11a))
 
 - Class deletion
-  ([`5ef4f0a`](https://github.com/ocadotechnology/codeforlife-portal/commit/5ef4f0a32f20544e7adb8c5c7d99e23ba24b27aa))
+  ([`5ef4f0a`](https://github.com/codeforlife-education/codeforlife-portal/commit/5ef4f0a32f20544e7adb8c5c7d99e23ba24b27aa))
 
 
 ## v5.16.2 (2021-11-05)
@@ -7917,8 +7982,8 @@ Co-authored-by: KamilPawel <kamil.sosinski@ocado.com>
 ### Bug Fixes
 
 - Student dashboard logo link
-  ([#1605](https://github.com/ocadotechnology/codeforlife-portal/pull/1605),
-  [`7f69d3e`](https://github.com/ocadotechnology/codeforlife-portal/commit/7f69d3ebefa3b29a0293eb8db3c862514fc5ce91))
+  ([#1605](https://github.com/codeforlife-education/codeforlife-portal/pull/1605),
+  [`7f69d3e`](https://github.com/codeforlife-education/codeforlife-portal/commit/7f69d3ebefa3b29a0293eb8db3c862514fc5ce91))
 
 
 ## v5.16.1 (2021-11-04)
@@ -7926,8 +7991,8 @@ Co-authored-by: KamilPawel <kamil.sosinski@ocado.com>
 ### Bug Fixes
 
 - Student navbar and center RR stats
-  ([#1602](https://github.com/ocadotechnology/codeforlife-portal/pull/1602),
-  [`9606421`](https://github.com/ocadotechnology/codeforlife-portal/commit/9606421bc36744f7807c0b0574678dcafc3ea915))
+  ([#1602](https://github.com/codeforlife-education/codeforlife-portal/pull/1602),
+  [`9606421`](https://github.com/codeforlife-education/codeforlife-portal/commit/9606421bc36744f7807c0b0574678dcafc3ea915))
 
 * fix: student navbar
 
@@ -7951,8 +8016,8 @@ Co-authored-by: KamilPawel <kamil.sosinski@ocado.com>
 ### Features
 
 - Link Kurono resources to Gitbook
-  ([#1604](https://github.com/ocadotechnology/codeforlife-portal/pull/1604),
-  [`3195a90`](https://github.com/ocadotechnology/codeforlife-portal/commit/3195a90da2da7bafb5839fa8bd707811220d7d16))
+  ([#1604](https://github.com/codeforlife-education/codeforlife-portal/pull/1604),
+  [`3195a90`](https://github.com/codeforlife-education/codeforlife-portal/commit/3195a90da2da7bafb5839fa8bd707811220d7d16))
 
 * feat: Link Kurono resources to Gitbook
 
@@ -7967,8 +8032,9 @@ Co-authored-by: KamilPawel <kamil.sosinski@ocado.com>
 
 ### Features
 
-- About us page update ([#1603](https://github.com/ocadotechnology/codeforlife-portal/pull/1603),
-  [`4ccb288`](https://github.com/ocadotechnology/codeforlife-portal/commit/4ccb2880136bb123ed1b3358c3268b89687285ee))
+- About us page update
+  ([#1603](https://github.com/codeforlife-education/codeforlife-portal/pull/1603),
+  [`4ccb288`](https://github.com/codeforlife-education/codeforlife-portal/commit/4ccb2880136bb123ed1b3358c3268b89687285ee))
 
 * feat: Update about us page
 
@@ -7986,8 +8052,8 @@ Co-authored-by: KamilPawel <kamil.sosinski@ocado.com>
 ### Features
 
 - Remove ocado logo from the game
-  ([#1601](https://github.com/ocadotechnology/codeforlife-portal/pull/1601),
-  [`cfa4a0f`](https://github.com/ocadotechnology/codeforlife-portal/commit/cfa4a0f40cfde3349641fa726dfb261b25026ba0))
+  ([#1601](https://github.com/codeforlife-education/codeforlife-portal/pull/1601),
+  [`cfa4a0f`](https://github.com/codeforlife-education/codeforlife-portal/commit/cfa4a0f40cfde3349641fa726dfb261b25026ba0))
 
 * feat: remove ocado logo from the game
 
@@ -7998,8 +8064,9 @@ Co-authored-by: KamilPawel <kamil.sosinski@ocado.com>
 
 ### Features
 
-- Redesign lockout page ([#1599](https://github.com/ocadotechnology/codeforlife-portal/pull/1599),
-  [`e1bcda2`](https://github.com/ocadotechnology/codeforlife-portal/commit/e1bcda2484b3e0faf5377a198660d31f658d7cc4))
+- Redesign lockout page
+  ([#1599](https://github.com/codeforlife-education/codeforlife-portal/pull/1599),
+  [`e1bcda2`](https://github.com/codeforlife-education/codeforlife-portal/commit/e1bcda2484b3e0faf5377a198660d31f658d7cc4))
 
 * feat: Redesign lockout page
 
@@ -8017,8 +8084,8 @@ Co-authored-by: KamilPawel <kamil.sosinski@ocado.com>
 ### Bug Fixes
 
 - Fixes for student deletion
-  ([#1600](https://github.com/ocadotechnology/codeforlife-portal/pull/1600),
-  [`aac79ea`](https://github.com/ocadotechnology/codeforlife-portal/commit/aac79eae1f51d16b3b209d974372e8a0bb967791))
+  ([#1600](https://github.com/codeforlife-education/codeforlife-portal/pull/1600),
+  [`aac79ea`](https://github.com/codeforlife-education/codeforlife-portal/commit/aac79eae1f51d16b3b209d974372e8a0bb967791))
 
 * fix: remove login id on student deletion
 
@@ -8030,8 +8097,8 @@ Co-authored-by: KamilPawel <kamil.sosinski@ocado.com>
 ### Features
 
 - Redesign student dashboards
-  ([#1598](https://github.com/ocadotechnology/codeforlife-portal/pull/1598),
-  [`df873e2`](https://github.com/ocadotechnology/codeforlife-portal/commit/df873e219cc87f2c73a52fea41ca912dc13dbe4a))
+  ([#1598](https://github.com/codeforlife-education/codeforlife-portal/pull/1598),
+  [`df873e2`](https://github.com/codeforlife-education/codeforlife-portal/commit/df873e219cc87f2c73a52fea41ca912dc13dbe4a))
 
 * Separate dashboards and use new designs
 
@@ -8065,8 +8132,8 @@ Co-authored-by: KamilPawel <kamil.sosinski@ocado.com>
 ### Features
 
 - Import students from CSV
-  ([#1594](https://github.com/ocadotechnology/codeforlife-portal/pull/1594),
-  [`4be94d6`](https://github.com/ocadotechnology/codeforlife-portal/commit/4be94d64c64f92b9b8af864821cc1b5676a62a52))
+  ([#1594](https://github.com/codeforlife-education/codeforlife-portal/pull/1594),
+  [`4be94d6`](https://github.com/codeforlife-education/codeforlife-portal/commit/4be94d64c64f92b9b8af864821cc1b5676a62a52))
 
 * feat: import students from CSV
 
@@ -8084,8 +8151,8 @@ Co-authored-by: KamilPawel <kamil.sosinski@ocado.com>
 ### Bug Fixes
 
 - Hide account details during onboarding
-  ([#1597](https://github.com/ocadotechnology/codeforlife-portal/pull/1597),
-  [`99eb890`](https://github.com/ocadotechnology/codeforlife-portal/commit/99eb8908611877d0188949ae14221c37b295a3ac))
+  ([#1597](https://github.com/codeforlife-education/codeforlife-portal/pull/1597),
+  [`99eb890`](https://github.com/codeforlife-education/codeforlife-portal/commit/99eb8908611877d0188949ae14221c37b295a3ac))
 
 * fix: hide account details during onboarding
 
@@ -8097,8 +8164,8 @@ Co-authored-by: KamilPawel <kamil.sosinski@ocado.com>
 ### Bug Fixes
 
 - Smooth scroll to account details
-  ([#1596](https://github.com/ocadotechnology/codeforlife-portal/pull/1596),
-  [`90333d7`](https://github.com/ocadotechnology/codeforlife-portal/commit/90333d7a15114df52f4c6213e1ebcdb84cb885ec))
+  ([#1596](https://github.com/codeforlife-education/codeforlife-portal/pull/1596),
+  [`90333d7`](https://github.com/codeforlife-education/codeforlife-portal/commit/90333d7a15114df52f4c6213e1ebcdb84cb885ec))
 
 * fix: smooth scroll to account details
 
@@ -8111,8 +8178,8 @@ Co-authored-by: KamilPawel <kamil.sosinski@ocado.com>
 
 ### Bug Fixes
 
-- Close message ([#1595](https://github.com/ocadotechnology/codeforlife-portal/pull/1595),
-  [`38b2356`](https://github.com/ocadotechnology/codeforlife-portal/commit/38b2356e6c18c1db51b5b39f3da8e491f0977181))
+- Close message ([#1595](https://github.com/codeforlife-education/codeforlife-portal/pull/1595),
+  [`38b2356`](https://github.com/codeforlife-education/codeforlife-portal/commit/38b2356e6c18c1db51b5b39f3da8e491f0977181))
 
 * fix: close message
 
@@ -8122,8 +8189,8 @@ Co-authored-by: KamilPawel <kamil.sosinski@ocado.com>
 ### Bug Fixes
 
 - Update onboarding pending request page
-  ([#1592](https://github.com/ocadotechnology/codeforlife-portal/pull/1592),
-  [`ebc9daa`](https://github.com/ocadotechnology/codeforlife-portal/commit/ebc9daa5f964c40937400e1166e802091982a508))
+  ([#1592](https://github.com/codeforlife-education/codeforlife-portal/pull/1592),
+  [`ebc9daa`](https://github.com/codeforlife-education/codeforlife-portal/commit/ebc9daa5f964c40937400e1166e802091982a508))
 
 * fix: update onboarding pending request page
 
@@ -8135,8 +8202,8 @@ Co-authored-by: KamilPawel <kamil.sosinski@ocado.com>
 ### Features
 
 - Anonymise active student on delete
-  ([#1590](https://github.com/ocadotechnology/codeforlife-portal/pull/1590),
-  [`652866e`](https://github.com/ocadotechnology/codeforlife-portal/commit/652866e7ad2fe6b3856b548e4e94a8b90ba8e2e7))
+  ([#1590](https://github.com/codeforlife-education/codeforlife-portal/pull/1590),
+  [`652866e`](https://github.com/codeforlife-education/codeforlife-portal/commit/652866e7ad2fe6b3856b548e4e94a8b90ba8e2e7))
 
 * feat: anonymise active student on delete
 
@@ -8150,8 +8217,8 @@ Co-authored-by: KamilPawel <kamil.sosinski@ocado.com>
 ### Features
 
 - Add school and class data
-  ([#1589](https://github.com/ocadotechnology/codeforlife-portal/pull/1589),
-  [`add1f8f`](https://github.com/ocadotechnology/codeforlife-portal/commit/add1f8ffb138451ef6d2e2eb3543ea5b589f8416))
+  ([#1589](https://github.com/codeforlife-education/codeforlife-portal/pull/1589),
+  [`add1f8f`](https://github.com/codeforlife-education/codeforlife-portal/commit/add1f8ffb138451ef6d2e2eb3543ea5b589f8416))
 
 * feat: add school and class data
 
@@ -8163,8 +8230,8 @@ Co-authored-by: KamilPawel <kamil.sosinski@ocado.com>
 ### Features
 
 - Update reminder cards design
-  ([#1584](https://github.com/ocadotechnology/codeforlife-portal/pull/1584),
-  [`18ba6ae`](https://github.com/ocadotechnology/codeforlife-portal/commit/18ba6ae725eaf630a0250492050ef2c908ac7982))
+  ([#1584](https://github.com/codeforlife-education/codeforlife-portal/pull/1584),
+  [`18ba6ae`](https://github.com/codeforlife-education/codeforlife-portal/commit/18ba6ae725eaf630a0250492050ef2c908ac7982))
 
 * Upgrade Reportlab to 3.6.1
 
@@ -8193,8 +8260,8 @@ Co-authored-by: KamilPawel <kamil.sosinski@ocado.com>
 
 ### Bug Fixes
 
-- Dashboard fixes ([#1583](https://github.com/ocadotechnology/codeforlife-portal/pull/1583),
-  [`e70db7a`](https://github.com/ocadotechnology/codeforlife-portal/commit/e70db7a5bbba53945e8fb884dfba0f3f6606ecca))
+- Dashboard fixes ([#1583](https://github.com/codeforlife-education/codeforlife-portal/pull/1583),
+  [`e70db7a`](https://github.com/codeforlife-education/codeforlife-portal/commit/e70db7a5bbba53945e8fb884dfba0f3f6606ecca))
 
 * fix: teacher dashboard switch tabs on error
 
@@ -8210,8 +8277,8 @@ Co-authored-by: KamilPawel <kamil.sosinski@ocado.com>
 ### Features
 
 - Add UserSession for login data
-  ([#1585](https://github.com/ocadotechnology/codeforlife-portal/pull/1585),
-  [`12f52a7`](https://github.com/ocadotechnology/codeforlife-portal/commit/12f52a7b6daf1f7a0a40473cbcd88be61ff67488))
+  ([#1585](https://github.com/codeforlife-education/codeforlife-portal/pull/1585),
+  [`12f52a7`](https://github.com/codeforlife-education/codeforlife-portal/commit/12f52a7b6daf1f7a0a40473cbcd88be61ff67488))
 
 * feat: add UserSession for login data
 
@@ -8221,8 +8288,8 @@ Co-authored-by: KamilPawel <kamil.sosinski@ocado.com>
 ### Bug Fixes
 
 - Fix update account details link
-  ([#1582](https://github.com/ocadotechnology/codeforlife-portal/pull/1582),
-  [`ee06d14`](https://github.com/ocadotechnology/codeforlife-portal/commit/ee06d14ab3ddbd7e4dffb1b9f03d1144e17697ec))
+  ([#1582](https://github.com/codeforlife-education/codeforlife-portal/pull/1582),
+  [`ee06d14`](https://github.com/codeforlife-education/codeforlife-portal/commit/ee06d14ab3ddbd7e4dffb1b9f03d1144e17697ec))
 
 * fix: Fix update account details link
 
@@ -8232,8 +8299,8 @@ Co-authored-by: KamilPawel <kamil.sosinski@ocado.com>
 ### Bug Fixes
 
 - Fix teacher dashboard subnav button styles
-  ([#1576](https://github.com/ocadotechnology/codeforlife-portal/pull/1576),
-  [`ad61d0d`](https://github.com/ocadotechnology/codeforlife-portal/commit/ad61d0dfb7e35fd215a12eb9ab4b07237caa4fec))
+  ([#1576](https://github.com/codeforlife-education/codeforlife-portal/pull/1576),
+  [`ad61d0d`](https://github.com/codeforlife-education/codeforlife-portal/commit/ad61d0dfb7e35fd215a12eb9ab4b07237caa4fec))
 
 * fix: Fix teacher dashboard subnav button styles
 
@@ -8245,8 +8312,8 @@ Co-authored-by: KamilPawel <kamil.sosinski@ocado.com>
 ### Features
 
 - Login page design with shapes
-  ([#1577](https://github.com/ocadotechnology/codeforlife-portal/pull/1577),
-  [`2a02e45`](https://github.com/ocadotechnology/codeforlife-portal/commit/2a02e45fb4919d869e9c7bf7491605be3719d765))
+  ([#1577](https://github.com/codeforlife-education/codeforlife-portal/pull/1577),
+  [`2a02e45`](https://github.com/codeforlife-education/codeforlife-portal/commit/2a02e45fb4919d869e9c7bf7491605be3719d765))
 
 * feat: login page design with shapes
 
@@ -8260,7 +8327,7 @@ Co-authored-by: KamilPawel <kamil.sosinski@ocado.com>
 ### Features
 
 - Login pages design with shapes
-  ([`99996b0`](https://github.com/ocadotechnology/codeforlife-portal/commit/99996b0cf3c2f5c1f8d2750c38437b206ee972db))
+  ([`99996b0`](https://github.com/codeforlife-education/codeforlife-portal/commit/99996b0cf3c2f5c1f8d2750c38437b206ee972db))
 
 
 ## v5.4.0 (2021-10-08)
@@ -8268,8 +8335,8 @@ Co-authored-by: KamilPawel <kamil.sosinski@ocado.com>
 ### Features
 
 - Teacher dashboard update
-  ([#1574](https://github.com/ocadotechnology/codeforlife-portal/pull/1574),
-  [`f70c95a`](https://github.com/ocadotechnology/codeforlife-portal/commit/f70c95a70d7f8f9b270d8c35862d5962322f058b))
+  ([#1574](https://github.com/codeforlife-education/codeforlife-portal/pull/1574),
+  [`f70c95a`](https://github.com/codeforlife-education/codeforlife-portal/commit/f70c95a70d7f8f9b270d8c35862d5962322f058b))
 
 * Split dashboard in JS tabs and update school tab design
 
@@ -8325,8 +8392,8 @@ Co-authored-by: KamilPawel <kamil.sosinski@ocado.com>
 ### Bug Fixes
 
 - Remove underline from dropdown icon
-  ([#1575](https://github.com/ocadotechnology/codeforlife-portal/pull/1575),
-  [`0ca1332`](https://github.com/ocadotechnology/codeforlife-portal/commit/0ca133293038af1e46b525dc922371786c6252f9))
+  ([#1575](https://github.com/codeforlife-education/codeforlife-portal/pull/1575),
+  [`0ca1332`](https://github.com/codeforlife-education/codeforlife-portal/commit/0ca133293038af1e46b525dc922371786c6252f9))
 
 * fix: remove underline from dropdown icon
 
@@ -8336,8 +8403,8 @@ Co-authored-by: KamilPawel <kamil.sosinski@ocado.com>
 ### Bug Fixes
 
 - Student one time details fixes
-  ([#1573](https://github.com/ocadotechnology/codeforlife-portal/pull/1573),
-  [`3573624`](https://github.com/ocadotechnology/codeforlife-portal/commit/3573624020bf696e4c800b94543ee258c33f244e))
+  ([#1573](https://github.com/codeforlife-education/codeforlife-portal/pull/1573),
+  [`3573624`](https://github.com/codeforlife-education/codeforlife-portal/commit/3573624020bf696e4c800b94543ee258c33f244e))
 
 * fix: student one time details fixes
 
@@ -8351,18 +8418,19 @@ Co-authored-by: KamilPawel <kamil.sosinski@ocado.com>
 ### Bug Fixes
 
 - Add login url on reset password + refactor
-  ([#1572](https://github.com/ocadotechnology/codeforlife-portal/pull/1572),
-  [`43ec60f`](https://github.com/ocadotechnology/codeforlife-portal/commit/43ec60fbc296f7a3d492e179044ea8f37d20b469))
+  ([#1572](https://github.com/codeforlife-education/codeforlife-portal/pull/1572),
+  [`43ec60f`](https://github.com/codeforlife-education/codeforlife-portal/commit/43ec60fbc296f7a3d492e179044ea8f37d20b469))
 
 * fix: add login url on reset password + refactor
 
 * renaming login id vars and pip fix
 
 - Import get_hashed_login_id in teach.py
-  ([`d4536ad`](https://github.com/ocadotechnology/codeforlife-portal/commit/d4536ad786b745d1f7ebee544617e0a6d0899277))
+  ([`d4536ad`](https://github.com/codeforlife-education/codeforlife-portal/commit/d4536ad786b745d1f7ebee544617e0a6d0899277))
 
-- Teacher password update ([#1569](https://github.com/ocadotechnology/codeforlife-portal/pull/1569),
-  [`3d37fbd`](https://github.com/ocadotechnology/codeforlife-portal/commit/3d37fbdb0c72eee1e83365774e4c7e77df425a2d))
+- Teacher password update
+  ([#1569](https://github.com/codeforlife-education/codeforlife-portal/pull/1569),
+  [`3d37fbd`](https://github.com/codeforlife-education/codeforlife-portal/commit/3d37fbdb0c72eee1e83365774e4c7e77df425a2d))
 
 * Update teacher password policy
 
@@ -8375,8 +8443,8 @@ Co-authored-by: KamilPawel <kamil.sosinski@ocado.com>
 * Black
 
 - Update single student edit page
-  ([#1571](https://github.com/ocadotechnology/codeforlife-portal/pull/1571),
-  [`ca9a46d`](https://github.com/ocadotechnology/codeforlife-portal/commit/ca9a46da206cf96473f9afc3391e049227ab6b9d))
+  ([#1571](https://github.com/codeforlife-education/codeforlife-portal/pull/1571),
+  [`ca9a46d`](https://github.com/codeforlife-education/codeforlife-portal/commit/ca9a46da206cf96473f9afc3391e049227ab6b9d))
 
 * feat: Update edit student process
 
@@ -8399,8 +8467,8 @@ Co-authored-by: KamilPawel <kamil.sosinski@ocado.com>
 ### Features
 
 - Student login one time details
-  ([#1563](https://github.com/ocadotechnology/codeforlife-portal/pull/1563),
-  [`b7e7e62`](https://github.com/ocadotechnology/codeforlife-portal/commit/b7e7e625b9b70f4737673967e16880b947099582))
+  ([#1563](https://github.com/codeforlife-education/codeforlife-portal/pull/1563),
+  [`b7e7e62`](https://github.com/codeforlife-education/codeforlife-portal/commit/b7e7e625b9b70f4737673967e16880b947099582))
 
 * WIP: student one time details page
 
@@ -8434,8 +8502,8 @@ Co-authored-by: KamilPawel <kamil.sosinski@ocado.com>
 ### Bug Fixes
 
 - Update autoconfig settings for random URL
-  ([#1557](https://github.com/ocadotechnology/codeforlife-portal/pull/1557),
-  [`e14a0dc`](https://github.com/ocadotechnology/codeforlife-portal/commit/e14a0dc88fee84b4be5ec6c6bea33d34442a2d8e))
+  ([#1557](https://github.com/codeforlife-education/codeforlife-portal/pull/1557),
+  [`e14a0dc`](https://github.com/codeforlife-education/codeforlife-portal/commit/e14a0dc88fee84b4be5ec6c6bea33d34442a2d8e))
 
 * fix: update autoconfig settings for random URL
 
@@ -8443,8 +8511,8 @@ Co-authored-by: KamilPawel <kamil.sosinski@ocado.com>
 
 * fix: remove redundant settings from test
 
-- Update license ([#1562](https://github.com/ocadotechnology/codeforlife-portal/pull/1562),
-  [`4c6dcce`](https://github.com/ocadotechnology/codeforlife-portal/commit/4c6dcce3ee9b78313ac45bf6887dbf773f00ea81))
+- Update license ([#1562](https://github.com/codeforlife-education/codeforlife-portal/pull/1562),
+  [`4c6dcce`](https://github.com/codeforlife-education/codeforlife-portal/commit/4c6dcce3ee9b78313ac45bf6887dbf773f00ea81))
 
 * fix: Update license file and add contributor agreement
 
@@ -8460,8 +8528,8 @@ Co-authored-by: KamilPawel <kamil.sosinski@ocado.com>
 
 ### Features
 
-- Add csv download ([#1561](https://github.com/ocadotechnology/codeforlife-portal/pull/1561),
-  [`e2ebd1e`](https://github.com/ocadotechnology/codeforlife-portal/commit/e2ebd1ecbf667bf6a2728a4854d7b660d533a853))
+- Add csv download ([#1561](https://github.com/codeforlife-education/codeforlife-portal/pull/1561),
+  [`e2ebd1e`](https://github.com/codeforlife-education/codeforlife-portal/commit/e2ebd1ecbf667bf6a2728a4854d7b660d533a853))
 
 * feat: add csv download
 
@@ -8478,8 +8546,8 @@ Co-authored-by: KamilPawel <kamil.sosinski@ocado.com>
 * add more test
 
 - Class code and student password format
-  ([#1550](https://github.com/ocadotechnology/codeforlife-portal/pull/1550),
-  [`f736c23`](https://github.com/ocadotechnology/codeforlife-portal/commit/f736c235f69d8f3fd8095ad824d2f04947c85938))
+  ([#1550](https://github.com/codeforlife-education/codeforlife-portal/pull/1550),
+  [`f736c23`](https://github.com/codeforlife-education/codeforlife-portal/commit/f736c235f69d8f3fd8095ad824d2f04947c85938))
 
 * feat: class code and student password format
 
@@ -8488,8 +8556,8 @@ Co-authored-by: KamilPawel <kamil.sosinski@ocado.com>
 * Pipfile.lock
 
 - Random url for student login
-  ([#1556](https://github.com/ocadotechnology/codeforlife-portal/pull/1556),
-  [`5b71a74`](https://github.com/ocadotechnology/codeforlife-portal/commit/5b71a74c4e67b747f00fa37031f36559fb134fed))
+  ([#1556](https://github.com/codeforlife-education/codeforlife-portal/pull/1556),
+  [`5b71a74`](https://github.com/codeforlife-education/codeforlife-portal/commit/5b71a74c4e67b747f00fa37031f36559fb134fed))
 
 * feat: add random url on student addition
 
@@ -8504,8 +8572,8 @@ Co-authored-by: KamilPawel <kamil.sosinski@ocado.com>
 * fix: renaming and minor fixes
 
 - Split student login process in two steps
-  ([#1551](https://github.com/ocadotechnology/codeforlife-portal/pull/1551),
-  [`cf7d521`](https://github.com/ocadotechnology/codeforlife-portal/commit/cf7d5210376365e5b38d8ca66d0a017543e6f528))
+  ([#1551](https://github.com/codeforlife-education/codeforlife-portal/pull/1551),
+  [`cf7d521`](https://github.com/codeforlife-education/codeforlife-portal/commit/cf7d5210376365e5b38d8ca66d0a017543e6f528))
 
 * Split form in 2
 
@@ -8533,8 +8601,8 @@ Co-authored-by: KamilPawel <kamil.sosinski@ocado.com>
 ### Bug Fixes
 
 - Fix home page on smaller screen sizes
-  ([#1549](https://github.com/ocadotechnology/codeforlife-portal/pull/1549),
-  [`2a7f885`](https://github.com/ocadotechnology/codeforlife-portal/commit/2a7f885ba16a883748f07236182d288316f3411e))
+  ([#1549](https://github.com/codeforlife-education/codeforlife-portal/pull/1549),
+  [`2a7f885`](https://github.com/codeforlife-education/codeforlife-portal/commit/2a7f885ba16a883748f07236182d288316f3411e))
 
 * fix: fix home page on smaller screen sizes
 
@@ -8548,8 +8616,8 @@ Co-authored-by: KamilPawel <kamil.sosinski@ocado.com>
 ### Bug Fixes
 
 - Improve 2FA pages styles
-  ([#1548](https://github.com/ocadotechnology/codeforlife-portal/pull/1548),
-  [`9cbd5a1`](https://github.com/ocadotechnology/codeforlife-portal/commit/9cbd5a1ca515dfb3b03962c704af3b2ef0452237))
+  ([#1548](https://github.com/codeforlife-education/codeforlife-portal/pull/1548),
+  [`9cbd5a1`](https://github.com/codeforlife-education/codeforlife-portal/commit/9cbd5a1ca515dfb3b03962c704af3b2ef0452237))
 
 * fix: Improve 2FA pages styles
 
@@ -8562,16 +8630,17 @@ Co-authored-by: KamilPawel <kamil.sosinski@ocado.com>
 
 ### Bug Fixes
 
-- Reposition banner image ([#1545](https://github.com/ocadotechnology/codeforlife-portal/pull/1545),
-  [`5da3972`](https://github.com/ocadotechnology/codeforlife-portal/commit/5da39724cf43f03c102f6b83c724a911252a9441))
+- Reposition banner image
+  ([#1545](https://github.com/codeforlife-education/codeforlife-portal/pull/1545),
+  [`5da3972`](https://github.com/codeforlife-education/codeforlife-portal/commit/5da39724cf43f03c102f6b83c724a911252a9441))
 
 * fix: reposition banner image
 
 ### Build System
 
 - **deps**: Bump sqlparse from 0.4.1 to 0.4.2
-  ([#1537](https://github.com/ocadotechnology/codeforlife-portal/pull/1537),
-  [`d3a5388`](https://github.com/ocadotechnology/codeforlife-portal/commit/d3a538891c320fb6e192dfe50b5d9da3ef03eb96))
+  ([#1537](https://github.com/codeforlife-education/codeforlife-portal/pull/1537),
+  [`d3a5388`](https://github.com/codeforlife-education/codeforlife-portal/commit/d3a538891c320fb6e192dfe50b5d9da3ef03eb96))
 
 * build(deps): bump sqlparse from 0.4.1 to 0.4.2
 
@@ -8593,8 +8662,8 @@ Signed-off-by: dependabot[bot] <support@github.com>
 
 ### Features
 
-- Remove flags ([#1541](https://github.com/ocadotechnology/codeforlife-portal/pull/1541),
-  [`4a6a0b3`](https://github.com/ocadotechnology/codeforlife-portal/commit/4a6a0b34ebc83fefa9f9dab1adf416a15939c29a))
+- Remove flags ([#1541](https://github.com/codeforlife-education/codeforlife-portal/pull/1541),
+  [`4a6a0b3`](https://github.com/codeforlife-education/codeforlife-portal/commit/4a6a0b34ebc83fefa9f9dab1adf416a15939c29a))
 
 * feat: remove flags
 
@@ -8606,8 +8675,8 @@ Signed-off-by: dependabot[bot] <support@github.com>
 ### Features
 
 - Add index to terms of use
-  ([#1538](https://github.com/ocadotechnology/codeforlife-portal/pull/1538),
-  [`56a19ca`](https://github.com/ocadotechnology/codeforlife-portal/commit/56a19ca97a5f193d1df1c747cc78412d366e6886))
+  ([#1538](https://github.com/codeforlife-education/codeforlife-portal/pull/1538),
+  [`56a19ca`](https://github.com/codeforlife-education/codeforlife-portal/commit/56a19ca97a5f193d1df1c747cc78412d366e6886))
 
 * feat: add index to terms of use
 
@@ -8617,8 +8686,8 @@ Signed-off-by: dependabot[bot] <support@github.com>
 ### Bug Fixes
 
 - Button and table updates (rebranding 1 amends)
-  ([#1536](https://github.com/ocadotechnology/codeforlife-portal/pull/1536),
-  [`57291aa`](https://github.com/ocadotechnology/codeforlife-portal/commit/57291aa0d692062dc48402d78793f07efc8e5ca1))
+  ([#1536](https://github.com/codeforlife-education/codeforlife-portal/pull/1536),
+  [`57291aa`](https://github.com/codeforlife-education/codeforlife-portal/commit/57291aa0d692062dc48402d78793f07efc8e5ca1))
 
 * fix: button and table updates
 
@@ -8630,8 +8699,8 @@ Signed-off-by: dependabot[bot] <support@github.com>
 ### Features
 
 - Major version bump for rebranding phase 1
-  ([#1527](https://github.com/ocadotechnology/codeforlife-portal/pull/1527),
-  [`592857f`](https://github.com/ocadotechnology/codeforlife-portal/commit/592857fd4524bba82f96171e6e66a357795daea4))
+  ([#1527](https://github.com/codeforlife-education/codeforlife-portal/pull/1527),
+  [`592857f`](https://github.com/codeforlife-education/codeforlife-portal/commit/592857fd4524bba82f96171e6e66a357795daea4))
 
 * feat!: major version bump for rebranding phase 1
 
@@ -8640,8 +8709,9 @@ Signed-off-by: dependabot[bot] <support@github.com>
 
 ### Bug Fixes
 
-- Privacy Policy update ([#1526](https://github.com/ocadotechnology/codeforlife-portal/pull/1526),
-  [`e6943f5`](https://github.com/ocadotechnology/codeforlife-portal/commit/e6943f59b9db192e309eb7abd347f360cd6abb4c))
+- Privacy Policy update
+  ([#1526](https://github.com/codeforlife-education/codeforlife-portal/pull/1526),
+  [`e6943f5`](https://github.com/codeforlife-education/codeforlife-portal/commit/e6943f59b9db192e309eb7abd347f360cd6abb4c))
 
 * fix: Privacy Policy update
 
@@ -8654,25 +8724,26 @@ Signed-off-by: dependabot[bot] <support@github.com>
 
 ### Features
 
-- Version bump ([#1525](https://github.com/ocadotechnology/codeforlife-portal/pull/1525),
-  [`ec6d589`](https://github.com/ocadotechnology/codeforlife-portal/commit/ec6d5896f7b571c91aca489da590a7cda24236c4))
+- Version bump ([#1525](https://github.com/codeforlife-education/codeforlife-portal/pull/1525),
+  [`ec6d589`](https://github.com/codeforlife-education/codeforlife-portal/commit/ec6d5896f7b571c91aca489da590a7cda24236c4))
 
 
 ## v4.35.0 (2021-09-03)
 
 ### Bug Fixes
 
-- Button updates etc ([#1517](https://github.com/ocadotechnology/codeforlife-portal/pull/1517),
-  [`1e599e6`](https://github.com/ocadotechnology/codeforlife-portal/commit/1e599e602592890b14da3bed9f8ee169d5964846))
+- Button updates etc
+  ([#1517](https://github.com/codeforlife-education/codeforlife-portal/pull/1517),
+  [`1e599e6`](https://github.com/codeforlife-education/codeforlife-portal/commit/1e599e602592890b14da3bed9f8ee169d5964846))
 
 * fix: button updates etc
 
 - Fix test
-  ([`c9c2381`](https://github.com/ocadotechnology/codeforlife-portal/commit/c9c2381a994315985045102704d96e881e8de2ac))
+  ([`c9c2381`](https://github.com/codeforlife-education/codeforlife-portal/commit/c9c2381a994315985045102704d96e881e8de2ac))
 
 - Footer fixes and old base removal
-  ([#1519](https://github.com/ocadotechnology/codeforlife-portal/pull/1519),
-  [`fa2d9ad`](https://github.com/ocadotechnology/codeforlife-portal/commit/fa2d9ad64ad29b8c989e01245467ba8225247d70))
+  ([#1519](https://github.com/codeforlife-education/codeforlife-portal/pull/1519),
+  [`fa2d9ad`](https://github.com/codeforlife-education/codeforlife-portal/commit/fa2d9ad64ad29b8c989e01245467ba8225247d70))
 
 * Get rid of base_old.html
 
@@ -8691,8 +8762,8 @@ Signed-off-by: dependabot[bot] <support@github.com>
 * Delete redundant header blocks and button classes
 
 - Mobile navbar buttons max width, padding, Ocado logo, account icon, dropdown
-  ([#1520](https://github.com/ocadotechnology/codeforlife-portal/pull/1520),
-  [`e242f9c`](https://github.com/ocadotechnology/codeforlife-portal/commit/e242f9cc5d3c9089d0cfb87ded0ef3bc11b04216))
+  ([#1520](https://github.com/codeforlife-education/codeforlife-portal/pull/1520),
+  [`e242f9c`](https://github.com/codeforlife-education/codeforlife-portal/commit/e242f9cc5d3c9089d0cfb87ded0ef3bc11b04216))
 
 * fix: mobile navbar buttons max width
 
@@ -8704,8 +8775,9 @@ Signed-off-by: dependabot[bot] <support@github.com>
 
 * fix navbar account icon font weight
 
-- Rebranding adjustments ([#1521](https://github.com/ocadotechnology/codeforlife-portal/pull/1521),
-  [`a00b6b1`](https://github.com/ocadotechnology/codeforlife-portal/commit/a00b6b115337ee028e058dc936fda956b20fe2fa))
+- Rebranding adjustments
+  ([#1521](https://github.com/codeforlife-education/codeforlife-portal/pull/1521),
+  [`a00b6b1`](https://github.com/codeforlife-education/codeforlife-portal/commit/a00b6b115337ee028e058dc936fda956b20fe2fa))
 
 * fix: rebranding adjustments
 
@@ -8713,8 +8785,8 @@ Signed-off-by: dependabot[bot] <support@github.com>
 
 * fix: clean up and mobile amend
 
-- Rebranding amends ([#1513](https://github.com/ocadotechnology/codeforlife-portal/pull/1513),
-  [`487d214`](https://github.com/ocadotechnology/codeforlife-portal/commit/487d2145bf9019a8d629b20200a2b598eecb753a))
+- Rebranding amends ([#1513](https://github.com/codeforlife-education/codeforlife-portal/pull/1513),
+  [`487d214`](https://github.com/codeforlife-education/codeforlife-portal/commit/487d2145bf9019a8d629b20200a2b598eecb753a))
 
 * Make titles and padding smaller in register and login pages
 
@@ -8775,24 +8847,25 @@ Signed-off-by: dependabot[bot] <support@github.com>
 
 * Bring border back to inputs
 
-- Rebranding logo spacing ([#1516](https://github.com/ocadotechnology/codeforlife-portal/pull/1516),
-  [`1614ac0`](https://github.com/ocadotechnology/codeforlife-portal/commit/1614ac0d20af98f26f53e88b0f10220db49813fe))
+- Rebranding logo spacing
+  ([#1516](https://github.com/codeforlife-education/codeforlife-portal/pull/1516),
+  [`1614ac0`](https://github.com/codeforlife-education/codeforlife-portal/commit/1614ac0d20af98f26f53e88b0f10220db49813fe))
 
 * fix: rebranding logo spacing
 
 * min navbar height 80
 
 - Rebranding1 button fixes
-  ([#1515](https://github.com/ocadotechnology/codeforlife-portal/pull/1515),
-  [`86514e3`](https://github.com/ocadotechnology/codeforlife-portal/commit/86514e3aeb9a0fd1f31ea3f72d301d5d91f3fa07))
+  ([#1515](https://github.com/codeforlife-education/codeforlife-portal/pull/1515),
+  [`86514e3`](https://github.com/codeforlife-education/codeforlife-portal/commit/86514e3aeb9a0fd1f31ea3f72d301d5d91f3fa07))
 
 * fix: button size fixes
 
 * fix: home learning link
 
 - Rebranding1 updates - buttons and such
-  ([#1514](https://github.com/ocadotechnology/codeforlife-portal/pull/1514),
-  [`8882b92`](https://github.com/ocadotechnology/codeforlife-portal/commit/8882b92c333bc216ccfe026b313e33e2a40e2a50))
+  ([#1514](https://github.com/codeforlife-education/codeforlife-portal/pull/1514),
+  [`8882b92`](https://github.com/codeforlife-education/codeforlife-portal/commit/8882b92c333bc216ccfe026b313e33e2a40e2a50))
 
 * fix: buttons and other adjustments
 
@@ -8804,21 +8877,23 @@ Signed-off-by: dependabot[bot] <support@github.com>
 
 * fix: update favicon
 
-- Remove page caches ([#1522](https://github.com/ocadotechnology/codeforlife-portal/pull/1522),
-  [`de51c42`](https://github.com/ocadotechnology/codeforlife-portal/commit/de51c4226fb9029bae6f760818f8c8df7feb90d8))
+- Remove page caches
+  ([#1522](https://github.com/codeforlife-education/codeforlife-portal/pull/1522),
+  [`de51c42`](https://github.com/codeforlife-education/codeforlife-portal/commit/de51c4226fb9029bae6f760818f8c8df7feb90d8))
 
 * fix: remove page caches
 
 - Update icons on home page
-  ([#1512](https://github.com/ocadotechnology/codeforlife-portal/pull/1512),
-  [`6436e23`](https://github.com/ocadotechnology/codeforlife-portal/commit/6436e23543f72e62694e5b0bbbd666a450e2ed45))
+  ([#1512](https://github.com/codeforlife-education/codeforlife-portal/pull/1512),
+  [`6436e23`](https://github.com/codeforlife-education/codeforlife-portal/commit/6436e23543f72e62694e5b0bbbd666a450e2ed45))
 
 * fix: update icons on home page
 
 ### Features
 
-- Rebranding 1 - footer ([#1511](https://github.com/ocadotechnology/codeforlife-portal/pull/1511),
-  [`249df12`](https://github.com/ocadotechnology/codeforlife-portal/commit/249df12bbe91085115ee25f1a7fb63f29d64dcd1))
+- Rebranding 1 - footer
+  ([#1511](https://github.com/codeforlife-education/codeforlife-portal/pull/1511),
+  [`249df12`](https://github.com/codeforlife-education/codeforlife-portal/commit/249df12bbe91085115ee25f1a7fb63f29d64dcd1))
 
 * wip: navbar as partial and started styling
 
@@ -8917,8 +8992,8 @@ Signed-off-by: dependabot[bot] <support@github.com>
 * Updated CFL landscape logo
 
 - Rebranding colours, fonts, landing page
-  ([#1496](https://github.com/ocadotechnology/codeforlife-portal/pull/1496),
-  [`eab81ee`](https://github.com/ocadotechnology/codeforlife-portal/commit/eab81eeab3a66d9482e340e56101e620c591bb86))
+  ([#1496](https://github.com/codeforlife-education/codeforlife-portal/pull/1496),
+  [`eab81ee`](https://github.com/codeforlife-education/codeforlife-portal/commit/eab81eeab3a66d9482e340e56101e620c591bb86))
 
 * wip: navbar as partial and started styling
 
@@ -8995,13 +9070,13 @@ Signed-off-by: dependabot[bot] <support@github.com>
 ### Features
 
 - Add function teacher_logout to HomePage
-  ([#1497](https://github.com/ocadotechnology/codeforlife-portal/pull/1497),
-  [`aaa9ace`](https://github.com/ocadotechnology/codeforlife-portal/commit/aaa9ace3be5bb19156fa7bf973782759ccd97e85))
+  ([#1497](https://github.com/codeforlife-education/codeforlife-portal/pull/1497),
+  [`aaa9ace`](https://github.com/codeforlife-education/codeforlife-portal/commit/aaa9ace3be5bb19156fa7bf973782759ccd97e85))
 
 * feat: add function teacher_logout to HomePage
 
-- Rebranding navbar ([#1495](https://github.com/ocadotechnology/codeforlife-portal/pull/1495),
-  [`717a765`](https://github.com/ocadotechnology/codeforlife-portal/commit/717a765cde126bb91336a3eb1408e95702897f53))
+- Rebranding navbar ([#1495](https://github.com/codeforlife-education/codeforlife-portal/pull/1495),
+  [`717a765`](https://github.com/codeforlife-education/codeforlife-portal/commit/717a765cde126bb91336a3eb1408e95702897f53))
 
 * wip: navbar as partial and started styling
 
@@ -9049,8 +9124,9 @@ This reverts commit 43cef25fec835b73ebbb2db745dbcd3f8b139890.
 
 * fix subnav filler and nav height on tablet
 
-- Remove teacher title ([#1508](https://github.com/ocadotechnology/codeforlife-portal/pull/1508),
-  [`1d0c9b5`](https://github.com/ocadotechnology/codeforlife-portal/commit/1d0c9b559e4a8c223312bfb476f6706f9b17e28e))
+- Remove teacher title
+  ([#1508](https://github.com/codeforlife-education/codeforlife-portal/pull/1508),
+  [`1d0c9b5`](https://github.com/codeforlife-education/codeforlife-portal/commit/1d0c9b559e4a8c223312bfb476f6706f9b17e28e))
 
 * feat: remove teacher title
 
@@ -9059,8 +9135,9 @@ This reverts commit 43cef25fec835b73ebbb2db745dbcd3f8b139890.
 
 ### Features
 
-- Add contributor pages ([#1493](https://github.com/ocadotechnology/codeforlife-portal/pull/1493),
-  [`47c6833`](https://github.com/ocadotechnology/codeforlife-portal/commit/47c683346c17eba91e7e574c95ef04836e499414))
+- Add contributor pages
+  ([#1493](https://github.com/codeforlife-education/codeforlife-portal/pull/1493),
+  [`47c6833`](https://github.com/codeforlife-education/codeforlife-portal/commit/47c683346c17eba91e7e574c95ef04836e499414))
 
 * feat: add contributor pages
 
@@ -9090,8 +9167,8 @@ This reverts commit 43cef25fec835b73ebbb2db745dbcd3f8b139890.
 ### Bug Fixes
 
 - Remove ReCaptcha from certain forms
-  ([#1494](https://github.com/ocadotechnology/codeforlife-portal/pull/1494),
-  [`f21cbd4`](https://github.com/ocadotechnology/codeforlife-portal/commit/f21cbd41cd9478c5d4b80aaa1be74a4c48da5cd2))
+  ([#1494](https://github.com/codeforlife-education/codeforlife-portal/pull/1494),
+  [`f21cbd4`](https://github.com/codeforlife-education/codeforlife-portal/commit/f21cbd41cd9478c5d4b80aaa1be74a4c48da5cd2))
 
 * fix: Remove ReCaptcha from certain forms
 
@@ -9100,8 +9177,9 @@ This reverts commit 43cef25fec835b73ebbb2db745dbcd3f8b139890.
 
 ### Bug Fixes
 
-- Games not stopping ([#1491](https://github.com/ocadotechnology/codeforlife-portal/pull/1491),
-  [`d1d6112`](https://github.com/ocadotechnology/codeforlife-portal/commit/d1d6112df246d4983245b4125ae2cce606de6201))
+- Games not stopping
+  ([#1491](https://github.com/codeforlife-education/codeforlife-portal/pull/1491),
+  [`d1d6112`](https://github.com/codeforlife-education/codeforlife-portal/commit/d1d6112df246d4983245b4125ae2cce606de6201))
 
 * create auth token and k8s secret on game creation
 
@@ -9116,8 +9194,8 @@ This reverts commit 43cef25fec835b73ebbb2db745dbcd3f8b139890.
 ### Build System
 
 - Dockerise portal project for development
-  ([#1477](https://github.com/ocadotechnology/codeforlife-portal/pull/1477),
-  [`a97462d`](https://github.com/ocadotechnology/codeforlife-portal/commit/a97462dddebe96798b8dd03395fae7d1e3727069))
+  ([#1477](https://github.com/codeforlife-education/codeforlife-portal/pull/1477),
+  [`a97462d`](https://github.com/codeforlife-education/codeforlife-portal/commit/a97462dddebe96798b8dd03395fae7d1e3727069))
 
 * Add docker ignore file
 
@@ -9143,8 +9221,9 @@ Signed-off-by: Niket <niket.shah1@ocado.com>
 
 ### Bug Fixes
 
-- Revert ReCaptcha v3 ([#1489](https://github.com/ocadotechnology/codeforlife-portal/pull/1489),
-  [`fb4720a`](https://github.com/ocadotechnology/codeforlife-portal/commit/fb4720aa8c37c1f2f616a1f37b5802eeda43d50e))
+- Revert ReCaptcha v3
+  ([#1489](https://github.com/codeforlife-education/codeforlife-portal/pull/1489),
+  [`fb4720a`](https://github.com/codeforlife-education/codeforlife-portal/commit/fb4720aa8c37c1f2f616a1f37b5802eeda43d50e))
 
 * Revert "fix: Replace ReCaptcha score setting with env var (#1488)"
 
@@ -9160,8 +9239,8 @@ This reverts commit 80309d38e80bdadc8cb31b56e697f5e301e4ef4f.
 ### Bug Fixes
 
 - Replace ReCaptcha score setting with env var
-  ([#1488](https://github.com/ocadotechnology/codeforlife-portal/pull/1488),
-  [`cc8640d`](https://github.com/ocadotechnology/codeforlife-portal/commit/cc8640deb5a632a9e9398455beb5fe783166e971))
+  ([#1488](https://github.com/codeforlife-education/codeforlife-portal/pull/1488),
+  [`cc8640d`](https://github.com/codeforlife-education/codeforlife-portal/commit/cc8640deb5a632a9e9398455beb5fe783166e971))
 
 * fix: Remove score setting and use env var instead
 
@@ -9171,12 +9250,13 @@ This reverts commit 80309d38e80bdadc8cb31b56e697f5e301e4ef4f.
 ### Continuous Integration
 
 - Remove docs paths-ignore (didn't work)
-  ([`18131f4`](https://github.com/ocadotechnology/codeforlife-portal/commit/18131f4e46830d1931de9c7ebbcc99179e8cc68b))
+  ([`18131f4`](https://github.com/codeforlife-education/codeforlife-portal/commit/18131f4e46830d1931de9c7ebbcc99179e8cc68b))
 
 ### Features
 
-- Upgrade ReCaptcha to v3 ([#1487](https://github.com/ocadotechnology/codeforlife-portal/pull/1487),
-  [`80309d3`](https://github.com/ocadotechnology/codeforlife-portal/commit/80309d38e80bdadc8cb31b56e697f5e301e4ef4f))
+- Upgrade ReCaptcha to v3
+  ([#1487](https://github.com/codeforlife-education/codeforlife-portal/pull/1487),
+  [`80309d3`](https://github.com/codeforlife-education/codeforlife-portal/commit/80309d38e80bdadc8cb31b56e697f5e301e4ef4f))
 
 * fix: Upgrade ReCaptcha to v3
 
@@ -9200,8 +9280,8 @@ This reverts commit 80309d38e80bdadc8cb31b56e697f5e301e4ef4f.
 ### Bug Fixes
 
 - Move Freshdesk selector back to portal
-  ([#1479](https://github.com/ocadotechnology/codeforlife-portal/pull/1479),
-  [`77485f3`](https://github.com/ocadotechnology/codeforlife-portal/commit/77485f3ca92608340536d068ad439932fb51853a))
+  ([#1479](https://github.com/codeforlife-education/codeforlife-portal/pull/1479),
+  [`77485f3`](https://github.com/codeforlife-education/codeforlife-portal/commit/77485f3ca92608340536d068ad439932fb51853a))
 
 * fix: Run Freshdesk widget code on load
 
@@ -9211,8 +9291,9 @@ This reverts commit 80309d38e80bdadc8cb31b56e697f5e301e4ef4f.
 
 ### Documentation
 
-- Update readme and docs ([#1478](https://github.com/ocadotechnology/codeforlife-portal/pull/1478),
-  [`5b53362`](https://github.com/ocadotechnology/codeforlife-portal/commit/5b533624b3a59123bb203fa65e5c8776c28af994))
+- Update readme and docs
+  ([#1478](https://github.com/codeforlife-education/codeforlife-portal/pull/1478),
+  [`5b53362`](https://github.com/codeforlife-education/codeforlife-portal/commit/5b533624b3a59123bb203fa65e5c8776c28af994))
 
 * docs: update readme and docs
 
@@ -9224,8 +9305,8 @@ This reverts commit 80309d38e80bdadc8cb31b56e697f5e301e4ef4f.
 ### Bug Fixes
 
 - Move Freshdesk HTML to common
-  ([#1474](https://github.com/ocadotechnology/codeforlife-portal/pull/1474),
-  [`3b8b9ee`](https://github.com/ocadotechnology/codeforlife-portal/commit/3b8b9ee1abc69f885dca35420966126f0d93fcde))
+  ([#1474](https://github.com/codeforlife-education/codeforlife-portal/pull/1474),
+  [`3b8b9ee`](https://github.com/codeforlife-education/codeforlife-portal/commit/3b8b9ee1abc69f885dca35420966126f0d93fcde))
 
 * fix: Move Freshdesk HTML to common
 
@@ -9239,8 +9320,8 @@ This reverts commit 80309d38e80bdadc8cb31b56e697f5e301e4ef4f.
 ### Bug Fixes
 
 - Revert the revert of the verification changes but with a fix
-  ([#1472](https://github.com/ocadotechnology/codeforlife-portal/pull/1472),
-  [`057ac92`](https://github.com/ocadotechnology/codeforlife-portal/commit/057ac92accf8c4cdcbef2e40b62d95f76b0b1db0))
+  ([#1472](https://github.com/codeforlife-education/codeforlife-portal/pull/1472),
+  [`057ac92`](https://github.com/codeforlife-education/codeforlife-portal/commit/057ac92accf8c4cdcbef2e40b62d95f76b0b1db0))
 
 * fix: Revert the revert of the verification changes
 
@@ -9252,8 +9333,8 @@ This reverts commit 80309d38e80bdadc8cb31b56e697f5e301e4ef4f.
 ### Bug Fixes
 
 - Temporarily revert verification changes
-  ([#1471](https://github.com/ocadotechnology/codeforlife-portal/pull/1471),
-  [`9d37db7`](https://github.com/ocadotechnology/codeforlife-portal/commit/9d37db78ca516e134ac97880deeeb29bb43c0e1a))
+  ([#1471](https://github.com/codeforlife-education/codeforlife-portal/pull/1471),
+  [`9d37db7`](https://github.com/codeforlife-education/codeforlife-portal/commit/9d37db78ca516e134ac97880deeeb29bb43c0e1a))
 
 * fix: Temporarily revert verification changes
 
@@ -9263,16 +9344,16 @@ This reverts commit 80309d38e80bdadc8cb31b56e697f5e301e4ef4f.
 ### Documentation
 
 - Update ci to ignore md files
-  ([#1469](https://github.com/ocadotechnology/codeforlife-portal/pull/1469),
-  [`6cb7516`](https://github.com/ocadotechnology/codeforlife-portal/commit/6cb7516ac0f5399d08e7f73c2e1f30207dba37cb))
+  ([#1469](https://github.com/codeforlife-education/codeforlife-portal/pull/1469),
+  [`6cb7516`](https://github.com/codeforlife-education/codeforlife-portal/commit/6cb7516ac0f5399d08e7f73c2e1f30207dba37cb))
 
 * docs: Update ci to ignore md files
 
 ### Features
 
 - Verification check on login
-  ([#1447](https://github.com/ocadotechnology/codeforlife-portal/pull/1447),
-  [`ceebd25`](https://github.com/ocadotechnology/codeforlife-portal/commit/ceebd2569f0a15ac31643e1049a4f5f6bf58e01a))
+  ([#1447](https://github.com/codeforlife-education/codeforlife-portal/pull/1447),
+  [`ceebd25`](https://github.com/codeforlife-education/codeforlife-portal/commit/ceebd2569f0a15ac31643e1049a4f5f6bf58e01a))
 
 * Check email verification on login
 
@@ -9314,8 +9395,8 @@ This reverts commit 80309d38e80bdadc8cb31b56e697f5e301e4ef4f.
 ### Bug Fixes
 
 - Add kurono link on onboarding phase
-  ([#1468](https://github.com/ocadotechnology/codeforlife-portal/pull/1468),
-  [`8c9afff`](https://github.com/ocadotechnology/codeforlife-portal/commit/8c9afff4a74b8ff6ba05056c93b7c548cadf0673))
+  ([#1468](https://github.com/codeforlife-education/codeforlife-portal/pull/1468),
+  [`8c9afff`](https://github.com/codeforlife-education/codeforlife-portal/commit/8c9afff4a74b8ff6ba05056c93b7c548cadf0673))
 
 * fix: add kurono link on onboarding phase
 
@@ -9326,8 +9407,8 @@ This reverts commit 80309d38e80bdadc8cb31b56e697f5e301e4ef4f.
 
 ### Bug Fixes
 
-- Set header to 0 ([#1466](https://github.com/ocadotechnology/codeforlife-portal/pull/1466),
-  [`6e33d22`](https://github.com/ocadotechnology/codeforlife-portal/commit/6e33d22ddb3d86d275836ec4ccf8c8532d0c8373))
+- Set header to 0 ([#1466](https://github.com/codeforlife-education/codeforlife-portal/pull/1466),
+  [`6e33d22`](https://github.com/codeforlife-education/codeforlife-portal/commit/6e33d22ddb3d86d275836ec4ccf8c8532d0c8373))
 
 * Overwrite Django's security middleware
 
@@ -9342,8 +9423,8 @@ This reverts commit 80309d38e80bdadc8cb31b56e697f5e301e4ef4f.
 ### Build System
 
 - **deps**: Bump wagtail from 2.11.7 to 2.11.8
-  ([#1465](https://github.com/ocadotechnology/codeforlife-portal/pull/1465),
-  [`6bba266`](https://github.com/ocadotechnology/codeforlife-portal/commit/6bba26605687f18b4230975257313a8f10aa7cfa))
+  ([#1465](https://github.com/codeforlife-education/codeforlife-portal/pull/1465),
+  [`6bba266`](https://github.com/codeforlife-education/codeforlife-portal/commit/6bba26605687f18b4230975257313a8f10aa7cfa))
 
 * build(deps): bump wagtail from 2.11.7 to 2.11.8
 
@@ -9364,8 +9445,8 @@ Signed-off-by: dependabot[bot] <support@github.com>
 ### Bug Fixes
 
 - Check for existing user on email change + change username
-  ([#1464](https://github.com/ocadotechnology/codeforlife-portal/pull/1464),
-  [`43c7833`](https://github.com/ocadotechnology/codeforlife-portal/commit/43c7833ab90d9f230a558cc00aa9dc96f398349f))
+  ([#1464](https://github.com/codeforlife-education/codeforlife-portal/pull/1464),
+  [`43c7833`](https://github.com/codeforlife-education/codeforlife-portal/commit/43c7833ab90d9f230a558cc00aa9dc96f398349f))
 
 * fix: Check for existing user on email change + change username
 
@@ -9376,8 +9457,8 @@ Signed-off-by: dependabot[bot] <support@github.com>
 ### Build System
 
 - **deps**: Bump django from 2.2.22 to 2.2.24
-  ([#1460](https://github.com/ocadotechnology/codeforlife-portal/pull/1460),
-  [`66fd87a`](https://github.com/ocadotechnology/codeforlife-portal/commit/66fd87a98c7808ad828c5be0a8f18d845d3a4d18))
+  ([#1460](https://github.com/codeforlife-education/codeforlife-portal/pull/1460),
+  [`66fd87a`](https://github.com/codeforlife-education/codeforlife-portal/commit/66fd87a98c7808ad828c5be0a8f18d845d3a4d18))
 
 * build(deps): bump django from 2.2.22 to 2.2.24
 
@@ -9399,8 +9480,8 @@ Signed-off-by: dependabot[bot] <support@github.com>
 ### Bug Fixes
 
 - **deps**: Bump django from 2.2.22 to 2.2.24
-  ([#1457](https://github.com/ocadotechnology/codeforlife-portal/pull/1457),
-  [`01d16f8`](https://github.com/ocadotechnology/codeforlife-portal/commit/01d16f8ca03a6493d7feb375ebbf0667d9a55066))
+  ([#1457](https://github.com/codeforlife-education/codeforlife-portal/pull/1457),
+  [`01d16f8`](https://github.com/codeforlife-education/codeforlife-portal/commit/01d16f8ca03a6493d7feb375ebbf0667d9a55066))
 
 * build(deps): bump django from 2.2.21 to 2.2.24
 
@@ -9422,8 +9503,8 @@ Signed-off-by: dependabot[bot] <support@github.com>
 ### Bug Fixes
 
 - Update lockfile - Django 2.2.22
-  ([#1458](https://github.com/ocadotechnology/codeforlife-portal/pull/1458),
-  [`d5dac6a`](https://github.com/ocadotechnology/codeforlife-portal/commit/d5dac6a8ada399659681b56922e604052bf85f06))
+  ([#1458](https://github.com/codeforlife-education/codeforlife-portal/pull/1458),
+  [`d5dac6a`](https://github.com/codeforlife-education/codeforlife-portal/commit/d5dac6a8ada399659681b56922e604052bf85f06))
 
 * fix: Update lockfile - Django 2.2.22
 
@@ -9433,8 +9514,8 @@ Signed-off-by: dependabot[bot] <support@github.com>
 ### Bug Fixes
 
 - **deps**: Bump django from 2.2.21 to 2.2.22
-  ([#1455](https://github.com/ocadotechnology/codeforlife-portal/pull/1455),
-  [`e24c6a7`](https://github.com/ocadotechnology/codeforlife-portal/commit/e24c6a7f26c999f958a2ad04968817bac7aad049))
+  ([#1455](https://github.com/codeforlife-education/codeforlife-portal/pull/1455),
+  [`e24c6a7`](https://github.com/codeforlife-education/codeforlife-portal/commit/e24c6a7f26c999f958a2ad04968817bac7aad049))
 
 * build(deps): bump django from 2.2.21 to 2.2.22
 
@@ -9454,8 +9535,8 @@ Signed-off-by: dependabot[bot] <support@github.com>
 ### Bug Fixes
 
 - Update lock file for django2.2.21
-  ([#1454](https://github.com/ocadotechnology/codeforlife-portal/pull/1454),
-  [`8eff0d1`](https://github.com/ocadotechnology/codeforlife-portal/commit/8eff0d1e1288ba8cc1ad661044f64c60443d3d29))
+  ([#1454](https://github.com/codeforlife-education/codeforlife-portal/pull/1454),
+  [`8eff0d1`](https://github.com/codeforlife-education/codeforlife-portal/commit/8eff0d1e1288ba8cc1ad661044f64c60443d3d29))
 
 * fix: update lock file for django2.2.21
 
@@ -9465,8 +9546,8 @@ Signed-off-by: dependabot[bot] <support@github.com>
 ### Bug Fixes
 
 - Bump django from 2.2.20 to 2.2.21
-  ([#1452](https://github.com/ocadotechnology/codeforlife-portal/pull/1452),
-  [`55e5a4e`](https://github.com/ocadotechnology/codeforlife-portal/commit/55e5a4ea29a5f1ed115316daa23673add74d16c4))
+  ([#1452](https://github.com/codeforlife-education/codeforlife-portal/pull/1452),
+  [`55e5a4e`](https://github.com/codeforlife-education/codeforlife-portal/commit/55e5a4ea29a5f1ed115316daa23673add74d16c4))
 
 * build(deps): bump django from 2.2.20 to 2.2.21
 
@@ -9486,8 +9567,8 @@ Signed-off-by: dependabot[bot] <support@github.com>
 ### Bug Fixes
 
 - Prevent concurrent logins
-  ([#1451](https://github.com/ocadotechnology/codeforlife-portal/pull/1451),
-  [`b2886ab`](https://github.com/ocadotechnology/codeforlife-portal/commit/b2886ab03504760b116bd7b3f88b24f7a6b9abf9))
+  ([#1451](https://github.com/codeforlife-education/codeforlife-portal/pull/1451),
+  [`b2886ab`](https://github.com/codeforlife-education/codeforlife-portal/commit/b2886ab03504760b116bd7b3f88b24f7a6b9abf9))
 
 * fix: add django-preventconcurrentlogins
 
@@ -9504,8 +9585,8 @@ Signed-off-by: dependabot[bot] <support@github.com>
 ### Build System
 
 - **deps**: Bump urllib3 from 1.26.4 to 1.26.5
-  ([#1450](https://github.com/ocadotechnology/codeforlife-portal/pull/1450),
-  [`297003d`](https://github.com/ocadotechnology/codeforlife-portal/commit/297003d267ba487beaee0ef665ab0a22de75115a))
+  ([#1450](https://github.com/codeforlife-education/codeforlife-portal/pull/1450),
+  [`297003d`](https://github.com/codeforlife-education/codeforlife-portal/commit/297003d267ba487beaee0ef665ab0a22de75115a))
 
 * build(deps): bump urllib3 from 1.26.4 to 1.26.5
 
@@ -9523,19 +9604,20 @@ Signed-off-by: dependabot[bot] <support@github.com>
 ### Documentation
 
 - Refer contributing to our docs subdomain
-  ([#1448](https://github.com/ocadotechnology/codeforlife-portal/pull/1448),
-  [`45c13cf`](https://github.com/ocadotechnology/codeforlife-portal/commit/45c13cfdf2ad1d89a93b7ec927fc1f351be2fa36))
+  ([#1448](https://github.com/codeforlife-education/codeforlife-portal/pull/1448),
+  [`45c13cf`](https://github.com/codeforlife-education/codeforlife-portal/commit/45c13cfdf2ad1d89a93b7ec927fc1f351be2fa36))
 
 * docs: refer contributing to our docs subdomain
 
-- Revert gitbook changes ([#1445](https://github.com/ocadotechnology/codeforlife-portal/pull/1445),
-  [`d81de62`](https://github.com/ocadotechnology/codeforlife-portal/commit/d81de62b03288e5cb839e52ccd9e6e3f4baa2084))
+- Revert gitbook changes
+  ([#1445](https://github.com/codeforlife-education/codeforlife-portal/pull/1445),
+  [`d81de62`](https://github.com/codeforlife-education/codeforlife-portal/commit/d81de62b03288e5cb839e52ccd9e6e3f4baa2084))
 
 * docs: revert gitbook changes
 
 - Updates related to gitbook
-  ([#1444](https://github.com/ocadotechnology/codeforlife-portal/pull/1444),
-  [`5ade0e5`](https://github.com/ocadotechnology/codeforlife-portal/commit/5ade0e52c6dd8af0716dec2d4e5e7bffc7f3daab))
+  ([#1444](https://github.com/codeforlife-education/codeforlife-portal/pull/1444),
+  [`5ade0e5`](https://github.com/codeforlife-education/codeforlife-portal/commit/5ade0e52c6dd8af0716dec2d4e5e7bffc7f3daab))
 
 * docs: updates related to gitbook
 
@@ -9546,8 +9628,8 @@ Signed-off-by: dependabot[bot] <support@github.com>
 
 ### Bug Fixes
 
-- Ratelimit ([#1443](https://github.com/ocadotechnology/codeforlife-portal/pull/1443),
-  [`1fe2e4d`](https://github.com/ocadotechnology/codeforlife-portal/commit/1fe2e4d0367d889318e8dd9be2f42f9c46a2b866))
+- Ratelimit ([#1443](https://github.com/codeforlife-education/codeforlife-portal/pull/1443),
+  [`1fe2e4d`](https://github.com/codeforlife-education/codeforlife-portal/commit/1fe2e4d0367d889318e8dd9be2f42f9c46a2b866))
 
 * added logging points
 
@@ -9570,8 +9652,9 @@ Signed-off-by: dependabot[bot] <support@github.com>
 
 ### Bug Fixes
 
-- Add verification banner ([#1442](https://github.com/ocadotechnology/codeforlife-portal/pull/1442),
-  [`6fcd3ca`](https://github.com/ocadotechnology/codeforlife-portal/commit/6fcd3cab31d10b6431b26f9c757c1a003713d5b2))
+- Add verification banner
+  ([#1442](https://github.com/codeforlife-education/codeforlife-portal/pull/1442),
+  [`6fcd3ca`](https://github.com/codeforlife-education/codeforlife-portal/commit/6fcd3cab31d10b6431b26f9c757c1a003713d5b2))
 
 * Add verification banner for teachers and indep students
 
@@ -9589,8 +9672,8 @@ Signed-off-by: dependabot[bot] <support@github.com>
 ### Bug Fixes
 
 - Trigger staging deployment
-  ([#1438](https://github.com/ocadotechnology/codeforlife-portal/pull/1438),
-  [`61548ea`](https://github.com/ocadotechnology/codeforlife-portal/commit/61548ea5cd949515e2a0e10f47f7946b905963db))
+  ([#1438](https://github.com/codeforlife-education/codeforlife-portal/pull/1438),
+  [`61548ea`](https://github.com/codeforlife-education/codeforlife-portal/commit/61548ea5cd949515e2a0e10f47f7946b905963db))
 
 * test trigger dev deployment
 
@@ -9604,8 +9687,9 @@ Signed-off-by: dependabot[bot] <support@github.com>
 
 ### Documentation
 
-- Update license file ([#1437](https://github.com/ocadotechnology/codeforlife-portal/pull/1437),
-  [`360c758`](https://github.com/ocadotechnology/codeforlife-portal/commit/360c7583dd20c1fa9380adc25694707f325703d3))
+- Update license file
+  ([#1437](https://github.com/codeforlife-education/codeforlife-portal/pull/1437),
+  [`360c758`](https://github.com/codeforlife-education/codeforlife-portal/commit/360c7583dd20c1fa9380adc25694707f325703d3))
 
 * docs: update license file
 
@@ -9617,8 +9701,8 @@ Signed-off-by: dependabot[bot] <support@github.com>
 ### Bug Fixes
 
 - Change location of ratelimit checks
-  ([#1436](https://github.com/ocadotechnology/codeforlife-portal/pull/1436),
-  [`fc6ff11`](https://github.com/ocadotechnology/codeforlife-portal/commit/fc6ff112f7bf239eb434016232b68d9e2da971c0))
+  ([#1436](https://github.com/codeforlife-education/codeforlife-portal/pull/1436),
+  [`fc6ff11`](https://github.com/codeforlife-education/codeforlife-portal/commit/fc6ff112f7bf239eb434016232b68d9e2da971c0))
 
 * fix: change location of ratelimit checks
 
@@ -9631,8 +9715,9 @@ Signed-off-by: dependabot[bot] <support@github.com>
 
 ### Bug Fixes
 
-- Remove autocomplete ([#1435](https://github.com/ocadotechnology/codeforlife-portal/pull/1435),
-  [`6a7a9ca`](https://github.com/ocadotechnology/codeforlife-portal/commit/6a7a9ca082227d1d2d308d81adbcf2d035b1ed17))
+- Remove autocomplete
+  ([#1435](https://github.com/codeforlife-education/codeforlife-portal/pull/1435),
+  [`6a7a9ca`](https://github.com/codeforlife-education/codeforlife-portal/commit/6a7a9ca082227d1d2d308d81adbcf2d035b1ed17))
 
 * fix: Remove autocomplete in login / registration forms
 
@@ -9644,8 +9729,8 @@ Signed-off-by: dependabot[bot] <support@github.com>
 ### Features
 
 - Add ratelimit to certain forms
-  ([#1430](https://github.com/ocadotechnology/codeforlife-portal/pull/1430),
-  [`ca4104f`](https://github.com/ocadotechnology/codeforlife-portal/commit/ca4104f0d0b4273fff1da95b8a61174e9ff195ca))
+  ([#1430](https://github.com/codeforlife-education/codeforlife-portal/pull/1430),
+  [`ca4104f`](https://github.com/codeforlife-education/codeforlife-portal/commit/ca4104f0d0b4273fff1da95b8a61174e9ff195ca))
 
 * Install django-ratelimit
 
@@ -9701,8 +9786,8 @@ Signed-off-by: dependabot[bot] <support@github.com>
 ### Bug Fixes
 
 - Recaptcha and login form improvements
-  ([#1432](https://github.com/ocadotechnology/codeforlife-portal/pull/1432),
-  [`29f68d6`](https://github.com/ocadotechnology/codeforlife-portal/commit/29f68d6fd574aa2156fee3e91ebbeb28c390a151))
+  ([#1432](https://github.com/codeforlife-education/codeforlife-portal/pull/1432),
+  [`29f68d6`](https://github.com/codeforlife-education/codeforlife-portal/commit/29f68d6fd574aa2156fee3e91ebbeb28c390a151))
 
 * check captcha in teacher, student and independent
 
@@ -9720,8 +9805,8 @@ Signed-off-by: dependabot[bot] <support@github.com>
 ### Bug Fixes
 
 - Crossorigin is case sensitive via js
-  ([#1434](https://github.com/ocadotechnology/codeforlife-portal/pull/1434),
-  [`b2e1034`](https://github.com/ocadotechnology/codeforlife-portal/commit/b2e1034cfee08c8d838a61e6cc59a7a7fae6f0b6))
+  ([#1434](https://github.com/codeforlife-education/codeforlife-portal/pull/1434),
+  [`b2e1034`](https://github.com/codeforlife-education/codeforlife-portal/commit/b2e1034cfee08c8d838a61e6cc59a7a7fae6f0b6))
 
 * fix: crossOrigin is case sensitive via js
 
@@ -9731,8 +9816,8 @@ Signed-off-by: dependabot[bot] <support@github.com>
 ### Bug Fixes
 
 - Add integrity hash and fix js links
-  ([#1431](https://github.com/ocadotechnology/codeforlife-portal/pull/1431),
-  [`2dced59`](https://github.com/ocadotechnology/codeforlife-portal/commit/2dced59496453959207c630a7c9e686044826bfa))
+  ([#1431](https://github.com/codeforlife-education/codeforlife-portal/pull/1431),
+  [`2dced59`](https://github.com/codeforlife-education/codeforlife-portal/commit/2dced59496453959207c630a7c9e686044826bfa))
 
 * remove references to inexistent jquery-ui.js
 
@@ -9744,8 +9829,8 @@ Signed-off-by: dependabot[bot] <support@github.com>
 ### Bug Fixes
 
 - Upgrade modernizr to 3.11.0
-  ([#1429](https://github.com/ocadotechnology/codeforlife-portal/pull/1429),
-  [`c720e63`](https://github.com/ocadotechnology/codeforlife-portal/commit/c720e63d1c215bb4e3c198954cc13dd622f1924f))
+  ([#1429](https://github.com/codeforlife-education/codeforlife-portal/pull/1429),
+  [`c720e63`](https://github.com/codeforlife-education/codeforlife-portal/commit/c720e63d1c215bb4e3c198954cc13dd622f1924f))
 
 * fix: upgrade modernizr to 3.11.0
 
@@ -9759,8 +9844,8 @@ Signed-off-by: dependabot[bot] <support@github.com>
 ### Bug Fixes
 
 - Fix try except in Dotmailer form view
-  ([#1428](https://github.com/ocadotechnology/codeforlife-portal/pull/1428),
-  [`36a1885`](https://github.com/ocadotechnology/codeforlife-portal/commit/36a1885585f0449bee8994c68fffe29f40263d02))
+  ([#1428](https://github.com/codeforlife-education/codeforlife-portal/pull/1428),
+  [`36a1885`](https://github.com/codeforlife-education/codeforlife-portal/commit/36a1885585f0449bee8994c68fffe29f40263d02))
 
 * fix: Fix try except in Dotmailer form view
 
@@ -9770,8 +9855,8 @@ Signed-off-by: dependabot[bot] <support@github.com>
 ### Bug Fixes
 
 - Handle if user not registered
-  ([#1427](https://github.com/ocadotechnology/codeforlife-portal/pull/1427),
-  [`76969bb`](https://github.com/ocadotechnology/codeforlife-portal/commit/76969bbe75244d1f07e787a90dfdd5a283da9e13))
+  ([#1427](https://github.com/codeforlife-education/codeforlife-portal/pull/1427),
+  [`76969bb`](https://github.com/codeforlife-education/codeforlife-portal/commit/76969bbe75244d1f07e787a90dfdd5a283da9e13))
 
 * fix: Handle if user not registered
 
@@ -9783,8 +9868,8 @@ Signed-off-by: dependabot[bot] <support@github.com>
 ### Features
 
 - Add Dotmailer consent form
-  ([#1424](https://github.com/ocadotechnology/codeforlife-portal/pull/1424),
-  [`5e3d67a`](https://github.com/ocadotechnology/codeforlife-portal/commit/5e3d67a5c42e223950e72d6d86c78e66ab8847b6))
+  ([#1424](https://github.com/codeforlife-education/codeforlife-portal/pull/1424),
+  [`5e3d67a`](https://github.com/codeforlife-education/codeforlife-portal/commit/5e3d67a5c42e223950e72d6d86c78e66ab8847b6))
 
 * Add consent form
 
@@ -9813,8 +9898,8 @@ Signed-off-by: dependabot[bot] <support@github.com>
 
 ### Bug Fixes
 
-- Add tests for 2FA ([#1425](https://github.com/ocadotechnology/codeforlife-portal/pull/1425),
-  [`28f4651`](https://github.com/ocadotechnology/codeforlife-portal/commit/28f46511c19ea187ccae595c29b3d56df45a45c4))
+- Add tests for 2FA ([#1425](https://github.com/codeforlife-education/codeforlife-portal/pull/1425),
+  [`28f4651`](https://github.com/codeforlife-education/codeforlife-portal/commit/28f46511c19ea187ccae595c29b3d56df45a45c4))
 
 * fix: add tests for 2FA
 
@@ -9825,8 +9910,8 @@ Signed-off-by: dependabot[bot] <support@github.com>
 
 ### Bug Fixes
 
-- Require post ([#1426](https://github.com/ocadotechnology/codeforlife-portal/pull/1426),
-  [`cbade7f`](https://github.com/ocadotechnology/codeforlife-portal/commit/cbade7ff96f151f51082f4d93277ac5d8f89e4a8))
+- Require post ([#1426](https://github.com/codeforlife-education/codeforlife-portal/pull/1426),
+  [`cbade7f`](https://github.com/codeforlife-education/codeforlife-portal/commit/cbade7ff96f151f51082f4d93277ac5d8f89e4a8))
 
 * fix: require post
 
@@ -9835,8 +9920,8 @@ Signed-off-by: dependabot[bot] <support@github.com>
 
 ### Bug Fixes
 
-- Bump version ([#1423](https://github.com/ocadotechnology/codeforlife-portal/pull/1423),
-  [`0aadf49`](https://github.com/ocadotechnology/codeforlife-portal/commit/0aadf4976c3324b7aa87f8417e165afad8201c6b))
+- Bump version ([#1423](https://github.com/codeforlife-education/codeforlife-portal/pull/1423),
+  [`0aadf49`](https://github.com/codeforlife-education/codeforlife-portal/commit/0aadf4976c3324b7aa87f8417e165afad8201c6b))
 
 * fix: bump version
 
@@ -9846,7 +9931,7 @@ Signed-off-by: dependabot[bot] <support@github.com>
 ### Bug Fixes
 
 - Update functional cookies in privacy policy
-  ([`d905d92`](https://github.com/ocadotechnology/codeforlife-portal/commit/d905d92a0f0d5318cb0eaa99c9d74d778b4ae4ce))
+  ([`d905d92`](https://github.com/codeforlife-education/codeforlife-portal/commit/d905d92a0f0d5318cb0eaa99c9d74d778b4ae4ce))
 
 
 ## v4.28.2 (2021-04-16)
@@ -9854,8 +9939,8 @@ Signed-off-by: dependabot[bot] <support@github.com>
 ### Bug Fixes
 
 - Add bullet points to privacy policy table
-  ([#1421](https://github.com/ocadotechnology/codeforlife-portal/pull/1421),
-  [`98a8692`](https://github.com/ocadotechnology/codeforlife-portal/commit/98a8692085ca5f0be96170586fa3eb2c3bb263c9))
+  ([#1421](https://github.com/codeforlife-education/codeforlife-portal/pull/1421),
+  [`98a8692`](https://github.com/codeforlife-education/codeforlife-portal/commit/98a8692085ca5f0be96170586fa3eb2c3bb263c9))
 
 * fix: Add bullet points to privacy policy table
 
@@ -9865,15 +9950,15 @@ Signed-off-by: dependabot[bot] <support@github.com>
 ### Bug Fixes
 
 - Include templates in common manifest
-  ([`f7ec37b`](https://github.com/ocadotechnology/codeforlife-portal/commit/f7ec37baaf1322d839194c0ae0bbf04895e8887e))
+  ([`f7ec37b`](https://github.com/codeforlife-education/codeforlife-portal/commit/f7ec37baaf1322d839194c0ae0bbf04895e8887e))
 
 
 ## v4.28.0 (2021-04-16)
 
 ### Features
 
-- Managed cookies ([#1338](https://github.com/ocadotechnology/codeforlife-portal/pull/1338),
-  [`f034424`](https://github.com/ocadotechnology/codeforlife-portal/commit/f034424e3986778e3afc18ed43427a92f0a60004))
+- Managed cookies ([#1338](https://github.com/codeforlife-education/codeforlife-portal/pull/1338),
+  [`f034424`](https://github.com/codeforlife-education/codeforlife-portal/commit/f034424e3986778e3afc18ed43427a92f0a60004))
 
 * add test onetrust cookie script
 
@@ -9913,7 +9998,7 @@ Signed-off-by: dependabot[bot] <support@github.com>
 ### Build System
 
 - **deps**: Bump django from 2.2.18 to 2.2.20
-  ([`3a91feb`](https://github.com/ocadotechnology/codeforlife-portal/commit/3a91feb22773d085fa7cbb6a128036f4d0cc12aa))
+  ([`3a91feb`](https://github.com/codeforlife-education/codeforlife-portal/commit/3a91feb22773d085fa7cbb6a128036f4d0cc12aa))
 
 Bumps [django](https://github.com/django/django) from 2.2.18 to 2.2.20. - [Release
   notes](https://github.com/django/django/releases) -
@@ -9923,8 +10008,9 @@ Signed-off-by: dependabot[bot] <support@github.com>
 
 ### Features
 
-- Update admin access ([#1416](https://github.com/ocadotechnology/codeforlife-portal/pull/1416),
-  [`f6156c8`](https://github.com/ocadotechnology/codeforlife-portal/commit/f6156c8feb9edb491461eece8d7cc91a552c5a5e))
+- Update admin access
+  ([#1416](https://github.com/codeforlife-education/codeforlife-portal/pull/1416),
+  [`f6156c8`](https://github.com/codeforlife-education/codeforlife-portal/commit/f6156c8feb9edb491461eece8d7cc91a552c5a5e))
 
 * Create AdminAccessMiddleware
 
@@ -9978,8 +10064,9 @@ Signed-off-by: dependabot[bot] <support@github.com>
 
 * Use MODULE_NAME and update mocks + typings
 
-- Update privacy policy ([#1410](https://github.com/ocadotechnology/codeforlife-portal/pull/1410),
-  [`4db4a95`](https://github.com/ocadotechnology/codeforlife-portal/commit/4db4a95932dc680e137a211ae957f045bb932f9d))
+- Update privacy policy
+  ([#1410](https://github.com/codeforlife-education/codeforlife-portal/pull/1410),
+  [`4db4a95`](https://github.com/codeforlife-education/codeforlife-portal/commit/4db4a95932dc680e137a211ae957f045bb932f9d))
 
 * Update privacy policy
 
@@ -10001,8 +10088,8 @@ Signed-off-by: dependabot[bot] <support@github.com>
 ### Features
 
 - Update python version to 3.7
-  ([#1415](https://github.com/ocadotechnology/codeforlife-portal/pull/1415),
-  [`4deb4f7`](https://github.com/ocadotechnology/codeforlife-portal/commit/4deb4f7010c15913907c3e637218122e1c8d9c8c))
+  ([#1415](https://github.com/codeforlife-education/codeforlife-portal/pull/1415),
+  [`4deb4f7`](https://github.com/codeforlife-education/codeforlife-portal/commit/4deb4f7010c15913907c3e637218122e1c8d9c8c))
 
 * feat: update python version to 3.7
 
@@ -10014,8 +10101,8 @@ Signed-off-by: dependabot[bot] <support@github.com>
 ### Features
 
 - Call google analytics only on production
-  ([#1411](https://github.com/ocadotechnology/codeforlife-portal/pull/1411),
-  [`ecd25a9`](https://github.com/ocadotechnology/codeforlife-portal/commit/ecd25a9ab8d19d2443574cfeaf4e475e99550981))
+  ([#1411](https://github.com/codeforlife-education/codeforlife-portal/pull/1411),
+  [`ecd25a9`](https://github.com/codeforlife-education/codeforlife-portal/commit/ecd25a9ab8d19d2443574cfeaf4e475e99550981))
 
 * feat: call google analytics only on production
 
@@ -10029,8 +10116,8 @@ Signed-off-by: dependabot[bot] <support@github.com>
 ### Bug Fixes
 
 - Fix pdf url, add and adjust tests
-  ([#1408](https://github.com/ocadotechnology/codeforlife-portal/pull/1408),
-  [`701ed05`](https://github.com/ocadotechnology/codeforlife-portal/commit/701ed059042f704f631f6de6bc0297fdd3b4e4f2))
+  ([#1408](https://github.com/codeforlife-education/codeforlife-portal/pull/1408),
+  [`701ed05`](https://github.com/codeforlife-education/codeforlife-portal/commit/701ed059042f704f631f6de6bc0297fdd3b4e4f2))
 
 * update cypress version to 7.0.0
 
@@ -10048,8 +10135,9 @@ Signed-off-by: dependabot[bot] <support@github.com>
 
 ### Features
 
-- Enable worksheet 3 ([#1405](https://github.com/ocadotechnology/codeforlife-portal/pull/1405),
-  [`d91a0b5`](https://github.com/ocadotechnology/codeforlife-portal/commit/d91a0b5265a16aac577a5f53ae80ac0b2c449814))
+- Enable worksheet 3
+  ([#1405](https://github.com/codeforlife-education/codeforlife-portal/pull/1405),
+  [`d91a0b5`](https://github.com/codeforlife-education/codeforlife-portal/commit/d91a0b5265a16aac577a5f53ae80ac0b2c449814))
 
 * feat: enable worksheet 3
 
@@ -10061,13 +10149,13 @@ Signed-off-by: dependabot[bot] <support@github.com>
 ### Bug Fixes
 
 - Update links to new kurono_teacher_solutions
-  ([`db016df`](https://github.com/ocadotechnology/codeforlife-portal/commit/db016df4121fb0e97aeaca881a6231ba3b8f928e))
+  ([`db016df`](https://github.com/codeforlife-education/codeforlife-portal/commit/db016df4121fb0e97aeaca881a6231ba3b8f928e))
 
 ### Build System
 
 - **deps**: Bump pyyaml from 5.3.1 to 5.4
-  ([#1385](https://github.com/ocadotechnology/codeforlife-portal/pull/1385),
-  [`5909244`](https://github.com/ocadotechnology/codeforlife-portal/commit/5909244dee951d2f0dfed83c6acbfa5960cc3623))
+  ([#1385](https://github.com/codeforlife-education/codeforlife-portal/pull/1385),
+  [`5909244`](https://github.com/codeforlife-education/codeforlife-portal/commit/5909244dee951d2f0dfed83c6acbfa5960cc3623))
 
 * build(deps): bump pyyaml from 5.3.1 to 5.4
 
@@ -10079,8 +10167,8 @@ Bumps [pyyaml](https://github.com/yaml/pyyaml) from 5.3.1 to 5.4. - [Release
 Signed-off-by: dependabot[bot] <support@github.com>
 
 - **deps**: Bump pyyaml from 5.3.1 to 5.4
-  ([#1386](https://github.com/ocadotechnology/codeforlife-portal/pull/1386),
-  [`a3f6bc4`](https://github.com/ocadotechnology/codeforlife-portal/commit/a3f6bc4ae5a27c7846b916acfad75c681b2015db))
+  ([#1386](https://github.com/codeforlife-education/codeforlife-portal/pull/1386),
+  [`a3f6bc4`](https://github.com/codeforlife-education/codeforlife-portal/commit/a3f6bc4ae5a27c7846b916acfad75c681b2015db))
 
 * build(deps): bump pyyaml from 5.3.1 to 5.4
 
@@ -10096,8 +10184,8 @@ Signed-off-by: dependabot[bot] <support@github.com>
 ### Features
 
 - Add and update kurono files for w3 etc
-  ([#1404](https://github.com/ocadotechnology/codeforlife-portal/pull/1404),
-  [`e086809`](https://github.com/ocadotechnology/codeforlife-portal/commit/e0868094e1e2b2f8afccdfb68cb3336bb1617367))
+  ([#1404](https://github.com/codeforlife-education/codeforlife-portal/pull/1404),
+  [`e086809`](https://github.com/codeforlife-education/codeforlife-portal/commit/e0868094e1e2b2f8afccdfb68cb3336bb1617367))
 
 * feat: add and update kurono files for w3 etc
 
@@ -10108,8 +10196,9 @@ Signed-off-by: dependabot[bot] <support@github.com>
 
 ### Features
 
-- Improve admin forms ([#1378](https://github.com/ocadotechnology/codeforlife-portal/pull/1378),
-  [`721aabb`](https://github.com/ocadotechnology/codeforlife-portal/commit/721aabbb45fd13e0ee53a775e60c8ba2d6846183))
+- Improve admin forms
+  ([#1378](https://github.com/codeforlife-education/codeforlife-portal/pull/1378),
+  [`721aabb`](https://github.com/codeforlife-education/codeforlife-portal/commit/721aabbb45fd13e0ee53a775e60c8ba2d6846183))
 
 * Create smoke tests
 
@@ -10173,8 +10262,8 @@ Signed-off-by: dependabot[bot] <support@github.com>
 ### Bug Fixes
 
 - Improve popup text generation
-  ([#1384](https://github.com/ocadotechnology/codeforlife-portal/pull/1384),
-  [`d9f7bf3`](https://github.com/ocadotechnology/codeforlife-portal/commit/d9f7bf32b9790688917de56a475c4d7fc78f36f3))
+  ([#1384](https://github.com/codeforlife-education/codeforlife-portal/pull/1384),
+  [`d9f7bf3`](https://github.com/codeforlife-education/codeforlife-portal/commit/d9f7bf32b9790688917de56a475c4d7fc78f36f3))
 
 * fix: Improve popup text generation
 
@@ -10192,8 +10281,8 @@ Signed-off-by: dependabot[bot] <support@github.com>
 ### Bug Fixes
 
 - Remove recaptcha from header
-  ([#1383](https://github.com/ocadotechnology/codeforlife-portal/pull/1383),
-  [`0712e7a`](https://github.com/ocadotechnology/codeforlife-portal/commit/0712e7a9fa44cfbd71b180832444a85c3a6b4e38))
+  ([#1383](https://github.com/codeforlife-education/codeforlife-portal/pull/1383),
+  [`0712e7a`](https://github.com/codeforlife-education/codeforlife-portal/commit/0712e7a9fa44cfbd71b180832444a85c3a6b4e38))
 
 * fix: remove recaptcha from header and add RECAPTCHA_DOMAIN setting in autoconfig
 
@@ -10202,14 +10291,14 @@ Signed-off-by: dependabot[bot] <support@github.com>
 
 ### Bug Fixes
 
-- Version bump ([#1381](https://github.com/ocadotechnology/codeforlife-portal/pull/1381),
-  [`5254d3b`](https://github.com/ocadotechnology/codeforlife-portal/commit/5254d3b4e5e52272cd28107224b56b00ba67e0c9))
+- Version bump ([#1381](https://github.com/codeforlife-education/codeforlife-portal/pull/1381),
+  [`5254d3b`](https://github.com/codeforlife-education/codeforlife-portal/commit/5254d3b4e5e52272cd28107224b56b00ba67e0c9))
 
 ### Build System
 
 - **deps**: Bump django from 2.2.17 to 2.2.18
-  ([#1379](https://github.com/ocadotechnology/codeforlife-portal/pull/1379),
-  [`d73036c`](https://github.com/ocadotechnology/codeforlife-portal/commit/d73036cb32f50826dcb264763f9341d6520e4acd))
+  ([#1379](https://github.com/codeforlife-education/codeforlife-portal/pull/1379),
+  [`d73036c`](https://github.com/codeforlife-education/codeforlife-portal/commit/d73036cb32f50826dcb264763f9341d6520e4acd))
 
 * build(deps): bump django from 2.2.17 to 2.2.18
 
@@ -10220,8 +10309,8 @@ Bumps [django](https://github.com/django/django) from 2.2.17 to 2.2.18. - [Relea
 Signed-off-by: dependabot[bot] <support@github.com>
 
 - **deps**: Bump django from 2.2.17 to 2.2.18 in /cfl_common
-  ([#1380](https://github.com/ocadotechnology/codeforlife-portal/pull/1380),
-  [`5ab705e`](https://github.com/ocadotechnology/codeforlife-portal/commit/5ab705e67cdc840da4bed0f73a1e0b9ec60450b5))
+  ([#1380](https://github.com/codeforlife-education/codeforlife-portal/pull/1380),
+  [`5ab705e`](https://github.com/codeforlife-education/codeforlife-portal/commit/5ab705e67cdc840da4bed0f73a1e0b9ec60450b5))
 
 * build(deps): bump django from 2.2.17 to 2.2.18 in /cfl_common
 
@@ -10237,8 +10326,8 @@ Signed-off-by: dependabot[bot] <support@github.com>
 ### Bug Fixes
 
 - Improve admin login form
-  ([#1373](https://github.com/ocadotechnology/codeforlife-portal/pull/1373),
-  [`b2c7b2d`](https://github.com/ocadotechnology/codeforlife-portal/commit/b2c7b2d69114adc8666a2c64442943fe1ece44d9))
+  ([#1373](https://github.com/codeforlife-education/codeforlife-portal/pull/1373),
+  [`b2c7b2d`](https://github.com/codeforlife-education/codeforlife-portal/commit/b2c7b2d69114adc8666a2c64442943fe1ece44d9))
 
 * fix: Improve admin login form
 
@@ -10250,8 +10339,8 @@ Signed-off-by: dependabot[bot] <support@github.com>
 ### Bug Fixes
 
 - Update the home and about pages: text update, new icon
-  ([#1364](https://github.com/ocadotechnology/codeforlife-portal/pull/1364),
-  [`a24b22f`](https://github.com/ocadotechnology/codeforlife-portal/commit/a24b22fe41fb854a6892da027ef58bea58e31f0d))
+  ([#1364](https://github.com/codeforlife-education/codeforlife-portal/pull/1364),
+  [`a24b22f`](https://github.com/codeforlife-education/codeforlife-portal/commit/a24b22fe41fb854a6892da027ef58bea58e31f0d))
 
 * update the home and about pages: text update, new icon
 
@@ -10265,8 +10354,8 @@ Signed-off-by: dependabot[bot] <support@github.com>
 ### Features
 
 - Capture consent data on newsletter signup
-  ([#1365](https://github.com/ocadotechnology/codeforlife-portal/pull/1365),
-  [`4c5b9b1`](https://github.com/ocadotechnology/codeforlife-portal/commit/4c5b9b17ca642982cf84412a67152bdc64a35574))
+  ([#1365](https://github.com/codeforlife-education/codeforlife-portal/pull/1365),
+  [`4c5b9b1`](https://github.com/codeforlife-education/codeforlife-portal/commit/4c5b9b17ca642982cf84412a67152bdc64a35574))
 
 * Add datetime field of consent to dotmailer signup
 
@@ -10304,8 +10393,8 @@ Signed-off-by: dependabot[bot] <support@github.com>
 ### Bug Fixes
 
 - Update PDF viewer nav buttons
-  ([#1363](https://github.com/ocadotechnology/codeforlife-portal/pull/1363),
-  [`0f3ef9c`](https://github.com/ocadotechnology/codeforlife-portal/commit/0f3ef9cda60125f90c12e4337ca04fcc9d418919))
+  ([#1363](https://github.com/codeforlife-education/codeforlife-portal/pull/1363),
+  [`0f3ef9c`](https://github.com/codeforlife-education/codeforlife-portal/commit/0f3ef9cda60125f90c12e4337ca04fcc9d418919))
 
 * fix: Update PDF viewer nav buttons
 
@@ -10315,8 +10404,8 @@ Signed-off-by: dependabot[bot] <support@github.com>
 ### Bug Fixes
 
 - Update copy of Kurono landing page
-  ([#1362](https://github.com/ocadotechnology/codeforlife-portal/pull/1362),
-  [`1ca988d`](https://github.com/ocadotechnology/codeforlife-portal/commit/1ca988d36a52d7762c71df0059637ed1f663f59a))
+  ([#1362](https://github.com/codeforlife-education/codeforlife-portal/pull/1362),
+  [`1ca988d`](https://github.com/codeforlife-education/codeforlife-portal/commit/1ca988d36a52d7762c71df0059637ed1f663f59a))
 
 * fix: Update copy of Kurono landing page
 
@@ -10328,8 +10417,8 @@ Signed-off-by: dependabot[bot] <support@github.com>
 ### Bug Fixes
 
 - Update copyright to use current year
-  ([#1361](https://github.com/ocadotechnology/codeforlife-portal/pull/1361),
-  [`3e7c6d6`](https://github.com/ocadotechnology/codeforlife-portal/commit/3e7c6d65968b399e10a582d6ee0129451dcefef6))
+  ([#1361](https://github.com/codeforlife-education/codeforlife-portal/pull/1361),
+  [`3e7c6d6`](https://github.com/codeforlife-education/codeforlife-portal/commit/3e7c6d65968b399e10a582d6ee0129451dcefef6))
 
 * fix: update copyright to use current year
 
@@ -10338,8 +10427,9 @@ Signed-off-by: dependabot[bot] <support@github.com>
 
 ### Bug Fixes
 
-- Rr migrations tests ([#1352](https://github.com/ocadotechnology/codeforlife-portal/pull/1352),
-  [`ebfc285`](https://github.com/ocadotechnology/codeforlife-portal/commit/ebfc285d4e1c624135d63c57184838bc454c17aa))
+- Rr migrations tests
+  ([#1352](https://github.com/codeforlife-education/codeforlife-portal/pull/1352),
+  [`ebfc285`](https://github.com/codeforlife-education/codeforlife-portal/commit/ebfc285d4e1c624135d63c57184838bc454c17aa))
 
 * update pipfile.lock
 
@@ -10350,8 +10440,9 @@ Signed-off-by: dependabot[bot] <support@github.com>
 
 ### Features
 
-- Delete multiple games ([#1350](https://github.com/ocadotechnology/codeforlife-portal/pull/1350),
-  [`e3156fe`](https://github.com/ocadotechnology/codeforlife-portal/commit/e3156fefb19c7d624da7b6eee1c051cfffe28ebb))
+- Delete multiple games
+  ([#1350](https://github.com/codeforlife-education/codeforlife-portal/pull/1350),
+  [`e3156fe`](https://github.com/codeforlife-education/codeforlife-portal/commit/e3156fefb19c7d624da7b6eee1c051cfffe28ebb))
 
 * wip: updated games columns
 
@@ -10383,8 +10474,8 @@ Signed-off-by: dependabot[bot] <support@github.com>
 ### Bug Fixes
 
 - Add solutions file to Kurono packs
-  ([#1346](https://github.com/ocadotechnology/codeforlife-portal/pull/1346),
-  [`270b4aa`](https://github.com/ocadotechnology/codeforlife-portal/commit/270b4aaa4d72bdd7d7ca12682360029bec063998))
+  ([#1346](https://github.com/codeforlife-education/codeforlife-portal/pull/1346),
+  [`270b4aa`](https://github.com/codeforlife-education/codeforlife-portal/commit/270b4aaa4d72bdd7d7ca12682360029bec063998))
 
 * fix: Add solutions file to Kurono packs
 
@@ -10398,8 +10489,8 @@ Signed-off-by: dependabot[bot] <support@github.com>
 ### Bug Fixes
 
 - Change recaptcha source to use their domain
-  ([#1348](https://github.com/ocadotechnology/codeforlife-portal/pull/1348),
-  [`11dd9c5`](https://github.com/ocadotechnology/codeforlife-portal/commit/11dd9c5024d48490ed4e7ca07a95fd56b8682b67))
+  ([#1348](https://github.com/codeforlife-education/codeforlife-portal/pull/1348),
+  [`11dd9c5`](https://github.com/codeforlife-education/codeforlife-portal/commit/11dd9c5024d48490ed4e7ca07a95fd56b8682b67))
 
 * fix: change recaptcha source to use their domain
 
@@ -10409,8 +10500,8 @@ Signed-off-by: dependabot[bot] <support@github.com>
 ### Features
 
 - Add challenge dropdown to Kurono Dashboard
-  ([#1343](https://github.com/ocadotechnology/codeforlife-portal/pull/1343),
-  [`4e0a2f1`](https://github.com/ocadotechnology/codeforlife-portal/commit/4e0a2f1d9546842c122ab525013bde8404208520))
+  ([#1343](https://github.com/codeforlife-education/codeforlife-portal/pull/1343),
+  [`4e0a2f1`](https://github.com/codeforlife-education/codeforlife-portal/commit/4e0a2f1d9546842c122ab525013bde8404208520))
 
 * Add completed worksheets to table
 
@@ -10460,12 +10551,12 @@ Signed-off-by: dependabot[bot] <support@github.com>
 ### Bug Fixes
 
 - Static version for python-semantic-release
-  ([#1345](https://github.com/ocadotechnology/codeforlife-portal/pull/1345),
-  [`afdc029`](https://github.com/ocadotechnology/codeforlife-portal/commit/afdc02985b4d20358b087741b6cf90c7c84156ce))
+  ([#1345](https://github.com/codeforlife-education/codeforlife-portal/pull/1345),
+  [`afdc029`](https://github.com/codeforlife-education/codeforlife-portal/commit/afdc02985b4d20358b087741b6cf90c7c84156ce))
 
 - Update resources section of Kurono dashboard
-  ([#1344](https://github.com/ocadotechnology/codeforlife-portal/pull/1344),
-  [`4b699b8`](https://github.com/ocadotechnology/codeforlife-portal/commit/4b699b8bd1a369e40d8ca6e7fb28b1ba4a2ead0a))
+  ([#1344](https://github.com/codeforlife-education/codeforlife-portal/pull/1344),
+  [`4b699b8`](https://github.com/codeforlife-education/codeforlife-portal/commit/4b699b8bd1a369e40d8ca6e7fb28b1ba4a2ead0a))
 
 * fix: Update resources section of Kurono dashboard
 
@@ -10477,8 +10568,8 @@ Signed-off-by: dependabot[bot] <support@github.com>
 ### Bug Fixes
 
 - Cleanup add game dropdown
-  ([#1341](https://github.com/ocadotechnology/codeforlife-portal/pull/1341),
-  [`5768b60`](https://github.com/ocadotechnology/codeforlife-portal/commit/5768b606cea605b89b4bd9c61b875a88bc890f09))
+  ([#1341](https://github.com/codeforlife-education/codeforlife-portal/pull/1341),
+  [`5768b60`](https://github.com/codeforlife-education/codeforlife-portal/commit/5768b606cea605b89b4bd9c61b875a88bc890f09))
 
 * fix: cleanup ci
 
@@ -10489,8 +10580,8 @@ Signed-off-by: dependabot[bot] <support@github.com>
 
 ### Features
 
-- Add game dropdown ([#1339](https://github.com/ocadotechnology/codeforlife-portal/pull/1339),
-  [`2c0f915`](https://github.com/ocadotechnology/codeforlife-portal/commit/2c0f91573af847f7e7f25f1275a41e855d0e769d))
+- Add game dropdown ([#1339](https://github.com/codeforlife-education/codeforlife-portal/pull/1339),
+  [`2c0f915`](https://github.com/codeforlife-education/codeforlife-portal/commit/2c0f91573af847f7e7f25f1275a41e855d0e769d))
 
 * wip: added class dropdown, not fully working
 
@@ -10515,8 +10606,9 @@ Signed-off-by: dependabot[bot] <support@github.com>
 
 ### Features
 
-- Kurono resources page ([#1337](https://github.com/ocadotechnology/codeforlife-portal/pull/1337),
-  [`df12f76`](https://github.com/ocadotechnology/codeforlife-portal/commit/df12f764e164fdbfcaaea64d4dbdae10733c02d1))
+- Kurono resources page
+  ([#1337](https://github.com/codeforlife-education/codeforlife-portal/pull/1337),
+  [`df12f76`](https://github.com/codeforlife-education/codeforlife-portal/commit/df12f764e164fdbfcaaea64d4dbdae10733c02d1))
 
 * Create Kurono resources page + rename RR resources page
 
@@ -10555,8 +10647,9 @@ Signed-off-by: dependabot[bot] <support@github.com>
 
 ### Bug Fixes
 
-- Update Kurono zip link ([#1336](https://github.com/ocadotechnology/codeforlife-portal/pull/1336),
-  [`fd5f6ec`](https://github.com/ocadotechnology/codeforlife-portal/commit/fd5f6ec5b62d887dd48e81deedda02cf0433af10))
+- Update Kurono zip link
+  ([#1336](https://github.com/codeforlife-education/codeforlife-portal/pull/1336),
+  [`fd5f6ec`](https://github.com/codeforlife-education/codeforlife-portal/commit/fd5f6ec5b62d887dd48e81deedda02cf0433af10))
 
 * fix: Update Kurono zip link
 
@@ -10566,8 +10659,8 @@ Signed-off-by: dependabot[bot] <support@github.com>
 ### Features
 
 - Create Kurono teaching packs page
-  ([#1334](https://github.com/ocadotechnology/codeforlife-portal/pull/1334),
-  [`e52cdc8`](https://github.com/ocadotechnology/codeforlife-portal/commit/e52cdc891e9967fe3357e40eae71d3544d496fa4))
+  ([#1334](https://github.com/codeforlife-education/codeforlife-portal/pull/1334),
+  [`e52cdc8`](https://github.com/codeforlife-education/codeforlife-portal/commit/e52cdc891e9967fe3357e40eae71d3544d496fa4))
 
 * Create page and styles
 
@@ -10607,8 +10700,8 @@ Signed-off-by: dependabot[bot] <support@github.com>
 ### Bug Fixes
 
 - Make .sub-nav--teacher, .sub-nav--student visible on small screens
-  ([#1315](https://github.com/ocadotechnology/codeforlife-portal/pull/1315),
-  [`a2c64b6`](https://github.com/ocadotechnology/codeforlife-portal/commit/a2c64b6d81c24c6bd3ff6c8784ab38f6db66caa0))
+  ([#1315](https://github.com/codeforlife-education/codeforlife-portal/pull/1315),
+  [`a2c64b6`](https://github.com/codeforlife-education/codeforlife-portal/commit/a2c64b6d81c24c6bd3ff6c8784ab38f6db66caa0))
 
 * fix: make .sub-nav--teacher, .sub-nav--student visible on small screens
 
@@ -10635,16 +10728,16 @@ Signed-off-by: dependabot[bot] <support@github.com>
 ### Bug Fixes
 
 - Replace youtube embeds with youtube-nocookie
-  ([#1331](https://github.com/ocadotechnology/codeforlife-portal/pull/1331),
-  [`2f95d40`](https://github.com/ocadotechnology/codeforlife-portal/commit/2f95d4033c3662c32ea484cb4d5ce0b5a6adfbfe))
+  ([#1331](https://github.com/codeforlife-education/codeforlife-portal/pull/1331),
+  [`2f95d40`](https://github.com/codeforlife-education/codeforlife-portal/commit/2f95d4033c3662c32ea484cb4d5ce0b5a6adfbfe))
 
 
 ## v4.15.2 (2020-12-24)
 
 ### Bug Fixes
 
-- Remove magnificjs ([#1332](https://github.com/ocadotechnology/codeforlife-portal/pull/1332),
-  [`14aa4fd`](https://github.com/ocadotechnology/codeforlife-portal/commit/14aa4fd8b634ebedcc5eab8857215464b2e85be4))
+- Remove magnificjs ([#1332](https://github.com/codeforlife-education/codeforlife-portal/pull/1332),
+  [`14aa4fd`](https://github.com/codeforlife-education/codeforlife-portal/commit/14aa4fd8b634ebedcc5eab8857215464b2e85be4))
 
 * fix: remove magnificjs
 
@@ -10654,8 +10747,8 @@ Signed-off-by: dependabot[bot] <support@github.com>
 ### Bug Fixes
 
 - Remove build dependencies
-  ([#1329](https://github.com/ocadotechnology/codeforlife-portal/pull/1329),
-  [`1b6532e`](https://github.com/ocadotechnology/codeforlife-portal/commit/1b6532e46f5dcb3189d5fa058369369081f56674))
+  ([#1329](https://github.com/codeforlife-education/codeforlife-portal/pull/1329),
+  [`1b6532e`](https://github.com/codeforlife-education/codeforlife-portal/commit/1b6532e46f5dcb3189d5fa058369369081f56674))
 
 * fix: Remove build dependencies
 
@@ -10665,21 +10758,21 @@ Signed-off-by: dependabot[bot] <support@github.com>
 ### Bug Fixes
 
 - Bring back test setup
-  ([`b2e8bd2`](https://github.com/ocadotechnology/codeforlife-portal/commit/b2e8bd2f547cb6231cd0f9f5e9110405f4cd2c3f))
+  ([`b2e8bd2`](https://github.com/codeforlife-education/codeforlife-portal/commit/b2e8bd2f547cb6231cd0f9f5e9110405f4cd2c3f))
 
 - Merge in master
-  ([`b5019b4`](https://github.com/ocadotechnology/codeforlife-portal/commit/b5019b40282d6c2fdb7b0310573c6cea60530d5c))
+  ([`b5019b4`](https://github.com/codeforlife-education/codeforlife-portal/commit/b5019b40282d6c2fdb7b0310573c6cea60530d5c))
 
 - Update setup.py and pipfile
-  ([`c5931a8`](https://github.com/ocadotechnology/codeforlife-portal/commit/c5931a896b0d7cf050313c54becedac0dc213608))
+  ([`c5931a8`](https://github.com/codeforlife-education/codeforlife-portal/commit/c5931a896b0d7cf050313c54becedac0dc213608))
 
 
 ## v4.14.2 (2020-12-14)
 
 ### Bug Fixes
 
-- Add game form ([#1306](https://github.com/ocadotechnology/codeforlife-portal/pull/1306),
-  [`747b705`](https://github.com/ocadotechnology/codeforlife-portal/commit/747b7056d52c49a8664dee22b3ddbdd45bb97cb2))
+- Add game form ([#1306](https://github.com/codeforlife-education/codeforlife-portal/pull/1306),
+  [`747b705`](https://github.com/codeforlife-education/codeforlife-portal/commit/747b7056d52c49a8664dee22b3ddbdd45bb97cb2))
 
 * Fix add game form
 
@@ -10710,8 +10803,9 @@ Signed-off-by: Niket <niket.shah1@ocado.com>
 
 ### Bug Fixes
 
-- Add missing wagtail app ([#1310](https://github.com/ocadotechnology/codeforlife-portal/pull/1310),
-  [`74dc2ad`](https://github.com/ocadotechnology/codeforlife-portal/commit/74dc2adaf4b4f90962e18d2cda014c4da331f03e))
+- Add missing wagtail app
+  ([#1310](https://github.com/codeforlife-education/codeforlife-portal/pull/1310),
+  [`74dc2ad`](https://github.com/codeforlife-education/codeforlife-portal/commit/74dc2adaf4b4f90962e18d2cda014c4da331f03e))
 
 * fix: add missing wagtail app
 
@@ -10724,8 +10818,8 @@ Signed-off-by: Niket <niket.shah1@ocado.com>
 * Install portal again after RR to fix compile error
 
 - Publish pypi packages using Github Actions
-  ([#1309](https://github.com/ocadotechnology/codeforlife-portal/pull/1309),
-  [`3c426b6`](https://github.com/ocadotechnology/codeforlife-portal/commit/3c426b661f218fbb4c47c59d1aeb091d2d7b67d0))
+  ([#1309](https://github.com/codeforlife-education/codeforlife-portal/pull/1309),
+  [`3c426b6`](https://github.com/codeforlife-education/codeforlife-portal/commit/3c426b661f218fbb4c47c59d1aeb091d2d7b67d0))
 
 * publish pypi packages test
 
@@ -10765,8 +10859,9 @@ Signed-off-by: Niket <niket.shah1@ocado.com>
 
 * fix env variables
 
-- Upgrade dependencies ([#1314](https://github.com/ocadotechnology/codeforlife-portal/pull/1314),
-  [`8c49368`](https://github.com/ocadotechnology/codeforlife-portal/commit/8c49368bda6a7466c54cf368881afea325004fa5))
+- Upgrade dependencies
+  ([#1314](https://github.com/codeforlife-education/codeforlife-portal/pull/1314),
+  [`8c49368`](https://github.com/codeforlife-education/codeforlife-portal/commit/8c49368bda6a7466c54cf368881afea325004fa5))
 
 * Upgrade dependencies
 
@@ -10787,8 +10882,8 @@ Signed-off-by: Niket <niket.shah1@ocado.com>
 * Downgrade pipeline
 
 - Use personal access token to allow github action to perform semantic release on master
-  ([#1312](https://github.com/ocadotechnology/codeforlife-portal/pull/1312),
-  [`d6dfacf`](https://github.com/ocadotechnology/codeforlife-portal/commit/d6dfacf0f932d27c099d93e6ef234ee26e9c11e5))
+  ([#1312](https://github.com/codeforlife-education/codeforlife-portal/pull/1312),
+  [`d6dfacf`](https://github.com/codeforlife-education/codeforlife-portal/commit/d6dfacf0f932d27c099d93e6ef234ee26e9c11e5))
 
 * publish pypi packages test
 
@@ -10837,18 +10932,18 @@ Signed-off-by: Niket <niket.shah1@ocado.com>
 ### Continuous Integration
 
 - Add CodeCov step to ci action
-  ([#1318](https://github.com/ocadotechnology/codeforlife-portal/pull/1318),
-  [`605653e`](https://github.com/ocadotechnology/codeforlife-portal/commit/605653ee687bd76ad6847a33504a77cd56b8f3e6))
+  ([#1318](https://github.com/codeforlife-education/codeforlife-portal/pull/1318),
+  [`605653e`](https://github.com/codeforlife-education/codeforlife-portal/commit/605653ee687bd76ad6847a33504a77cd56b8f3e6))
 
 - Add persist-credentials to checkout action
-  ([#1321](https://github.com/ocadotechnology/codeforlife-portal/pull/1321),
-  [`a9e2002`](https://github.com/ocadotechnology/codeforlife-portal/commit/a9e2002ecfeeee86134ff69502166e72f917c79c))
+  ([#1321](https://github.com/codeforlife-education/codeforlife-portal/pull/1321),
+  [`a9e2002`](https://github.com/codeforlife-education/codeforlife-portal/commit/a9e2002ecfeeee86134ff69502166e72f917c79c))
 
 * ci: Add persist-credentials to checkout action
 
 - Create separate action for publishing packages
-  ([#1317](https://github.com/ocadotechnology/codeforlife-portal/pull/1317),
-  [`a1271bd`](https://github.com/ocadotechnology/codeforlife-portal/commit/a1271bd184e0993ea212ec86f153e6d1ff354933))
+  ([#1317](https://github.com/codeforlife-education/codeforlife-portal/pull/1317),
+  [`a1271bd`](https://github.com/codeforlife-education/codeforlife-portal/commit/a1271bd184e0993ea212ec86f153e6d1ff354933))
 
 * ci: Create job for publishing python packages
 
@@ -10867,15 +10962,16 @@ This reverts commit b3ab3f1b01d32b6750a42bf58fd65c9c8078044a.
 * Merge branch 'github_actions_publish_packages' of
   https://github.com/ocadotechnology/codeforlife-portal into github_actions_publish_packages
 
-- Fix codecov ([#1319](https://github.com/ocadotechnology/codeforlife-portal/pull/1319),
-  [`6b35083`](https://github.com/ocadotechnology/codeforlife-portal/commit/6b35083d0080136c2decde0a4fdc21f72347c129))
+- Fix codecov ([#1319](https://github.com/codeforlife-education/codeforlife-portal/pull/1319),
+  [`6b35083`](https://github.com/codeforlife-education/codeforlife-portal/commit/6b35083d0080136c2decde0a4fdc21f72347c129))
 
 * ci: try checkout@v1
 
 * checkout@v2 with fetch-depth 0
 
-- Github actions build ([#1308](https://github.com/ocadotechnology/codeforlife-portal/pull/1308),
-  [`77078b5`](https://github.com/ocadotechnology/codeforlife-portal/commit/77078b55e6530a6b6b3803d4ca9d81aebb933cac))
+- Github actions build
+  ([#1308](https://github.com/codeforlife-education/codeforlife-portal/pull/1308),
+  [`77078b5`](https://github.com/codeforlife-education/codeforlife-portal/commit/77078b55e6530a6b6b3803d4ca9d81aebb933cac))
 
 * ci: github actions build
 
@@ -10890,18 +10986,19 @@ This reverts commit b3ab3f1b01d32b6750a42bf58fd65c9c8078044a.
 * run ci workflow on push to master as well
 
 - Rename CI workflow to enable publish flow to run
-  ([#1320](https://github.com/ocadotechnology/codeforlife-portal/pull/1320),
-  [`6b411d0`](https://github.com/ocadotechnology/codeforlife-portal/commit/6b411d02bdab16e4fd374b991ee69e9e54080fce))
+  ([#1320](https://github.com/codeforlife-education/codeforlife-portal/pull/1320),
+  [`6b411d0`](https://github.com/codeforlife-education/codeforlife-portal/commit/6b411d02bdab16e4fd374b991ee69e9e54080fce))
 
 * ci: Rename CI workflow to enable publish flow to run
 
 - Resolve ci.yml conflicts from master
-  ([`36fccf5`](https://github.com/ocadotechnology/codeforlife-portal/commit/36fccf55e2e83ed6c43fdfb04f680f0e4a26ad37))
+  ([`36fccf5`](https://github.com/codeforlife-education/codeforlife-portal/commit/36fccf55e2e83ed6c43fdfb04f680f0e4a26ad37))
 
 ### Features
 
-- Upgrade to Django 2.2 ([#1304](https://github.com/ocadotechnology/codeforlife-portal/pull/1304),
-  [`ed8a511`](https://github.com/ocadotechnology/codeforlife-portal/commit/ed8a511a89142bfe157b1ad19ca0ce9e66e929ce))
+- Upgrade to Django 2.2
+  ([#1304](https://github.com/codeforlife-education/codeforlife-portal/pull/1304),
+  [`ed8a511`](https://github.com/codeforlife-education/codeforlife-portal/commit/ed8a511a89142bfe157b1ad19ca0ce9e66e929ce))
 
 * Upgrade Django to 2.0
 
@@ -11015,8 +11112,8 @@ Co-authored-by: Razvan Mahu <67904187+razvan-pro@users.noreply.github.com>
 ### Features
 
 - Add checkbox for independent student registration for required age check
-  ([#1300](https://github.com/ocadotechnology/codeforlife-portal/pull/1300),
-  [`5f6b745`](https://github.com/ocadotechnology/codeforlife-portal/commit/5f6b745ee97f426945c1d32b9e53b8e17c04db9c))
+  ([#1300](https://github.com/codeforlife-education/codeforlife-portal/pull/1300),
+  [`5f6b745`](https://github.com/codeforlife-education/codeforlife-portal/commit/5f6b745ee97f426945c1d32b9e53b8e17c04db9c))
 
 * Add checkbox for required age for independent students
 
@@ -11034,8 +11131,8 @@ Signed-off-by: Niket <niket.shah1@ocado.com>
 ### Bug Fixes
 
 - Fixed permission check for scheduled job to delete inactive users
-  ([#1297](https://github.com/ocadotechnology/codeforlife-portal/pull/1297),
-  [`56f4ecd`](https://github.com/ocadotechnology/codeforlife-portal/commit/56f4ecdf2dfabb47687fc32cededab97ce6f55a8))
+  ([#1297](https://github.com/codeforlife-education/codeforlife-portal/pull/1297),
+  [`56f4ecd`](https://github.com/codeforlife-education/codeforlife-portal/commit/56f4ecdf2dfabb47687fc32cededab97ce6f55a8))
 
 * add basic cloud scheduler permission check
 
@@ -11061,8 +11158,8 @@ Signed-off-by: Niket <niket.shah1@ocado.com>
 ### Bug Fixes
 
 - Hide KS banners from students
-  ([#1296](https://github.com/ocadotechnology/codeforlife-portal/pull/1296),
-  [`488f51a`](https://github.com/ocadotechnology/codeforlife-portal/commit/488f51a7c2ffd99882591360f68992f082d615a4))
+  ([#1296](https://github.com/codeforlife-education/codeforlife-portal/pull/1296),
+  [`488f51a`](https://github.com/codeforlife-education/codeforlife-portal/commit/488f51a7c2ffd99882591360f68992f082d615a4))
 
 * fix: hide KS banners from students
 
@@ -11072,8 +11169,8 @@ Signed-off-by: Niket <niket.shah1@ocado.com>
 ### Features
 
 - Change InactiveUsersView to anonymise user and mark it as inactive
-  ([#1295](https://github.com/ocadotechnology/codeforlife-portal/pull/1295),
-  [`0c9760a`](https://github.com/ocadotechnology/codeforlife-portal/commit/0c9760a6cf3835e3bcf8a89ce9643f68b32f4291))
+  ([#1295](https://github.com/codeforlife-education/codeforlife-portal/pull/1295),
+  [`0c9760a`](https://github.com/codeforlife-education/codeforlife-portal/commit/0c9760a6cf3835e3bcf8a89ce9643f68b32f4291))
 
 * changed InactiveUsersView to anonymise user and mark it as inactive instead of deleting
 
@@ -11088,8 +11185,8 @@ Signed-off-by: Niket <niket.shah1@ocado.com>
 
 ### Bug Fixes
 
-- Upgrade jquery ([#1294](https://github.com/ocadotechnology/codeforlife-portal/pull/1294),
-  [`5a49fcd`](https://github.com/ocadotechnology/codeforlife-portal/commit/5a49fcd49725fa1a645e58f788f8ba3f9719c97f))
+- Upgrade jquery ([#1294](https://github.com/codeforlife-education/codeforlife-portal/pull/1294),
+  [`5a49fcd`](https://github.com/codeforlife-education/codeforlife-portal/commit/5a49fcd49725fa1a645e58f788f8ba3f9719c97f))
 
 * Update to jquery 3.5.1
 
@@ -11110,8 +11207,9 @@ Signed-off-by: Niket <niket.shah1@ocado.com>
 
 ### Features
 
-- Link to new Kurono PDFs ([#1293](https://github.com/ocadotechnology/codeforlife-portal/pull/1293),
-  [`add0d0a`](https://github.com/ocadotechnology/codeforlife-portal/commit/add0d0ae8c82d379a5dc51fb0d0fb57303ef5d7f))
+- Link to new Kurono PDFs
+  ([#1293](https://github.com/codeforlife-education/codeforlife-portal/pull/1293),
+  [`add0d0a`](https://github.com/codeforlife-education/codeforlife-portal/commit/add0d0ae8c82d379a5dc51fb0d0fb57303ef5d7f))
 
 * feat: Link to new Kurono PDFs
 
@@ -11123,8 +11221,8 @@ Signed-off-by: Niket <niket.shah1@ocado.com>
 ### Bug Fixes
 
 - Pass in kwargs in materials viewer redirect
-  ([#1288](https://github.com/ocadotechnology/codeforlife-portal/pull/1288),
-  [`d95ac7a`](https://github.com/ocadotechnology/codeforlife-portal/commit/d95ac7acdc3502dd8f7c9884d6a58e5d7bd3ab50))
+  ([#1288](https://github.com/codeforlife-education/codeforlife-portal/pull/1288),
+  [`d95ac7a`](https://github.com/codeforlife-education/codeforlife-portal/commit/d95ac7acdc3502dd8f7c9884d6a58e5d7bd3ab50))
 
 * fix redirect bug for materials viewer
 
@@ -11140,8 +11238,8 @@ Signed-off-by: Niket <niket.shah1@ocado.com>
 ### Bug Fixes
 
 - Update game buttons copy in student dashboard
-  ([#1284](https://github.com/ocadotechnology/codeforlife-portal/pull/1284),
-  [`d5a6b79`](https://github.com/ocadotechnology/codeforlife-portal/commit/d5a6b79b2ad5add6593a0aac835167f937d9f383))
+  ([#1284](https://github.com/codeforlife-education/codeforlife-portal/pull/1284),
+  [`d5a6b79`](https://github.com/codeforlife-education/codeforlife-portal/commit/d5a6b79b2ad5add6593a0aac835167f937d9f383))
 
 * updated Pipfile.lock
 
@@ -11161,8 +11259,8 @@ Co-authored-by: Florian Aucomte <33633200+faucomte97@users.noreply.github.com>
 ### Bug Fixes
 
 - Upgrade bootstrap from 3.3.7 to 3.4.1
-  ([#1283](https://github.com/ocadotechnology/codeforlife-portal/pull/1283),
-  [`6a3f701`](https://github.com/ocadotechnology/codeforlife-portal/commit/6a3f7015fdb5f82e89e755fdad488849d81c6d44))
+  ([#1283](https://github.com/codeforlife-education/codeforlife-portal/pull/1283),
+  [`6a3f701`](https://github.com/codeforlife-education/codeforlife-portal/commit/6a3f7015fdb5f82e89e755fdad488849d81c6d44))
 
 * fix: upgrade bootstrap from v3.3.7 to v3.4.1
 
@@ -11188,8 +11286,8 @@ Signed-off-by: Niket <niket.shah1@ocado.com>
 ### Bug Fixes
 
 - Kurono dashboard independent students
-  ([#1282](https://github.com/ocadotechnology/codeforlife-portal/pull/1282),
-  [`5f49c58`](https://github.com/ocadotechnology/codeforlife-portal/commit/5f49c588153e58135a1a061c1504ba28abf3eb9e))
+  ([#1282](https://github.com/codeforlife-education/codeforlife-portal/pull/1282),
+  [`5f49c58`](https://github.com/codeforlife-education/codeforlife-portal/commit/5f49c588153e58135a1a061c1504ba28abf3eb9e))
 
 * fix: Handle independent students on kurono dashboard
 
@@ -11209,8 +11307,8 @@ Signed-off-by: Niket <niket.shah1@ocado.com>
 ### Features
 
 - Remove student logic in current kurono dashboard
-  ([#1281](https://github.com/ocadotechnology/codeforlife-portal/pull/1281),
-  [`6bbe396`](https://github.com/ocadotechnology/codeforlife-portal/commit/6bbe3960d15fe5ee02410dcfea4c43ba14018890))
+  ([#1281](https://github.com/codeforlife-education/codeforlife-portal/pull/1281),
+  [`6bbe396`](https://github.com/codeforlife-education/codeforlife-portal/commit/6bbe3960d15fe5ee02410dcfea4c43ba14018890))
 
 * Remove student logic and content from the teacher kurono dashboard template
 
@@ -11242,8 +11340,8 @@ Signed-off-by: Niket <niket.shah1@ocado.com>
 ### Bug Fixes
 
 - Add grid property to worksheets grid
-  ([#1280](https://github.com/ocadotechnology/codeforlife-portal/pull/1280),
-  [`2947d07`](https://github.com/ocadotechnology/codeforlife-portal/commit/2947d07c7340ed0e04a7b1c6682e0eb192e4ddcb))
+  ([#1280](https://github.com/codeforlife-education/codeforlife-portal/pull/1280),
+  [`2947d07`](https://github.com/codeforlife-education/codeforlife-portal/commit/2947d07c7340ed0e04a7b1c6682e0eb192e4ddcb))
 
 * fix: Add grid property to worksheets grid
 
@@ -11259,8 +11357,8 @@ Signed-off-by: Niket <niket.shah1@ocado.com>
 ### Features
 
 - Kurono dashboard worksheet cards
-  ([#1277](https://github.com/ocadotechnology/codeforlife-portal/pull/1277),
-  [`93ed5cf`](https://github.com/ocadotechnology/codeforlife-portal/commit/93ed5cfd17ee86ed539bf62e4a9dac520bba3b64))
+  ([#1277](https://github.com/codeforlife-education/codeforlife-portal/pull/1277),
+  [`93ed5cf`](https://github.com/codeforlife-education/codeforlife-portal/commit/93ed5cfd17ee86ed539bf62e4a9dac520bba3b64))
 
 * Add card list to kurono dashboard
 
@@ -11299,8 +11397,8 @@ Signed-off-by: Niket <niket.shah1@ocado.com>
 ### Features
 
 - Add resources info to the student dashboard page for Kurono
-  ([#1278](https://github.com/ocadotechnology/codeforlife-portal/pull/1278),
-  [`b46ddb9`](https://github.com/ocadotechnology/codeforlife-portal/commit/b46ddb918f08c17a26a92766859192a564bf6aed))
+  ([#1278](https://github.com/codeforlife-education/codeforlife-portal/pull/1278),
+  [`b46ddb9`](https://github.com/codeforlife-education/codeforlife-portal/commit/b46ddb918f08c17a26a92766859192a564bf6aed))
 
 * fix redirect issue on student dashboard
 
@@ -11330,8 +11428,8 @@ Signed-off-by: Niket <niket.shah1@ocado.com>
 ### Features
 
 - Add characters to the student dashboard
-  ([#1275](https://github.com/ocadotechnology/codeforlife-portal/pull/1275),
-  [`ad0a27a`](https://github.com/ocadotechnology/codeforlife-portal/commit/ad0a27a0a426e4506b80e2aa80327d2584e7519e))
+  ([#1275](https://github.com/codeforlife-education/codeforlife-portal/pull/1275),
+  [`ad0a27a`](https://github.com/codeforlife-education/codeforlife-portal/commit/ad0a27a0a426e4506b80e2aa80327d2584e7519e))
 
 * feat: Add characters to the student dashboard
 
@@ -11348,8 +11446,8 @@ Signed-off-by: Niket <niket.shah1@ocado.com>
 ### Features
 
 - Add banner & hero card to Student Kurono Dashboard
-  ([#1274](https://github.com/ocadotechnology/codeforlife-portal/pull/1274),
-  [`6199fe9`](https://github.com/ocadotechnology/codeforlife-portal/commit/6199fe9364effddfcf0b9cfe7a55faa6f4e2a949))
+  ([#1274](https://github.com/codeforlife-education/codeforlife-portal/pull/1274),
+  [`6199fe9`](https://github.com/codeforlife-education/codeforlife-portal/commit/6199fe9364effddfcf0b9cfe7a55faa6f4e2a949))
 
 * Add banner and hero card
 
@@ -11395,8 +11493,8 @@ Signed-off-by: Niket <niket.shah1@ocado.com>
 ### Features
 
 - Create blank student kurono dashboard page
-  ([#1272](https://github.com/ocadotechnology/codeforlife-portal/pull/1272),
-  [`f77d796`](https://github.com/ocadotechnology/codeforlife-portal/commit/f77d796a12cdea8404d7ccaf781eed5c51a27438))
+  ([#1272](https://github.com/codeforlife-education/codeforlife-portal/pull/1272),
+  [`f77d796`](https://github.com/codeforlife-education/codeforlife-portal/commit/f77d796a12cdea8404d7ccaf781eed5c51a27438))
 
 * Create page with dummy content
 
@@ -11411,8 +11509,9 @@ Signed-off-by: Niket <niket.shah1@ocado.com>
 
 ### Features
 
-- Add worksheet fixture ([#1271](https://github.com/ocadotechnology/codeforlife-portal/pull/1271),
-  [`6949ff6`](https://github.com/ocadotechnology/codeforlife-portal/commit/6949ff623b938c5f978090435a936026c7eba501))
+- Add worksheet fixture
+  ([#1271](https://github.com/codeforlife-education/codeforlife-portal/pull/1271),
+  [`6949ff6`](https://github.com/codeforlife-education/codeforlife-portal/commit/6949ff623b938c5f978090435a936026c7eba501))
 
 * feat: Add worksheet fixture
 
@@ -11436,8 +11535,8 @@ Signed-off-by: Niket <niket.shah1@ocado.com>
 ### Bug Fixes
 
 - Add MANIFEST.in to common package to include fixture files
-  ([#1269](https://github.com/ocadotechnology/codeforlife-portal/pull/1269),
-  [`3896c1a`](https://github.com/ocadotechnology/codeforlife-portal/commit/3896c1a7bb5788113e2eb174af357757ee036828))
+  ([#1269](https://github.com/codeforlife-education/codeforlife-portal/pull/1269),
+  [`3896c1a`](https://github.com/codeforlife-education/codeforlife-portal/commit/3896c1a7bb5788113e2eb174af357757ee036828))
 
 * fix: Add MANIFEST.in to common package to include fixture files
 
@@ -11449,8 +11548,8 @@ Signed-off-by: Niket <niket.shah1@ocado.com>
 ### Bug Fixes
 
 - Use absolute file paths to read files from fixture directory
-  ([#1268](https://github.com/ocadotechnology/codeforlife-portal/pull/1268),
-  [`2ff1fd0`](https://github.com/ocadotechnology/codeforlife-portal/commit/2ff1fd06783eb9354fb1505ae0a169c1562891f8))
+  ([#1268](https://github.com/codeforlife-education/codeforlife-portal/pull/1268),
+  [`2ff1fd0`](https://github.com/codeforlife-education/codeforlife-portal/commit/2ff1fd06783eb9354fb1505ae0a169c1562891f8))
 
 * fix: use absolute file paths to read files from fixture directory
 
@@ -11462,8 +11561,8 @@ Signed-off-by: Niket <niket.shah1@ocado.com>
 ### Features
 
 - Add Kurono/Aimmo characters
-  ([#1267](https://github.com/ocadotechnology/codeforlife-portal/pull/1267),
-  [`47328f8`](https://github.com/ocadotechnology/codeforlife-portal/commit/47328f896a8ce54fd216b01d87c6512e6f7b5e5e))
+  ([#1267](https://github.com/codeforlife-education/codeforlife-portal/pull/1267),
+  [`47328f8`](https://github.com/codeforlife-education/codeforlife-portal/commit/47328f896a8ce54fd216b01d87c6512e6f7b5e5e))
 
 * Add aimmo character model
 
@@ -11482,8 +11581,8 @@ Signed-off-by: Niket <niket.shah1@ocado.com>
 
 ### Features
 
-- Add wagtail CMS ([#1264](https://github.com/ocadotechnology/codeforlife-portal/pull/1264),
-  [`5535b92`](https://github.com/ocadotechnology/codeforlife-portal/commit/5535b922c3d3e1403b978f9c9caae88c182b4c81))
+- Add wagtail CMS ([#1264](https://github.com/codeforlife-education/codeforlife-portal/pull/1264),
+  [`5535b92`](https://github.com/codeforlife-education/codeforlife-portal/commit/5535b922c3d3e1403b978f9c9caae88c182b4c81))
 
 * fix: aimmo dashboard page for students
 
@@ -11523,8 +11622,8 @@ This reverts commit c11e979b3586a78ec0d570a5811e7e037c20eed2.
 ### Bug Fixes
 
 - Aimmo dashboard page for students
-  ([#1263](https://github.com/ocadotechnology/codeforlife-portal/pull/1263),
-  [`752360c`](https://github.com/ocadotechnology/codeforlife-portal/commit/752360c3167bdd93d74f7a0c1279c6a5ab824215))
+  ([#1263](https://github.com/codeforlife-education/codeforlife-portal/pull/1263),
+  [`752360c`](https://github.com/codeforlife-education/codeforlife-portal/commit/752360c3167bdd93d74f7a0c1279c6a5ab824215))
 
 * fix: aimmo dashboard page for students
 
@@ -11536,8 +11635,8 @@ Signed-off-by: Niket <niket.shah1@ocado.com>
 ### Features
 
 - Create character card partial
-  ([#1261](https://github.com/ocadotechnology/codeforlife-portal/pull/1261),
-  [`733181e`](https://github.com/ocadotechnology/codeforlife-portal/commit/733181e063a7d46912feeb9a5fdce928d56b9282))
+  ([#1261](https://github.com/codeforlife-education/codeforlife-portal/pull/1261),
+  [`733181e`](https://github.com/codeforlife-education/codeforlife-portal/commit/733181e063a7d46912feeb9a5fdce928d56b9282))
 
 * feat: Create character list inclusion tag and partial
 
@@ -11561,8 +11660,8 @@ Signed-off-by: Niket <niket.shah1@ocado.com>
 ### Features
 
 - Create card list inclusion tag
-  ([#1260](https://github.com/ocadotechnology/codeforlife-portal/pull/1260),
-  [`fcc2053`](https://github.com/ocadotechnology/codeforlife-portal/commit/fcc2053509818c3a7bc02133e31e099ce708f826))
+  ([#1260](https://github.com/codeforlife-education/codeforlife-portal/pull/1260),
+  [`fcc2053`](https://github.com/codeforlife-education/codeforlife-portal/commit/fcc2053509818c3a7bc02133e31e099ce708f826))
 
 * Create card list tag and partial
 
@@ -11608,8 +11707,8 @@ Signed-off-by: Niket <niket.shah1@ocado.com>
 ### Features
 
 - New games now need a class associated to them
-  ([#1251](https://github.com/ocadotechnology/codeforlife-portal/pull/1251),
-  [`8a33337`](https://github.com/ocadotechnology/codeforlife-portal/commit/8a333376a7c89cbb35091d0b5b57c99a099a2683))
+  ([#1251](https://github.com/codeforlife-education/codeforlife-portal/pull/1251),
+  [`8a33337`](https://github.com/codeforlife-education/codeforlife-portal/commit/8a333376a7c89cbb35091d0b5b57c99a099a2683))
 
 BREAKING CHANGE: Moved generator helper, email helper and some test utilities to common
 
@@ -11655,8 +11754,8 @@ Signed-off-by: Niket <niket.shah1@ocado.com>
 ### Features
 
 - Create hero card partial
-  ([#1250](https://github.com/ocadotechnology/codeforlife-portal/pull/1250),
-  [`5597d16`](https://github.com/ocadotechnology/codeforlife-portal/commit/5597d16e36165e7d0df028c6468be54afd25d639))
+  ([#1250](https://github.com/codeforlife-education/codeforlife-portal/pull/1250),
+  [`5597d16`](https://github.com/codeforlife-education/codeforlife-portal/commit/5597d16e36165e7d0df028c6468be54afd25d639))
 
 * Create hero card inclusion tag
 
@@ -11680,8 +11779,8 @@ Signed-off-by: Niket <niket.shah1@ocado.com>
 ### Bug Fixes
 
 - Secure requests with POST checks
-  ([#1247](https://github.com/ocadotechnology/codeforlife-portal/pull/1247),
-  [`c38df21`](https://github.com/ocadotechnology/codeforlife-portal/commit/c38df21a9cc396ca923436c65acd443545446738))
+  ([#1247](https://github.com/codeforlife-education/codeforlife-portal/pull/1247),
+  [`c38df21`](https://github.com/codeforlife-education/codeforlife-portal/commit/c38df21a9cc396ca923436c65acd443545446738))
 
 * Make GET requests POST where needed
 
@@ -11704,8 +11803,9 @@ Signed-off-by: Niket <niket.shah1@ocado.com>
 
 ### Features
 
-- Use common package ([#1232](https://github.com/ocadotechnology/codeforlife-portal/pull/1232),
-  [`69af469`](https://github.com/ocadotechnology/codeforlife-portal/commit/69af46964a87f47e7695958cb7d77b5e137674b0))
+- Use common package
+  ([#1232](https://github.com/codeforlife-education/codeforlife-portal/pull/1232),
+  [`69af469`](https://github.com/codeforlife-education/codeforlife-portal/commit/69af46964a87f47e7695958cb7d77b5e137674b0))
 
 * Move models, create common module and migrations
 
@@ -11773,8 +11873,8 @@ Signed-off-by: Niket <niket.shah1@ocado.com>
 ### Bug Fixes
 
 - Make cfl-common require Python 3.6
-  ([#1238](https://github.com/ocadotechnology/codeforlife-portal/pull/1238),
-  [`7ed805f`](https://github.com/ocadotechnology/codeforlife-portal/commit/7ed805fd81a9b4ef38d8248e6f5c945e8bc92691))
+  ([#1238](https://github.com/codeforlife-education/codeforlife-portal/pull/1238),
+  [`7ed805f`](https://github.com/codeforlife-education/codeforlife-portal/commit/7ed805fd81a9b4ef38d8248e6f5c945e8bc92691))
 
 * fix: Make cfl-common require Python 3.6
 
@@ -11786,8 +11886,8 @@ Signed-off-by: Niket <niket.shah1@ocado.com>
 ### Bug Fixes
 
 - Run test stage not only on PR
-  ([#1237](https://github.com/ocadotechnology/codeforlife-portal/pull/1237),
-  [`8ba2ba2`](https://github.com/ocadotechnology/codeforlife-portal/commit/8ba2ba22d2b37ff7b03261b9af3913f7a1dd7408))
+  ([#1237](https://github.com/codeforlife-education/codeforlife-portal/pull/1237),
+  [`8ba2ba2`](https://github.com/codeforlife-education/codeforlife-portal/commit/8ba2ba22d2b37ff7b03261b9af3913f7a1dd7408))
 
 * fix: Run test stage not only on PR
 
@@ -11797,8 +11897,8 @@ Signed-off-by: Niket <niket.shah1@ocado.com>
 ### Bug Fixes
 
 - Replace curl with straight codecov command
-  ([#1236](https://github.com/ocadotechnology/codeforlife-portal/pull/1236),
-  [`a7912c7`](https://github.com/ocadotechnology/codeforlife-portal/commit/a7912c7d6a0a100fb78fdd003e0bf63fa568c524))
+  ([#1236](https://github.com/codeforlife-education/codeforlife-portal/pull/1236),
+  [`a7912c7`](https://github.com/codeforlife-education/codeforlife-portal/commit/a7912c7d6a0a100fb78fdd003e0bf63fa568c524))
 
 * fix: Replace curl with straight codecov command
 
@@ -11810,8 +11910,8 @@ Signed-off-by: Niket <niket.shah1@ocado.com>
 ### Bug Fixes
 
 - Add install_requires to common package
-  ([#1235](https://github.com/ocadotechnology/codeforlife-portal/pull/1235),
-  [`ed50c06`](https://github.com/ocadotechnology/codeforlife-portal/commit/ed50c06c33b999b05b007c039494911a8d39d8a6))
+  ([#1235](https://github.com/codeforlife-education/codeforlife-portal/pull/1235),
+  [`ed50c06`](https://github.com/codeforlife-education/codeforlife-portal/commit/ed50c06c33b999b05b007c039494911a8d39d8a6))
 
 * fix: Add install_requires to common package
 
@@ -11839,8 +11939,8 @@ Signed-off-by: Niket <niket.shah1@ocado.com>
 ### Bug Fixes
 
 - Remove travis commit message condition
-  ([#1233](https://github.com/ocadotechnology/codeforlife-portal/pull/1233),
-  [`6b0fb45`](https://github.com/ocadotechnology/codeforlife-portal/commit/6b0fb4552a801eceb63d48e4654c90f2bd36843b))
+  ([#1233](https://github.com/codeforlife-education/codeforlife-portal/pull/1233),
+  [`6b0fb45`](https://github.com/codeforlife-education/codeforlife-portal/commit/6b0fb4552a801eceb63d48e4654c90f2bd36843b))
 
 * fix: Remove travis commit message condition
 
@@ -11850,8 +11950,8 @@ Signed-off-by: Niket <niket.shah1@ocado.com>
 ### Bug Fixes
 
 - Don't upload common package if already exists
-  ([#1231](https://github.com/ocadotechnology/codeforlife-portal/pull/1231),
-  [`ab0c051`](https://github.com/ocadotechnology/codeforlife-portal/commit/ab0c05177e7159076523ea3542b0f21bd8d45dcc))
+  ([#1231](https://github.com/codeforlife-education/codeforlife-portal/pull/1231),
+  [`ab0c051`](https://github.com/codeforlife-education/codeforlife-portal/commit/ab0c05177e7159076523ea3542b0f21bd8d45dcc))
 
 * fix: don't upload common package if already exists
 
@@ -11863,8 +11963,8 @@ Signed-off-by: Niket <niket.shah1@ocado.com>
 ### Bug Fixes
 
 - Rename common_utils references to cfl_common
-  ([#1230](https://github.com/ocadotechnology/codeforlife-portal/pull/1230),
-  [`4f3c6fa`](https://github.com/ocadotechnology/codeforlife-portal/commit/4f3c6fa2cfbabbe36a3f3fbb7e2e7aade73f8055))
+  ([#1230](https://github.com/codeforlife-education/codeforlife-portal/pull/1230),
+  [`4f3c6fa`](https://github.com/codeforlife-education/codeforlife-portal/commit/4f3c6fa2cfbabbe36a3f3fbb7e2e7aade73f8055))
 
 * fix: Rename common_utils references to cfl_common
 
@@ -11873,8 +11973,9 @@ Signed-off-by: Niket <niket.shah1@ocado.com>
 
 ### Features
 
-- Add common package ([#1228](https://github.com/ocadotechnology/codeforlife-portal/pull/1228),
-  [`5f21be7`](https://github.com/ocadotechnology/codeforlife-portal/commit/5f21be79050f6f5ee79edaace8f7f7a65b793588))
+- Add common package
+  ([#1228](https://github.com/codeforlife-education/codeforlife-portal/pull/1228),
+  [`5f21be7`](https://github.com/codeforlife-education/codeforlife-portal/commit/5f21be79050f6f5ee79edaace8f7f7a65b793588))
 
 * Create common package
 
@@ -11900,8 +12001,8 @@ Signed-off-by: Niket <niket.shah1@ocado.com>
 ### Bug Fixes
 
 - Update copy in reset password page for independent student
-  ([#1225](https://github.com/ocadotechnology/codeforlife-portal/pull/1225),
-  [`93e9ac6`](https://github.com/ocadotechnology/codeforlife-portal/commit/93e9ac634c57bef07860754c666df0fcb2e04c16))
+  ([#1225](https://github.com/codeforlife-education/codeforlife-portal/pull/1225),
+  [`93e9ac6`](https://github.com/codeforlife-education/codeforlife-portal/commit/93e9ac634c57bef07860754c666df0fcb2e04c16))
 
 * fix: Update copy in reset password page for independent student
 
@@ -11912,8 +12013,8 @@ Signed-off-by: Niket <niket.shah1@ocado.com>
 ### Chores
 
 - **deps**: Bump psutil from 5.4.8 to 5.6.6
-  ([#1222](https://github.com/ocadotechnology/codeforlife-portal/pull/1222),
-  [`c8f1384`](https://github.com/ocadotechnology/codeforlife-portal/commit/c8f1384cf3be79b8dbc28d2af10d2e1c7581a725))
+  ([#1222](https://github.com/codeforlife-education/codeforlife-portal/pull/1222),
+  [`c8f1384`](https://github.com/codeforlife-education/codeforlife-portal/commit/c8f1384cf3be79b8dbc28d2af10d2e1c7581a725))
 
 * chore(deps): bump psutil from 5.4.8 to 5.6.6
 
@@ -11930,8 +12031,8 @@ Signed-off-by: dependabot[bot] <support@github.com>
 ### Bug Fixes
 
 - Update privacy policy to include Mouseflow and Freshdesk
-  ([#1221](https://github.com/ocadotechnology/codeforlife-portal/pull/1221),
-  [`aade1d9`](https://github.com/ocadotechnology/codeforlife-portal/commit/aade1d9de73bc6e15c1fc4cc24c06853980c058d))
+  ([#1221](https://github.com/codeforlife-education/codeforlife-portal/pull/1221),
+  [`aade1d9`](https://github.com/codeforlife-education/codeforlife-portal/commit/aade1d9de73bc6e15c1fc4cc24c06853980c058d))
 
 * Add copy about Mouseflow
 
@@ -11949,8 +12050,8 @@ Signed-off-by: dependabot[bot] <support@github.com>
 ### Bug Fixes
 
 - Add hijack tags to 500 template
-  ([#1220](https://github.com/ocadotechnology/codeforlife-portal/pull/1220),
-  [`3f21c7c`](https://github.com/ocadotechnology/codeforlife-portal/commit/3f21c7c59302d787147cfccaa3f3013ba874735a))
+  ([#1220](https://github.com/codeforlife-education/codeforlife-portal/pull/1220),
+  [`3f21c7c`](https://github.com/codeforlife-education/codeforlife-portal/commit/3f21c7c59302d787147cfccaa3f3013ba874735a))
 
 * fix: Add hijack tags to 500 template
 
@@ -11960,8 +12061,8 @@ Signed-off-by: dependabot[bot] <support@github.com>
 ### Bug Fixes
 
 - Missing student message and incorrect link on footer
-  ([#1219](https://github.com/ocadotechnology/codeforlife-portal/pull/1219),
-  [`3478845`](https://github.com/ocadotechnology/codeforlife-portal/commit/3478845fe343796359df66318668782fd55ec386))
+  ([#1219](https://github.com/codeforlife-education/codeforlife-portal/pull/1219),
+  [`3478845`](https://github.com/codeforlife-education/codeforlife-portal/commit/3478845fe343796359df66318668782fd55ec386))
 
 * fix OT links
 
@@ -11975,8 +12076,8 @@ Signed-off-by: Niket <niket.shah1@ocado.com>
 ### Bug Fixes
 
 - Fix dropdown highlighting bug
-  ([#1218](https://github.com/ocadotechnology/codeforlife-portal/pull/1218),
-  [`cdaf852`](https://github.com/ocadotechnology/codeforlife-portal/commit/cdaf852802264e3888e215ec9e042707c07c4c1c))
+  ([#1218](https://github.com/codeforlife-education/codeforlife-portal/pull/1218),
+  [`cdaf852`](https://github.com/codeforlife-education/codeforlife-portal/commit/cdaf852802264e3888e215ec9e042707c07c4c1c))
 
 * fix: Remove visited class from dropdown menu items
 
@@ -11986,8 +12087,8 @@ Signed-off-by: Niket <niket.shah1@ocado.com>
 ### Bug Fixes
 
 - Fix teacher login recaptcha issue
-  ([#1217](https://github.com/ocadotechnology/codeforlife-portal/pull/1217),
-  [`2f463ff`](https://github.com/ocadotechnology/codeforlife-portal/commit/2f463ffa3fefc3281d9c574c646d092f116cabef))
+  ([#1217](https://github.com/codeforlife-education/codeforlife-portal/pull/1217),
+  [`2f463ff`](https://github.com/codeforlife-education/codeforlife-portal/commit/2f463ffa3fefc3281d9c574c646d092f116cabef))
 
 * Update Ocado logo links
 
@@ -12006,8 +12107,9 @@ Signed-off-by: Niket <niket.shah1@ocado.com>
 
 ### Features
 
-- Separate login forms ([#1216](https://github.com/ocadotechnology/codeforlife-portal/pull/1216),
-  [`1cf959a`](https://github.com/ocadotechnology/codeforlife-portal/commit/1cf959a23d65a12c57e53827f62471b890ba426a))
+- Separate login forms
+  ([#1216](https://github.com/codeforlife-education/codeforlife-portal/pull/1216),
+  [`1cf959a`](https://github.com/codeforlife-education/codeforlife-portal/commit/1cf959a23d65a12c57e53827f62471b890ba426a))
 
 BREAKING CHANGE: single page login form gone, urls for that login form redirects to home
 
@@ -12111,8 +12213,8 @@ Signed-off-by: Niket <niket.shah1@ocado.com>
 ### Bug Fixes
 
 - Improve school lookup and creation permissions
-  ([#1210](https://github.com/ocadotechnology/codeforlife-portal/pull/1210),
-  [`451105f`](https://github.com/ocadotechnology/codeforlife-portal/commit/451105f7fd9f5d7771f49236097210655de5d5c1))
+  ([#1210](https://github.com/codeforlife-education/codeforlife-portal/pull/1210),
+  [`451105f`](https://github.com/codeforlife-education/codeforlife-portal/commit/451105f7fd9f5d7771f49236097210655de5d5c1))
 
 * Add teacher permission class to school lookup
 
@@ -12132,8 +12234,8 @@ Signed-off-by: Niket <niket.shah1@ocado.com>
 ### Features
 
 - Add Ocado Technology logo to navbar
-  ([#1207](https://github.com/ocadotechnology/codeforlife-portal/pull/1207),
-  [`6341b67`](https://github.com/ocadotechnology/codeforlife-portal/commit/6341b67adb1796c4dd420b95e4ecfdcfcaf90285))
+  ([#1207](https://github.com/codeforlife-education/codeforlife-portal/pull/1207),
+  [`6341b67`](https://github.com/codeforlife-education/codeforlife-portal/commit/6341b67adb1796c4dd420b95e4ecfdcfcaf90285))
 
 * Add logos and add to header
 
@@ -12185,8 +12287,8 @@ Conflicts: 	portal/static/portal/sass/partials/_header.scss
 ### Bug Fixes
 
 - Download lesson button links on home learning page
-  ([#1203](https://github.com/ocadotechnology/codeforlife-portal/pull/1203),
-  [`3b42ad2`](https://github.com/ocadotechnology/codeforlife-portal/commit/3b42ad2e4b7694892a5bcd3f34bda4fe553d6e4b))
+  ([#1203](https://github.com/codeforlife-education/codeforlife-portal/pull/1203),
+  [`3b42ad2`](https://github.com/codeforlife-education/codeforlife-portal/commit/3b42ad2e4b7694892a5bcd3f34bda4fe553d6e4b))
 
 * fix issues in home learning page
 
@@ -12201,8 +12303,9 @@ Signed-off-by: Niket <niket.shah1@ocado.com>
 
 ### Bug Fixes
 
-- Improve admin pages ([#1200](https://github.com/ocadotechnology/codeforlife-portal/pull/1200),
-  [`f80bcb5`](https://github.com/ocadotechnology/codeforlife-portal/commit/f80bcb594ab651a196890745968f8bc3dac2655b))
+- Improve admin pages
+  ([#1200](https://github.com/codeforlife-education/codeforlife-portal/pull/1200),
+  [`f80bcb5`](https://github.com/codeforlife-education/codeforlife-portal/commit/f80bcb594ab651a196890745968f8bc3dac2655b))
 
 * Replace problematic filter bars with column in table
 
@@ -12221,8 +12324,8 @@ Signed-off-by: Niket <niket.shah1@ocado.com>
 ### Bug Fixes
 
 - Update response landing page
-  ([#1201](https://github.com/ocadotechnology/codeforlife-portal/pull/1201),
-  [`72ff7e6`](https://github.com/ocadotechnology/codeforlife-portal/commit/72ff7e626ea8d74194935f8e4a94097ae0d77100))
+  ([#1201](https://github.com/codeforlife-education/codeforlife-portal/pull/1201),
+  [`72ff7e6`](https://github.com/codeforlife-education/codeforlife-portal/commit/72ff7e626ea8d74194935f8e4a94097ae0d77100))
 
 * fix: Update response landing page
 
@@ -12238,8 +12341,8 @@ Signed-off-by: Niket <niket.shah1@ocado.com>
 ### Features
 
 - Integrate Google Tag manager
-  ([#1199](https://github.com/ocadotechnology/codeforlife-portal/pull/1199),
-  [`d3c564c`](https://github.com/ocadotechnology/codeforlife-portal/commit/d3c564c7e00934c58f831692a91fd2f5ddc8d2ff))
+  ([#1199](https://github.com/codeforlife-education/codeforlife-portal/pull/1199),
+  [`d3c564c`](https://github.com/codeforlife-education/codeforlife-portal/commit/d3c564c7e00934c58f831692a91fd2f5ddc8d2ff))
 
 * add google tag manager
 
@@ -12261,8 +12364,8 @@ Signed-off-by: Niket <niket.shah1@ocado.com>
 ### Bug Fixes
 
 - Only show create game HTML to teachers
-  ([#1195](https://github.com/ocadotechnology/codeforlife-portal/pull/1195),
-  [`e8c599d`](https://github.com/ocadotechnology/codeforlife-portal/commit/e8c599d8a5d0da8abc0af042a71082ced378a787))
+  ([#1195](https://github.com/codeforlife-education/codeforlife-portal/pull/1195),
+  [`e8c599d`](https://github.com/codeforlife-education/codeforlife-portal/commit/e8c599d8a5d0da8abc0af042a71082ced378a787))
 
 * fix: Have create game controls HTML only for teachers
 
@@ -12273,8 +12376,9 @@ Signed-off-by: Niket <niket.shah1@ocado.com>
 
 ### Features
 
-- Covid-19 response page ([#1194](https://github.com/ocadotechnology/codeforlife-portal/pull/1194),
-  [`a330b5e`](https://github.com/ocadotechnology/codeforlife-portal/commit/a330b5ea61fc400f166d06a072adccadd87874f3))
+- Covid-19 response page
+  ([#1194](https://github.com/codeforlife-education/codeforlife-portal/pull/1194),
+  [`a330b5e`](https://github.com/codeforlife-education/codeforlife-portal/commit/a330b5ea61fc400f166d06a072adccadd87874f3))
 
 * Add banner
 
@@ -12330,8 +12434,8 @@ Signed-off-by: Niket <niket.shah1@ocado.com>
 ### Features
 
 - Add freshdesk help widget on help and support page and remove old form
-  ([#1186](https://github.com/ocadotechnology/codeforlife-portal/pull/1186),
-  [`caa0750`](https://github.com/ocadotechnology/codeforlife-portal/commit/caa0750e6679a27d6f644a2ea72f17fbb9d18501))
+  ([#1186](https://github.com/codeforlife-education/codeforlife-portal/pull/1186),
+  [`caa0750`](https://github.com/codeforlife-education/codeforlife-portal/commit/caa0750e6679a27d6f644a2ea72f17fbb9d18501))
 
 * Add freshdesk help widget on help and support page and remove old form
 
@@ -12355,8 +12459,8 @@ shows by default on the help and support page (i.e. unhidden)
 ### Bug Fixes
 
 - Unimported module caused 2FA cache not to clear
-  ([#1182](https://github.com/ocadotechnology/codeforlife-portal/pull/1182),
-  [`5ca9d61`](https://github.com/ocadotechnology/codeforlife-portal/commit/5ca9d6106ef7e95b0cd65d62d2a80efb785f657d))
+  ([#1182](https://github.com/codeforlife-education/codeforlife-portal/pull/1182),
+  [`5ca9d61`](https://github.com/codeforlife-education/codeforlife-portal/commit/5ca9d6106ef7e95b0cd65d62d2a80efb785f657d))
 
 * fix: Unimported module caused 2FA cache not to clear
 
@@ -12368,8 +12472,8 @@ Signed-off-by: Niket <niket.shah1@ocado.com>
 ### Features
 
 - Upload new Kurono worksheets
-  ([#1178](https://github.com/ocadotechnology/codeforlife-portal/pull/1178),
-  [`1060bd8`](https://github.com/ocadotechnology/codeforlife-portal/commit/1060bd8ad44cf46b2d56888ac6e7a23e2a73973a))
+  ([#1178](https://github.com/codeforlife-education/codeforlife-portal/pull/1178),
+  [`1060bd8`](https://github.com/codeforlife-education/codeforlife-portal/commit/1060bd8ad44cf46b2d56888ac6e7a23e2a73973a))
 
 * feat: Upload new Kurono worksheets
 
@@ -12382,8 +12486,9 @@ Signed-off-by: Niket <niket.shah1@ocado.com>
 
 ### Features
 
-- Dotmailer integration ([#1168](https://github.com/ocadotechnology/codeforlife-portal/pull/1168),
-  [`5946d97`](https://github.com/ocadotechnology/codeforlife-portal/commit/5946d976390f2b3cdb3279da46c8a153c570c0c2))
+- Dotmailer integration
+  ([#1168](https://github.com/codeforlife-education/codeforlife-portal/pull/1168),
+  [`5946d97`](https://github.com/codeforlife-education/codeforlife-portal/commit/5946d976390f2b3cdb3279da46c8a153c570c0c2))
 
 * update pipfile.lock
 
@@ -12408,8 +12513,8 @@ Signed-off-by: Niket Shah <masterniket@gmail.com>
 
 ### Bug Fixes
 
-- Remove ratelimit ([#1177](https://github.com/ocadotechnology/codeforlife-portal/pull/1177),
-  [`31731d5`](https://github.com/ocadotechnology/codeforlife-portal/commit/31731d5d3af8c5c00f89d280ab11de613000e4ee))
+- Remove ratelimit ([#1177](https://github.com/codeforlife-education/codeforlife-portal/pull/1177),
+  [`31731d5`](https://github.com/codeforlife-education/codeforlife-portal/commit/31731d5d3af8c5c00f89d280ab11de613000e4ee))
 
 * fix: Remove ratelimit
 
@@ -12421,8 +12526,8 @@ Signed-off-by: Niket Shah <masterniket@gmail.com>
 ### Features
 
 - Add django-hijack to admin pages
-  ([#1173](https://github.com/ocadotechnology/codeforlife-portal/pull/1173),
-  [`6d2aa16`](https://github.com/ocadotechnology/codeforlife-portal/commit/6d2aa1690fa99db624e60a6df57fbf01c9a84f64))
+  ([#1173](https://github.com/codeforlife-education/codeforlife-portal/pull/1173),
+  [`6d2aa16`](https://github.com/codeforlife-education/codeforlife-portal/commit/6d2aa1690fa99db624e60a6df57fbf01c9a84f64))
 
 * Test django-hijack
 
@@ -12452,8 +12557,8 @@ Signed-off-by: Niket Shah <masterniket@gmail.com>
 ### Bug Fixes
 
 - Replace __unicode__ with __str__ in models
-  ([#1172](https://github.com/ocadotechnology/codeforlife-portal/pull/1172),
-  [`87ce52e`](https://github.com/ocadotechnology/codeforlife-portal/commit/87ce52e28e07b9ef9cd44a506b7564cf6a36bc5a))
+  ([#1172](https://github.com/codeforlife-education/codeforlife-portal/pull/1172),
+  [`87ce52e`](https://github.com/codeforlife-education/codeforlife-portal/commit/87ce52e28e07b9ef9cd44a506b7564cf6a36bc5a))
 
 * fix: Replace __unicode__ with __str__ in models
 
@@ -12467,8 +12572,8 @@ Signed-off-by: Niket Shah <masterniket@gmail.com>
 ### Bug Fixes
 
 - Use same logic as aimmo for game creation
-  ([#1167](https://github.com/ocadotechnology/codeforlife-portal/pull/1167),
-  [`2a936d5`](https://github.com/ocadotechnology/codeforlife-portal/commit/2a936d54cd6e0582ffefe31511ce37f7922c646c))
+  ([#1167](https://github.com/codeforlife-education/codeforlife-portal/pull/1167),
+  [`2a936d5`](https://github.com/codeforlife-education/codeforlife-portal/commit/2a936d54cd6e0582ffefe31511ce37f7922c646c))
 
 * fix: Use same logic as aimmo for game creation
 
@@ -12482,8 +12587,8 @@ Signed-off-by: Niket Shah <masterniket@gmail.com>
 ### Bug Fixes
 
 - Strengthen random password generator
-  ([#1165](https://github.com/ocadotechnology/codeforlife-portal/pull/1165),
-  [`a4a3290`](https://github.com/ocadotechnology/codeforlife-portal/commit/a4a3290e95c8e3deea9669f55f46d25b34a05f0d))
+  ([#1165](https://github.com/codeforlife-education/codeforlife-portal/pull/1165),
+  [`a4a3290`](https://github.com/codeforlife-education/codeforlife-portal/commit/a4a3290e95c8e3deea9669f55f46d25b34a05f0d))
 
 * fix: Strengthen random password generator
 
@@ -12493,14 +12598,14 @@ Signed-off-by: Niket Shah <masterniket@gmail.com>
 ### Bug Fixes
 
 - Install latest version of python-semantic-release
-  ([#1163](https://github.com/ocadotechnology/codeforlife-portal/pull/1163),
-  [`41443e1`](https://github.com/ocadotechnology/codeforlife-portal/commit/41443e196ff95587b111258c3b7215cda90cddba))
+  ([#1163](https://github.com/codeforlife-education/codeforlife-portal/pull/1163),
+  [`41443e1`](https://github.com/codeforlife-education/codeforlife-portal/commit/41443e196ff95587b111258c3b7215cda90cddba))
 
 * fix: Install latest version of python-semantic-release
 
 - Update independent registration workflow
-  ([#1162](https://github.com/ocadotechnology/codeforlife-portal/pull/1162),
-  [`c61dedb`](https://github.com/ocadotechnology/codeforlife-portal/commit/c61dedb11add8314467c5eb140318b1d0ada0af1))
+  ([#1162](https://github.com/codeforlife-education/codeforlife-portal/pull/1162),
+  [`c61dedb`](https://github.com/codeforlife-education/codeforlife-portal/commit/c61dedb11add8314467c5eb140318b1d0ada0af1))
 
 * fix: Update independent registration workflow
 
@@ -12508,8 +12613,9 @@ Signed-off-by: Niket Shah <masterniket@gmail.com>
 
 ### Chores
 
-- Remove GAE mail setup ([#1159](https://github.com/ocadotechnology/codeforlife-portal/pull/1159),
-  [`4189cf4`](https://github.com/ocadotechnology/codeforlife-portal/commit/4189cf44ef47b18b1d8ca5163fb4e3a02e9220e3))
+- Remove GAE mail setup
+  ([#1159](https://github.com/codeforlife-education/codeforlife-portal/pull/1159),
+  [`4189cf4`](https://github.com/codeforlife-education/codeforlife-portal/commit/4189cf44ef47b18b1d8ca5163fb4e3a02e9220e3))
 
 * chore: Remove GAE mail setup
 
@@ -12521,16 +12627,16 @@ Signed-off-by: Niket Shah <masterniket@gmail.com>
 ### Bug Fixes
 
 - Remove encoding of email message
-  ([#1158](https://github.com/ocadotechnology/codeforlife-portal/pull/1158),
-  [`a01a6df`](https://github.com/ocadotechnology/codeforlife-portal/commit/a01a6df4006c68d1534379e1af655e380c35cd68))
+  ([#1158](https://github.com/codeforlife-education/codeforlife-portal/pull/1158),
+  [`a01a6df`](https://github.com/codeforlife-education/codeforlife-portal/commit/a01a6df4006c68d1534379e1af655e380c35cd68))
 
 * fix: Remove encoding and add test
 
 ### Documentation
 
 - Added life cycle of a code change docs
-  ([#1156](https://github.com/ocadotechnology/codeforlife-portal/pull/1156),
-  [`536c13d`](https://github.com/ocadotechnology/codeforlife-portal/commit/536c13d8ebe9d3f6947cfdac454a0029759d8d99))
+  ([#1156](https://github.com/codeforlife-education/codeforlife-portal/pull/1156),
+  [`536c13d`](https://github.com/codeforlife-education/codeforlife-portal/commit/536c13d8ebe9d3f6947cfdac454a0029759d8d99))
 
 * added life cycle of a code change docs
 
@@ -12545,8 +12651,8 @@ Signed-off-by: Niket Shah <masterniket@gmail.com>
 
 ### Bug Fixes
 
-- Updated copy ([#1154](https://github.com/ocadotechnology/codeforlife-portal/pull/1154),
-  [`2eba29f`](https://github.com/ocadotechnology/codeforlife-portal/commit/2eba29fa7275948f728fd18cc150e2826a049592))
+- Updated copy ([#1154](https://github.com/codeforlife-education/codeforlife-portal/pull/1154),
+  [`2eba29f`](https://github.com/codeforlife-education/codeforlife-portal/commit/2eba29fa7275948f728fd18cc150e2826a049592))
 
 * changed copies with no links
 
@@ -12571,8 +12677,8 @@ This reverts commit 5c82d05225eca4133732f25fadda4cbe8cecedd0.
 
 ### Bug Fixes
 
-- Secure API URLs ([#1151](https://github.com/ocadotechnology/codeforlife-portal/pull/1151),
-  [`f1d8c75`](https://github.com/ocadotechnology/codeforlife-portal/commit/f1d8c75626ac38a3c4842041349c2d05ea62f2dd))
+- Secure API URLs ([#1151](https://github.com/codeforlife-education/codeforlife-portal/pull/1151),
+  [`f1d8c75`](https://github.com/codeforlife-education/codeforlife-portal/commit/f1d8c75626ac38a3c4842041349c2d05ea62f2dd))
 
 * fix: Make API URLs need admin login
 
@@ -12581,8 +12687,9 @@ This reverts commit 5c82d05225eca4133732f25fadda4cbe8cecedd0.
 
 ### Bug Fixes
 
-- Remove reports module ([#1150](https://github.com/ocadotechnology/codeforlife-portal/pull/1150),
-  [`039c699`](https://github.com/ocadotechnology/codeforlife-portal/commit/039c69928401d3f8d42b6a89d291b2bb02be5270))
+- Remove reports module
+  ([#1150](https://github.com/codeforlife-education/codeforlife-portal/pull/1150),
+  [`039c699`](https://github.com/codeforlife-education/codeforlife-portal/commit/039c69928401d3f8d42b6a89d291b2bb02be5270))
 
 * fix: Remove reports module
 
@@ -12591,8 +12698,8 @@ This reverts commit 5c82d05225eca4133732f25fadda4cbe8cecedd0.
 
 ### Bug Fixes
 
-- Remove bytestring ([#1149](https://github.com/ocadotechnology/codeforlife-portal/pull/1149),
-  [`8d5cca3`](https://github.com/ocadotechnology/codeforlife-portal/commit/8d5cca319c244baa859db108193da18e330cf332))
+- Remove bytestring ([#1149](https://github.com/codeforlife-education/codeforlife-portal/pull/1149),
+  [`8d5cca3`](https://github.com/codeforlife-education/codeforlife-portal/commit/8d5cca319c244baa859db108193da18e330cf332))
 
 * fix: Remove bytestring
 
@@ -12651,8 +12758,9 @@ Signed-off-by: Niket <niket.shah1@ocado.com>
 
 ### Bug Fixes
 
-- Uninstalled urllib3 ([#1145](https://github.com/ocadotechnology/codeforlife-portal/pull/1145),
-  [`98beac2`](https://github.com/ocadotechnology/codeforlife-portal/commit/98beac2d69bb270aec465755f935ee5a70ee9789))
+- Uninstalled urllib3
+  ([#1145](https://github.com/codeforlife-education/codeforlife-portal/pull/1145),
+  [`98beac2`](https://github.com/codeforlife-education/codeforlife-portal/commit/98beac2d69bb270aec465755f935ee5a70ee9789))
 
 * fix: uninstalled urllib3
 
@@ -12666,8 +12774,8 @@ Signed-off-by: Niket <niket.shah1@ocado.com>
 ### Bug Fixes
 
 - Fix capitalisation of PDF names
-  ([#1147](https://github.com/ocadotechnology/codeforlife-portal/pull/1147),
-  [`4688f91`](https://github.com/ocadotechnology/codeforlife-portal/commit/4688f91c434a79dab696c363db5eb74e93d9f303))
+  ([#1147](https://github.com/codeforlife-education/codeforlife-portal/pull/1147),
+  [`4688f91`](https://github.com/codeforlife-education/codeforlife-portal/commit/4688f91c434a79dab696c363db5eb74e93d9f303))
 
 * fix: Fix capitalisation of PDF names
 
@@ -12676,8 +12784,9 @@ Signed-off-by: Niket <niket.shah1@ocado.com>
 
 ### Bug Fixes
 
-- Fix captcha login error ([#1143](https://github.com/ocadotechnology/codeforlife-portal/pull/1143),
-  [`cbd699c`](https://github.com/ocadotechnology/codeforlife-portal/commit/cbd699cc75fa0ae1785f8ae767205eb28d432073))
+- Fix captcha login error
+  ([#1143](https://github.com/codeforlife-education/codeforlife-portal/pull/1143),
+  [`cbd699c`](https://github.com/codeforlife-education/codeforlife-portal/commit/cbd699cc75fa0ae1785f8ae767205eb28d432073))
 
 * enable captcha for tests
 
@@ -12703,8 +12812,8 @@ Signed-off-by: Niket Shah <masterniket@gmail.com>
 ### Features
 
 - Upgraded reportlab to 3.5.32
-  ([#1144](https://github.com/ocadotechnology/codeforlife-portal/pull/1144),
-  [`925acc3`](https://github.com/ocadotechnology/codeforlife-portal/commit/925acc3ae3b4a0b8305fe716add57e1a0b3c250d))
+  ([#1144](https://github.com/codeforlife-education/codeforlife-portal/pull/1144),
+  [`925acc3`](https://github.com/codeforlife-education/codeforlife-portal/commit/925acc3ae3b4a0b8305fe716add57e1a0b3c250d))
 
 * upgraded reportlab to 3.5.32
 
@@ -12715,8 +12824,9 @@ Signed-off-by: Niket Shah <masterniket@gmail.com>
 
 ### Bug Fixes
 
-- Remove django-appconf ([#1142](https://github.com/ocadotechnology/codeforlife-portal/pull/1142),
-  [`fcfda11`](https://github.com/ocadotechnology/codeforlife-portal/commit/fcfda1111b3c608a93bd6ca4bce19135b226cb40))
+- Remove django-appconf
+  ([#1142](https://github.com/codeforlife-education/codeforlife-portal/pull/1142),
+  [`fcfda11`](https://github.com/codeforlife-education/codeforlife-portal/commit/fcfda1111b3c608a93bd6ca4bce19135b226cb40))
 
 * fix: Remove django-appconf
 
@@ -12730,8 +12840,8 @@ Signed-off-by: Niket Shah <masterniket@gmail.com>
 ### Features
 
 - Upgraded django-two-factor-auth to 1.9.1
-  ([#1141](https://github.com/ocadotechnology/codeforlife-portal/pull/1141),
-  [`b9b738c`](https://github.com/ocadotechnology/codeforlife-portal/commit/b9b738c84e0ed792e28aff8076a90c9d99a0a95e))
+  ([#1141](https://github.com/codeforlife-education/codeforlife-portal/pull/1141),
+  [`b9b738c`](https://github.com/codeforlife-education/codeforlife-portal/commit/b9b738c84e0ed792e28aff8076a90c9d99a0a95e))
 
 * upgraded django-two-factor-auth to 1.9.1
 
@@ -12742,8 +12852,9 @@ Signed-off-by: Niket Shah <masterniket@gmail.com>
 
 ### Bug Fixes
 
-- Remove django jquery ([#1140](https://github.com/ocadotechnology/codeforlife-portal/pull/1140),
-  [`32ef3d0`](https://github.com/ocadotechnology/codeforlife-portal/commit/32ef3d08a50f3d50dbe60d07edaecc645ba55a4d))
+- Remove django jquery
+  ([#1140](https://github.com/codeforlife-education/codeforlife-portal/pull/1140),
+  [`32ef3d0`](https://github.com/codeforlife-education/codeforlife-portal/commit/32ef3d08a50f3d50dbe60d07edaecc645ba55a4d))
 
 * removed django-jquery, but it's a rapid router dependency
 
@@ -12759,8 +12870,8 @@ Signed-off-by: Niket Shah <masterniket@gmail.com>
 ### Bug Fixes
 
 - Cache templates with version
-  ([#1139](https://github.com/ocadotechnology/codeforlife-portal/pull/1139),
-  [`8236127`](https://github.com/ocadotechnology/codeforlife-portal/commit/823612729eee61ae15bb9394b91c670b2a658bbb))
+  ([#1139](https://github.com/codeforlife-education/codeforlife-portal/pull/1139),
+  [`8236127`](https://github.com/codeforlife-education/codeforlife-portal/commit/823612729eee61ae15bb9394b91c670b2a658bbb))
 
 * fix: cache templates with version
 
@@ -12774,8 +12885,8 @@ Signed-off-by: Niket Shah <masterniket@gmail.com>
 ### Bug Fixes
 
 - Remove django-forms-bootstrap from portal
-  ([#1138](https://github.com/ocadotechnology/codeforlife-portal/pull/1138),
-  [`070e0cc`](https://github.com/ocadotechnology/codeforlife-portal/commit/070e0cc71b6ed81cf82ffaa0a34da9ab1b5e71c8))
+  ([#1138](https://github.com/codeforlife-education/codeforlife-portal/pull/1138),
+  [`070e0cc`](https://github.com/codeforlife-education/codeforlife-portal/commit/070e0cc71b6ed81cf82ffaa0a34da9ab1b5e71c8))
 
 * fix: Remove django-forms-bootstrap from portal
 
@@ -12789,8 +12900,8 @@ Signed-off-by: Niket Shah <masterniket@gmail.com>
 ### Bug Fixes
 
 - Redirect school students to dashboard when access indep page
-  ([#1130](https://github.com/ocadotechnology/codeforlife-portal/pull/1130),
-  [`2609aac`](https://github.com/ocadotechnology/codeforlife-portal/commit/2609aac48da28b115b9ca9dcdc236e07d1453517))
+  ([#1130](https://github.com/codeforlife-education/codeforlife-portal/pull/1130),
+  [`2609aac`](https://github.com/codeforlife-education/codeforlife-portal/commit/2609aac48da28b115b9ca9dcdc236e07d1453517))
 
 * fix: Redirect school students to dashboard if they try to access the join school page
 
@@ -12802,8 +12913,8 @@ Signed-off-by: Niket Shah <masterniket@gmail.com>
 ### Features
 
 - Upgrade django recaptcha
-  ([#1131](https://github.com/ocadotechnology/codeforlife-portal/pull/1131),
-  [`518ea50`](https://github.com/ocadotechnology/codeforlife-portal/commit/518ea50b2152011d4e3984dfc7b125e8d610a4a1))
+  ([#1131](https://github.com/codeforlife-education/codeforlife-portal/pull/1131),
+  [`518ea50`](https://github.com/codeforlife-education/codeforlife-portal/commit/518ea50b2152011d4e3984dfc7b125e8d610a4a1))
 
 * Remove ratelimit on captchas
 
@@ -12827,8 +12938,8 @@ Signed-off-by: Niket <niket.shah1@ocado.com>
 ### Bug Fixes
 
 - Remove docutils from Pipfile.lock
-  ([#1128](https://github.com/ocadotechnology/codeforlife-portal/pull/1128),
-  [`ffcf583`](https://github.com/ocadotechnology/codeforlife-portal/commit/ffcf5838ff07a00c6d610564e41cde011d81572a))
+  ([#1128](https://github.com/codeforlife-education/codeforlife-portal/pull/1128),
+  [`ffcf583`](https://github.com/codeforlife-education/codeforlife-portal/commit/ffcf5838ff07a00c6d610564e41cde011d81572a))
 
 * fix: lock file to remove docutils
 
@@ -12838,8 +12949,8 @@ Signed-off-by: Niket <niket.shah1@ocado.com>
 ### Features
 
 - Upgrade responses to 0.10.7
-  ([#1127](https://github.com/ocadotechnology/codeforlife-portal/pull/1127),
-  [`559cf26`](https://github.com/ocadotechnology/codeforlife-portal/commit/559cf2696741855a7504e0a1c3b6d675b9b0947a))
+  ([#1127](https://github.com/codeforlife-education/codeforlife-portal/pull/1127),
+  [`559cf26`](https://github.com/codeforlife-education/codeforlife-portal/commit/559cf2696741855a7504e0a1c3b6d675b9b0947a))
 
 * feat: Upgrade responses to 0.10.7
 
@@ -12848,8 +12959,8 @@ Signed-off-by: Niket <niket.shah1@ocado.com>
 
 ### Bug Fixes
 
-- Remove postcodes ([#1126](https://github.com/ocadotechnology/codeforlife-portal/pull/1126),
-  [`cd97371`](https://github.com/ocadotechnology/codeforlife-portal/commit/cd9737176ee8e693d311d0b97caf66ae05a906d3))
+- Remove postcodes ([#1126](https://github.com/codeforlife-education/codeforlife-portal/pull/1126),
+  [`cd97371`](https://github.com/codeforlife-education/codeforlife-portal/commit/cd9737176ee8e693d311d0b97caf66ae05a906d3))
 
 * fix: remove postcodes
 
@@ -12859,8 +12970,8 @@ Signed-off-by: Niket <niket.shah1@ocado.com>
 ### Bug Fixes
 
 - Removed django-classy-tags from setup.py file
-  ([#1124](https://github.com/ocadotechnology/codeforlife-portal/pull/1124),
-  [`90c4306`](https://github.com/ocadotechnology/codeforlife-portal/commit/90c43065ddd6b5b6b8efbcaeae0c20d0f3af4cc1))
+  ([#1124](https://github.com/codeforlife-education/codeforlife-portal/pull/1124),
+  [`90c4306`](https://github.com/codeforlife-education/codeforlife-portal/commit/90c43065ddd6b5b6b8efbcaeae0c20d0f3af4cc1))
 
 * removed django-classy-tags from setup.py file
 
@@ -12870,8 +12981,8 @@ Signed-off-by: Niket <niket.shah1@ocado.com>
 ### Bug Fixes
 
 - Removed docutils from setup.py
-  ([#1123](https://github.com/ocadotechnology/codeforlife-portal/pull/1123),
-  [`33365e2`](https://github.com/ocadotechnology/codeforlife-portal/commit/33365e2b577ea6b031a788a5c2bca1314d457c20))
+  ([#1123](https://github.com/codeforlife-education/codeforlife-portal/pull/1123),
+  [`33365e2`](https://github.com/codeforlife-education/codeforlife-portal/commit/33365e2b577ea6b031a788a5c2bca1314d457c20))
 
 * removed docutils from setup.py (still in lock file from elsewhere)
 
@@ -12885,8 +12996,8 @@ Signed-off-by: Niket <niket.shah1@ocado.com>
 ### Features
 
 - Upgraded phonenumbers to 8.11.0
-  ([#1120](https://github.com/ocadotechnology/codeforlife-portal/pull/1120),
-  [`80b9257`](https://github.com/ocadotechnology/codeforlife-portal/commit/80b92571df7774e29edd1a73b4f706c36acda49d))
+  ([#1120](https://github.com/codeforlife-education/codeforlife-portal/pull/1120),
+  [`80b9257`](https://github.com/codeforlife-education/codeforlife-portal/commit/80b92571df7774e29edd1a73b4f706c36acda49d))
 
 * upgraded phonenumbers to 8.11.0
 
@@ -12904,8 +13015,8 @@ Signed-off-by: Niket <niket.shah1@ocado.com>
 ### Features
 
 - Upgrade django-sekizai to 1.0.0
-  ([#1122](https://github.com/ocadotechnology/codeforlife-portal/pull/1122),
-  [`861699f`](https://github.com/ocadotechnology/codeforlife-portal/commit/861699fad6b630abe9f578fc595d935ecf750813))
+  ([#1122](https://github.com/codeforlife-education/codeforlife-portal/pull/1122),
+  [`861699f`](https://github.com/codeforlife-education/codeforlife-portal/commit/861699fad6b630abe9f578fc595d935ecf750813))
 
 * feat: Update django-sekizai to 1.0.0
 
@@ -12914,8 +13025,9 @@ Signed-off-by: Niket <niket.shah1@ocado.com>
 
 ### Bug Fixes
 
-- Remove django-reversion ([#1121](https://github.com/ocadotechnology/codeforlife-portal/pull/1121),
-  [`1911cf9`](https://github.com/ocadotechnology/codeforlife-portal/commit/1911cf93e472d0ad8a035e0c72028f1a7ed95ce1))
+- Remove django-reversion
+  ([#1121](https://github.com/codeforlife-education/codeforlife-portal/pull/1121),
+  [`1911cf9`](https://github.com/codeforlife-education/codeforlife-portal/commit/1911cf93e472d0ad8a035e0c72028f1a7ed95ce1))
 
 * fix: remove django-reversion
 
@@ -12925,8 +13037,8 @@ Signed-off-by: Niket <niket.shah1@ocado.com>
 ### Features
 
 - Run futurize stage2 to theoretically support python3
-  ([#1113](https://github.com/ocadotechnology/codeforlife-portal/pull/1113),
-  [`36266de`](https://github.com/ocadotechnology/codeforlife-portal/commit/36266de0914d58f8cc165f3bb7f6b7ccbdf2ebe0))
+  ([#1113](https://github.com/codeforlife-education/codeforlife-portal/pull/1113),
+  [`36266de`](https://github.com/codeforlife-education/codeforlife-portal/commit/36266de0914d58f8cc165f3bb7f6b7ccbdf2ebe0))
 
 * futurize stage 1
 
@@ -12973,8 +13085,8 @@ This reverts commit 99b55288ad59ddb85452c53aea5a80d56f2a754e.
 ### Features
 
 - Upload new Kurono student challenges
-  ([#1106](https://github.com/ocadotechnology/codeforlife-portal/pull/1106),
-  [`a334c54`](https://github.com/ocadotechnology/codeforlife-portal/commit/a334c5418a65f968d2066870e54c5cbc7991a502))
+  ([#1106](https://github.com/codeforlife-education/codeforlife-portal/pull/1106),
+  [`a334c54`](https://github.com/codeforlife-education/codeforlife-portal/commit/a334c5418a65f968d2066870e54c5cbc7991a502))
 
 * feat: Upload new Kurono student challenges
 
@@ -12986,8 +13098,8 @@ This reverts commit 99b55288ad59ddb85452c53aea5a80d56f2a754e.
 ### Bug Fixes
 
 - Use class references for login recaptcha
-  ([#1105](https://github.com/ocadotechnology/codeforlife-portal/pull/1105),
-  [`ae1a159`](https://github.com/ocadotechnology/codeforlife-portal/commit/ae1a159c4dea57d789ca9bd4e82a190a2f85d2f7))
+  ([#1105](https://github.com/codeforlife-education/codeforlife-portal/pull/1105),
+  [`ae1a159`](https://github.com/codeforlife-education/codeforlife-portal/commit/ae1a159c4dea57d789ca9bd4e82a190a2f85d2f7))
 
 * fix: revert to Class references
 
@@ -12997,8 +13109,8 @@ This reverts commit 99b55288ad59ddb85452c53aea5a80d56f2a754e.
 ### Bug Fixes
 
 - Remove deprecated function from admin login view
-  ([#1103](https://github.com/ocadotechnology/codeforlife-portal/pull/1103),
-  [`cfa49aa`](https://github.com/ocadotechnology/codeforlife-portal/commit/cfa49aa275491f1c9f93eeabff81fc3cf52699d2))
+  ([#1103](https://github.com/codeforlife-education/codeforlife-portal/pull/1103),
+  [`cfa49aa`](https://github.com/codeforlife-education/codeforlife-portal/commit/cfa49aa275491f1c9f93eeabff81fc3cf52699d2))
 
 * fix: replace deprecated login function with loginview class
 
@@ -13022,8 +13134,8 @@ This reverts commit 99b55288ad59ddb85452c53aea5a80d56f2a754e.
 ### Features
 
 - Change cache control to private
-  ([#1102](https://github.com/ocadotechnology/codeforlife-portal/pull/1102),
-  [`0fc198f`](https://github.com/ocadotechnology/codeforlife-portal/commit/0fc198fe029bf957dc76a316a5f403ee300f57da))
+  ([#1102](https://github.com/codeforlife-education/codeforlife-portal/pull/1102),
+  [`0fc198f`](https://github.com/codeforlife-education/codeforlife-portal/commit/0fc198fe029bf957dc76a316a5f403ee300f57da))
 
 * removed online status middleware doc
 
@@ -13037,8 +13149,8 @@ This reverts commit 99b55288ad59ddb85452c53aea5a80d56f2a754e.
 ### Bug Fixes
 
 - Changed XTCP header setting to autoconfig
-  ([#1101](https://github.com/ocadotechnology/codeforlife-portal/pull/1101),
-  [`9a96ce8`](https://github.com/ocadotechnology/codeforlife-portal/commit/9a96ce86e37d0bf6d9661c44243dd4f3752f9d88))
+  ([#1101](https://github.com/codeforlife-education/codeforlife-portal/pull/1101),
+  [`9a96ce8`](https://github.com/codeforlife-education/codeforlife-portal/commit/9a96ce86e37d0bf6d9661c44243dd4f3752f9d88))
 
 * changed xtco setting to autoconfig
 
@@ -13048,8 +13160,8 @@ This reverts commit 99b55288ad59ddb85452c53aea5a80d56f2a754e.
 ### Features
 
 - Install django security middleware for STS and XCTO HTTP headers
-  ([#1097](https://github.com/ocadotechnology/codeforlife-portal/pull/1097),
-  [`7ab9182`](https://github.com/ocadotechnology/codeforlife-portal/commit/7ab918297d5681ef170befdb25933cd25c7429e1))
+  ([#1097](https://github.com/codeforlife-education/codeforlife-portal/pull/1097),
+  [`7ab9182`](https://github.com/codeforlife-education/codeforlife-portal/commit/7ab918297d5681ef170befdb25933cd25c7429e1))
 
 * Added X type content and STS headers
 
@@ -13075,8 +13187,8 @@ This reverts commit 899bc2b071bb9e982d93b4824dccdac059b4ec02.
 ### Features
 
 - Upgrade django to 1.11.24
-  ([#1030](https://github.com/ocadotechnology/codeforlife-portal/pull/1030),
-  [`9a85fab`](https://github.com/ocadotechnology/codeforlife-portal/commit/9a85fab05992bcdbf30602af673d9703cf54ad4a))
+  ([#1030](https://github.com/codeforlife-education/codeforlife-portal/pull/1030),
+  [`9a85fab`](https://github.com/codeforlife-education/codeforlife-portal/commit/9a85fab05992bcdbf30602af673d9703cf54ad4a))
 
 * upgraded django to 1.11.24
 
@@ -13112,8 +13224,8 @@ Signed-off-by: Niket Shah <masterniket@gmail.com>
 ### Features
 
 - Remove online status feature
-  ([#1093](https://github.com/ocadotechnology/codeforlife-portal/pull/1093),
-  [`7c8b4d4`](https://github.com/ocadotechnology/codeforlife-portal/commit/7c8b4d4056de4d74cb9d455bf3e87220fcc9eaf2))
+  ([#1093](https://github.com/codeforlife-education/codeforlife-portal/pull/1093),
+  [`7c8b4d4`](https://github.com/codeforlife-education/codeforlife-portal/commit/7c8b4d4056de4d74cb9d455bf3e87220fcc9eaf2))
 
 * fix: remove online status feature
 
@@ -13125,8 +13237,8 @@ Signed-off-by: Niket Shah <masterniket@gmail.com>
 ### Build System
 
 - Bump pillow from 3.3.2 to 5.4.1
-  ([#1083](https://github.com/ocadotechnology/codeforlife-portal/pull/1083),
-  [`53a9aee`](https://github.com/ocadotechnology/codeforlife-portal/commit/53a9aee30c468537f8454d0d3fc9414a219d4eb4))
+  ([#1083](https://github.com/codeforlife-education/codeforlife-portal/pull/1083),
+  [`53a9aee`](https://github.com/codeforlife-education/codeforlife-portal/commit/53a9aee30c468537f8454d0d3fc9414a219d4eb4))
 
 * build(deps): bump pillow from 3.3.2 to 6.2.0
 
@@ -13146,8 +13258,8 @@ Signed-off-by: dependabot[bot] <support@github.com>
 * Update pipfile properly
 
 - Bump urllib3 from 1.23 to 1.24.2
-  ([#1088](https://github.com/ocadotechnology/codeforlife-portal/pull/1088),
-  [`fba0243`](https://github.com/ocadotechnology/codeforlife-portal/commit/fba0243b8a6453ef63f038820db4bb05876b0bf8))
+  ([#1088](https://github.com/codeforlife-education/codeforlife-portal/pull/1088),
+  [`fba0243`](https://github.com/codeforlife-education/codeforlife-portal/commit/fba0243b8a6453ef63f038820db4bb05876b0bf8))
 
 * build: bump urllib3 from 1.23 to 1.24.2
 
@@ -13163,8 +13275,8 @@ Signed-off-by: dependabot[bot] <support@github.com>
 ### Features
 
 - Update list of contributors
-  ([#1091](https://github.com/ocadotechnology/codeforlife-portal/pull/1091),
-  [`1e9057d`](https://github.com/ocadotechnology/codeforlife-portal/commit/1e9057d71bf3468aedac13b0475b9b71699f240e))
+  ([#1091](https://github.com/codeforlife-education/codeforlife-portal/pull/1091),
+  [`1e9057d`](https://github.com/codeforlife-education/codeforlife-portal/commit/1e9057d71bf3468aedac13b0475b9b71699f240e))
 
 * Fixes #1090 - add thanks
 
@@ -13174,8 +13286,8 @@ Signed-off-by: dependabot[bot] <support@github.com>
 ### Features
 
 - Removed transparent subnav from RR page, deleted aimmo preview page
-  ([#1064](https://github.com/ocadotechnology/codeforlife-portal/pull/1064),
-  [`e6ef252`](https://github.com/ocadotechnology/codeforlife-portal/commit/e6ef252d006dd1087760afc3c8707e7b7426db56))
+  ([#1064](https://github.com/codeforlife-education/codeforlife-portal/pull/1064),
+  [`e6ef252`](https://github.com/codeforlife-education/codeforlife-portal/commit/e6ef252d006dd1087760afc3c8707e7b7426db56))
 
 * removed transparent subnav from RR page, deleted aimmo preview page
 
@@ -13194,8 +13306,8 @@ Signed-off-by: Niket Shah <masterniket@gmail.com>
 ### Features
 
 - Changed home page icons to include hexagons and kurono
-  ([#1063](https://github.com/ocadotechnology/codeforlife-portal/pull/1063),
-  [`203397d`](https://github.com/ocadotechnology/codeforlife-portal/commit/203397db6e8d2476fdc548c23467d56e981500fd))
+  ([#1063](https://github.com/codeforlife-education/codeforlife-portal/pull/1063),
+  [`203397d`](https://github.com/codeforlife-education/codeforlife-portal/commit/203397db6e8d2476fdc548c23467d56e981500fd))
 
 * changed home page icons to include hexagons and kurono
 
@@ -13211,8 +13323,8 @@ Signed-off-by: Niket Shah <masterniket@gmail.com>
 ### Bug Fixes
 
 - Remove extra padding from banner images
-  ([#1078](https://github.com/ocadotechnology/codeforlife-portal/pull/1078),
-  [`5ec3cc3`](https://github.com/ocadotechnology/codeforlife-portal/commit/5ec3cc36d8f02b0be13b321199b540cb6b28f0ae))
+  ([#1078](https://github.com/codeforlife-education/codeforlife-portal/pull/1078),
+  [`5ec3cc3`](https://github.com/codeforlife-education/codeforlife-portal/commit/5ec3cc36d8f02b0be13b321199b540cb6b28f0ae))
 
 * fix: move padding attribute to target only kurono logo
 
@@ -13229,8 +13341,8 @@ Signed-off-by: Niket Shah <masterniket@gmail.com>
 
 ### Features
 
-- New play page ([#1061](https://github.com/ocadotechnology/codeforlife-portal/pull/1061),
-  [`a6755c0`](https://github.com/ocadotechnology/codeforlife-portal/commit/a6755c0134a8590f3331c9e4f64aa4b72bf377a1))
+- New play page ([#1061](https://github.com/codeforlife-education/codeforlife-portal/pull/1061),
+  [`a6755c0`](https://github.com/codeforlife-education/codeforlife-portal/commit/a6755c0134a8590f3331c9e4f64aa4b72bf377a1))
 
 * Create new play page
 
@@ -13298,8 +13410,8 @@ Signed-off-by: Niket Shah <masterniket@gmail.com>
 
 ### Bug Fixes
 
-- Benefits partial ([#1077](https://github.com/ocadotechnology/codeforlife-portal/pull/1077),
-  [`023c0fd`](https://github.com/ocadotechnology/codeforlife-portal/commit/023c0fd7f6a755e7bd120d36aed2171bef182661))
+- Benefits partial ([#1077](https://github.com/codeforlife-education/codeforlife-portal/pull/1077),
+  [`023c0fd`](https://github.com/codeforlife-education/codeforlife-portal/commit/023c0fd7f6a755e7bd120d36aed2171bef182661))
 
 * fixed benefits in all pages
 
@@ -13312,8 +13424,9 @@ Signed-off-by: Niket Shah <masterniket@gmail.com>
 
 ### Bug Fixes
 
-- Update privacy policy ([#1076](https://github.com/ocadotechnology/codeforlife-portal/pull/1076),
-  [`974c656`](https://github.com/ocadotechnology/codeforlife-portal/commit/974c6566c659948996523ea6a2853a2c17aec608))
+- Update privacy policy
+  ([#1076](https://github.com/codeforlife-education/codeforlife-portal/pull/1076),
+  [`974c656`](https://github.com/codeforlife-education/codeforlife-portal/commit/974c6566c659948996523ea6a2853a2c17aec608))
 
 * Updated the copy with revisions
 
@@ -13326,8 +13439,9 @@ Signed-off-by: Niket Shah <masterniket@gmail.com>
 
 ### Bug Fixes
 
-- Kurono landing qa fixes ([#1065](https://github.com/ocadotechnology/codeforlife-portal/pull/1065),
-  [`1e09a9e`](https://github.com/ocadotechnology/codeforlife-portal/commit/1e09a9e0f9024067f9e75559a020aa9ed39b32bf))
+- Kurono landing qa fixes
+  ([#1065](https://github.com/codeforlife-education/codeforlife-portal/pull/1065),
+  [`1e09a9e`](https://github.com/codeforlife-education/codeforlife-portal/commit/1e09a9e0f9024067f9e75559a020aa9ed39b32bf))
 
 * redirect to preview aimmo page
 
@@ -13340,8 +13454,9 @@ Signed-off-by: Niket Shah <masterniket@gmail.com>
 
 ### Features
 
-- New Kurono landing page ([#1060](https://github.com/ocadotechnology/codeforlife-portal/pull/1060),
-  [`cf4fbe5`](https://github.com/ocadotechnology/codeforlife-portal/commit/cf4fbe5acaece366e5761fc4667f17798f29185b))
+- New Kurono landing page
+  ([#1060](https://github.com/codeforlife-education/codeforlife-portal/pull/1060),
+  [`cf4fbe5`](https://github.com/codeforlife-education/codeforlife-portal/commit/cf4fbe5acaece366e5761fc4667f17798f29185b))
 
 * called play_aimmo.html play_aimmo_old.html and added page w/ partials
 
@@ -13394,8 +13509,9 @@ This reverts commit e33c2088246f60c0f59f9182287cbc32cb1ff229.
 
 ### Features
 
-- Game banner partial ([#1058](https://github.com/ocadotechnology/codeforlife-portal/pull/1058),
-  [`976d85b`](https://github.com/ocadotechnology/codeforlife-portal/commit/976d85b310fadbedbdc5735fa34f5e60c8b9eb27))
+- Game banner partial
+  ([#1058](https://github.com/codeforlife-education/codeforlife-portal/pull/1058),
+  [`976d85b`](https://github.com/codeforlife-education/codeforlife-portal/commit/976d85b310fadbedbdc5735fa34f5e60c8b9eb27))
 
 * Adds game banner mixin + temp examples in play page
 
@@ -13435,8 +13551,8 @@ This reverts commit e33c2088246f60c0f59f9182287cbc32cb1ff229.
 
 ### Refactoring
 
-- Benefits partial ([#1053](https://github.com/ocadotechnology/codeforlife-portal/pull/1053),
-  [`4b58142`](https://github.com/ocadotechnology/codeforlife-portal/commit/4b58142f6ec9b18823211689dafc0381926bc548))
+- Benefits partial ([#1053](https://github.com/codeforlife-education/codeforlife-portal/pull/1053),
+  [`4b58142`](https://github.com/codeforlife-education/codeforlife-portal/commit/4b58142f6ec9b18823211689dafc0381926bc548))
 
 * teach and about pages done
 
@@ -13473,8 +13589,8 @@ This reverts commit e33c2088246f60c0f59f9182287cbc32cb1ff229.
 * syntax fix
 
 - Make banner into a partial
-  ([#1052](https://github.com/ocadotechnology/codeforlife-portal/pull/1052),
-  [`e6676f3`](https://github.com/ocadotechnology/codeforlife-portal/commit/e6676f30e875aa6734ccb6356c28d044fa3e35a8))
+  ([#1052](https://github.com/codeforlife-education/codeforlife-portal/pull/1052),
+  [`e6676f3`](https://github.com/codeforlife-education/codeforlife-portal/commit/e6676f30e875aa6734ccb6356c28d044fa3e35a8))
 
 * Refactor banner to be a partial
 
@@ -13489,8 +13605,8 @@ This reverts commit e33c2088246f60c0f59f9182287cbc32cb1ff229.
 * Rename hexagon to image + Black format
 
 - Make page blurb into a partial
-  ([#1057](https://github.com/ocadotechnology/codeforlife-portal/pull/1057),
-  [`3cabf53`](https://github.com/ocadotechnology/codeforlife-portal/commit/3cabf53c53d992c9a65b0aac79015c912fac892c))
+  ([#1057](https://github.com/codeforlife-education/codeforlife-portal/pull/1057),
+  [`3cabf53`](https://github.com/codeforlife-education/codeforlife-portal/commit/3cabf53c53d992c9a65b0aac79015c912fac892c))
 
 * refactor: Make page blurb into a partial
 
@@ -13507,8 +13623,9 @@ This reverts commit e33c2088246f60c0f59f9182287cbc32cb1ff229.
 
 ### Features
 
-- Update Kurono PDFs ([#1050](https://github.com/ocadotechnology/codeforlife-portal/pull/1050),
-  [`549b04f`](https://github.com/ocadotechnology/codeforlife-portal/commit/549b04f37dc3d7ba71fc0fc74ceffaa72dc57ea0))
+- Update Kurono PDFs
+  ([#1050](https://github.com/codeforlife-education/codeforlife-portal/pull/1050),
+  [`549b04f`](https://github.com/codeforlife-education/codeforlife-portal/commit/549b04f37dc3d7ba71fc0fc74ceffaa72dc57ea0))
 
 * feat: update Kurono PDFs
 
@@ -13520,8 +13637,8 @@ This reverts commit e33c2088246f60c0f59f9182287cbc32cb1ff229.
 ### Features
 
 - Redirect Kurono users to landing page till launch
-  ([#1036](https://github.com/ocadotechnology/codeforlife-portal/pull/1036),
-  [`ab0ae82`](https://github.com/ocadotechnology/codeforlife-portal/commit/ab0ae828186450f38f2de3a603e6173cc6f1586e))
+  ([#1036](https://github.com/codeforlife-education/codeforlife-portal/pull/1036),
+  [`ab0ae82`](https://github.com/codeforlife-education/codeforlife-portal/commit/ab0ae828186450f38f2de3a603e6173cc6f1586e))
 
 * redirect Kurono users to landing page till launch
 
@@ -13544,8 +13661,9 @@ Signed-off-by: Niket Shah <masterniket@gmail.com>
 
 ### Bug Fixes
 
-- Escape message content ([#1035](https://github.com/ocadotechnology/codeforlife-portal/pull/1035),
-  [`c982277`](https://github.com/ocadotechnology/codeforlife-portal/commit/c9822770c7d00d2592c005e5a22406e16a20b6ff))
+- Escape message content
+  ([#1035](https://github.com/codeforlife-education/codeforlife-portal/pull/1035),
+  [`c982277`](https://github.com/codeforlife-education/codeforlife-portal/commit/c9822770c7d00d2592c005e5a22406e16a20b6ff))
 
 * fix: Escape message content
 
@@ -13560,8 +13678,8 @@ Signed-off-by: Niket Shah <masterniket@gmail.com>
 
 ### Bug Fixes
 
-- Missing css bug ([#1033](https://github.com/ocadotechnology/codeforlife-portal/pull/1033),
-  [`4653fa7`](https://github.com/ocadotechnology/codeforlife-portal/commit/4653fa7764438f938c3b324c9ee4856e0aa9569c))
+- Missing css bug ([#1033](https://github.com/codeforlife-education/codeforlife-portal/pull/1033),
+  [`4653fa7`](https://github.com/codeforlife-education/codeforlife-portal/commit/4653fa7764438f938c3b324c9ee4856e0aa9569c))
 
 * Remove support for django-pipeline 1.5.4
 
@@ -13583,8 +13701,8 @@ Signed-off-by: Niket Shah <masterniket@gmail.com>
 ### Bug Fixes
 
 - Upgrade to django-pipeline 1.6.14
-  ([#1031](https://github.com/ocadotechnology/codeforlife-portal/pull/1031),
-  [`05d0100`](https://github.com/ocadotechnology/codeforlife-portal/commit/05d0100440590b5d56d6a420446900f1be3849e4))
+  ([#1031](https://github.com/codeforlife-education/codeforlife-portal/pull/1031),
+  [`05d0100`](https://github.com/codeforlife-education/codeforlife-portal/commit/05d0100440590b5d56d6a420446900f1be3849e4))
 
 * Upgrade to django-pipeline 1.6.14
 
@@ -13600,8 +13718,8 @@ Signed-off-by: Niket Shah <masterniket@gmail.com>
 ### Bug Fixes
 
 - Typo in our terms of use page
-  ([#1028](https://github.com/ocadotechnology/codeforlife-portal/pull/1028),
-  [`398daff`](https://github.com/ocadotechnology/codeforlife-portal/commit/398daffb66e909e6e9aca0d3d1e7051e6283a25d))
+  ([#1028](https://github.com/codeforlife-education/codeforlife-portal/pull/1028),
+  [`398daff`](https://github.com/codeforlife-education/codeforlife-portal/commit/398daffb66e909e6e9aca0d3d1e7051e6283a25d))
 
 * Fix typo in our terms of use page
 
@@ -13613,8 +13731,8 @@ Signed-off-by: Niket Shah <masterniket@gmail.com>
 ### Bug Fixes
 
 - Kurono landing page, RR subnav and links to testing survey
-  ([#1027](https://github.com/ocadotechnology/codeforlife-portal/pull/1027),
-  [`0e38267`](https://github.com/ocadotechnology/codeforlife-portal/commit/0e382671c8a4e93bf107e390b9f2efce49880ea4))
+  ([#1027](https://github.com/codeforlife-education/codeforlife-portal/pull/1027),
+  [`0e38267`](https://github.com/codeforlife-education/codeforlife-portal/commit/0e382671c8a4e93bf107e390b9f2efce49880ea4))
 
 * fixed Kurono landing page, added subnav and removed test survey
 
@@ -13638,8 +13756,8 @@ Signed-off-by: Niket Shah <masterniket@gmail.com>
 ### Bug Fixes
 
 - Use correct image for teaching resources page
-  ([#1026](https://github.com/ocadotechnology/codeforlife-portal/pull/1026),
-  [`900481a`](https://github.com/ocadotechnology/codeforlife-portal/commit/900481acf8559bcee48bd2e99f9052d23428cfb4))
+  ([#1026](https://github.com/codeforlife-education/codeforlife-portal/pull/1026),
+  [`900481a`](https://github.com/codeforlife-education/codeforlife-portal/commit/900481acf8559bcee48bd2e99f9052d23428cfb4))
 
 * Separate teaching resources section image and hero
 
@@ -13648,8 +13766,9 @@ Signed-off-by: Niket Shah <masterniket@gmail.com>
 
 ### Features
 
-- Remove preview users ([#1025](https://github.com/ocadotechnology/codeforlife-portal/pull/1025),
-  [`4097804`](https://github.com/ocadotechnology/codeforlife-portal/commit/409780485813bb49d707e40f491c22d53bfbaad9))
+- Remove preview users
+  ([#1025](https://github.com/codeforlife-education/codeforlife-portal/pull/1025),
+  [`4097804`](https://github.com/codeforlife-education/codeforlife-portal/commit/409780485813bb49d707e40f491c22d53bfbaad9))
 
 * created migration for removing preview users
 
@@ -13663,8 +13782,8 @@ Signed-off-by: Niket Shah <masterniket@gmail.com>
 ### Bug Fixes
 
 - Make banners across website bigger
-  ([#1024](https://github.com/ocadotechnology/codeforlife-portal/pull/1024),
-  [`b722ab9`](https://github.com/ocadotechnology/codeforlife-portal/commit/b722ab99196664160f210e3add4c4a05ef27bee4))
+  ([#1024](https://github.com/codeforlife-education/codeforlife-portal/pull/1024),
+  [`b722ab9`](https://github.com/codeforlife-education/codeforlife-portal/commit/b722ab99196664160f210e3add4c4a05ef27bee4))
 
 * Fix kurono banner in rebrand
 
@@ -13678,16 +13797,16 @@ Signed-off-by: Niket Shah <masterniket@gmail.com>
 ### Continuous Integration
 
 - Make tests run only in PR builds
-  ([#1023](https://github.com/ocadotechnology/codeforlife-portal/pull/1023),
-  [`183e1ca`](https://github.com/ocadotechnology/codeforlife-portal/commit/183e1ca324e4b369f48e2bab00f3e8ccce2a740b))
+  ([#1023](https://github.com/codeforlife-education/codeforlife-portal/pull/1023),
+  [`183e1ca`](https://github.com/codeforlife-education/codeforlife-portal/commit/183e1ca324e4b369f48e2bab00f3e8ccce2a740b))
 
 * Update travis stage conditions to have tests run only in PRs
 
 ### Features
 
 - Removed preview user/eligible for testing logic
-  ([#1022](https://github.com/ocadotechnology/codeforlife-portal/pull/1022),
-  [`4cc76b7`](https://github.com/ocadotechnology/codeforlife-portal/commit/4cc76b7e79935de6d1b9a3463a4e1cf22550d0b4))
+  ([#1022](https://github.com/codeforlife-education/codeforlife-portal/pull/1022),
+  [`4cc76b7`](https://github.com/codeforlife-education/codeforlife-portal/commit/4cc76b7e79935de6d1b9a3463a4e1cf22550d0b4))
 
 * removed prev. user/eligible for testing, ind.student condition
 
@@ -13709,8 +13828,8 @@ Signed-off-by: Niket Shah <masterniket@gmail.com>
 ### Documentation
 
 - Add copywrite requirements to new task template
-  ([#1018](https://github.com/ocadotechnology/codeforlife-portal/pull/1018),
-  [`414ee17`](https://github.com/ocadotechnology/codeforlife-portal/commit/414ee175fca1952d6ed64a150a118610556bf021))
+  ([#1018](https://github.com/codeforlife-education/codeforlife-portal/pull/1018),
+  [`414ee17`](https://github.com/codeforlife-education/codeforlife-portal/commit/414ee175fca1952d6ed64a150a118610556bf021))
 
 * added copywrite requirements to new task template
 
@@ -13718,8 +13837,8 @@ Signed-off-by: Niket Shah <masterniket@gmail.com>
 
 ### Features
 
-- Kurono rebrand ([#1020](https://github.com/ocadotechnology/codeforlife-portal/pull/1020),
-  [`1725e13`](https://github.com/ocadotechnology/codeforlife-portal/commit/1725e136ef97c0d0fd278c73c28e9c59b7a00657))
+- Kurono rebrand ([#1020](https://github.com/codeforlife-education/codeforlife-portal/pull/1020),
+  [`1725e13`](https://github.com/codeforlife-education/codeforlife-portal/commit/1725e136ef97c0d0fd278c73c28e9c59b7a00657))
 
 * changed urls, logos, one copy
 
@@ -13742,8 +13861,9 @@ Signed-off-by: Niket Shah <masterniket@gmail.com>
 
 ### Bug Fixes
 
-- Login redirect user ([#1010](https://github.com/ocadotechnology/codeforlife-portal/pull/1010),
-  [`fc689ec`](https://github.com/ocadotechnology/codeforlife-portal/commit/fc689ecdaa132702db341a6a29de1ee9cc09b577))
+- Login redirect user
+  ([#1010](https://github.com/codeforlife-education/codeforlife-portal/pull/1010),
+  [`fc689ec`](https://github.com/codeforlife-education/codeforlife-portal/commit/fc689ecdaa132702db341a6a29de1ee9cc09b577))
 
 * Login redirect
 
@@ -13764,8 +13884,8 @@ Signed-off-by: Niket Shah <masterniket@gmail.com>
 ### Bug Fixes
 
 - Align newsletter form and social media icons in footer
-  ([#1012](https://github.com/ocadotechnology/codeforlife-portal/pull/1012),
-  [`7d48a46`](https://github.com/ocadotechnology/codeforlife-portal/commit/7d48a46f0184e14fab2dfc983fc61a25f54b262c))
+  ([#1012](https://github.com/codeforlife-education/codeforlife-portal/pull/1012),
+  [`7d48a46`](https://github.com/codeforlife-education/codeforlife-portal/commit/7d48a46f0184e14fab2dfc983fc61a25f54b262c))
 
 * Align newsletter form in footer
 
@@ -13775,8 +13895,8 @@ Signed-off-by: Niket Shah <masterniket@gmail.com>
 ### Bug Fixes
 
 - Seperate the terms of use and privacy policy page
-  ([#1009](https://github.com/ocadotechnology/codeforlife-portal/pull/1009),
-  [`ef32b78`](https://github.com/ocadotechnology/codeforlife-portal/commit/ef32b78a8519c7655870aa809392cd744721bfba))
+  ([#1009](https://github.com/codeforlife-education/codeforlife-portal/pull/1009),
+  [`ef32b78`](https://github.com/codeforlife-education/codeforlife-portal/commit/ef32b78a8519c7655870aa809392cd744721bfba))
 
 * Seperate the terms of use and privacy policy page
 
@@ -13790,8 +13910,8 @@ Signed-off-by: Niket Shah <masterniket@gmail.com>
 ### Bug Fixes
 
 - Ai:mmo link replaced with landing page for non preview users
-  ([#1006](https://github.com/ocadotechnology/codeforlife-portal/pull/1006),
-  [`5aad20b`](https://github.com/ocadotechnology/codeforlife-portal/commit/5aad20b832f13bbb2d2954ad010005347ed780b8))
+  ([#1006](https://github.com/codeforlife-education/codeforlife-portal/pull/1006),
+  [`5aad20b`](https://github.com/codeforlife-education/codeforlife-portal/commit/5aad20b832f13bbb2d2954ad010005347ed780b8))
 
 * Replace non-preview users AIMMO link to AIMMO landing page instead of home page
 
@@ -13800,16 +13920,17 @@ Signed-off-by: Niket Shah <masterniket@gmail.com>
 
 ### Bug Fixes
 
-- Update Aimmo url link ([#999](https://github.com/ocadotechnology/codeforlife-portal/pull/999),
-  [`35ebdb8`](https://github.com/ocadotechnology/codeforlife-portal/commit/35ebdb8f155783a590208b68bc21febdddea4748))
+- Update Aimmo url link
+  ([#999](https://github.com/codeforlife-education/codeforlife-portal/pull/999),
+  [`35ebdb8`](https://github.com/codeforlife-education/codeforlife-portal/commit/35ebdb8f155783a590208b68bc21febdddea4748))
 
 * Update Aimmo url link
 
 ### Documentation
 
 - Add solution to pillow install issues on macos mojave
-  ([#998](https://github.com/ocadotechnology/codeforlife-portal/pull/998),
-  [`bdc08e5`](https://github.com/ocadotechnology/codeforlife-portal/commit/bdc08e50e33bc871c601e3c57e6e9d9840fa4eb0))
+  ([#998](https://github.com/codeforlife-education/codeforlife-portal/pull/998),
+  [`bdc08e5`](https://github.com/codeforlife-education/codeforlife-portal/commit/bdc08e50e33bc871c601e3c57e6e9d9840fa4eb0))
 
 
 ## v2.6.8 (2019-07-25)
@@ -13817,8 +13938,8 @@ Signed-off-by: Niket Shah <masterniket@gmail.com>
 ### Bug Fixes
 
 - Updated PDFs links to refer to AIMMO_v2 folder on the cloud
-  ([#996](https://github.com/ocadotechnology/codeforlife-portal/pull/996),
-  [`d12a121`](https://github.com/ocadotechnology/codeforlife-portal/commit/d12a1215c755705795758f587ad8b1b5ab1c2fef))
+  ([#996](https://github.com/codeforlife-education/codeforlife-portal/pull/996),
+  [`d12a121`](https://github.com/codeforlife-education/codeforlife-portal/commit/d12a1215c755705795758f587ad8b1b5ab1c2fef))
 
 * updated PDFs links to refer to AIMMO_v2 folder on the cloud
 
@@ -13832,8 +13953,8 @@ Signed-off-by: Niket Shah <masterniket@gmail.com>
 ### Bug Fixes
 
 - Add AI:MMO header button to old base file
-  ([#995](https://github.com/ocadotechnology/codeforlife-portal/pull/995),
-  [`b179707`](https://github.com/ocadotechnology/codeforlife-portal/commit/b179707ef0b06eda3a9a1418252664b7ee7ef43c))
+  ([#995](https://github.com/codeforlife-education/codeforlife-portal/pull/995),
+  [`b179707`](https://github.com/codeforlife-education/codeforlife-portal/commit/b179707ef0b06eda3a9a1418252664b7ee7ef43c))
 
 * Add AI:MMO header button to old base file
 
@@ -13842,8 +13963,9 @@ Signed-off-by: Niket Shah <masterniket@gmail.com>
 
 ### Bug Fixes
 
-- Correct URL for KS2 PDF ([#993](https://github.com/ocadotechnology/codeforlife-portal/pull/993),
-  [`7670051`](https://github.com/ocadotechnology/codeforlife-portal/commit/76700515ed9d99430a75111d294f98a9df2c6816))
+- Correct URL for KS2 PDF
+  ([#993](https://github.com/codeforlife-education/codeforlife-portal/pull/993),
+  [`7670051`](https://github.com/codeforlife-education/codeforlife-portal/commit/76700515ed9d99430a75111d294f98a9df2c6816))
 
 * Fix KS2 S1 2 PDF URL
 
@@ -13852,8 +13974,9 @@ Signed-off-by: Niket Shah <masterniket@gmail.com>
 
 ### Bug Fixes
 
-- Remove scoreboard button ([#992](https://github.com/ocadotechnology/codeforlife-portal/pull/992),
-  [`8dff714`](https://github.com/ocadotechnology/codeforlife-portal/commit/8dff71474914ec10c8ce2098734a75b6f8f6672f))
+- Remove scoreboard button
+  ([#992](https://github.com/codeforlife-education/codeforlife-portal/pull/992),
+  [`8dff714`](https://github.com/codeforlife-education/codeforlife-portal/commit/8dff71474914ec10c8ce2098734a75b6f8f6672f))
 
 * fix: remove scoreboard button for independent students
 
@@ -13864,8 +13987,9 @@ Signed-off-by: Niket Shah <masterniket@gmail.com>
 
 ### Bug Fixes
 
-- Students not seeing games ([#990](https://github.com/ocadotechnology/codeforlife-portal/pull/990),
-  [`320a5af`](https://github.com/ocadotechnology/codeforlife-portal/commit/320a5af41fb05d233294a2394542486010a55ad4))
+- Students not seeing games
+  ([#990](https://github.com/codeforlife-education/codeforlife-portal/pull/990),
+  [`320a5af`](https://github.com/codeforlife-education/codeforlife-portal/commit/320a5af41fb05d233294a2394542486010a55ad4))
 
 * added parameter name just in case
 
@@ -13934,8 +14058,8 @@ Signed-off-by: Niket Shah <masterniket@gmail.com>
 ### Bug Fixes
 
 - Changed regex to allow spaces
-  ([#991](https://github.com/ocadotechnology/codeforlife-portal/pull/991),
-  [`3ea6f10`](https://github.com/ocadotechnology/codeforlife-portal/commit/3ea6f10215111e89da0e3a350a81b567d85b5ac0))
+  ([#991](https://github.com/codeforlife-education/codeforlife-portal/pull/991),
+  [`3ea6f10`](https://github.com/codeforlife-education/codeforlife-portal/commit/3ea6f10215111e89da0e3a350a81b567d85b5ac0))
 
 * changed regex to allow spaces
 
@@ -13945,8 +14069,8 @@ Signed-off-by: Niket Shah <masterniket@gmail.com>
 ### Bug Fixes
 
 - Removal of optional sign next to New Password
-  ([#967](https://github.com/ocadotechnology/codeforlife-portal/pull/967),
-  [`e7661bf`](https://github.com/ocadotechnology/codeforlife-portal/commit/e7661bf81c7cd10007cbd9eaa43177b8e621f315))
+  ([#967](https://github.com/codeforlife-education/codeforlife-portal/pull/967),
+  [`e7661bf`](https://github.com/codeforlife-education/codeforlife-portal/commit/e7661bf81c7cd10007cbd9eaa43177b8e621f315))
 
 * removal of optional sign next to New Password
 
@@ -14017,8 +14141,8 @@ This reverts commit 634bb360bcc681ebb9b69b1559fbe61cf86d7a77.
 ### Bug Fixes
 
 - Students have access to their teachers' games
-  ([#946](https://github.com/ocadotechnology/codeforlife-portal/pull/946),
-  [`cf372aa`](https://github.com/ocadotechnology/codeforlife-portal/commit/cf372aab35a9850bdf6cbe9960578b3b4201a599))
+  ([#946](https://github.com/codeforlife-education/codeforlife-portal/pull/946),
+  [`cf372aa`](https://github.com/codeforlife-education/codeforlife-portal/commit/cf372aab35a9850bdf6cbe9960578b3b4201a599))
 
 * Adds new students to games + tests
 
@@ -14055,8 +14179,8 @@ This reverts commit 634bb360bcc681ebb9b69b1559fbe61cf86d7a77.
 
 ### Features
 
-- Integrating codecov ([#985](https://github.com/ocadotechnology/codeforlife-portal/pull/985),
-  [`70b99b3`](https://github.com/ocadotechnology/codeforlife-portal/commit/70b99b3bbf309ab87b37d9d6c51c6642cc5fe274))
+- Integrating codecov ([#985](https://github.com/codeforlife-education/codeforlife-portal/pull/985),
+  [`70b99b3`](https://github.com/codeforlife-education/codeforlife-portal/commit/70b99b3bbf309ab87b37d9d6c51c6642cc5fe274))
 
 * added codecov yml
 
@@ -14073,8 +14197,8 @@ This reverts commit 634bb360bcc681ebb9b69b1559fbe61cf86d7a77.
 
 ### Bug Fixes
 
-- Sending GA event ([#983](https://github.com/ocadotechnology/codeforlife-portal/pull/983),
-  [`05f70fc`](https://github.com/ocadotechnology/codeforlife-portal/commit/05f70fc06e9fd7010f646192e4842fffffb09cde))
+- Sending GA event ([#983](https://github.com/codeforlife-education/codeforlife-portal/pull/983),
+  [`05f70fc`](https://github.com/codeforlife-education/codeforlife-portal/commit/05f70fc06e9fd7010f646192e4842fffffb09cde))
 
 * Adding GA Event back
 
@@ -14088,8 +14212,8 @@ This reverts commit 634bb360bcc681ebb9b69b1559fbe61cf86d7a77.
 ### Bug Fixes
 
 - Created stub for future library
-  ([#981](https://github.com/ocadotechnology/codeforlife-portal/pull/981),
-  [`b56ab3d`](https://github.com/ocadotechnology/codeforlife-portal/commit/b56ab3ddb2fc352ffb31ad942de00b9e4d2f2df5))
+  ([#981](https://github.com/codeforlife-education/codeforlife-portal/pull/981),
+  [`b56ab3d`](https://github.com/codeforlife-education/codeforlife-portal/commit/b56ab3ddb2fc352ffb31ad942de00b9e4d2f2df5))
 
 * created stub for future library
 
@@ -14103,8 +14227,8 @@ This reverts commit 634bb360bcc681ebb9b69b1559fbe61cf86d7a77.
 ### Bug Fixes
 
 - Removed password requirement for create school
-  ([#980](https://github.com/ocadotechnology/codeforlife-portal/pull/980),
-  [`d388665`](https://github.com/ocadotechnology/codeforlife-portal/commit/d3886653726ebce08e6894bf431e9ce06b2697b7))
+  ([#980](https://github.com/codeforlife-education/codeforlife-portal/pull/980),
+  [`d388665`](https://github.com/codeforlife-education/codeforlife-portal/commit/d3886653726ebce08e6894bf431e9ce06b2697b7))
 
 * removed password requirement for create classes
 
@@ -14121,8 +14245,8 @@ This reverts commit 634bb360bcc681ebb9b69b1559fbe61cf86d7a77.
 
 ### Bug Fixes
 
-- Google plus - ([#977](https://github.com/ocadotechnology/codeforlife-portal/pull/977),
-  [`a228772`](https://github.com/ocadotechnology/codeforlife-portal/commit/a228772a78f4142d989926b55f049c5d1b129ea1))
+- Google plus - ([#977](https://github.com/codeforlife-education/codeforlife-portal/pull/977),
+  [`a228772`](https://github.com/codeforlife-education/codeforlife-portal/commit/a228772a78f4142d989926b55f049c5d1b129ea1))
 
 * google plus -
 
@@ -14132,8 +14256,8 @@ This reverts commit 634bb360bcc681ebb9b69b1559fbe61cf86d7a77.
 ### Bug Fixes
 
 - Fixed social media spacing
-  ([#972](https://github.com/ocadotechnology/codeforlife-portal/pull/972),
-  [`b0f40b3`](https://github.com/ocadotechnology/codeforlife-portal/commit/b0f40b33367d29018e4ac8fd3e4384cf6943b8ea))
+  ([#972](https://github.com/codeforlife-education/codeforlife-portal/pull/972),
+  [`b0f40b3`](https://github.com/codeforlife-education/codeforlife-portal/commit/b0f40b33367d29018e4ac8fd3e4384cf6943b8ea))
 
 * Fixed social media spacing
 
@@ -14143,8 +14267,8 @@ This reverts commit 634bb360bcc681ebb9b69b1559fbe61cf86d7a77.
 ### Bug Fixes
 
 - Added input control for special characters + test
-  ([#970](https://github.com/ocadotechnology/codeforlife-portal/pull/970),
-  [`d756e1f`](https://github.com/ocadotechnology/codeforlife-portal/commit/d756e1f56f235ec1941474a36a565ffa4cfe047d))
+  ([#970](https://github.com/codeforlife-education/codeforlife-portal/pull/970),
+  [`d756e1f`](https://github.com/codeforlife-education/codeforlife-portal/commit/d756e1f56f235ec1941474a36a565ffa4cfe047d))
 
 * added input control for special characters + test
 
@@ -14158,8 +14282,8 @@ This reverts commit 634bb360bcc681ebb9b69b1559fbe61cf86d7a77.
 ### Bug Fixes
 
 - Permission error on staging
-  ([#968](https://github.com/ocadotechnology/codeforlife-portal/pull/968),
-  [`41949f3`](https://github.com/ocadotechnology/codeforlife-portal/commit/41949f3d49563d24d64400acc371a00210e07b54))
+  ([#968](https://github.com/codeforlife-education/codeforlife-portal/pull/968),
+  [`41949f3`](https://github.com/codeforlife-education/codeforlife-portal/commit/41949f3d49563d24d64400acc371a00210e07b54))
 
 * added brackets
 
@@ -14194,8 +14318,9 @@ This reverts commit 634bb360bcc681ebb9b69b1559fbe61cf86d7a77.
 
 ### Bug Fixes
 
-- Got rid of pink flash ([#966](https://github.com/ocadotechnology/codeforlife-portal/pull/966),
-  [`c619f87`](https://github.com/ocadotechnology/codeforlife-portal/commit/c619f87d87158d272a4383a3f3c8ba8c5905a0f0))
+- Got rid of pink flash
+  ([#966](https://github.com/codeforlife-education/codeforlife-portal/pull/966),
+  [`c619f87`](https://github.com/codeforlife-education/codeforlife-portal/commit/c619f87d87158d272a4383a3f3c8ba8c5905a0f0))
 
 * Got rid of pink flash
 
@@ -14205,8 +14330,8 @@ This reverts commit 634bb360bcc681ebb9b69b1559fbe61cf86d7a77.
 ### Bug Fixes
 
 - Js null error linked to newsletter form
-  ([#962](https://github.com/ocadotechnology/codeforlife-portal/pull/962),
-  [`44e1210`](https://github.com/ocadotechnology/codeforlife-portal/commit/44e1210ac0dae4230b3e70f2127ad51eab8c0437))
+  ([#962](https://github.com/codeforlife-education/codeforlife-portal/pull/962),
+  [`44e1210`](https://github.com/codeforlife-education/codeforlife-portal/commit/44e1210ac0dae4230b3e70f2127ad51eab8c0437))
 
 * Make newsletter form redirect to home page, get rid of hidden label
 
@@ -14222,8 +14347,8 @@ This reverts commit 634bb360bcc681ebb9b69b1559fbe61cf86d7a77.
 ### Features
 
 - Added scottish curriculum link
-  ([#963](https://github.com/ocadotechnology/codeforlife-portal/pull/963),
-  [`fefeece`](https://github.com/ocadotechnology/codeforlife-portal/commit/fefeece475018fa86c1aef68cc59c5c714d2bd0a))
+  ([#963](https://github.com/codeforlife-education/codeforlife-portal/pull/963),
+  [`fefeece`](https://github.com/codeforlife-education/codeforlife-portal/commit/fefeece475018fa86c1aef68cc59c5c714d2bd0a))
 
 * added scottish curriculum link
 
@@ -14232,8 +14357,9 @@ This reverts commit 634bb360bcc681ebb9b69b1559fbe61cf86d7a77.
 
 ### Bug Fixes
 
-- Game table column size ([#961](https://github.com/ocadotechnology/codeforlife-portal/pull/961),
-  [`242f7a7`](https://github.com/ocadotechnology/codeforlife-portal/commit/242f7a7afa49a62c33057a82b21af6b61a43f347))
+- Game table column size
+  ([#961](https://github.com/codeforlife-education/codeforlife-portal/pull/961),
+  [`242f7a7`](https://github.com/codeforlife-education/codeforlife-portal/commit/242f7a7afa49a62c33057a82b21af6b61a43f347))
 
 * fixed the table column size
 
@@ -14243,16 +14369,16 @@ This reverts commit 634bb360bcc681ebb9b69b1559fbe61cf86d7a77.
 ### Chores
 
 - Update stalebot daysUntilStale to 90
-  ([#958](https://github.com/ocadotechnology/codeforlife-portal/pull/958),
-  [`be728fc`](https://github.com/ocadotechnology/codeforlife-portal/commit/be728fc364017bd2568b2ccd54c07495dcdf3721))
+  ([#958](https://github.com/codeforlife-education/codeforlife-portal/pull/958),
+  [`be728fc`](https://github.com/codeforlife-education/codeforlife-portal/commit/be728fc364017bd2568b2ccd54c07495dcdf3721))
 
 * chore: Update stalebot daysUntilStale to 90
 
 ### Features
 
 - Delete aimmo game button + confirmation pop-up
-  ([#957](https://github.com/ocadotechnology/codeforlife-portal/pull/957),
-  [`39298cd`](https://github.com/ocadotechnology/codeforlife-portal/commit/39298cd2212c1a5b13f46e63aff4732502b37f9b))
+  ([#957](https://github.com/codeforlife-education/codeforlife-portal/pull/957),
+  [`39298cd`](https://github.com/codeforlife-education/codeforlife-portal/commit/39298cd2212c1a5b13f46e63aff4732502b37f9b))
 
 * added delete game button + popup + test
 
@@ -14372,8 +14498,8 @@ Selenium isn't working on my machine so I can only run Selenium tests on Travis
 ### Features
 
 - Turn list of games from a dropdown into a table
-  ([#948](https://github.com/ocadotechnology/codeforlife-portal/pull/948),
-  [`0817349`](https://github.com/ocadotechnology/codeforlife-portal/commit/0817349e95b7224ae675810e418ba902107cdb9e))
+  ([#948](https://github.com/codeforlife-education/codeforlife-portal/pull/948),
+  [`0817349`](https://github.com/codeforlife-education/codeforlife-portal/commit/0817349e95b7224ae675810e418ba902107cdb9e))
 
 * aimmo home page redesign + test
 
@@ -14416,8 +14542,8 @@ There was a $spacing constant only used in one place before; I changed it to the
 ### Bug Fixes
 
 - Online status middleware cache
-  ([#955](https://github.com/ocadotechnology/codeforlife-portal/pull/955),
-  [`0ea74e8`](https://github.com/ocadotechnology/codeforlife-portal/commit/0ea74e886ab11f5fc3bcc1c6355ad3602c4fa3c9))
+  ([#955](https://github.com/codeforlife-education/codeforlife-portal/pull/955),
+  [`0ea74e8`](https://github.com/codeforlife-education/codeforlife-portal/commit/0ea74e886ab11f5fc3bcc1c6355ad3602c4fa3c9))
 
 * replaced django middleware code
 
@@ -14461,8 +14587,9 @@ no more sleep :D
 
 ### Bug Fixes
 
-- Updated cloud folder link ([#954](https://github.com/ocadotechnology/codeforlife-portal/pull/954),
-  [`e2d578b`](https://github.com/ocadotechnology/codeforlife-portal/commit/e2d578b907161f94a1374ef10335e7a96acb52ab))
+- Updated cloud folder link
+  ([#954](https://github.com/codeforlife-education/codeforlife-portal/pull/954),
+  [`e2d578b`](https://github.com/codeforlife-education/codeforlife-portal/commit/e2d578b907161f94a1374ef10335e7a96acb52ab))
 
 * updated cloud folder link
 
@@ -14474,8 +14601,8 @@ no more sleep :D
 ### Bug Fixes
 
 - Remove context_instance leftover from Django 1.10 Upgrade
-  ([#947](https://github.com/ocadotechnology/codeforlife-portal/pull/947),
-  [`ad9a38d`](https://github.com/ocadotechnology/codeforlife-portal/commit/ad9a38dd671576468c5263bb5694b88d9febff9c))
+  ([#947](https://github.com/codeforlife-education/codeforlife-portal/pull/947),
+  [`ad9a38d`](https://github.com/codeforlife-education/codeforlife-portal/commit/ad9a38dd671576468c5263bb5694b88d9febff9c))
 
 * fix: Remove context_instance
 
@@ -14487,8 +14614,8 @@ Signed-off-by: Niket Shah <masterniket@gmail.com>
 ### Bug Fixes
 
 - Link points to right PDF and wording updated
-  ([#944](https://github.com/ocadotechnology/codeforlife-portal/pull/944),
-  [`2932b03`](https://github.com/ocadotechnology/codeforlife-portal/commit/2932b03452af4c6046b6b6f532f52649d3e5ac09))
+  ([#944](https://github.com/codeforlife-education/codeforlife-portal/pull/944),
+  [`2932b03`](https://github.com/codeforlife-education/codeforlife-portal/commit/2932b03452af4c6046b6b6f532f52649d3e5ac09))
 
 * link points to right PDF and wording updated
 
@@ -14498,8 +14625,8 @@ Signed-off-by: Niket Shah <masterniket@gmail.com>
 ### Bug Fixes
 
 - 'assessment' typo on materials page
-  ([#943](https://github.com/ocadotechnology/codeforlife-portal/pull/943),
-  [`3a2ff2e`](https://github.com/ocadotechnology/codeforlife-portal/commit/3a2ff2e16cdb94f5ed942bb119942359db613cd0))
+  ([#943](https://github.com/codeforlife-education/codeforlife-portal/pull/943),
+  [`3a2ff2e`](https://github.com/codeforlife-education/codeforlife-portal/commit/3a2ff2e16cdb94f5ed942bb119942359db613cd0))
 
 * fixed typo
 
@@ -14511,8 +14638,8 @@ Signed-off-by: Niket Shah <masterniket@gmail.com>
 ### Bug Fixes
 
 - Add SessionAuthentication for inactive users api
-  ([#942](https://github.com/ocadotechnology/codeforlife-portal/pull/942),
-  [`3c63d41`](https://github.com/ocadotechnology/codeforlife-portal/commit/3c63d4190bd94c6dfe46cb1ddb570f0812700b09))
+  ([#942](https://github.com/codeforlife-education/codeforlife-portal/pull/942),
+  [`3c63d41`](https://github.com/codeforlife-education/codeforlife-portal/commit/3c63d4190bd94c6dfe46cb1ddb570f0812700b09))
 
 * fix: Add SessionAuthentication for inactive users api
 
@@ -14524,8 +14651,8 @@ Signed-off-by: Niket Shah <masterniket@gmail.com>
 ### Features
 
 - Added ks3 assessment pdfs to materials page
-  ([#941](https://github.com/ocadotechnology/codeforlife-portal/pull/941),
-  [`07ce24f`](https://github.com/ocadotechnology/codeforlife-portal/commit/07ce24f8a9659699b16bdbc7f29855f6438154fe))
+  ([#941](https://github.com/codeforlife-education/codeforlife-portal/pull/941),
+  [`07ce24f`](https://github.com/codeforlife-education/codeforlife-portal/commit/07ce24f8a9659699b16bdbc7f29855f6438154fe))
 
 * added ks3 pdfs that were missing and reformatted
 
@@ -14548,8 +14675,9 @@ This reverts commit 4c5811755f8b89164bd290fb1da1850d0b614f27.
 
 ### Features
 
-- Delete inactive users ([#939](https://github.com/ocadotechnology/codeforlife-portal/pull/939),
-  [`3541a94`](https://github.com/ocadotechnology/codeforlife-portal/commit/3541a94b309dc91438876d3dc6a933c013146f33))
+- Delete inactive users
+  ([#939](https://github.com/codeforlife-education/codeforlife-portal/pull/939),
+  [`3541a94`](https://github.com/codeforlife-education/codeforlife-portal/commit/3541a94b309dc91438876d3dc6a933c013146f33))
 
 * Add capability to GET and DELETE inactive users
 
@@ -14570,8 +14698,9 @@ Signed-off-by: Niket Shah <masterniket@gmail.com>
 
 ### Bug Fixes
 
-- Upgrade to Django 1.10 ([#940](https://github.com/ocadotechnology/codeforlife-portal/pull/940),
-  [`fe56627`](https://github.com/ocadotechnology/codeforlife-portal/commit/fe56627da7a3a19bdd61e8c6168efef5e5e4b34a))
+- Upgrade to Django 1.10
+  ([#940](https://github.com/codeforlife-education/codeforlife-portal/pull/940),
+  [`fe56627`](https://github.com/codeforlife-education/codeforlife-portal/commit/fe56627da7a3a19bdd61e8c6168efef5e5e4b34a))
 
 BREAKING CHANGE: Dropping support for Django 1.9.x and upgrading Django rest framework to 3.8.x
 
@@ -14627,8 +14756,8 @@ This reverts commit c24b0f5de4597fd5b3814e3d04c49d3dcf23feb5.
 ### Bug Fixes
 
 - Updated copyrights from 2017 and 2018
-  ([#936](https://github.com/ocadotechnology/codeforlife-portal/pull/936),
-  [`b2fb2d9`](https://github.com/ocadotechnology/codeforlife-portal/commit/b2fb2d984f1cc239169dadf345f7a5f9a9499287))
+  ([#936](https://github.com/codeforlife-education/codeforlife-portal/pull/936),
+  [`b2fb2d9`](https://github.com/codeforlife-education/codeforlife-portal/commit/b2fb2d984f1cc239169dadf345f7a5f9a9499287))
 
 * updated copyrights from 2017 and 2018
 
@@ -14636,8 +14765,8 @@ This reverts commit c24b0f5de4597fd5b3814e3d04c49d3dcf23feb5.
 
 ### Refactoring
 
-- Use black formatter ([#933](https://github.com/ocadotechnology/codeforlife-portal/pull/933),
-  [`5722f8e`](https://github.com/ocadotechnology/codeforlife-portal/commit/5722f8e962c438181fb3993b4dae5582a3a10807))
+- Use black formatter ([#933](https://github.com/codeforlife-education/codeforlife-portal/pull/933),
+  [`5722f8e`](https://github.com/codeforlife-education/codeforlife-portal/commit/5722f8e962c438181fb3993b4dae5582a3a10807))
 
 * run black formatter on the portal folder
 
@@ -14657,8 +14786,8 @@ Signed-off-by: Niket Shah <masterniket@gmail.com>
 ### Features
 
 - Reclassify key stages and use new PDFs
-  ([#898](https://github.com/ocadotechnology/codeforlife-portal/pull/898),
-  [`d0c1691`](https://github.com/ocadotechnology/codeforlife-portal/commit/d0c16911d4e4fda36f68fd638b712ade4c8d2dfd))
+  ([#898](https://github.com/codeforlife-education/codeforlife-portal/pull/898),
+  [`d0c1691`](https://github.com/codeforlife-education/codeforlife-portal/commit/d0c16911d4e4fda36f68fd638b712ade4c8d2dfd))
 
 * Updates PDFs and key stages.
 
@@ -14692,8 +14821,8 @@ Signed-off-by: Niket Shah <masterniket@gmail.com>
 ### Refactoring
 
 - Make URLs consistent with deployed project
-  ([#932](https://github.com/ocadotechnology/codeforlife-portal/pull/932),
-  [`3e01096`](https://github.com/ocadotechnology/codeforlife-portal/commit/3e01096b8d44c74f1ec72d194328693e52334966))
+  ([#932](https://github.com/codeforlife-education/codeforlife-portal/pull/932),
+  [`3e01096`](https://github.com/codeforlife-education/codeforlife-portal/commit/3e01096b8d44c74f1ec72d194328693e52334966))
 
 * refactor: Make urls consistent in the example project
 
@@ -14713,8 +14842,8 @@ Make urls consistent in the example project with the deployed website
 ### Bug Fixes
 
 - Independent students can change email
-  ([#931](https://github.com/ocadotechnology/codeforlife-portal/pull/931),
-  [`e3a1567`](https://github.com/ocadotechnology/codeforlife-portal/commit/e3a156731e00c152d2c505ecbf13c443ea889290))
+  ([#931](https://github.com/codeforlife-education/codeforlife-portal/pull/931),
+  [`e3a1567`](https://github.com/codeforlife-education/codeforlife-portal/commit/e3a156731e00c152d2c505ecbf13c443ea889290))
 
 * Fixed error, added a provisory clean email function
 
@@ -14750,8 +14879,8 @@ This reverts commit 0ffae7a2b9047ffa1fa5eab87624bcc7a81e9ae2.
 * fix: space
 
 - **test_settings.py**: Point to example project static root so Selenium tests run using compiled
-  styles ([#929](https://github.com/ocadotechnology/codeforlife-portal/pull/929),
-  [`97d741f`](https://github.com/ocadotechnology/codeforlife-portal/commit/97d741f11e159da9460ae13396559a9a41a583fd))
+  styles ([#929](https://github.com/codeforlife-education/codeforlife-portal/pull/929),
+  [`97d741f`](https://github.com/codeforlife-education/codeforlife-portal/commit/97d741f11e159da9460ae13396559a9a41a583fd))
 
 * Point static root to example project so Selenium tests run with correct styles
 
@@ -14763,8 +14892,8 @@ This reverts commit 0ffae7a2b9047ffa1fa5eab87624bcc7a81e9ae2.
 ### Bug Fixes
 
 - Z-indexes of top menu, dropdown and subnavs
-  ([#928](https://github.com/ocadotechnology/codeforlife-portal/pull/928),
-  [`4c28b53`](https://github.com/ocadotechnology/codeforlife-portal/commit/4c28b53f64fca5b12ea8b93c06ab713e642f439b))
+  ([#928](https://github.com/codeforlife-education/codeforlife-portal/pull/928),
+  [`4c28b53`](https://github.com/codeforlife-education/codeforlife-portal/commit/4c28b53f64fca5b12ea8b93c06ab713e642f439b))
 
 * fixed z-indexes of top menu, dropdown and subnavs
 
@@ -14775,16 +14904,16 @@ This reverts commit 0ffae7a2b9047ffa1fa5eab87624bcc7a81e9ae2.
 * fix: added space
 
 - **views/__init__.py**: Increment version manually to sync with project
-  ([#930](https://github.com/ocadotechnology/codeforlife-portal/pull/930),
-  [`7a91775`](https://github.com/ocadotechnology/codeforlife-portal/commit/7a917750e05bd24110f7278301b0ad005ee1ec5d))
+  ([#930](https://github.com/codeforlife-education/codeforlife-portal/pull/930),
+  [`7a91775`](https://github.com/codeforlife-education/codeforlife-portal/commit/7a917750e05bd24110f7278301b0ad005ee1ec5d))
 
 * Update version manually to be synced with project
 
 ### Continuous Integration
 
 - **travis**: Setup Semantic Releases
-  ([#926](https://github.com/ocadotechnology/codeforlife-portal/pull/926),
-  [`742fbed`](https://github.com/ocadotechnology/codeforlife-portal/commit/742fbed833d9e0ca5b64008b54d4bf0b0be17273))
+  ([#926](https://github.com/codeforlife-education/codeforlife-portal/pull/926),
+  [`742fbed`](https://github.com/codeforlife-education/codeforlife-portal/commit/742fbed833d9e0ca5b64008b54d4bf0b0be17273))
 
 * Tests semantic versioning
 
