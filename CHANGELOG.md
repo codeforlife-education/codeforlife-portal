@@ -1,6 +1,14 @@
 # CHANGELOG
 
 
+## v8.15.2 (2026-07-14)
+
+### Bug Fixes
+
+- Upgrade packages
+  ([`5b4025d`](https://github.com/codeforlife-education/codeforlife-portal/commit/5b4025d392ad4630d6e36247579996d7c558c7e3))
+
+
 ## v8.15.1 (2026-07-07)
 
 ### Bug Fixes
