@@ -29,11 +29,7 @@ THREE_YEARS_IN_DAYS = 1095
 @login_required(login_url=reverse_lazy("administration_login"))
 def registered_users(request, year, month, day):
     try:
-        nbr_reg = User.objects.filter(
-            date_joined__startswith=datetime.date(
-                int(year), int(month), int(day)
-            )
-        ).count()
+        nbr_reg = User.objects.filter(date_joined__startswith=datetime.date(int(year), int(month), int(day))).count()
         return Response(nbr_reg)
     except ValueError:
         return HttpResponse(status=404)
@@ -43,9 +39,7 @@ def registered_users(request, year, month, day):
 @login_required(login_url=reverse_lazy("administration_login"))
 def last_connected_since(request, year, month, day):
     try:
-        nbr_active_users = User.objects.filter(
-            last_login__gte=datetime.date(int(year), int(month), int(day))
-        ).count()
+        nbr_active_users = User.objects.filter(last_login__gte=datetime.date(int(year), int(month), int(day))).count()
         return Response(nbr_active_users)
     except ValueError:
         return HttpResponse(status=404)
@@ -57,9 +51,7 @@ def number_users_per_country(request, country):
     try:
         nbr_reg = (
             Teacher.objects.filter(school__country__exact=country).count()
-            + Student.objects.filter(
-                class_field__teacher__school__country__exact=country
-            ).count()
+            + Student.objects.filter(class_field__teacher__school__country__exact=country).count()
         )
         return Response(nbr_reg)
     except ValueError:
@@ -81,13 +73,16 @@ class IsAdminOrGoogleAppEngine(permissions.IsAdminUser):
     """Checks whether the request is from a Google App Engine cron job."""
 
     def has_permission(self, request: HttpRequest, view):
-        is_admin = super(IsAdminOrGoogleAppEngine, self).has_permission(
-            request, view
-        )
+        is_admin = super(IsAdminOrGoogleAppEngine, self).has_permission(request, view)
         return IS_CLOUD_SCHEDULER_FUNCTION(request) or is_admin
 
 
 def __anonymise_user(user):
+    # Skip users that are already anonymised/inactive to avoid re-saving
+    # encrypted fields on a user whose DEK may no longer be valid.
+    if not user.is_active:
+        return
+
     # the actual user anonymisation
     user.username = uuid.uuid4().hex
     user.first_name = "Deleted"
@@ -163,14 +158,10 @@ class InactiveUsersView(generics.ListAPIView):
     """
 
     queryset = User.objects.filter(is_active=True) & (
-        User.objects.filter(
-            last_login__lte=timezone.now()
-            - timezone.timedelta(days=THREE_YEARS_IN_DAYS)
-        )
+        User.objects.filter(last_login__lte=timezone.now() - timezone.timedelta(days=THREE_YEARS_IN_DAYS))
         | User.objects.filter(
             last_login__isnull=True,
-            date_joined__lte=timezone.now()
-            - timezone.timedelta(days=THREE_YEARS_IN_DAYS),
+            date_joined__lte=timezone.now() - timezone.timedelta(days=THREE_YEARS_IN_DAYS),
         )
     )
     authentication_classes = (SessionAuthentication,)
@@ -212,9 +203,7 @@ class AnonymiseOrphanSchoolsView(generics.ListAPIView):
 
     def get(self, request: HttpRequest, start_id):
         # Re-anonymise all inactive teachers so their schools (if necessary) and classes/students are anonymised
-        for teacher in Teacher._base_manager.filter(
-            pk__gte=start_id, new_user__is_active=False
-        ):
+        for teacher in Teacher._base_manager.filter(pk__gte=start_id, new_user__is_active=False):
             anonymise(teacher.new_user)
 
         # Anonymise schools without any teachers
