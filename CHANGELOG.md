@@ -1,6 +1,19 @@
 # CHANGELOG
 
 
+## v8.15.6 (2026-09-08)
+
+### Bug Fixes
+
+- Improve anonymisation logic
+  ([`162cccd`](https://github.com/codeforlife-education/codeforlife-portal/commit/162cccdd15e91618d3fb5ea1bc6e6b703b37ccef))
+
+### Continuous Integration
+
+- Install latest RR
+  ([`cd2c10c`](https://github.com/codeforlife-education/codeforlife-portal/commit/cd2c10c1572ac550fd042fcc0a822e70c832a954))
+
+
 ## v8.15.5 (2026-09-07)
 
 ### Bug Fixes
