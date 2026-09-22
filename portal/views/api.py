@@ -84,12 +84,7 @@ def __anonymise_user(user):
         return
 
     # the actual user anonymisation
-    user.username = uuid.uuid4().hex
-    user.first_name = "Deleted"
-    user.last_name = "User"
-    user.email = ""
-    user.is_active = False
-    user.save()
+    user.anonymize()
 
 
 def anonymise(user):
