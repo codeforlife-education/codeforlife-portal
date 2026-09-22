@@ -1,6 +1,14 @@
 # CHANGELOG
 
 
+## v8.15.7 (2026-09-22)
+
+### Bug Fixes
+
+- Anonymize user
+  ([`c802c87`](https://github.com/codeforlife-education/codeforlife-portal/commit/c802c87959997cec412c0fb436bea61a3ba003a8))
+
+
 ## v8.15.6 (2026-09-08)
 
 ### Bug Fixes
