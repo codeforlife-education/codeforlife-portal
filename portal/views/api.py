@@ -1,5 +1,5 @@
 import datetime
-import uuid
+import time
 
 from codeforlife.legacy.models import (
     Class,
@@ -10,8 +10,10 @@ from codeforlife.legacy.models import (
 )
 from django.contrib.auth import get_user_model
 from django.contrib.auth.decorators import login_required
+from django.db import transaction
 from django.http import HttpRequest, HttpResponse
 from django.utils import timezone
+from django.utils.decorators import method_decorator
 from rest_framework import generics, permissions, serializers, status
 from rest_framework.authentication import SessionAuthentication
 from rest_framework.decorators import api_view
@@ -21,8 +23,6 @@ from rest_framework.reverse import reverse_lazy
 from portal.app_settings import IS_CLOUD_SCHEDULER_FUNCTION
 
 User = get_user_model()
-
-THREE_YEARS_IN_DAYS = 1095
 
 
 @api_view(("GET",))
@@ -144,6 +144,7 @@ def anonymise(user):
             teachers[0].save()
 
 
+@method_decorator(transaction.non_atomic_requests, name='dispatch')
 class InactiveUsersView(generics.ListAPIView):
     """
     This API view endpoint allows us to see our inactive users.
@@ -152,23 +153,53 @@ class InactiveUsersView(generics.ListAPIView):
     If the user has never logged in, we look at the date they registered with us instead.
     """
 
-    queryset = User.objects.filter(is_active=True) & (
-        User.objects.filter(last_login__lte=timezone.now() - timezone.timedelta(days=THREE_YEARS_IN_DAYS))
-        | User.objects.filter(
-            last_login__isnull=True,
-            date_joined__lte=timezone.now() - timezone.timedelta(days=THREE_YEARS_IN_DAYS),
-        )
-    )
     authentication_classes = (SessionAuthentication,)
     serializer_class = InactiveUserSerializer
     permission_classes = (IsAdminOrGoogleAppEngine,)
 
+    def get_queryset(self):
+        three_years_ago = timezone.now() - timezone.timedelta(days=1095)
+        return User.objects.filter(is_active=True) & (
+            User.objects.filter(last_login__lte=three_years_ago)
+            | User.objects.filter(
+                last_login__isnull=True,
+                date_joined__lte=three_years_ago,
+            )
+        )
+
     def delete(self, request: HttpRequest):
         """Delete all personal data from inactive users and mark them as inactive."""
-        inactive_users = self.get_queryset()
-        for user in inactive_users:
-            anonymise(user)
-        return Response(status=status.HTTP_204_NO_CONTENT)
+        start_time = time.time()
+        MAX_EXECUTION_TIME = 510  # 8.5 minutes
+        BATCH_SIZE = 100
+        total_processed = 0
+
+        while True:
+            # 1. Stop if we are nearing the 10-minute App Engine limit
+            if time.time() - start_time > MAX_EXECUTION_TIME:
+                break
+
+            # 2. Fetch the next batch. 
+            # Because anonymise() marks users as inactive, they will naturally 
+            # drop out of get_queryset(). Evaluating [:BATCH_SIZE] acts as a
+            # queue.
+            users_to_process = list(self.get_queryset()[:BATCH_SIZE])
+
+            if not users_to_process:
+                break  # We've processed everyone
+
+            # 3. Process this chunk safely in its own transaction
+            with transaction.atomic():
+                for user in users_to_process:
+                    anonymise(user)
+            
+            total_processed += len(users_to_process)
+
+        # 4. Return a 200 OK with the count so you can monitor progress in logs.
+        return Response(
+            {"message": f"Successfully anonymised {total_processed} users."},
+            status=status.HTTP_200_OK
+        )
 
 
 class RemoveFakeAccounts(generics.ListAPIView):
