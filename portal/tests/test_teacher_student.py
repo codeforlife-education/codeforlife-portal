@@ -408,7 +408,7 @@ class TestTeacherStudentFrontend(BaseTest):
 
         # user should be anonymised
         u = User.objects.get(id=student.new_user.id)
-        assert u.first_name == "Deleted"
+        assert u.dek is None
         assert not u.is_active
 
         student.refresh_from_db()
