@@ -147,6 +147,10 @@ urlpatterns = [
         name="collect-google-analytics",
     ),
     path(
+        "analytics.txt",
+        TemplateView.as_view(template_name="analytics.txt", content_type="text/plain"),
+    ),
+    path(
         "cron/",
         include(
             [
