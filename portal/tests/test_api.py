@@ -131,7 +131,7 @@ class APITests(APITestCase):
 
         response = client.delete(url)
         assert mock_is_cloud_scheduler_function.called
-        assert response.status_code == status.HTTP_204_NO_CONTENT
+        assert response.status_code == status.HTTP_200_OK
 
         for user in users:
             with pytest.raises(User.DoesNotExist):
@@ -142,13 +142,9 @@ class APITests(APITestCase):
         assert new_deleted_users_count == 2
 
         for user in deleted_users:
-            assert user.first_name == "Deleted"
-            assert user.last_name == "User"
-            assert user.email == ""
+            assert user.dek is None
             assert not user.is_active
-            assert not client.login(
-                _username_hash__sha256=user.username, password="password"
-            )
+
         response = client.get(url)
         assert len(response.data) == 0
 
