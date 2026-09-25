@@ -205,7 +205,7 @@ class TeacherLoginForm(AuthenticationForm):
         return self.cleaned_data
 
     def find_user(self, email, user):
-        users = User.objects.filter(_email_hash__sha256=email)
+        users = User.objects.filter(is_active=True, _email_hash__sha256=email)
 
         for result in users:
             if hasattr(result, "userprofile") and hasattr(

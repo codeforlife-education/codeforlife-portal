@@ -279,8 +279,7 @@ def teacher_delete_students(request, access_code):
     def __anonymise(user):
         # Delete all personal data from inactive user and mark as inactive.
         # Student only has random username, password, first_name
-        user.first_name = "Deleted"
-        user.last_name = "User"
+        user.dek = None
         user.is_active = False
         user.save()
 
