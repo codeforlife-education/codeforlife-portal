@@ -1,6 +1,25 @@
 # CHANGELOG
 
 
+## v8.15.9 (2026-09-25)
+
+### Bug Fixes
+
+- Anon inactive users
+  ([#2510](https://github.com/codeforlife-education/codeforlife-portal/pull/2510),
+  [`3e77c2d`](https://github.com/codeforlife-education/codeforlife-portal/commit/3e77c2d99d09f961f6a63e9dbfe5ceccee7cbcbf))
+
+* fix: anon inactive users
+
+* fix: test
+
+* fix anon test and student anon
+
+* only active teachers can login
+
+* Merge branch 'master' into anon_inactive_users
+
+
 ## v8.15.8 (2026-09-24)
 
 ### Bug Fixes
