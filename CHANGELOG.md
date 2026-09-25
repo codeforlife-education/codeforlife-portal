@@ -1,6 +1,14 @@
 # CHANGELOG
 
 
+## v8.15.10 (2026-09-25)
+
+### Bug Fixes
+
+- Update analytics.txt
+  ([`4fa92c1`](https://github.com/codeforlife-education/codeforlife-portal/commit/4fa92c1f736618a6563dda30c0cfd2451ae07139))
+
+
 ## v8.15.9 (2026-09-25)
 
 ### Bug Fixes
