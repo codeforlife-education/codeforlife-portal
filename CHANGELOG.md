@@ -1,6 +1,26 @@
 # CHANGELOG
 
 
+## v8.15.8 (2026-09-24)
+
+### Bug Fixes
+
+- Analytics.txt ([#2511](https://github.com/codeforlife-education/codeforlife-portal/pull/2511),
+  [`75fb204`](https://github.com/codeforlife-education/codeforlife-portal/commit/75fb2044aa30d2fb76d6ab9026348c3f139c9037))
+
+* fix: analytics.txt
+
+* Normal apostrophes
+
+
+## v8.15.7 (2026-09-22)
+
+### Bug Fixes
+
+- Anonymize user
+  ([`c802c87`](https://github.com/codeforlife-education/codeforlife-portal/commit/c802c87959997cec412c0fb436bea61a3ba003a8))
+
+
 ## v8.15.6 (2026-09-08)
 
 ### Bug Fixes
