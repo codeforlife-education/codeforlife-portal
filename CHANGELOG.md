@@ -1,6 +1,14 @@
 # CHANGELOG
 
 
+## v8.15.11 (2026-10-01)
+
+### Bug Fixes
+
+- Install latest codeforlife package
+  ([`60d734d`](https://github.com/codeforlife-education/codeforlife-portal/commit/60d734d489a2ff689c9a8108c382b6c7d16edf21))
+
+
 ## v8.15.10 (2026-09-25)
 
 ### Bug Fixes
