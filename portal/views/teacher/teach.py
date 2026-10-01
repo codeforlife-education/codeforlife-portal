@@ -65,9 +65,7 @@ User = get_user_model()
 STUDENT_PASSWORD_LENGTH = 6
 REMINDER_CARDS_PDF_ROWS = 8
 REMINDER_CARDS_PDF_COLUMNS = 1
-REMINDER_CARDS_PDF_WARNING_TEXT = (
-    "Please ensure students keep login details in a secure place"
-)
+REMINDER_CARDS_PDF_WARNING_TEXT = "Please ensure students keep login details in a secure place"
 
 
 @login_required(login_url=reverse_lazy("teacher_login"))
@@ -77,9 +75,7 @@ def teacher_onboarding_create_class(request):
     Onboarding view for creating a class (and organisation if there isn't one, yet)
     """
     teacher = request.user.new_teacher
-    requests = Student.objects.filter(
-        pending_class_request__teacher=teacher, new_user__is_active=True
-    )
+    requests = Student.objects.filter(pending_class_request__teacher=teacher, new_user__is_active=True)
 
     if not teacher.school:
         return HttpResponseRedirect(reverse_lazy("onboarding-organisation"))
@@ -90,9 +86,7 @@ def teacher_onboarding_create_class(request):
             created_class = create_class(form, teacher)
             messages.success(
                 request,
-                "The class '{className}' has been created successfully.".format(
-                    className=created_class.name
-                ),
+                "The class '{className}' has been created successfully.".format(className=created_class.name),
             )
             return HttpResponseRedirect(
                 reverse_lazy(
@@ -163,9 +157,7 @@ def process_edit_class(request, access_code, onboarding_done, next_url):
                     login_id=hashed_login_id,
                 )
 
-                TotalActivity.objects.update(
-                    student_registrations=F("student_registrations") + 1
-                )
+                TotalActivity.objects.update(student_registrations=F("student_registrations") + 1)
 
                 login_url = generate_student_url(request, new_student, login_id)
                 students_info.append(
@@ -246,16 +238,12 @@ def teacher_delete_class(request, access_code):
     # check user authorised to see class
     check_teacher_authorised(request, klass.teacher)
 
-    if Student.objects.filter(
-        class_field=klass, new_user__is_active=True
-    ).exists():
+    if Student.objects.filter(class_field=klass, new_user__is_active=True).exists():
         messages.info(
             request,
             "This class still has students, please remove or delete them all before deleting the class.",
         )
-        return HttpResponseRedirect(
-            reverse_lazy("view_class", kwargs={"access_code": access_code})
-        )
+        return HttpResponseRedirect(reverse_lazy("view_class", kwargs={"access_code": access_code}))
 
     klass.anonymise()
 
@@ -272,9 +260,7 @@ def teacher_delete_students(request, access_code):
 
     # get student objects for students to be deleted, confirming they are in the class
     student_ids = json.loads(request.POST.get("transfer_students", "[]"))
-    students = [
-        get_object_or_404(Student, id=i, class_field=klass) for i in student_ids
-    ]
+    students = [get_object_or_404(Student, id=i, class_field=klass) for i in student_ids]
 
     def __anonymise(user):
         # Delete all personal data from inactive user and mark as inactive.
@@ -295,9 +281,7 @@ def teacher_delete_students(request, access_code):
         else:  # otherwise, just delete
             student.new_user.delete()
 
-    return HttpResponseRedirect(
-        reverse_lazy("view_class", kwargs={"access_code": access_code})
-    )
+    return HttpResponseRedirect(reverse_lazy("view_class", kwargs={"access_code": access_code}))
 
 
 @login_required(login_url=reverse_lazy("teacher_login"))
@@ -311,9 +295,7 @@ def teacher_edit_class(request, access_code):
     """
     klass = get_object_or_404(Class, _access_code_hash__sha256=access_code)
     old_teacher = klass.teacher
-    other_teachers = Teacher.objects.filter(school=old_teacher.school).exclude(
-        user=old_teacher.user
-    )
+    other_teachers = Teacher.objects.filter(school=old_teacher.school).exclude(user=old_teacher.user)
 
     # check user authorised to see class
     check_teacher_authorised(request, klass.teacher)
@@ -326,9 +308,7 @@ def teacher_edit_class(request, access_code):
     locked_levels = klass.locked_levels.all()
     locked_levels_ids = [locked_level.id for locked_level in locked_levels]
 
-    locked_worksheet_ids = [
-        worksheet.id for worksheet in klass.locked_worksheets.all()
-    ]
+    locked_worksheet_ids = [worksheet.id for worksheet in klass.locked_worksheets.all()]
 
     form = ClassEditForm(
         initial={
@@ -347,9 +327,7 @@ def teacher_edit_class(request, access_code):
         elif "level_control_submit" in request.POST:
             level_control_form = ClassLevelControlForm(request.POST)
             if level_control_form.is_valid():
-                return process_level_control_form(
-                    request, klass, blockly_episodes, python_episodes
-                )
+                return process_level_control_form(request, klass, blockly_episodes, python_episodes)
         elif "class_move_submit" in request.POST:
             class_move_form = ClassMoveForm(other_teachers, request.POST)
             if class_move_form.is_valid():
@@ -392,9 +370,7 @@ def process_edit_class_form(request, klass, form):
         elif hours < 1000:
             # Setting to number of hours
             klass.always_accept_requests = False
-            klass.accept_requests_until = timezone.now() + timedelta(
-                hours=hours
-            )
+            klass.accept_requests_until = timezone.now() + timedelta(hours=hours)
             messages.info(
                 request,
                 "Class set successfully to receive requests from external students until "
@@ -416,18 +392,12 @@ def process_edit_class_form(request, klass, form):
     klass.classmates_data_viewable = classmate_progress
     klass.save()
 
-    messages.success(
-        request, "The class's settings have been changed successfully."
-    )
+    messages.success(request, "The class's settings have been changed successfully.")
 
-    return HttpResponseRedirect(
-        reverse_lazy("view_class", kwargs={"access_code": klass.access_code})
-    )
+    return HttpResponseRedirect(reverse_lazy("view_class", kwargs={"access_code": klass.access_code}))
 
 
-def process_level_control_form(
-    request, klass: Class, blockly_episodes, python_episodes
-):
+def process_level_control_form(request, klass: Class, blockly_episodes, python_episodes):
     """
     Find the levels that the user wants to lock and lock them for the specific class.
     :param request: The request sent by the user submitting the form.
@@ -439,35 +409,24 @@ def process_level_control_form(
     levels_to_lock_ids = []
     locked_worksheet_ids = []
 
-    mark_levels_to_lock_in_episodes(
-        request, blockly_episodes, levels_to_lock_ids, locked_worksheet_ids
-    )
-    mark_levels_to_lock_in_episodes(
-        request, python_episodes, levels_to_lock_ids, locked_worksheet_ids
-    )
+    mark_levels_to_lock_in_episodes(request, blockly_episodes, levels_to_lock_ids, locked_worksheet_ids)
+    mark_levels_to_lock_in_episodes(request, python_episodes, levels_to_lock_ids, locked_worksheet_ids)
 
     klass.locked_levels.clear()
-    [
-        klass.locked_levels.add(levels_to_lock_id)
-        for levels_to_lock_id in levels_to_lock_ids
-    ]
+    [klass.locked_levels.add(levels_to_lock_id) for levels_to_lock_id in levels_to_lock_ids]
     klass.locked_worksheets.clear()
     for locked_worksheet_id in locked_worksheet_ids:
         klass.locked_worksheets.add(locked_worksheet_id)
 
     messages.success(request, "Your level preferences have been saved.")
-    activity_today = DailyActivity.objects.get_or_create(
-        date=datetime.now().date()
-    )[0]
+    activity_today = DailyActivity.objects.get_or_create(date=datetime.now().date())[0]
     activity_today.level_control_submits += 1
     activity_today.save()
 
     return HttpResponseRedirect(reverse_lazy("dashboard"))
 
 
-def mark_levels_to_lock_in_episodes(
-    request, episodes, levels_to_lock_ids, locked_worksheet_ids: list
-):
+def mark_levels_to_lock_in_episodes(request, episodes, levels_to_lock_ids, locked_worksheet_ids: list):
     """
     For a given set of Episodes, find which Levels are to be locked. This is done by checking the POST request data.
     If a Level ID is missing from the request.POST, it means it needs to be locked, and if the entire Episode is missing
@@ -484,20 +443,14 @@ def mark_levels_to_lock_in_episodes(
             [
                 levels_to_lock_ids.append(episode_level["id"])
                 for episode_level in episode_levels
-                if f'level:{episode_level["id"]}'
-                not in request.POST.getlist(episode_index)
+                if f'level:{episode_level["id"]}' not in request.POST.getlist(episode_index)
             ]
             for episode_worksheet in episode_worksheets:
                 worksheet_id = episode_worksheet["id"]
-                if f"worksheet:{worksheet_id}" not in request.POST.getlist(
-                    episode_index
-                ):
+                if f"worksheet:{worksheet_id}" not in request.POST.getlist(episode_index):
                     locked_worksheet_ids.append(worksheet_id)
         else:
-            [
-                levels_to_lock_ids.append(episode_level["id"])
-                for episode_level in episode_levels
-            ]
+            [levels_to_lock_ids.append(episode_level["id"]) for episode_level in episode_levels]
             for episode_worksheet in episode_worksheets:
                 locked_worksheet_ids.append(episode_worksheet["id"])
 
@@ -525,9 +478,7 @@ def teacher_edit_student(request, pk):
     student = get_object_or_404(Student, id=pk)
     check_teacher_authorised(request, student.class_field.teacher)
 
-    name_form = TeacherEditStudentForm(
-        student, initial={"name": student.new_user.first_name}
-    )
+    name_form = TeacherEditStudentForm(student, initial={"name": student.new_user.first_name})
 
     password_form = TeacherSetStudentPass()
     set_password_mode = False
@@ -556,9 +507,7 @@ def teacher_edit_student(request, pk):
         else:
             password_form = TeacherSetStudentPass(request.POST)
             if password_form.is_valid():
-                return process_reset_password_form(
-                    request, student, password_form
-                )
+                return process_reset_password_form(request, student, password_form)
             set_password_mode = True
 
     return render(
@@ -599,12 +548,8 @@ def process_reset_password_form(request, student, password_form):
         student.new_user.set_password(new_password)
         student.new_user.save()
         student.login_id = login_id
-        clear_ratelimit_cache_for_user(
-            f"{student.new_user.first_name},{student.class_field.access_code}"
-        )
-        student.blocked_time = timezone.make_aware(datetime.now()) - timedelta(
-            days=1
-        )
+        clear_ratelimit_cache_for_user(f"{student.new_user.first_name},{student.class_field.access_code}")
+        student.blocked_time = timezone.make_aware(datetime.now()) - timedelta(days=1)
         student.save()
 
         return render(
@@ -635,9 +580,7 @@ def teacher_dismiss_students(request, access_code):
 
     # get student objects for students to be dismissed, confirming they are in the class
     student_ids = json.loads(request.POST.get("transfer_students", "[]"))
-    students = [
-        get_object_or_404(Student, id=i, class_field=klass) for i in student_ids
-    ]
+    students = [get_object_or_404(Student, id=i, class_field=klass) for i in student_ids]
 
     TeacherDismissStudentsFormSet = formset_factory(
         wraps(TeacherDismissStudentsForm)(partial(TeacherDismissStudentsForm)),
@@ -648,9 +591,7 @@ def teacher_dismiss_students(request, access_code):
     if is_right_dismiss_form(request):
         formset = TeacherDismissStudentsFormSet(request.POST)
         if formset.is_valid():
-            return process_dismiss_student_form(
-                request, formset, klass, access_code
-            )
+            return process_dismiss_student_form(request, formset, klass, access_code)
 
     else:
         initial_data = [
@@ -679,9 +620,7 @@ def process_dismiss_student_form(request, formset, klass, access_code):
     failed_users = []  # users that failed to be transferred
     for data in formset.cleaned_data:
         # check if email is already used
-        users_with_email = User.objects.filter(
-            _email_hash__sha256=data["email"]
-        )
+        users_with_email = User.objects.filter(_email_hash__sha256=data["email"])
         # email is already taken, skip this user
         if users_with_email.exists():
             failed_users.append(data["orig_name"])
@@ -693,9 +632,7 @@ def process_dismiss_student_form(request, formset, klass, access_code):
             new_user___first_name_hash__sha256=data["orig_name"],
         )
 
-        students_levels = Level.objects.filter(
-            owner=student.new_user.userprofile
-        ).all()
+        students_levels = Level.objects.filter(owner=student.new_user.userprofile).all()
         for level in students_levels:
             level.shared_with.set([])
             level.save()
@@ -710,14 +647,10 @@ def process_dismiss_student_form(request, formset, klass, access_code):
         student.user.save()
 
         # log the data
-        joinrelease = JoinReleaseStudent.objects.create(
-            student=student, action_type=JoinReleaseStudent.RELEASE
-        )
+        joinrelease = JoinReleaseStudent.objects.create(student=student, action_type=JoinReleaseStudent.RELEASE)
         joinrelease.save()
 
-        send_verification_email(
-            request, student.new_user, data, school=klass.teacher.school
-        )
+        send_verification_email(request, student.new_user, data, school=klass.teacher.school)
 
     if not failed_users:
         messages.success(
@@ -731,9 +664,7 @@ def process_dismiss_student_form(request, formset, klass, access_code):
             "Please make sure the email has not been registered to another account.",
         )
 
-    return HttpResponseRedirect(
-        reverse_lazy("view_class", kwargs={"access_code": access_code})
-    )
+    return HttpResponseRedirect(reverse_lazy("view_class", kwargs={"access_code": access_code}))
 
 
 @login_required(login_url=reverse_lazy("teacher_login"))
@@ -748,9 +679,7 @@ def teacher_class_password_reset(request, access_code):
     check_teacher_authorised(request, klass.teacher)
 
     student_ids = json.loads(request.POST.get("transfer_students", "[]"))
-    students = [
-        get_object_or_404(Student, id=i, class_field=klass) for i in student_ids
-    ]
+    students = [get_object_or_404(Student, id=i, class_field=klass) for i in student_ids]
 
     students_info = []
     handle_reset_password_tracking(request, "SCHOOL_STUDENT", access_code)
@@ -772,12 +701,8 @@ def teacher_class_password_reset(request, access_code):
         student.new_user.set_password(password)
         student.new_user.save()
         student.login_id = hashed_login_id
-        clear_ratelimit_cache_for_user(
-            f"{student.new_user.first_name},{access_code}"
-        )
-        student.blocked_time = timezone.make_aware(datetime.now()) - timedelta(
-            days=1
-        )
+        clear_ratelimit_cache_for_user(f"{student.new_user.first_name},{access_code}")
+        student.blocked_time = timezone.make_aware(datetime.now()) - timedelta(days=1)
         student.save()
 
     return render(
@@ -838,15 +763,10 @@ def teacher_move_students_to_class(request, access_code):
 
     check_if_move_authorised(request, old_class, new_class)
 
-    transfer_students_ids = json.loads(
-        request.POST.get("transfer_students", "[]")
-    )
+    transfer_students_ids = json.loads(request.POST.get("transfer_students", "[]"))
 
     # get student objects for students to be transferred, confirming they are in the old class still
-    transfer_students = [
-        get_object_or_404(Student, id=i, class_field=old_class)
-        for i in transfer_students_ids
-    ]
+    transfer_students = [get_object_or_404(Student, id=i, class_field=old_class) for i in transfer_students_ids]
 
     # get new class' students
     new_class_students = sorted(
@@ -857,21 +777,15 @@ def teacher_move_students_to_class(request, access_code):
     )
 
     TeacherMoveStudentDisambiguationFormSet = formset_factory(
-        wraps(TeacherMoveStudentDisambiguationForm)(
-            partial(TeacherMoveStudentDisambiguationForm)
-        ),
+        wraps(TeacherMoveStudentDisambiguationForm)(partial(TeacherMoveStudentDisambiguationForm)),
         extra=0,
         formset=BaseTeacherMoveStudentsDisambiguationFormSet,
     )
 
     if is_right_move_form(request):
-        formset = TeacherMoveStudentDisambiguationFormSet(
-            new_class, request.POST
-        )
+        formset = TeacherMoveStudentDisambiguationFormSet(new_class, request.POST)
         if formset.is_valid():
-            return process_move_students_form(
-                request, formset, old_class, new_class
-            )
+            return process_move_students_form(request, formset, old_class, new_class)
     else:
         # format the students for the form
         initial_data = [
@@ -882,9 +796,7 @@ def teacher_move_students_to_class(request, access_code):
             for student in transfer_students
         ]
 
-        formset = TeacherMoveStudentDisambiguationFormSet(
-            new_class, initial=initial_data
-        )
+        formset = TeacherMoveStudentDisambiguationFormSet(new_class, initial=initial_data)
 
     return render(
         request,
@@ -925,14 +837,8 @@ def process_move_students_form(request, formset, old_class, new_class):
         student.save()
         student.new_user.save()
 
-    messages.success(
-        request, "The students have been transferred successfully."
-    )
-    return HttpResponseRedirect(
-        reverse_lazy(
-            "view_class", kwargs={"access_code": old_class.access_code}
-        )
-    )
+    messages.success(request, "The students have been transferred successfully.")
+    return HttpResponseRedirect(reverse_lazy("view_class", kwargs={"access_code": old_class.access_code}))
 
 
 class DownloadType(Enum):
@@ -965,9 +871,7 @@ def teacher_print_reminder_cards(request, access_code):
 
     CARD_INNER_HEIGHT = CARD_HEIGHT - CARD_PADDING * 2
 
-    logo_image = ImageReader(
-        staticfiles_storage.path("portal/img/logo_cfl_reminder_cards.jpg")
-    )
+    logo_image = ImageReader(staticfiles_storage.path("portal/img/logo_cfl_reminder_cards.jpg"))
 
     klass = get_object_or_404(Class, _access_code_hash__sha256=access_code)
     # Check auth
@@ -975,9 +879,7 @@ def teacher_print_reminder_cards(request, access_code):
 
     # Use data from the query string if given
     student_data = get_student_data(request)
-    student_login_link = (
-        f"{domain(request)}{reverse("student_login_access_code")}"
-    )
+    student_login_link = f"{domain(request)}{reverse("student_login_access_code")}"
     class_login_link = f"{domain(request)}{reverse("student_login", kwargs={"access_code": access_code})}"
 
     # Now draw everything
@@ -990,17 +892,10 @@ def teacher_print_reminder_cards(request, access_code):
         if current_student_count % (NUM_X * NUM_Y) == 0:
             p.setFillColor(red)
             p.setFont("Helvetica-Bold", 10)
-            p.drawString(
-                PAGE_MARGIN, PAGE_MARGIN / 2, REMINDER_CARDS_PDF_WARNING_TEXT
-            )
+            p.drawString(PAGE_MARGIN, PAGE_MARGIN / 2, REMINDER_CARDS_PDF_WARNING_TEXT)
 
         left = PAGE_MARGIN + x * CARD_WIDTH + x * INTER_CARD_MARGIN * 2
-        bottom = (
-            PAGE_HEIGHT
-            - PAGE_MARGIN
-            - (y + 1) * CARD_HEIGHT
-            - y * INTER_CARD_MARGIN
-        )
+        bottom = PAGE_HEIGHT - PAGE_MARGIN - (y + 1) * CARD_HEIGHT - y * INTER_CARD_MARGIN
 
         inner_bottom = bottom + CARD_PADDING
 
@@ -1020,12 +915,7 @@ def teacher_print_reminder_cards(request, access_code):
             anchor="w",
         )
 
-        text_left = (
-            left
-            + INTER_CARD_MARGIN
-            + (logo_image.getSize()[0] / logo_image.getSize()[1])
-            * card_logo_height
-        )
+        text_left = left + INTER_CARD_MARGIN + (logo_image.getSize()[0] / logo_image.getSize()[1]) * card_logo_height
 
         # student details
         p.setFillColor(black)
@@ -1048,9 +938,7 @@ def teacher_print_reminder_cards(request, access_code):
             inner_bottom + CARD_INNER_HEIGHT * 0.3,
             f"Name: {student['name']}",
         )
-        p.drawString(
-            text_left, inner_bottom, f"Password: {student['password']}"
-        )
+        p.drawString(text_left, inner_bottom, f"Password: {student['password']}")
 
         x = (x + 1) % NUM_X
         y = compute_show_page_character(p, x, y, NUM_Y)
@@ -1069,9 +957,7 @@ def teacher_print_reminder_cards(request, access_code):
 @user_passes_test(logged_in_as_teacher, login_url=reverse_lazy("teacher_login"))
 def teacher_download_csv(request, access_code):
     response = HttpResponse(content_type="text/csv")
-    response["Content-Disposition"] = (
-        'attachment; filename="student_login_urls.csv"'
-    )
+    response["Content-Disposition"] = 'attachment; filename="student_login_urls.csv"'
 
     klass = get_object_or_404(Class, _access_code_hash__sha256=access_code)
     # Check auth
@@ -1085,9 +971,7 @@ def teacher_download_csv(request, access_code):
         writer = csv.writer(response)
         writer.writerow([access_code, class_url])
         for student in student_data:
-            writer.writerow(
-                [student["name"], student["password"], student["login_url"]]
-            )
+            writer.writerow([student["name"], student["password"], student["login_url"]])
 
     count_student_details_click(DownloadType.CSV)
 
@@ -1115,9 +999,7 @@ def compute_show_page_end(p, x, y):
 
 
 def count_student_pack_downloads_click(student_pack_type):
-    activity_today = DailyActivity.objects.get_or_create(
-        date=datetime.now().date()
-    )[0]
+    activity_today = DailyActivity.objects.get_or_create(date=datetime.now().date())[0]
     if DownloadType(student_pack_type) == DownloadType.PRIMARY_PACK:
         activity_today.primary_coding_club_downloads += 1
     else:
@@ -1126,9 +1008,7 @@ def count_student_pack_downloads_click(student_pack_type):
 
 
 def count_student_details_click(download_type):
-    activity_today = DailyActivity.objects.get_or_create(
-        date=datetime.now().date()
-    )[0]
+    activity_today = DailyActivity.objects.get_or_create(date=datetime.now().date())[0]
 
     if download_type == DownloadType.CSV:
         activity_today.csv_click_count += 1
